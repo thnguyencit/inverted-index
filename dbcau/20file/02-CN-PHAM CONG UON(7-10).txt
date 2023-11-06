@@ -1,0 +1,101 @@
+﻿
+KHẢO SÁT ĐỘC LỰC VÀ TÍNH GÂY BỆNH CỦA 1 CHỦNG VIRUS 
+VIÊM GAN VỊT A GENOTYPE 3 TRÊN PHÔI VỊT
+Phạm Công Uẩn1 và Hồ Thị Việt Thu2
+1Trường Cao đẳng Cộng đồng Kiên Giang
+2Khoa Nông nghiệp & Sinh học Ứng dụng, Trường Đại học Cần Thơ
+Thông tin chung:
+Ngày nhận: 26/07/2015
+Ngày chấp nhận: 26/02/2016
+Title: 
+Observation on virulence and pathogenicity of duck hepatitis A virus genotype 3 in duck embryos
+Từ khóa: 
+Genotype 3, phôi, tiêm truyền, viêm gan vịt A, virus
+Keywords:
+Genotype 3, embryos, inoculation, duck hepatitis A, virus   ABSTRACT
+An examination on the virulence and the pathogenicity of a duck hepatitis A virus strain genotype 3 isolated in Hau Giang province  was carried out by injecting 0.2 ml of virus suspension into allantoic cavity of 10-day-old duck embryos. The results showed that this virus was virulent and the ELD50 titer of the original virus suspension was 108,17/0.2ml. The earliest embryo death was recorded after 24 hours of inoculation and the latest death was 66 hours post inoculation. Most of embryos died after 30 to 45 hours of viral inoculation. Dead embryos had typical lesions of duck viral hepatitis infection, including stunting, edema, hemorrhagic skin, enlarged and yellowish liver with punctate or diffuse hemorrhages, discolored heart muscles. The embryos which died after 66 hours of inoculation had dark green liver and greenish allantoic fluid.
+   TÓM TẮT
+Khảo sát độc lực và tính gây bệnh của chủng virus viêm gan vịt A genotype 3 (chủng HG2) phân lập ở tỉnh Hậu Giang thực hiện bằng cách tiêm vào xoang niệu mô của phôi vịt 10 ngày tuổi với liều 0,2 ml huyễn dịch virus /phôi vịt. Kết quả cho thấy chủng virus này có độc lực cao trên phôi, có hiệu giá ELD50 /0,2ml là 108,17. Thời gian virus gây chết phôi sau khi tiêm truyền nhanh nhất sau 24 giờ và chậm nhất sau 66 giờ, số phôi chết tập trung khoảng 30-45 giờ sau khi tiêm truyền. Phôi chết biểu hiện bệnh lý rất điển hình của bệnh viêm gan vịt do virus như phôi còi cọc, phù, da xuất huyết, gan sưng có màu vàng nhạt với nhiều điểm hoặc đám xuất huyết, cơ tim nhạt màu, những trường hợp chết chậm sau 66 giờ, gan phôi có màu xanh đen, dịch niệu có màu xanh nhạt.Trích dẫn: Phạm Công Uẩn và Hồ Thị Việt Thu, 2016. Khảo sát độc lực và tính gây bệnh của 1 chủng virus viêm gan vịt a genotype 3 trên phôi vịt. Tạp chí Khoa học Trường Đại học Cần Thơ. 42b: 7-10.
+   1 GIỚI THIỆU
+   Viêm gan vịt do virus là bệnh truyền nhiễm cấp tính ở vịt con. Vịt con mẫn cảm nhất với bệnh từ lúc mới nở đến dưới 28 ngày tuổi và dần dần trở nên kháng lại với bệnh lúc vịt lớn lên. Bệnh xảy ra nhanh chóng, lây lan nhanh trong toàn đàn và khả năng gây chết đến 90%. Bệnh này được mô tả đầu tiên ở Long Island, Mỹ vào năm 1949 (Levine and Fabricant, 1950), sau đó dịch bệnh được báo cáo ở England, Canada,  Đức, Nhật và các nơi khác, đặc biệt là ở các nước châu Á (Woolcock, 2003). Ở Việt Nam, Trần Minh Châu và ctv. (1985) đã ghi nhận có bệnh viêm gan vịt do virus, nhưng vào thời điểm này chưa phân lập được mầm bệnh.
+   Trong những năm gần đây, bệnh viêm gan vịt xảy ra thường xuyên và gây thiệt hại đáng kể cho ngành chăn nuôi vịt ở nước ta (OIE, 2006), đặc biệt là ở khu vực Đồng bằng sông Cửu Long. Trong quá trình nghiên cứu chúng tôi đã phân lập được chủng virus viêm gan vịt A genotype 3 ở nhiều tỉnh thuộc khu vực Đồng bằng sông Cửu Long. Để cung cấp thêm thông tin về mầm bệnh này, chúng tôi thực hiện nghiên cứu về độc lực cũng như bệnh lý gây ra bởi virus viêm gan vịt A genotype 3 (HG2) trên phôi vịt trong điều kiện thí nghiệm, nhằm phục vụ cho quá trình nghiên cứu và chẩn đoán kịp thời khi dịch bệnh xảy ra trong những điều kiện chưa chẩn đoán được bằng các kỹ thuật xét nghiệm hiện đại khác.
+   2 PHƯƠNG PHÁP NGHIÊN CỨU
+   2.1 Phương tiện nghiên cứu
+   Phôi trứng vịt được ấp từ trứng thu thập từ đàn vịt bố mẹ đã được xác định không có kháng thể kháng virus viêm gan vịt A thuộc genotype 3 bằng phản ứng trung hòa virus.
+   Chủng virus viêm gan vịt A thuộc genotype 3 phân lập ở tỉnh Hậu Giang (Phạm Công Uẩn và Hồ Thị Việt Thu, 2014).
+   2.2 Phương pháp nghiên cứu
+    Xác định liều gây chết phôi 50% (ELD50 - Embryo Lehal dose 50% ) 
+   Việc xác định liều gây chết phôi 50% (ELD50 được thực theo phương pháp của Reed and Muench (1938).
+   * Huyễn dịch virus được pha loãng theo logarit thập phân (lg) từ 10-4 đến 10-12
+   * Chọn 45 trứng vịt có phôi khỏe mạnh được ấp 10 ngày tuổi chia thành 9 lô thí nghiệm, mỗi lô 5 trứng; mỗi lô thí nghiệm tương ứng với một độ pha loãng. 
+   * Tiêm 0,2 ml dịch virus đã pha loãng theo từng nồng độ vào xoang niệu mô của phôi vịt, hàn kín trứng bằng parafin, trứng được tiếp tục đem ấp ở 370C, cách 6 giờ soi trứng một lần để kiểm tra phôi và ghi nhận kết quả số phôi sống chết ở từng nghiệm thức.
+   Chỉ tiêu theo dõi:
+Tỷ lệ chết phôi theo nồng độ (%) =100 x (Số phôi chết cùng nồng độ/Tổng số phôi cùng nồng độ)
+   Liều gây chết phôi 50% (ELD50) được tính theo phương pháp của 
+   Reed and Muench (1938)                        
+   Lg ELD50 = LgELD <50 + pd x Lgf 
+   Trong đó pd  = 
+   LD<50: tỷ lệ chết cận dưới 50%
+   LD>50: tỷ lệ chết cận trên 50%
+   pd (proportional distance): khoảng cách tỷ lệ
+   Lgf = Lg10 = 1
+   Tỷ lệ chết phôi theo thời gian (%) =100x (Số phôi chết tại thời điểm khảo sát /Tổng số phôi vịt thí nghiệm)
+   Tần suất xuất hiện bệnh tích trên phôi (%) =100 x (Số phôi có cùng bệnh tích/Tổng số phôi chết)
+   3 KẾT QUẢ VÀ THẢO LUẬN
+   3.1 Kết quả xác định liều gây chết 50% phôi vịt thí nghiệm
+   Kết quả khảo sát tỷ lệ phôi chết sau tiêm truyền dịch virus ở các nồng độ khác nhau được trình bày qua Bảng 1.
+
+Bảng 1: Tỷ lệ phôi vịt chết ở các nồng độ virus khác nhau
+Độ pha loãng virusKết quả thí nghiệmKết quả tính Phôi chết
+(phôi)Phôi sống
+(phôi)Phôi chết
+(phôi)Phôi sống
+(phôi)Số phôi chết
+(phôi)Tỷ lệ chết
+(%)10-45023023/23100,010-55018018/18100,010-65013013/13100,010-741818/988,8910-832434/757,1410-914171/714,2910-10050120/120,0010-11050170/170,0010-12050220/220,00
+   Từ kết quả ghi nhận ở  Bảng 1 cho thấy sau khi tiêm dịch virus đã pha loãng vào phôi trứng vịt, ở độ pha loãng từ 10-4 đến 10-8 gây chết trên 50% phôi; độ pha loãng 10-4, 10-5 , 10-6  có tỷ lệ phôi chết là 100%, kế đến là độ pha loãng  10-7 có tỷ lệ phôi chết là 88,89% và độ pha loãng 10-8 có tỷ lệ phôi chết là 57,14%. Tiếp theo là độ pha loãng 10-9 có tỷ lệ phôi chết 14,29%; độ pha loãng 10-10, 10-11, 10-12 không gây chết phôi. 
+   Như vậy, dựa vào tỷ lệ gây chết phôi ở từng nồng độ, xác định liều gây chết 50% trên phôi vịt theo phương pháp cân đối sinh học (Bảng 1) của Reed and Muench (1938). 
+   Từ kết quả Bảng 1 cho  thấy 0,2 ml huyễn dịch virus pha loãng ở nồng độ 10-8 gây chết cận trên 50% và 0,2 ml huyễn dịch virus pha loãng ở nồng 
+độ 10-9 gây chết cận dưới 50%. Từ đó ta có: 
+   pd  =   = 0,83
+   Lg ELD50 =  -9 + 0,83 x 1 = -8,17
+   Kết quả trên cho thấy, khi tiêm 0,2 ml dịch virus ở độ pha loãng  108,17 sẽ gây chết 50% phôi vịt thí nghiệm, nghĩa là 0,2 ml huyễn dịch virus gốc có chứa 108,17 liều gây chết 50% trên phôi.
+   3.2  Kết quả khảo sát thời gian chết phôi trung bình theo nồng độ
+   Thời gian chết phôi trung bình và tỷ lệ phôi chết ở từng thời điểm khác nhau được trình bày qua Bảng 2.
+
+Bảng 2: Thời gian chết phôi trung bình theo nồng độ của huyễn dịch virus (n=23)
+Độ pha loãngSố phôi chết theo thời điểm (giờ)Trung bình
+(giờ)<182430364248546066727810-40122000000030  3,4610-50022100000036  3,4610-60001211000045  3,8710-70001012000045  3,8710-80000100110057  3,8710-9000000010006610-1000000000000010-1100000000000010-12000000000000Tổng số 01/234/236/234/232/233/232/231/2300Tỷ lệ (%)04,3517,426,117,48,713,08,74,3500
+   Qua Bảng 2 cho thấy, có 23 trường hợp gây chết phôi do virus, số phôi chết được ghi nhận sau khi tiêm virus từ 24 đến 78 giờ, không có phôi nào chết trước 24 giờ. Ở thời điểm 24 giờ sau khi gây nhiễm có 1/23 phôi chết chiếm tỷ lệ 4,35%, tỷ lệ chết tăng dần và cao nhất là 36 giờ sau khi tiêm (26,1%), sau đó giảm dần từ từ đến 66 giờ tỷ lệ chết chỉ còn 4,35% và sau 66 giờ không còn phát hiện phôi chết. Ở những độ pha loãng thấp (10-4, 10-5), nồng độ virus nên gây chết phôi rất nhanh, ở những độ pha loãng cao mật độ virus giảm, do đó thời gian gây chết phôi cũng chậm dần và ở nồng độ 10-10 đã không còn gây chết phôi. Ở nồng độ 
+10-4 có thời gian trung bình gây chết phôi nhanh nhất (303,46) và ở nồng độ 10-9 chỉ có 1 phôi chết sau 66 giờ. 
+   Kết quả này cũng tương tự với nghiên cứu khác; kết quả của Woolcock (1986) khi tiêm huyễn dịch gan có chứa virus viêm gan vịt vào phôi vịt và phát hiện phôi chết trong khoảng thời gian 24-72 giờ; trong nghiên cứu cấy truyền virus qua phôi trứng,  Fabricant và Levine (2002) đã sử dụng phôi ngỗng để cấy truyền virus viêm gan vịt và cũng cho kết quả sau khi cấy truyền dịch virus 48-72 giờ thì phôi chết. 
+   3.3 Biểu hiện bệnh tích trên phôi vịt thí nghiệm
+   Biểu hiện bệnh tích của 23 phôi chết trong thời gian thí nghiệm được trình bày qua Bảng 3.
+   Từ kết quả ghi nhận ở Bảng 3 về biểu hiện bệnh tích trên phôi vịt thí nghiệm cho thấy, hiện tượng da phôi xuất huyết chiếm tỷ lệ rất cao (100%), kế đến là phôi còi cọc ngừng phát triển (86,95%), những biểu hiện về bệnh lý ở gan như gan sưng xuất huyết chiếm tỷ lệ khá cao (78,26%), gan có màu vàng nhạt (21,73%), một số biểu hiện khác như phôi phù tích nước và cơ tim nhạt màu (21,73%), dịch niệu có màu xanh (13,04%). Hiện tượng gan có màu xanh đen ít được ghi nhận, chỉ có 1/23 phôi khảo sát (4,34%). Đây là những biểu hiện về bệnh lý khá điển hình của bệnh viêm gan vịt so virus khi tiêm truyền cho phôi vịt. Kết quả này cũng phù hợp với nghiên cứu của một số tác giả khi phân lập virus từ những bệnh phẩm thu thập được ngoài tự nhiên. Theo nghiên cứu của Liu et al (2011) khi tiêm huyễn dịch bệnh phẩm là gan vịt nhiễm virus viêm gan vào túi niệu mô của phôi vịt lúc 10-14 ngày tuổi khi phôi chết có biểu hiện bệnh tích trên phôi như phôi chậm phát triển, xuất huyết dưới da đặc biệt là ở vùng đầu, bụng, chân, phôi phù, gan sưng có màu đỏ hoặc hơi vàng, có thể có điểm hoại tử. Những phôi chết chậm, dịch nước trong túi niệu mô thường có màu xanh nhạt và biểu hiện bệnh tích trên phôi rõ hơn. Theo Wang et al (2008) nhận xét, khi gây nhiễm bằng những chủng có độc lực thấp, có thể không quan sát thấy sự ngừng phát triển của phôi nhưng bệnh tích trên phôi vẫn biểu hiện rất điển hình của bệnh viêm gan vịt do virus. Kết quả ghi nhận tỷ lệ rất cao (78,26%) phôi còi cọc, ngừng phát triển chứng tỏ chủng virus viêm gan vịt HG2 là chủng có độc lực cao.
+
+Bảng 3: Tần suất xuất hiện bệnh tích trên phôi vịt thí nghiệm (n=23)
+Bệnh tíchTần suất xuất hiện bệnh tích trên phôi vịt theo nồng độTổng sốTỷ lệ
+(%)10-410-510-610-710-810-910-1010-1110-12Phôi còi cọc54532100020/2386,95Da phôi xuất huyết55543100023/23100Phôi phù, tích nước32311000010/2343,47Gan sưng, xuất huyết45421100018/2378,26Gan màu vàng nhạt0012200005/2321,73Gan màu xanh đen1000000001/234,34Tim nhạt màu1022000005/2321,73Dịch niệu màu xanh1200000003/2313,04
+   4 KẾT LUẬN VÀ ĐỀ XUẤT
+   4.1 Kết luận
+   Chủng virus viêm gan vịt A thuộc genotype 3 phân lập được ở tỉnh Hậu Giang có độc lực cao. Virus gây bệnh lý rất điển hình trên phôi vịt. Đây là những thông tin cần thiết nhằm phục vụ cho nghiên cứu cũng như trong chẩn đoán bệnh. 
+   4.2 Đề xuất
+   Cần khảo sát thêm độc lực và đặc tính gây bệnh trên vịt con của chủng virus này. Phân lập thêm các chủng virus viêm gan vịt khác như virus viêm gan vịt type 2 và type 3 hay các genotype khác của type 1 để hiểu rõ thêm về tính chất dịch tễ và bệnh lý gây ra bởi những chủng virus trong vùng.
+   TÀI LIỆU THAM KHẢO
+Fabricant .J and P.P Levine., 2002. Duck virus hepatitis, Diseases of Poultry. 9th Ed, Iowa State University Press, Ames, Lowa, U.S.A.
+Liu. M., F. Meng., X.J. Li., Z. Zhang., S. Liu., Y. Zhang,  2011. Goose haemorrhagic hepatitis caused by a new subtype duck hepatitis type 1 virus. Vet. Microbiol. 152: 280-283.
+Levine. P. P and J. Fabricant., 1950. A hitherto-undescribed virus disease of ducks in North America. Cornell Vet 40: 71-86.
+
+OIE, 2006. Chapter 2.7.9. Duck virus hepatitis. Terrestrial Manual 2006.
+(http://www.oie.int/doc/ged/D6433.PDF)
+Phạm Công Uẩn và Hồ Thị Việt Thu, 2014. Phân lập và định danh virus gây bệnh viêm gan vịt type 1 ở tỉnh Hậu Giang. Tạp chí Khoa học Đại học Cần Thơ, tập 2, tr. 116-121.
+Trần Minh Châu, Lê Thị Nồng, Nguyễn Đức Tạo, 1985. Thăm dò chế tạo vaccine viêm gan vịt và sử dụng. Kết quả nghiên cứu khoa học và kỹ thuật thú y (1985-1989). Viện thú y. NXB. Nông nghiệp Hà Nội, tr.41-45.
+Reed J.I and H. Muench, 1938. A simple method of estimating fifty per cent endpoints. Am. J. Epidemiol. 27 (3): 493-497. 
+Wang L., M. Pan., Y. Fu and D. Zhang., 2008. Classification of duck hepatitis virus into three genotypes based on molecular evolutionary analysis. Virus Genes, 37: 52-59.
+Woolcock. P. R., 1986. An assay for duck hepatitis virus type I in duck embryo liver cell and a comparison with other assay. Avian Path. 15: 75-82.
+Woolcock, P.R., 2003. Duck hepatitis, In: Saif, Y.M., Barnes, H.J., Glisson, J.R., Fadly, A.M., McDougald, L.R., Swayne, D.E. (Eds), Diseases of Poultry, 11th ed. Iowa State Press, Ames, IA: 343-354.
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 		Phần B: Nông nghiệp, Thủy sản và Công nghệ Sinh học: 42 (2016): 7-10
+
+
+

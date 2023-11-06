@@ -1,0 +1,147 @@
+﻿
+DOI:10.22144/ctu.jvn.2019.159
+TẠO CÁC CÂU HỎI TRẮC NGHIỆM TOÁN TƯƠNG ĐƯƠNG NHAU DỰA TRÊN SAGETEX
+Nguyễn Thanh Hùng* 
+Bộ môn Toán, Khoa Sư phạm, Trường Đại học Cần Thơ
+*Người chịu trách nhiệm về bài viết: Nguyễn Thanh Hùng (email: nthung@ctu.edu.vn)
+Thông tin chung:
+Ngày nhận bài: 26/06/2019
+Ngày nhận bài sửa: 21/08/2019
+Ngày duyệt đăng: 25/12/2019
+
+Title: 
+Generating similar Math multiple-choice questions based on Sagetex
+Từ khóa: 
+Gán ngẫu nhiên, sagetex, trắc nghiệm
+Keywords:
+Multiple-choices, random assignment, sagetex   ABSTRACT
+The paper shows how to generate equivalent multiple-choice math questions automatically. Firstly, a general multiple-choice question, containing a set of parameters, is generated. Then, different values are assigned to these parameters to create equivalent multiple-choice questions. Parameter assignment is performed via the Sagetex, an instruction package of Latex. This package allows embedding Sagemath, a computer algebra software, into Latex, a document preparation system. Creating equivalent multiple-choice questions will help evaluate learners more accurately and fairly.
+   TÓM TẮT
+Trong bài báo này chúng tôi trình bày cách tạo ra các câu hỏi trắc nghiệm Toán tương đương nhau một cách tự động. Đầu tiên, ta cần xây dựng một câu hỏi trắc nghiệm dạng tổng quát có chứa một bộ tham số. Sau đó, các giá trị khác nhau được gán cho các tham số đó để tạo ra các câu hỏi trắc nghiệm tương đương nhau. Việc gán tham số được thực hiện thông qua Sagetex, một gói lệnh của Latex. Gói lệnh này cho phép nhúng phần mềm đại số máy tính Sagemath vào trong trình soạn thảo toán học Latex. Việc tạo ra các câu hỏi trắc nghiệm tương đương sẽ giúp việc đánh giá người học được chính xác và công bằng hơn.Trích dẫn: Nguyễn Thanh Hùng, 2019. Tạo các câu hỏi trắc nghiệm toán tương đương nhau dựa trên Sagetex. Tạp chí Khoa học Trường Đại học Cần Thơ. 55(6C): 57-61.
+   1 GIỚI THIỆU
+   Năm 2017 là năm đầu tiên môn Toán được thi dưới hình thức trắc nghiệm trong kỳ thi trung học phổ thông quốc gia. Để đảm bảo tính công bằng và tránh sao chép, mỗi học sinh trong một phòng thi cần có một đề riêng và các đề thi này cần phải tương đương nhau.
+   Ở trong nước, các phần mềm tạo đề thi trắc nghiệm đã được nghiên cứu và ứng dụng rộng rãi. Phần mềm McMIX (Võ Tấn Quân và Nguyễn Vũ Hoàng Anh, 2016) cho phép trộn các câu hỏi trắc nghiệm và trộn các phương án trả lời của cùng một câu hỏi trắc nghiệm. Phần mềm TestPro (Nguyễn Minh Quý, 2017) cho phép tạo và quản lý ngân hàng đề, trộn các câu hỏi trắc nghiệm. Ngoài ra còn có các phần mềm khác như AZtest (Hồ Ngọc Triển, 2018) cung cấp dịch vụ tạo website trắc nghiệm trực tuyến. Các phần mềm trong nước chủ yếu tập trung vào việc trộn các câu hỏi từ một đề gốc hoặc trích từ một ngân hàng đề. 
+   Trên thế giới, công ty Microsofts đã phát triển công cụ Math Worksheet Generator (Microsoft Education Labs, 2009). Công cụ này cho phép tạo các bài toán tương đương với bài toán do người dùng cung cấp. Công cụ hiện tại chỉ hỗ trợ các bài toán số học đơn giản như giải phương trình bậc nhất, phương trình bậc hai, hệ phương trình và các phép toán thống kê. Công ty Wolfram Alpha cũng phát triển một công cụ có tên Wolfram Problem Generator (Wolfram Research, 2019). Công cụ này cho phép tạo ra câu hỏi Toán thuộc nhiều chuyên ngành khác nhau như số học, lý thuyết số, đại số, giải tích, đại số tuyến tính và thống kê. Công cụ cũng cho phép lựa chọn mức độ khó của từng câu hỏi. Tuy nhiên, câu hỏi tạo ra ở dạng điền khuyết, không có các phương án nhiễu. Trong khi đó, phần mềm Davitily Math Problem Generator (Pardue and Nguyen, 2007) có thể tạo ra được các câu hỏi trắc nghiệm tương đương nhau. Tuy nhiên, đây là phần mềm trả phí và nó chưa phù hợp với chương trình Toán của Việt Nam.
+   Bài báo nhằm đề xuất một hướng tiếp cận mới, sử dụng các phần mềm mã nguồn mở như Latex và Sagemath để tạo ra các câu hỏi trắc nghiệm có cùng dạng nhưng có các giá trị đầu vào khác nhau.
+   2 CÂU HỎI TRẮC NGHIỆM DẠNG TỔNG QUÁT
+   2.1 Định nghĩa
+   2.1.1 Định nghĩa 1
+   Câu hỏi trắc nghiệm dạng tổng quát là câu hỏi trắc nghiệm có chứa một hay nhiều tham số có thể nhận các giá trị thuộc miền định trước và có cách giải không phụ thuộc vào giá trị được gán của tham số.
+   2.1.2 Định nghĩa 2
+   Hai câu hỏi trắc nghiệm được gọi là tương đương nhau nếu chúng được tạo ra từ một câu hỏi trắc nghiệm dạng tổng quát bằng cách gán các giá trị thuộc miền định trước cho các tham số.
+   2.2 Ví dụ
+   Ví dụ 1: Từ câu hỏi trắc nghiệm dạng tổng quát  là:
+   : Đạo hàm của hàm số là
+   (điều kiện )
+A. .	
+B. .	
+C. .	
+D. .
+   Lần lượt gán cho tham số  các giá trị là  và  ta được hai câu hỏi trắc nghiệm tương đương nhau là và .
+   : Đạo hàm của hàm số  là
+A. .	 B. .	C. .	
+   D. .
+   : Đạo hàm của hàm số  là
+A. .	B. .	C. .	D. .
+   Khi xây dựng một câu hỏi trắc nghiệm toán dạng tổng quát, ta cần xác định miền giá trị của các tham số để đảm bảo các biểu thức có nghĩa và các phương án trả lời là khác nhau với mọi giá trị của tham số thuộc miền đã định.
+   Để xây dựng tốt được một câu hỏi trắc nghiệm dạng tổng quát, ngoài phương án đúng dạng tổng quát, ta cần xây dựng các phương án nhiễu dạng tổng quát dựa trên các sai lầm có thể gặp phải của học sinh.
+   Các ví dụ sau đây là các bài toán được tổng quát từ đề thi môn Toán trong kỳ thi trung học phổ thông quốc gia năm 2017, mã đề 102 (Bộ Giáo dục và Đào tạo, 2017).
+   Ví dụ 2: Tập xác định D của hàm số  là (điều kiện của tham số  )
+   A. .  B. .
+   C..	
+   D. .
+   Trong ví dụ 2, với điều kiện  và  thì tất cả các biểu thức trong câu dẫn và trong bốn phương án lựa chọn đều có nghĩa. Cả bốn phương án luôn đôi một khác nhau với tất cả các giá trị của tham số  thỏa mãn điều kiện đã cho.
+   Về bốn phương án lựa chọn, nếu học sinh 
+đặt đúng điều kiện xác định là , và xét dấu đúng sẽ ra được phương án A, ngược lại xét dấu sai sẽ ra phương án B. Nếu học sinh đặt sai điều kiện là , và xét dấu đúng sẽ được phương án D, ngược lại xét dấu sai thì học sinh sẽ giải ra được phương án C.
+   Ví dụ 3: Hàm số nào dưới đây đồng biến trên?
+   (điều kiện của tham số:  và )
+   A. . 	B. . 
+   C.. 	  D. .
+   Ví dụ 4: Cho số phức   thỏa mãn . Tính .
+   (điều kiện của tham số:  và )
+   A. .   B. .	
+   C. . D. .
+    Ví dụ 5: Trong không gian với hệ tọa độ , cho điểm . Tính độ dài đoạn thẳng . 
+   (điều kiện của tham số:  và )
+   A..  B. .
+   C. .   D. .
+    Ví dụ 6: Cho tứ diện đều  có cạnh bằng . Hình nón  có đỉnh  và đường tròn đáy là đường tròn ngoại tiếp tam giác . Tính diện tích xung quanh  của .
+   (điều kiện của tham số: )
+   A.. 	B. .	
+   C. .	D. .
+   3 GIỚI THIỆU VỀ SAGEMATH, SAGETEX VÀ LỚP TÀI LIỆU EXAM
+   SageMath (the Sage Developers, 2017; Zimmermann et al., 2018) là một phần mềm toán học miễn phí, mã nguồn mở. Nó sử dụng ngôn ngữ Python tạo ra một giao diện chung để kết hợp sức mạnh của các phần mềm mã nguồn mở đã có như NumPy, SciPy, Matplotlib, Sympy, Maxima, GAP, FLINT, R và nhiều phần mềm khác. 
+   Latex (Lamport, 1986) là phần mềm soạn thảo hỗ trợ rất tốt trong việc định dạng văn bản các công thức toán học thông qua các gói lệnh. SageTex (Drake et al., 2010) là một gói lệnh trong Latex. Nó cho phép người dùng nhúng kết quả tính toán của Sagemath vào trong Latex. Để sử dụng SageTex trong Latex, ta đặt \usepackage{sagetex} vào phần đầu của tài liệu Latex.
+   Các câu lệnh của SageMath trong môi trường sagesilent được dùng để tính toán và các câu lệnh sẽ không được hiển thị trong tập tin kết quả. Để đưa kết quả tính toán vào tập tin kết quả, ta dùng lệnh \sage{<sage code>}.
+   Sau khi biên dịch Latex lần đầu, giả sử tên tập tin là example.tex, thì ngoài các tập tin thông thường được tạo ra bởi Latex, còn có tập tin example.sagetex.sage. Tập tin này chứa các câu mã lệnh của Sagemath được trích ra từ tập tin example.tex. Khi ta chạy lệnh sage trên tập tin này, các phép toán sẽ được thực hiện và kết quả được ghi vào tập tin example.sagetex.sout. Khi biên dịch Latex lần hai, các kết quả tính toán trong tập tin example.sagetex.sout sẽ được đưa vào tập tin kết quả (example.pdf hoặc example.dvi).
+   Ngoài ra, để định dạng câu hỏi trắc nghiệm một cách dễ dàng, ta dùng lớp tài liệu Exam (Hirschhorn, 2017) bằng cách khai báo documentclass{exam} ở đầu tập tin Latex. Lớp này có chứa nhiều câu lệnh giúp tự động định dạng và đánh số các câu hỏi, các phương án trả lời. Ngoài ra, nó còn có thể tạo ra phiếu đáp án.
+   Các câu hỏi sẽ được đặt trong môi trường questions. Mỗi câu hỏi sẽ bắt đầu bằng lệnh \question, các phương án trả lời của câu hỏi này được đặt trong môi trường oneparchoices, phương án đúng sẽ bắt đầu với \CorrectChoice, các phương án nhiễu bắt đầu bằng \choice.
+   4 TẠO CÁC CÂU HỎI TRẮC NGHIỆM TOÁN TƯƠNG ĐƯƠNG MỘT CÁCH TỰ ĐỘNG
+   Để ra các câu hỏi trắc nghiệm tương đương, đầu tiên ta cần một câu hỏi trắc nghiệm dạng tổng quát với các tham số thuộc các miền giá trị định trước. Sau đó, ta dùng SageMath để gán một giá trị ngẫu nhiên từ miền giá trị tương ứng cho các tham số. Giá trị các biểu thức trong câu hỏi và các phương án trả lời cũng được tính toán dựa trên các giá trị vừa được gán của các tham số.
+   4.1 Ví dụ 1 
+   Để tạo các câu hỏi tương đương từ câu hỏi trắc nghiệm dạng tổng quát ở Ví dụ 1 mục 2.2 ta có thể tạo tập tin example.tex với nội dung như sau:
+\documentclass{exam}
+\usepackage[utf8]{vietnam,inputenc}
+\usepackage{sagetex}
+\begin{document}
+    \begin{questions}
+    \begin{sagesilent}
+    a=randint(2,9)
+    \end{sagesilent}
+    \question Đạo hàm của hàm số $y=\sage{a}^x$ là
+    \begin{oneparchoices}
+         \choice $y^\prime = x \sage{a}^{x-1}$.
+    \CorrectChoice $y^\prime = \sage{a}^x \ln\sage{a}$.
+    \choice $y^\prime = \sage{a}^x $.
+    \choice $y^\prime = \frac{\sage{a}^x}{ \ln\sage{a}}$.
+    \end{oneparchoices}
+    \end{questions}
+\end{document}
+   Sau đó, thực hiện nhiều lần chuỗi biên dịch sau ta sẽ thu được các câu hỏi trắc nghiệm tương đương nhau.
+pdflatex example.tex
+sage example.sagetex.sage
+pdflatex example.tex
+   Khi câu hỏi trắc nghiệm dạng tổng quát có chứa nhiều tham số, việc xác định miền giá trị của các tham số để các biểu thức có nghĩa và các phương án trả lời khác nhau sẽ gặp nhiều khó khăn. Để giải quyết vấn đề này, ta thực hiện gán ngẫu nhiên cho các tham số và kiểm soát điều kiện thông qua vòng lặp while trong Sagemath.
+   4.2 Ví dụ 2 
+   Trong Ví dụ 5 mục 2.2 ta có thể thay ràng buộc đầu vào là  và  thành ràng buộc đầu ra là các phương án trả lời khác nhau và  để căn thức có nghĩa.
+\begin{sagesilent}
+While True:	
+	a = randint(-9,9)
+	b = randint(-9,9)
+	c = randint(-9,9)
+	if a+b+c >= 0:
+		phuongan1 = a^2+b^2+c^2
+		phuongan2 = sqrt(a^2+b^2+c^2)
+		phuongan3 = a+b+c
+		phuongan4 = sqrt(a+b+c)
+		if khacnhau(phuongan1, phuongan2, phuongan3, phuongan4): break
+\end{sagesilent}
+   Đoạn mã trên thực hiện việc liên tiếp gán ngẫu nhiên các số tự nhiên từ  đến  cho các tham số  và  cho đến khi các ràng buộc đầu ra được thỏa mãn.
+   Để tăng thêm hiệu quả của việc kiểm tra 
+đánh giá, ta có thể hoán vị các phương án trả lời bằng cách sử dụng gói lệnh exam-randomizechoices (op den Brouw, 2019). Để thực hiện hoán vị, ta thêm \usepackage{exam-randomizechoices} vào phần đầu của tập tin tex và thay môi trường oneparchoices bằng môi trường randomizeoneparchoices. Việc in phiếu đáp án được thực hiện bằng lệnh \printkeytable.
+   5 KẾT LUẬN
+   Trong bài báo này, chúng tôi đã trình bày cách tạo ra một câu hỏi trắc nghiệm dạng tổng quát và sử dụng các phần mềm mã nguồn mở như Latex, Sagemath và SageTex để tạo ra các câu hỏi trắc nghiệm tương đương nhau một cách tự động. Kết quả của nghiên cứu này sẽ giúp giáo viên tạo ra được các đề thi trắc nghiệm tốt, tránh được gian lận trong kiểm tra, đánh giá mà vẫn đảm bảo được sự công bằng. Ngoài ra, nó còn giúp tiết kiệm được thời gian và chi phí ra đề mà vẫn đảm bảo được chất lượng. Hướng nghiên cứu tiếp theo của đề tài là kết hợp SageMath với MS Word và MathType để tạo đề trắc nghiệm trên Word nhằm có thể dễ dàng hiệu chỉnh.
+   TÀI LIỆU THAM KHẢO 
+Bộ giáo dục và Đào tạo, 2017. Đề thi môn Toán trong kỳ thi Trung học phổ thông quốc gia năm 2017, mã đề 102.
+op den Brouw J. E. J., 2019. The documentation of the exam-randomizechoices package. Department of Electrical Engineering, The Hague University of Applied Sciences, Delft, Netherlands.
+Drake, D., Tornaria, G., Wetherell, J. and Schilly, H., 2010. The documentation of the SageTex package. 
+Hirschhorn, P., 2017. Using the exam document class. Department of Mathematics, Wellesley College, Wellesley, MA 02481, USA.
+Hồ Ngọc Triển, 2018. Giới thiệu hệ thống thi trắc nghiệm Aztest, ngày truy cập 25/03/2019. Địa chỉ https://aztest.vn/about.
+Lamport, L., 1986. Latex: A Document Preparation System. Addison-Wesley Longman Publishing Co., Inc. Boston, MA, USA, 242 pages.
+Microsoft Education Labs, 2009. Math Worksheet Generator.
+Nguyễn Minh Quý, 2017. Hướng dẫn sử dụng phần mềm Test Professional (phiên bản 7.0). Trường Đại học Sư phạm Kỹ thuật Hưng Yên. Hưng Yên.
+Pardue, D. and Nguyen, L., 2007. Davitily Math Problem Generator, accessed on 20 September 2018. Available from https://www.mathproblemgenerator.com.
+
+The Sage Developers, 2017. SageMath, the Sage Mathematics Software System (Version 7.6). 
+Võ Tấn Quân và Nguyễn Vũ Hoàng Anh, 2016. Hướng dẫn sử dụng chương trình
+quản lý và trộn đề thi trắc nghiệm McMIX. Công ty phần mềm Anh Quân, Thành phố Hồ Chí Minh.
+Wolfram Research, Inc., 2019. Wolfram Problem Generator, accessed on 24 March 2019. Available from https://www.wolframalpha.com/problem-generator.
+Zimmermann, P., Casamayou, A., Cohen, N. et al., 2018. Computational Mathematics with SageMath. SIAM. Philadelphia, 464 pages.
+
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 		Tập 55, Số 6C (2019): 57-61
+
+
+
+
+

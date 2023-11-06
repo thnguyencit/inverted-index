@@ -1,0 +1,89 @@
+﻿
+KHẢ NĂNG ĐỐI KHÁNG NẤM PYRICULARIA ORYZAE
+CỦA VI KHUẨN SINH CHITINASE PHÂN LẬP TỪ ĐẤT VÙNG RỄ LÚA
+Nguyễn Thị Pha1, Nguyễn Thị Phương Oanh1 và Nguyễn Hữu Hiệp1
+1 Viện Nghiên cứu & Phát triển Công nghệ Sinh học, Trường Đại học Cần Thơ
+Thông tin chung: 
+Ngày nhận: 14/01/2014
+Ngày chấp nhận: 28/04/2014
+
+Title: 
+Antagonistic effect against Pyricularia oryzae of chitinase-producing bacteria isolated from rice rhizosphere
+Từ khóa: 
+Đối kháng nấm, Pyricularia oryzae, vi khuẩn đất vùng rễ
+Keywords:
+Antagonistic effect, P. oryzae, Plant Growth - Promoting Rhizobacteria, rhizobacteria   ABSTRACT
+In present time, many studies have been carrying out in order to find out biological solutions for environmental issues caused by agrochemicals applied commonly in agriculture. Among promoted solvings, Plant Growth - Promoting Rhizobacteria have been put in special interest due to their potential applications. In this research, 18 bacterial isolates isolated from rhizospheric soil of rice plant with effective nitrogen fixation, Indole-3-acetic acid synthesis and phosphate solubilizing activity were investigated the ability to synthesize extracellular chitinase. Since that result, 6 isolates namely CT14, AM3, NT4, PT10, TN4 and TV2B3 were tested antagonistic property against Pyricularia oryzae fungus in dual culture plates. After 10 days of incubation, all 6 isolates performed good antagonistic effect with the percentage of radial inhibition ranging from 45.2-64.4%. In which, the highest antagonistic effect was found in CT14 and AM3 isolates. From that result, it can be proposed that bacteria that colonize rice rhizosphere possess not only plant growth stimulation but also rice blast disease biocontrol capacity.
+   TÓM TẮT
+Hiện tại, nhiều nghiên cứu đã và đang được tiến hành nhằm tìm ra các giải pháp sinh học giúp giảm lượng hóa chất áp dụng trong nông nghiệp. Trong đó, các vi khuẩn đất vùng rễ có khả năng kích thích sinh trưởng thực vật (Plant Growth - Promoting Rhizobacteria) đang nhận được sự quan tâm đặc biệt của nhiều nhà khoa học trên thế giới vì tính tiềm năng của chúng. Trong nghiên cứu này, 18 dòng vi khuẩn phân lập từ đất vùng rễ lúa với khả năng cố định đạm sinh học và tổng hợp Indole-3-acetic acid tốt được khảo sát khả năng tổng hợp enzyme chitinase - enzyme thủy phân ngoại bào đóng vai trò quan trọng trong cơ chế đối kháng nấm. Từ kết quả thu được, 6 dòng vi khuẩn CT14, AM3, NT4, PT10, TN4 và TV2B3 được nuôi cấy đối kháng với nấm bệnh Pyricularia oryzae trên thạch đĩa PDA. Kết quả cho thấy cả 6 dòng vi khuẩn đều cho hiệu quả đối kháng nấm tốt, tỉ lệ ức chế nấm dao động từ 45,2-64,4% sau 10 ngày ủ. Hai dòng CT14 và AM3 là 2 dòng có tính đối kháng mạnh nhất. Qua đó, có thể nhận định rằng các dòng vi khuẩn sống trong đất vùng rễ lúa không những có khả năng kích thích sinh trưởng thực vật tốt mà còn có khả năng đối kháng nấm gây bệnh đạo ôn rất tiềm năng.
+   1 GIỚI THIỆU
+   Bệnh đạo ôn (do nấm Pyricularia oryzae) là bệnh hại quan trọng ở hầu hết các giai đoạn sinh trưởng của cây lúa, từ giai đoạn mạ - đẻ nhánh - làm đòng - trổ bông đến khi lúa chín. Bệnh gây hại nặng trên nhiều bộ phận của cây như lá, cổ lá, đốt thân, cổ bông, hạt,..., xảy ra quanh năm và thường gây thất thu nghiêm trọng năng suất lúa (trong nhiều trường hợp có thể giảm đến 85% năng suất), đặc biệt trên các ruộng lúa trồng giống nhiễm hoặc kháng yếu, sạ dày, bón thừa đạm hoặc thiếu nước. Hiện tại, phương pháp xử lý chủ yếu cho các ruộng lúa nhiễm bệnh đạo ôn là áp dụng các loại thuốc bảo vệ thực vật có nguồn gốc hóa học. Tuy nhiên, về lâu dài, đặc biệt ở một nước đang phát triển như nước ta, các loại hóa chất nông nghiệp này không mang lại hiệu quả kinh tế cũng như không đảm bảo tính an toàn đối với môi trường. Do đó, xu hướng hiện tại đang được tập trung nghiên cứu là sản xuất các chế phẩm sinh học có hoạt tính tương tự nhưng thân thiện hơn với môi trường. Nguồn nguyên liệu được ưu tiên khảo sát trong các nghiên cứu này đa số là các loài vi sinh vật có khả năng tổng hợp enzyme chitinase và/hoặc glucanase (Herrera-Estrella' và Chet, 1999). Trong đó, nhiều chủng vi khuẩn đất vùng rễ có khả năng kích thích sinh trưởng thực vật đồng thời sở hữu khả năng sinh chitnase có thể được xem là giải pháp sẵn có rất tiềm năng cho các nghiên cứu này. Ví dụ, chitinase 
+ngoại bào tiết bởi chủng Paenibacillus sp. 300 và chủng Streptomyces sp. 385 đã được chứng minh có khả năng đối kháng nấm Fusarium oxysporum f. sp. cucumerium hay chitinase ngoại bào kết hợp với enzyme laminarinase tiết bởi Pseudomonas stutzeri thể hiện tính đối kháng nấm F. oxysporum (Lim et al., 1991),...
+   Một số nghiên cứu trong và ngoài nước đã cho thấy những tín hiệu khả quan trong khả năng sử dụng vi khuẩn vùng rễ như tác nhân kiểm soát sinh học nấm bệnh P. oryzae. Shyamala và Sivakumaar (2012), Noori và Saud (2012) đã sử dụng chủng vi khuẩn Pseudomonas flourescens phân lập từ đất trồng lúa và đất vùng rễ lúa để thử khả năng đối kháng nấm Pyricularia oryzae hiệu quả. Việc khảo sát các dòng vi khuẩn phân lập từ vùng rễ lúa trong nghiên cứu này nhằm chọn lọc thêm các chủng vi sinh vật có triển vọng hướng tới sản xuất các chế phẩm sinh học đặc trị đạo ôn trên lúa, góp phần giảm đi ô nhiễm môi trường gây bởi các loại hóa chất nông nghiệp có hoạt tính tương tự.
+   2  PHƯƠNG PHÁP NGHIÊN CỨU
+   2.1  Vật liệu
+   Mười tám mẫu vi khuẩn đất vùng rễ lúa có khả năng cố định đạm tốt cung cấp bởi phòng thí nghiệm Công nghệ gen thực vật - Bộ môn Công nghệ Sinh học Phân tử, Viện Nghiên cứu & Phát triển Công nghệ Sinh học (Bảng 1).
+
+Bảng 1: Hàm lượng NH4+ (mg/L) và IAA (µg/mL) trung bình cao nhất tổng hợp bởi các dòng vi khuẩn được chọn
+STT Dòng vi khuẩnHàm lượng NH4+ (mg/l)Hàm lượng IAA (µg/ml)Nguồn phân lập1CT1.21c8,830*Thới Lai, Cần Thơ2TN47,609*Tam Nông, Đồng Tháp3CT1.N27,030*Thới Lai, Cần Thơ4TV3A44,29331,389Tiểu Cần, Trà Vinh5VL2.27a4,010*Long Hồ, Vĩnh Long6TV2B33,9491,288Tiểu Cần, Trà Vinh7TN203,529*Tam Nông, Đồng Tháp8TV2B73,12942,135Tiểu Cần, Trà Vinh9CTA32,55739,606Ô Môn, Cần Thơ10CTB32,46241,388Ô Môn, Cần Thơ11AM33,12173,897An Minh, Kiên Giang12PT102,69015,400Cầu Kè, Trà Vinh13NT43,17119,080Cầu Kè, Trà Vinh14CT142,24356,632Châu Thành, Trà Vinh15PT42,32257,393Cầu Kè, Trà Vinh16TC32,20133,281Trà Cú, Trà Vinh17NT32,12236,886Cầu Kè, Trà Vinh18PT192,12226,805Cầu Kè, Trà VinhGhi chú: *: chưa được khảo sát
+Mẫu nấm Pyricularia oryzae được cung cấp bởi Bộ môn Bệnh cây, Viện Lúa Đồng bằng sông Cửu Long
+   2.2 Phương pháp nghiên cứu
+   2.2.1  Khảo sát khả năng tổng hợp chitinase của vi khuẩn
+   Để khảo sát khả năng tổng hợp chitinase, các dòng vi khuẩn được nuôi cấy trên môi trường có chitin là nguồn cacbon chính (thành phần trong 1 lít môi trường gồm 6 g Na2HPO4, 3 g KH2PO4, 1 g NH4Cl, 0,5 g NaCl, 0,05 g yeast extract, 15 g agar và chitin huyền phù 1% (w/v), pH 7). Ủ ở 30C trong 5 ngày, xung quanh khuẩn lạc của các dòng vi khuẩn sinh chitinase sẽ xuất hiện các vòng sáng trên nền môi trường trắng đục do chitin bị phân giải. Thí nghiệm được lặp lại 3 lần/dòng vi khuẩn. Các dòng vi khuẩn có khả năng tổng hợp chitinase được chọn để thực hiện thí nghiệm tiếp theo. Thí nghiệm được thực hiện từ 25/9/2013 đến 16/10/2013.
+  2.2.2  Khảo sát khả năng đối kháng nấm in vitro của các dòng vi khuẩn có khả năng tổng hợp chitinase
+   Khả năng kháng nấm P. oryzae trong điều kiện in vitro của các dòng vi khuẩn có khả năng tổng hợp chitinase được đánh giá bằng phương pháp cấy kép: 1 đĩa sợi nấm có bán kính khoảng 1 mm được cấy vào giữa đĩa môi trường PDA (thành phần trong 1 lít bao gồm 200 mL dịch trích khoai tây, 20 g Dextrose và 20 g agar), ủ ở 30C trong 4 ngày, sau đó, 4 L dịch tăng sinh của các dòng vi khuẩn cần kiểm tra tính đối kháng nấm (mật số 107 CFU/mL) lần lượt được nhỏ vào 4 góc. Các đĩa cấy kép này tiếp tục được ủ trong 10 ngày ở 30C. Sau mỗi 5 ngày, quan sát sự hình thành vùng kháng nấm và tính tỉ lệ ức chế sự phát triển của nấm bởi vi khuẩn theo công thức: 
+
+   Trong đó:
+    I: tỉ lệ ức chế sự phát triển của nấm bởi vi khuẩn
+   R: bán kính của hệ sợi nấm trên môi trường trong đĩa đối chứng (mm) 
+   r: bán kính của hệ sợi nấm trong đĩa có chủng vi khuẩn (mm)
+   Trước khi thực hiện thí nghiệm khảo sát hoạt tính kháng nấm trong môi trường cấy kép, các dòng vi khuẩn được kiểm tra khả năng sinh trưởng trên môi trường Potato Dextrose Agar nhằm đảm bảo sự phát triển đồng đều giữa vi khuẩn và nấm P. oryzae
+   3  KẾT QUẢ VÀ THẢO LUẬN
+   3.1  Kết quả khảo sát khả năng tổng hợp chitinase
+   Khi được cấy chuyển sang môi trường Chitin agar, sau 5 ngày ủ, chỉ có 6/18 dòng vi khuẩn (chiếm 33,33%) có khả năng tổng hợp enzyme chitinase là AM3, CT14, NT4, PT10, TN4 và TV2B3. Khả năng tổng hợp chitinase được biểu thị qua vòng sáng phân giải chitin huyền phù hình thành xung quanh khuẩn lạc (Hình 1). Sáu dòng vi khuẩn này được chọn để tiếp tục khảo sát khả năng đối kháng nấm P. oryzae trong điều kiện in vitro.
+
+	
+Hình 1: Vòng phân giải chitin hình thành bởi 2 dòng vi khuẩn TN4 (A) và AM3 (B) 
+Hình chụp ngày 14/10/2013
+   3.2 Kết quả khảo sát khả năng đối kháng nấm in vitro của các dòng vi khuẩn có khả năng tổng hợp chitinase
+   Kết quả kiểm tra khả năng sinh trưởng trên môi trường Potato Dextrose Agar của 6 dòng vi khuẩn AM3, CT14, NT4, PT10, TN4 và TV2B3 cho thấy cả 6 dòng đều có khả năng sinh trưởng rất tốt trên môi trường này. Kết quả phân tích tỉ lệ đối kháng nấm của 6 dòng vi khuẩn có khả năng tổng hợp enzyme chitinase được trình bày trong Bảng 2. Theo đó, các dòng vi khuẩn được khảo sát đều có khả năng ức chế sự phát triển của hệ sợi nấm với tỉ lệ dao động từ 19,32 - 49,69% sau 5 ngày chủng. Sau 10 ngày chủng, tỉ lệ này tăng lên, dao động từ 40,74 - 64,44% vì tại thời điểm này, bán kính hệ sợi nấm trong các đĩa cấy kép hầu như không tăng, thậm chí giảm đi do khuẩn ty nấm vùng tiếp 
+giáp với khuẩn lạc vi khuẩn bị chết đi. Từ ngày 
+thứ 10 trở đi, tỉ lệ ức chế nấm bởi vi khuẩn không thay đổi. 
+   Trong số 6 dòng vi khuẩn, 2 dòng CT14 và AM3 là 2 dòng đối kháng nấm tốt nhất (Hình 2), tỉ lệ ức chế hệ sợi của 2 dòng này lần lượt đạt 49,69 và 45,91% vào thời điểm 5 ngày sau khi chủng, sau 10 ngày tỉ lệ này lần lượt là 64,44 và 61,48%, khác biệt có ý nghĩa về mặt thống kê ở mức 5% so với 4 dòng vi khuẩn còn lại. Bốn dòng vi khuẩn NT4, PT10, TN4, TV2B3 cũng có khả năng đối kháng nấm tương đối tốt, nhưng có tác động chậm hơn, phải đến 10 ngày sau khi chủng vào môi trường cấy kép thì tỉ lệ ức chế nấm mới đạt trên 40%.
+
+Bảng 2: Tỷ lệ ức chế nấm (%) của các dòng vi khuẩn có khả năng tổng hợp enzyme chitinase
+STTDòng vi khuẩnR-r (mm)Tỷ lệ ức chế nấm (%)Ngày 5Ngày 10Ngày 5Ngày 101CT1415,832949,69a64,44a2AM314,6727,6745,91a61,48a3NT49,8323,6730,77b52,59b4PT109,1722,3328,60b49,63bc5TN46,1718,3319,33c40,74d6TV2B36,1720,3319,32c45,19cdF - ratio27,9116,99P - value0,00000,0000CV (%)13,147,40Các giá trị trong cùng một cột cùng mẫu tự (a, b, c, d, e...) khác biệt không có ý nghĩa thống kê (p>0,05)
+
+   Kết quả thí nghiệm cho thấy các dòng vi khuẩn sống trong đất vùng rễ lúa không những có khả năng kích thích sinh trưởng thực vật tốt mà còn có khả năng đối kháng nấm gây bệnh đạo ôn rất tiềm năng. Khả năng đối kháng hiệu quả nấm P. oryzae của các dòng vi khuẩn phân lập từ đất vùng rễ lúa cũng được khẳng định trong các nghiên cứu của Noori và Saud (2012) và Đặng Thị Thùy Vân (2013).
+
+
+Hình 2: Thử nghiệm đối kháng nấm P. oryzae của một số dòng vi khuẩn 
+Hình chụp ngày 7/11/2013
+   Bên cạnh khả năng đối kháng nấm, AM3 và CT14 còn là 2 dòng vi khuẩn có khả năng cố định đạm, tổng hợp IAA (trong môi trường có bổ sung tryptophan) (Nguyễn Trần Minh Đức, 2013) rất tốt. Từ đó, có thể thấy đây là 2 dòng vi khuẩn tiềm năng có thể ứng dụng trong nghiên cứu sản xuất chế phẩm sinh học vừa hỗ trợ kích thích sinh trưởng nhưng cũng vừa góp phần phòng trừ bệnh đạo ôn trên lúa.
+   4  KẾT LUẬN VÀ ĐỀ XUẤT
+   4.1 Kết luận
+   Có 6/18 dòng vi khuẩn thể hiện khả năng tổng hợp enzyme chitinase và đối kháng nấm P. oryzae trong điều kiện in vitro bao gồm: CT14, AM3, TV2B3, PT10, NT4 và TN4. Hai dòng vi khuẩn CT14 và AM3 là 2 dòng có khả năng đối kháng nấm mạnh nhất.
+   4.2 Đề xuất
+   Kiểm tra khả năng phòng trừ bệnh đạo ôn lúa của 2 dòng vi khuẩn CT14 và AM3 trong các thí nghiệm trong nhà lưới và ngoài đồng nhằm khảo sát khả năng ứng dụng 2 dòng vi khuẩn này dưới dạng chế phẩm vi sinh.
+   LỜI CẢM TẠ
+   Tác giả xin chân thành gửi lời cảm ơn đến tập thể cán bộ phòng thí nghiệm Vi sinh vật đã hỗ trợ  và tạo điều kiện tốt nhất cho chúng tôi thực hiện nghiên cứu này.
+   TÀI LIỆU THAM KHẢO
+1. Đặng Thị Thùy Vân. 2013. Phân lập và nhận diện vi khuẩn Bacillus sp. đối kháng nấm Pyricularia oryzae L. từ đất và cây lúa cao sản trồng ở Đồng bằng sông Cửu Long. Luận văn tốt nghiệp thạc sĩ chuyên ngành Công nghệ Sinh học, Trường Đại học Cần Thơ.
+2. 
+Herrera-Estrella', A. and I. Chet. 1999. Chitinases in biological control. In P. loll and R.A.A. Muuarelli (Editors). Chitin and Chitinases. Birkhauser Verlag Base. Switzerland.
+3. Lim, H.S., Y.S. Kim and S.D. Kim. 1991. Pseudomonas stutzeri YPL-1 genetic transformation and antifungal mechanism against Fusarium solani, an agent of plant root rot. Appl Environ Microbiol, 57:510-516.
+4. Nguyễn Trần Minh Đức. 2013. Phân lập và tuyển chọn vi khuẩn vùng rễ lúa thuộc đất nhiễm mặn có khả năng cố định đạm và tổng hợp IAA. Luận văn tốt nghiệp đại học ngành Công nghệ Sinh học, Trường Đại học Cần Thơ.
+5. Noori, M.S.S. and H.M. Saud. 2012. Potential plant growth-promoting activity of Pseudomonas sp. isolated from paddy soil in Malaysia as biocontrol agent. Plants Pathology & Microbiology, 3(2).
+6. Shyamala, L. and P.K.Sivakumaar. 2012. Antifungal activity of rhizobacteria isolated from rice rhizosphere soil against rice blast fungus Pyricularia oryzae. International Journal of Pharmaceutical & Biological Archives, 3(3):692- 696.
+
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 		Phần B: Nông nghiệp, Thủy sản và Công nghệ Sinh học: 31 (2014): 7-11
+
+
+
+
+
+
+
+
+

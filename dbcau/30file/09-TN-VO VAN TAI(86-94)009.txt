@@ -1,0 +1,67 @@
+﻿ABSTRACT
+TÓM TẮT
+Nghiên cứu đề xuất một mô hình dự báo cho chuỗi thời gian dựa trên những cải tiến trong việc xác định tập nền và việc thiết lập các mối quan hệ mờ. Mô hình đề nghị được minh họa cụ thể các bước thực hiện bởi ví dụ số và được thực hiện một cách hiệu quả bằng một chương trình được thiết lập trên phần mềm thống kê R. Nó có ưu điểm hơn các mô hình dự báo phổ biến hiện tại như ARIMA và Abbasov-Manedova (2003) qua nhiều bộ số liệu đối chứng quan trọng. Mô hình đề nghị cũng được áp dụng trong dự báo đỉnh mặn cho một tỉnh ven biển Đồng bằng sông Cửu Long. Các ví dụ và áp dụng đã cho thấy tiềm năng trong thực tế của vấn đề được nghiên cứu. Trích dẫn: Võ Văn Tài, Trang Thị Mỹ Kim, Nguyễn Thị Hồng Dân, Nguyễn Văn Quang, Lê Đại Nghiệp và Huỳnh Văn Hiếu, 2020. Một mô hình dự báo chuỗi thời gian mờ cải tiến. 
+   1 GIỚI THIỆU
+   Dự báo là việc tiên đoán những kết quả sẽ xảy ra trong tương lai dựa vào những nguyên tắc suy luận nào đó. Kết quả dự báo luôn là cơ sở khoa học quan trọng để lập những kế hoạch, những định hướng, những chiến lược phù hợp mang lại hiệu quả cao nhất. Dự báo luôn có một vai trò rất quan trọng trong các lĩnh vực, vì vậy nó luôn nhận được sự quan tâm của các nhà khoa học và quản lý. Mặc dù đã có rất nhiều công trình được công bố, những đầu tư, những cải tiến sâu rộng về lý thuyết và kỹ thuật thực hiện, nhưng cho đến nay nó vẫn là bài toán chưa có lời giải cuối cùng. Để tiến hành dự báo, các nghiên cứu phải dựa vào nhiều yếu tố trong đó dữ liệu quá khứ là vấn đề quan trọng. Trong các loại dữ liệu, chuỗi thời gian được lưu trữ phổ biến và có nhu cầu rất lớn trong thực tế cho việc dự báo. Với dữ liệu chuỗi, hồi qui và chuỗi thời gian là hai mô hình chính được được sử dụng phổ biến trong thống kê. 
+   Khi sử dụng mô hình hồi qui để dự báo, những áp dụng phải giả sử các điều kiện mà trong thực tế dữ liệu rất khó đáp ứng, chính vì vậy mô hình này thường chỉ áp dụng tốt cho những trường hợp đặc thù (Aladag et al., 2012; Abreu et al., 2013). Các mô hình chuỗi thời gian không mờ như tự hồi quy, trung bình di động, trung bình di động tự hồi qui (ARIMA) đã mang lại nhiều kết quả tốt hơn trong dự báo so với các mô hình hồi quy trong nhiều trường hợp. Trong các mô hình này, mô hình ARIMA với phương pháp BoxJenkins (Box and Jenkins, 1973) được sử dụng rất rộng rãi trong nhiều áp dụng thực tế ngày nay. Tuy nhiên các mô hình chuỗi thời gian không mờ chỉ thực sự tốt khi dữ liệu phải có tính dừng và sai số nhiễu của nó phải là một ồn trắng. Vì sự biến đổi phức tạp trong các dữ liệu thực tế, nên chuỗi thời gian không mờ cũng chưa đáp ứng được các yêu cầu khi dự báo. Nhiều trường hợp dự báo rất kém độ chính xác (Chen 1996).
+   Dựa trên lý thuyết mờ, chuỗi thời gian mờ (FTS) được đề xuất để giải quyết các yếu điểm của chuỗi thời gian không mờ. Song and Chissom (1993) đã đi tiên phong trong nghiên cứu mô hình FTS với dữ liệu tuyển sinh từ Đại học Alabama. Kế thừa nghiên cứu này, hàng loạt các công trình liên quan về FTS được công bố (Huarng, 2001; Chen, 2004; Eren et al., 2014; Chen and Hung, 2016). Những mô hình này được thiết lập dựa trên các cấp độ mờ hóa theo ngôn ngữ với 3, 5 hoặc 7 cấp độ. Hạn chế của các mô hình này là chỉ mờ hóa dữ liệu mờ lịch sử mà không thực hiện được dự báo cho tương lai. Trong số các mô hình này, mô hình của Singh (2007) được đánh giá rất cao. Mặc dù được đề xuất khá lâu nhưng khi đề xuất một mô hình mới, mô hình của Singh (2007) thông thường được sử dụng để so sánh hiệu quả. Tuy nhiên mô hình này cũng chỉ để mờ hóa dữ liệu mà không trực tiếp để dự báo. Sau khi có dữ liệu từ mờ hóa, muốn dự báo chúng ta phải sử dụng một mô hình không mờ nào đó để thực hiện. Việc mờ hóa trước khi thực hiện dự báo có thể làm mất đi một số qui luật của dữ liệu, nên khi dự báo nhiều trường hợp không nhận được kết quả tốt. Một hướng phát triển khác của FTS là trực tiếp dự báo cho tương lai từ nguyên tắc mờ hóa đã thiết lập. Các tài liệu cho thấy, hướng nghiên cứu này chưa có nhiều kết quả được công bố. Abbasov and Mamedova (2003) đã đề xuất hướng nghiên cứu này khi dự báo dân số nước Áo. Mặc dù mô hình đã nhận được kết quả tốt trong nghiên cứu này, nhưng nó lại không thích hợp cho nhiều tập dữ liệu khác. Những tham số trong mô hình này cũng là một thách thức trong áp dụng thực tế. Dựa trên mô hình của Singh (2007) và ý tưởng của Abasov and Mamedova (2003), bài viết này đề xuất một mô hình chuỗi thời gian mờ để dự báo. Mô hình này có thể mờ hóa dữ liệu và dự báo cho tương lai. Mô hình đề nghị nhận được kết quả tốt hơn các mô hình dự báo trực tiếp không mờ ARIMA và mô hình chuỗi thời gian mờ của Abasov and Mamedova (2003) trong các bộ số liệu đối chứng được so sánh.
+   2  MÔ HÌNH ĐỀ NGHỊ
+   2.1 Các định nghĩa
+   Định nghĩa 1. Cho  là không gian nền,  Một tập mờ  của được xác định như sau:
+
+   Định nghĩa 2. Giả sử được suy ra từ  khi đó quan hệ logic mờ giữa  và  được biểu diễn bởi phương trình mờ:
+   
+   Định nghĩa 3. Cho một chuỗi dữ liệu thực tế {Xi} và giá trị dự đoán tương ứng, i = 1, 2, ..., n, khi đó ta có các tiêu chuẩn sau để đánh giá các mô hình FTS:
+   Khi thực hiện dự báo, mô hình có các tiêu chuẩn trên càng nhỏ thì càng tốt.
+   2.2 Thuật toán đề nghị
+   Cho , ,..., n là một chuỗi thời gian. Mô hình dự báo chuỗi thời gian mờ (FTSF) đề nghị gồm 8 bước sau:
+   Bước 1: Chuẩn hóa dữ liệu chuỗi về thang đo 100:
+   , i =1, 2, ..., n.
+   Tính các biến đổi của dữ liệu giữa hai khoảng thời gian liên tiếp đã được chuẩn hóa:
+   
+   Xác định tập nền , trong đó
+   Bước 2: Chia tập  thành m khoảng bằng nhau và gán tập mờ ,  với các hàm thuộc tam giác như sau:
+
+   Trong ứng dụng của bài viết này, nếu một khoảng khi chia chứa nhiều hơn 4 phần tử, tiếp tục chia khoảng này thành 2 khoảng nhỏ đều nhau.
+   Bước 3: Thiết lập các mối quan hệ logic mờ:
+   Nếu là giá trị mờ hóa tại thời điểm i và  là giá trị mờ tại thời điểm j thì quan hệ mờ được biểu thị là . Ở đây Ai được gọi là trạng thái hiện tại và là trạng thái tiếp theo.
+   Bước 4: Thiết lập nguyên tắc dự báo:
+   * Trong trường hợp hàm thuộc  đạt giá trị lớn nhất, ta kí hiệu
+     là khoảng tương ứng của ,
+    và  lần lượt là cận dưới và cận trên của 
+      là độ dài của khoảng  
+    là giá trị trung bình của khoảng  
+   * Tính các giá trị:
+     
+   3 VÍ DỤ MINH HỌA VÀ KIỂM CHỨNG
+   3.1 Ví dụ minh họa
+   Trong phần này chúng tôi lấy số liệu về tuyển sinh của Trường Đại học Alabama (ACD) để minh họa cho thuật toán đề nghị. Đây là số liệu đối chứng được sử dụng trong nhiều nghiên cứu về FTS khi so sánh các mô hình với nhau. Số liệu được cho bởi cột thứ 2 của Bảng 1.                         
+   Theo thuật toán đề nghị, chúng ta có những bước thực hiện cụ thể sau:
+   Bước 1: Chuẩn hóa dữ liệu về thang đo 100, ta có tập dữ liệu được cho bởi cột Ki của Bảng 1. Tính sự biến đổi số lượng sinh viên giữa hai năm liên tiếp của Ki, ta có giá trị Ei của Bảng 1. Vì =4.939, = 6.676, do đó tập nền đoạn U = [4.939; 6.676].
+   Bước 2: Chia tập nền  thành 7 đoạn đều nhau:
+   u1=[4,939;3,279], u2 = [3,279;1,620], u3 = [1,620;0,309], u4 = [0,309;1,699],
+   u5 = [1,699;3,358]; u6 = [3,358;5,017]; u7 = [5,017;6,676].
+   Vì  và   chứa lần lượt 7 và 6 giá trị của Ei nên ta chia mỗi khoảng này thành 2 khoảng nhỏ, các khoảng khác giữ nguyên. Như vậy ta có 9 khoảng ui và các điểm giữa của nó được cho bởi Bảng 2.
+Bước 5: Tính sự biến đổi
+   Giả sử chúng ta cần phải dự báo giá trị chuỗi năm 1976. Dựa vào Bảng 1, Bảng 2 và Bảng 3, có thể thấy rằng sự khác biệt năm 1975 rơi vào tập mờ A7, và mối quan hệ logic mờ được thiết lập  với tần suất là 1. 
+   Ta có 
+   
+   Từ số liệu Bảng 4, áp dụng công thức (2) ta tính được các giá trị của MAE =1.6508.
+   Hình 1 cho thấy kết quả dự báo và thực tế khá gần nhau.
+   3.2 Một số so sánh
+   Bên cạnh dữ liệu ACD, nghiên cứu này sử dụng thêm 3 tậo dữ liệu Taifex, Outpatient and Grain (Tai and Nghiep 2019) để so sánh mô hình dự báo đề nghị với mô hình ARIMA và mô hình của Abbassov and Manedova. Đây là những tập dữ liệu phổ biến được sử dụng để đánh giá hiệu quả của các mô hình trong nhiều bài báo. Mỗi tập dữ liệu được chia thành 2 phần: Tập huấn luyện và tập kiểm tra với tỉ lệ lần lượt là 80% và 20%. Tập huấn luyện được sử dụng để xây dựng các mô hình ARIMA, Abasov-Manedova (2003) và mô hình đề nghị. Sử dụng mô hình từ tập huấn luyện, dự báo cho thời gian của tập kiểm tra để so sánh với số liệu thực tế.  Các tham số đánh giá MSE, MAE và MAPE được sử dụng để so sánh hiệu quả của các mô hình.
+   Kết quả thực hiện của tập huấn luyện được cho bởi Bảng 5 và tập kiểm tra được cho bởi Bảng 6.
+
+   Bảng 5 và Bảng 6 cho thấy rằng mô hình đề nghị đã nhận được kết quả tốt nhất với các tập dữ liệu được xem xét.
+   4 ÁP DỤNG 
+   Trong phần này chúng tôi áp dụng phương pháp đề nghị để dự báo đỉnh mặn cho ba trạm đo chính của tỉnh Cà Mau. Số liệu thực hiện được cho bởi Bảng 7.
+   Mục đích của nghiên cứu này là sử dụng số liệu quá khứ để dự báo đỉnh mặn tại ba trạm đo chính của tỉnh Cà Mau đến năm 2025. Toàn bộ dữ liệu quá khứ được sử dụng để kiểm tra hiệu quả của các mô hình dự báo ARIMA, Abbasov-Manedova (2003) và mô hình đề nghị bởi các tham số MAE, MAPE và MSE. Mô hình nào tốt nhất sẽ được sử dụng để dự báo cho tương lai. Kết quả so sánh các mô hình được cho bởi Bảng 8.
+    
+   Bảng 8 cho thấy mô hình đề nghị luôn nhận được kết quả tốt nhất, do đó nó được sử dụng để dự báo cho tương lai. Kết quả dự báo được cho bởi Bảng 9.
+
+
+   Bảng 8 cho thấy đỉnh mặn tại 3 trạm đo chính của tỉnh Cà Mau trong tương lai đều có khuynh hướng tăng. Mặc dù không có sự biến đổi phức tạp như quá khứ nhưng chúng luôn ở mức cao. Hình 2 biểu thị số liệu thực tế và số liệu quá khứ đỉnh mặn tại trạm đo Gành Hào. Hình 2 cho thấy số liệu đỉnh mặn dự báo và thực tế giai đoạn 2004 - 2017 khá trùng nhau nên kết quả dự báo tương lai được đánh giá đáng tin cậy. Với hai trạm đo còn lại ta cũng có mức độ tin cậy tương tự. 
+   5 KẾT LUẬN
+   Bài viết đã trình bày một mô hình mới để dự báo cho dữ liệu dạng chuỗi, một kiểu dữ liệu được lưu trữ phổ biến, có nhu cầu dự báo rất lớn ngày nay. Dựa trên nhiều bước cải tiến quan trọng của các mô hình chuỗi thời gian mờ trước đó, mô hình đề nghị nhận được kết quả tốt hơn các mô hình được sử dụng phổ biến hiện tại qua một số dữ liệu đối chứng phổ biến được so sánh. Nó cũng được áp dụng thử nghiệm trong dự báo đỉnh mặn cho một tỉnh ven biển của Đồng bằng sông Cửu Long. Với mô hình mới này, trong thời gian sắp tới, chúng tôi sẽ tiếp tục cải tiến bước chia tập nền và áp dụng cho nhiều dự báo quan trọng của thực tế. 
+   TÀI LIỆU THAM KHẢO
+Abbasov, A. M., and Mamedova, M. H., 2003. Application of fuzzy time series to population forecasting. Vienna University of Technology. 12:  545-552.

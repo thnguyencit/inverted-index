@@ -1,0 +1,103 @@
+﻿
+DOI:10.22144/jvn.2017.003
+HỆ THỐNG SCADA CHO MẠNG ĐIỆN CƠ QUAN, DOANH NGHIỆP
+Dương Thái Bình và Võ Minh Trí
+Khoa Công nghệ, Trường Đại học Cần Thơ
+Thông tin chung:
+Ngày nhận: 17/06/2016
+Ngày chấp nhận: 28/04/2017
+
+Title: 
+The SCADA system for low voltage networks of agencies, companies
+Từ khóa: 
+Điện hạ thế, ME96NSR, NI myRIO, SCADA
+Keywords:
+Low voltage networks, ME96NSR, NI myRIO, SCADA   ABSTRACT
+This paper is aimed to build a suitable SCADA system for data collection, monitoring and control for low voltage networks in agencies, companies. Important parameters of an electrical network are updated in real time and stored for analyzing and evaluating the system.  The flexible SCADA model is built with a self-built measuring station on processor/ microcontroller platform using kit NI myRIO, 02 measuring stations using multifunction measurement equipment Mishubishi ME96NSR and a program for management on LabVIEW. The model system can display the parameters of the electric network almost in real time, store the parameters over time, demonstrating the feasibility of the proposed solution. This paper contribute to designing solution and building an automatic monitoring system for important parameters in the low voltage networks. This work helps the electrical network woking safety-savings and reducing labor effort that bring significant efficiency for agencies and companies.
+   TÓM TẮT
+Bài báo này nhằm xây dựng hệ thống thu thập dữ liệu, giám sát và điều khiển SCADA phù hợp cho mạng điện hạ thế tại các cơ quan, doanh nghiệp. Các chỉ số quan trọng của mạng điện được cập nhật theo thời gian thực và lưu trữ phục vụ việc phân tích, đánh giá hệ thống. Mô hình SCADA được xây dựng linh hoạt với 1 trạm đo tự xây dựng trên nền hệ vi xử lý/vi điều khiển sử dụng kit NI myRIO, 02 trạm đo sử dụng thiết bị đo đa năng Mishubishi ME96NSR và được lập trình quản lý với phần mềm LabVIEW. Kết quả hệ thống đã tính toán, hiển thị gần như theo thời gian thực các thông số của mạng điện, lưu trữ số liệu theo thời gian, chứng tỏ được tính khả thi của giải pháp đề xuất. Bài báo góp phần trong việc đưa ra giải pháp thiết kế và xây dựng hệ thống giám sát mạng điện một cách tự động. Việc này giúp vận hành hệ thống điện an toàn- tiết kiệm và giảm công sức lao động, đem lại hiệu quả thiết thực cho các cơ quan, doanh nghiệp.Trích dẫn: Dương Thái Bình và Võ Minh Trí, 2017. Hệ thống SCADA cho mạng điện cơ quan, doanh nghiệp. Tạp chí Khoa học Trường Đại học Cần Thơ. 49a: 21-26.
+   1 GIỚI THIỆU
+   Điện năng là nguồn năng lượng rất quan trọng phục vụ cho các hoạt động sinh hoạt hàng ngày, lao động sản xuất, học tập nghiên cứu, y tế, quân sự. Điện năng là dạng năng lượng dễ dàng trong sản xuất, vận chuyển và dễ dàng chuyển đổi sang dạng năng lượng khác. Hiện nay, trên thế giới và tại Việt Nam, nguồn năng lượng điện được sản xuất chủ yếu từ nguyên liệu hoá thạch, thuỷ điện, năng lượng hạt nhân (Chính Phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam, 2011), là những nhân tố gây ảnh hưởng rất lớn đối với môi trường sống.
+   Bài toán đặt ra cho các nhà quản lý là cần giám sát quản lý chất lượng nguồn điện và công suất tiêu thụ điện tại cơ quan, tòa nhà, nhà máy, xí nghiệp hiệu quả nhất để giảm chi phí, tiết kiệm năng lượng, nâng cao hiệu quả cho doanh nghiệp trong hoạt động kinh doanh đồng thời góp phần vào việc bảo vệ môi trường sống. Phương pháp đáp ứng tốt cho mục tiêu quản lý hiệu quả nguồn năng lượng điện hiện nay là thiết lập hệ thống tự động hóa quản lý và giám sát SCADA.
+   Thực tế hiện nay trên thị trường có nhiều hệ SCADA phục vụ cho việc quản lý sản xuất và phân phối điện năng (Nguyễn Hữu Phúc, 2003; Seimens, 2013). Các hệ thống này rất chuyên nghiệp, nhiều tính năng mạnh tuy nhiên giá bản quyền và thiết bị rất đắt tiền. Bên cạnh đó, một số giải pháp quản lý giám sát, điều khiển và ghi nhận điện năng tiêu thụ dựa trên thiết bị tự thiết kế để điều khiển, ghi nhận tình trạng thiết bị sử dụng điện (Lương Vinh Quốc Danh, 2014; Nguyễn Văn Khanh, 2014). Các giải pháp này áp dụng cho các thiết bị tiêu thụ điện 1 pha, chưa quản lý tổng thể được hệ thống điện. 
+   Hiện nay, tại rất nhiều cơ quan đơn vị quản lý hệ thống điện năng bằng cách đặt công tơ tại các điểm cần thiết và có nhân viên đến ghi chỉ số theo định kỳ theo cách thủ công. Khi xảy ra sự cố thì đơn vị sử dụng điện thoại báo cho nhân viên phụ trách đến kiểm tra sửa chữa, rất tốn thời gian và không giám sát được các thông số, dự đoán và xử lý sự cố cần thiết kịp thời. 
+   Bài báo giới thiệu một mô hình SCADA linh hoạt, giá cả phù hợp, đáp ứng được nhu cầu quản lý giám sát hệ thống điện cho các cơ quan, doanh nghiệp. Hệ SCADA được xây dựng bằng các thiết bị đo tự thiết kế trên nền bộ vi xử lý/vi điều khiển kết hợp với các thiết bị đo dễ tìm trên thị trường. Hệ thống được đề xuất góp phần giúp giảm thiểu rủi ro sự cố, giảm công sức lao động và sử dụng hiệu quả, tiết kiệm nguồn năng lượng điện và có thể dễ dàng áp dụng cho việc quản lý các đối tượng khác.
+   2 PHƯƠNG PHÁP THỰC HIỆN
+   2.1 Tổng quan
+   Mô hình hệ thống SCADA được xây dựng với 03 trạm đo như sơ đồ Hình 1. Thiết bị, linh kiện sử dụng (Hình 2) bao gồm: 01 kit NI myRIO, 02 đồng hồ đo đa năng Mitsubitshi ME96NSR, 03 bộ biến dòng (CT) 100A/5A, 01 bộ biến áp (VT) 220V/3V, mạch chuyển tín hiệu điện áp và dòng điện về mức danh định của ngõ vào của kit NI myRIO, 01 bộ chuyển USB/RS485; máy tính với phần mềm LabVIEW myRIO 2014 được cung cấp kèm theo kit NI myRIO.
+
+
+Hình 1: Sơ đồ hệ thống SCADA thử nghiệm
+   
+   Trạm đo tự xây dựng sử dụng hệ vi xử lý/vi điều khiển: linh kiện sử dụng có thể tự động chọn lựa, yêu cầu hệ vi xử lý/vi điều khiển có đủ số lượng ngõ tương tự vào và tốc độ lấy mẫu đủ phục hồi tín hiệu điện áp và dòng điện AC 50 Hz của nguồn điện. Đề tài chọn kit NI myRIO (National Instruments, 2013) của nhà sản xuất National Instruments để xây dựng trạm đo nguồn điện 3 pha (gọi tắt là trạm myRIO).
+
+Hình 2: Thiết bị, linh kiện cho hệ thống
+
+   Trạm đo sử dụng thiết bị đo đa năng có sẵn trên thị trường được chọn lựa linh hoạt, chỉ yêu cầu thiết bị đo được các thông số cần thiết và có hỗ trợ truyền thông. Đề tài chọn đồng hồ đo đa năng ME96NSR (Misubishi Electric, 2012) của Mitsubishi Electric với giao thức truyền thông Mosbus qua cổng RS485, đo được các thông số điện áp, dòng điện, công suất, sóng hài của nguồn điện 3 pha với độ chính xác 0,1% (gọi tắt là trạm ME).
+   2.2 Quá trình thực hiện
+   2.2.1 Trạm myRIO 
+   Tín hiệu điện áp và dòng điện 3 pha từ các biến áp và biến dòng qua mạch giao tiếp để cho ra mức tín hiệu tương thích với ngõ vào tương tự của kit NI myRIO; các thông số điện áp, dòng điện, hệ số công suất,... của nguồn điện được tính toán và truyền về máy tính.
+   Do tín hiệu ở ngõ vào tương tự (AI) của NI myRIO là 0V đến 5V nên cần phải nâng mức DC của tín hiệu lên 2,5V và hiệu chỉnh sao cho biên độ đỉnh đối đỉnh của tín hiệu không vượt quá 5V để tín hiệu không bị biến dạng. Việc này được thực hiện bằng mạch chuyển đổi như sơ đồ ở Hình 3. Để tránh lệch pha tín hiệu khi qua mạch, phải chọn C1 và R2, R3 sao cho tại tần số 50 Hz dung kháng của tụ C1 phải rất nhỏ hơn giá trị điện trở tương đương của R2 mắc song song với R3.
+
+
+Hình 3: Sơ đồ mạch chuyển đổi: a) Tín hiệu điện áp;  b) Tín hiệu dòng điện
+
+
+Hình 4: Lưu đồ chương trình của trạm NI myRIO
+   Lưu đồ chương trình tính toán các thông số nguồn điện của trạm NI myRIO như Hình 4. Tín hiệu điện áp/dòng điện AC 50 Hz ở các ngõ vào AI 
+được lấy mẫu với tỉ lệ 200 mẫu/chu kỳ (tần số lấy mẫu 10.000 Hz). Các thông số điện áp/dòng điện hiệu dụng và công suất tác dụng được tính toán với số mẫu của 5 chu kỳ (100 ms hay 1000 mẫu) bằng công thức định nghĩa của các giá trị (Yokogawa, 2012):
+V_rms= √(1/1000(∑_(i=1)^1000▒v_i^2 ));   I_rms= √(1/1000(∑_(i=1)^1000▒i_i^2 )); P=1/1000(∑_(i=1)^1000▒v_i  i_i)
+   Công suất biểu kiến, công suất phản kháng và hệ số công suất được suy ra từ các giá trị đã tính trên; biến dạng sóng hài được phân tích riêng bằng công cụ có sẵn của phần mềm LabVIEW.
+   2.2.2 Trạm ME
+   ME96NSR là thiết bị đo chuyên dụng nên chỉ việc đấu nối, thiết lập các thông số theo hướng dẫn của nhà sản xuất, kết nối đường truyền thông về trạm chủ (máy tính) và thực hiện lập trình truyền thông. 
+   Để linh động trong việc chọn thiết bị, hạn chế bị phụ thuộc vào phần mềm giao tiếp kèm theo thiết bị, cần thực hiện lập trình truyền thông dựa trên khung truyền dữ liệu của thiết bị và tính toán mã CRC (Cyclic Redundancy Check) cho khối dữ liệu giao tiếp với thiết bị đó. Khung truyền dữ liệu và chương trình tạo mã CRC cho ME96NSR bằng LabVIEW như Hình 5 và Hình 6.
+Slave AddressFunction CodeDataCRC (Low)CRC
+(High)Hình 5: Khung truyền dữ liệu của thiết bị đo ME96NSR
+
+
+Hình 6: Chương trình tạo mã CRC cho trạm ME96NSR 
+   
+   Khi các trạm đo đã được lắp đặt và giao tiếp thành công, công việc còn lại là viết chương trình đọc và tính toán các thông số cần thiết. 
+   Các trạm đo được lắp đặt như Hình 7.
+
+    
+Hình 7: Trạm NI myRIO và ME96NSR
+
+   3 KẾT QUẢ VÀ ĐÁNH GIÁ
+   Đề tài đã xây dựng thành công hệ thống SCADA như mục tiêu đề ra, kết quả sẽ được trình bày trực tiếp trên giao diện chương trình quản lý viết bằng phần mềm LabVIEW.
+   Màn hình chính thể hiện trạng thái hệ thống và các thông số chính của các trạm như điện áp V, dòng điện I, hệ số công suất cos φ như Hình 8.
+   Khi cần xem nhiều thông số chi tiết hơn của trạm nào đó, nhấp chuột trái vào ô "Detail" của trạm đó để đến màn hình thông số chi tiết như Hình 9.
+
+Hình 8: Giao diện chương trình giám sát
+
+
+Hình 9: Màn hình thông số chi tiết
+
+   Khi cần xem dạng sóng, độ lệch pha giữa tín hiệu dòng và điện áp, nhấp chuột trái vào ô "Chart" (chỉ có ở trạm NI myRIO) để đến màn hình hiển thị dạng sóng như Hình 10a), chọn pha cần xem bằng nút "Phase".
+
+ 
+Hình 10: a) Màn hình hiển thị dạng sóng; b) Màn hình xem lại số liệu đã lưu
+   
+   Khi cần xem lại lịch sử nhấp chuột trái vào ô "History", chọn thời gian và thông số cần xem lại, ta được màn hình như Hình 10b).
+   Dung lượng lưu trữ: với ba trạm đo 3 pha, mỗi pha lưu 4 thông số V, I, cos φ, tổng biến dạng sóng hài (THD) của điện áp, ghi mỗi giây 1 lần lưu vào tập tin Excel có phần mở rộng .csv. Một ngày cần dung lượng 17,3 MB; một tháng cần dung lượng 519 MB. Với dung lượng ổ đĩa cứng hiện nay phổ biến ở mức 500 GB hay 1 TB, thời gian lưu trữ được là rất dài (500 GB lưu được trên 1 năm khi hệ thống có 200 trạm đo).
+   - Kết quả: Hệ thống đã hoạt động ổn định, thông số tính toán được trên trạm NI myRIO sai lệch ít so với thiết bị MR96NSR (dưới 1%), cập nhật các giá trị nhanh (mỗi giây). Số liệu được lưu trữ phục vụ cho công tác phân tích, đánh giá hệ thống điện; dự đoán, khắc phục các rủi ro; giúp cho việc sử dụng điện an toàn, tiết kiệm.
+   4 KẾT LUẬN 
+   Việc xây dựng hệ thống SCADA thử nghiệm cho mạng điện hạ thế với trạm đo tự xây dựng trên nền hệ vi xử lý/vi điều khiển với kit NI myRIO và trạm đo sử dụng thiết bị đo đa năng Mishubishi ME96NSR cùng với phần mềm LabVIEW đã tạo nên một công cụ hữu hiệu phục vụ cho việc quản lý giám sát hệ thống điện và có thể áp dụng cho các đối tượng khác, với khả năng:
+   * Giúp quản lý tốt hơn nguồn năng lượng điện, từ đó đưa ra các phương án phù hợp cho việc vận hành hệ thống điện tiết kiệm, an toàn.
+   * Làm cho Hệ thống SCADA trở nên mềm dẻo, linh hoạt hơn với trạm thu thập số liệu tự thiết kế và lập trình giao tiếp với thiết bị công nghiệp.
+   * Đưa ra được giải pháp công nghệ góp phần thay thế, giảm nhẹ sức lao động của con người.
+   * Hệ thống có thể dễ dàng áp dụng để quản lý các đối tượng khác.
+   Hệ thống có tính ứng dụng cao và hiệu quả về mặt kinh tế xã hội vì việc tự động giám sát hệ thống điện giúp tiết kiệm được nhân lực giám sát thủ công, cập nhật kịp thời, chính xác thông số của mạng điện, từ đó giúp vận hành hệ thống điện an toàn, tiết kiệm hơn.
+   TÀI LIỆU THAM KHẢO
+Chính Phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam, 21/07/2011. Quyết định phê duyệt Quy hoạch phát triển điện lực quốc gia giai đoạn 2011-2020 có xét đến năm 2030, trang 2-8.
+Lương Vinh Quốc Danh, Nguyễn Văn Khanh, Võ Duy Tín và Võ Minh Trí, 2014. Hệ thống quản lý tự động ghi nhận tình trạng sử dụng thiết bị điện qua mạng cục bộ. Tạp chí Khoa học ĐHCT, số 31, trang 1-7. 
+Nguyễn Văn Khanh, Trần Lê Trung Chánh và Đặng Ngọc Cẩn, 2014. Thiết kế hệ thống giám sát và điều khiển thiết bị bằng mạng không dây hoạt động trên máy tính bảng sử dụng hệ điều hành Android, Tạp chí Khoa học ĐHCT, số 32, trang 27-34.
+Misubishi Electric, 2012. ME96NSR-MB Interface specifications. Misubishi Electric Corporation, trang 2-6.
+National Instruments, 2013. User guide and specification NI myRIO-1900. National Instruments, trang 3-9.
+Nguyễn Hữu Phúc, Hồ Huy Ánh và Nguyễn Thế Kiệt, 2003. Ứng dụng PLC xây dựng Panel SCADA giám sát lưới hạ thế. Báo cáo nghiên cứu khoa học cấp Bộ năm 2003, trang 29-30 Chương 1; trang 1-6 Chương 2.
+Seimens, 2013. Power Control System SCADA, Agenda February 27: Energy Automation, trang 72-77.
+Yokogawa, 2012. Fundamentals of Power Measurement, Part I: Electrical Power Measurements, page 18.
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Tập 49, Phần A (2017): 21-26
+
+
+

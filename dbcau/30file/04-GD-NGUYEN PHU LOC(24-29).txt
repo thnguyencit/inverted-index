@@ -1,0 +1,76 @@
+﻿ABSTRACT
+TÓM TẮT
+Trong trường trung học phổ thông, học sinh được học khái niệm đạo hàm ngay từ lớp 11 và đến lớp 12, các em gặp lại khái niệm này trong các chủ đề "Ứng dụng đạo hàm để khảo sát hàm số", "Nguyên hàm", "Tích phân". Do vậy, khái niệm đạo hàm có vai trò khá then chốt trong toán học phổ thông. Thế thì liên quan đến khái niệm đạo hàm có các tổ chức toán học nào? Để góp phần trả lời câu hỏi vừa nêu, bài báo trình bày các tổ chức toán học có liên quan đến khái niệm đạo hàm trong sách giáo khoa toán 11, và tường thuật các kết quả thực nghiệm thu được từ Trường trung học phổ thông Thốt Nốt (TP. Cần Thơ) và Trường trung học phổ thông Ca Văn Thỉnh (tỉnh Bến Tre).
+   1 TỔ CHỨC TOÁN HỌC: MỘT TRONG NHỮNG KHÁI NIỆM TRUNG TÂM CỦA DIDACTIC TOÁN
+   Khái niệm tổ chức toán học xuất phát từ quan niệm xem hoạt động toán học như một hoạt động của con người: chủ thể thực hiện một kiểu nhiệm vụ nào đó trong một thể chế xác định. Đối với toán học, các nhà didactic toán (theo Besso và ctv, 2010) lập luận rằng khi tiến hành một nhiệm vụ toán học, chủ thể phải biết "cách thức" thực hiện (know - how) và đưa ra những lý giải cho 
+quá trình hành động trên cơ sở lý thuyết toán học liên quan (knowledge); và từ đó khái niệm "tổ chức toán học" (tiếng Anh: praxeology hoặc organisation; tiếng Pháp: praxéologie) đã được đưa ra gồm bốn thành phần: kiểu nhiệm vụ T, kỹ thuật , công nghệ , lý thuyết  và được mô hình hóa như sau:
+
+   Mô hình này có ý nghĩa là: mỗi hoạt động của con người đều nhằm thực hiện nhiệm vụ t thuộc kiểu nhiệm vụ T nào nó nhờ sử dụng kỹ thuật , được giải thích bởi công nghệ   và cuối cùng công nghệ  được hợp thức hóa bởi lý thuyết . Mô hình (1) đã được tác giả Nguyễn Phú Lộc (2014) diễn giải lại như sau (xem Hình 1).
+   2 LƯỢC KHẢO TÀI LIỆU
+   Về giảng dạy khái niệm đạo hàm trong trường trung học phổ thông có nhiều tác giả trong nước bàn luận. Tác giả Nguyễn Phú Lộc (2010) cho rằng các khái niệm Giải tích có tính phức tạp nội tạo cao; do vậy, chúng rất khó nhận thức đối với học sinh. Riêng đối với khái niệm đạo hàm, Nguyễn Phú Lộc (2010) bằng cách tiếp lịch sử và tiếp cận lý thuyết Didactic toán đã chỉ ra rằng có "chướng ngại nhận thức" (cognitive obstacle) cho người mới tiếp xúc khái niệm này. Trong một nghiên cứu của mình, tác giả Lê Anh Tuấn (2009) tập trung nghiên cứu các ứng dụng của khái niệm đạo hàm, các vấn đề liên quan đạo hàm và tích phân. Cũng nghiên cứu về đạo hàm, tác giả Nguyễn Thị Mai Liên (2008) đã hệ thống hóa lại các dạng toán có có ứng dụng đạo hàm để giải. Ngoài các công trình trong nước đáng chú ý nêu trên, có hai tác giả nước ngoài nghiên cứu về sự biểu diễn (representation) của khái niệm đạo hàm. Tác giả Santos và Thomas quan tâm đến việc sử dụng chức năng vẽ đồ thị của máy tính tay để tạo sự đa biểu diễn trong dạy học khái niệm đạo hàm. Tác giả Hähkiöniemi (2006) đã chỉ ra vai trò của các biễu diễn trong giảng dạy khái niệm đạo hàm. 
+   Qua các công trình nêu trên, chúng ta thấy rằng khái niệm đạo hàm đã thu hút nhiều tác giả trong và ngoài nước nghiên cứu. Đóng góp của chúng tôi qua bài báo này là nghiên cứu các tổ chức toán học xoay quanh định nghĩa khái niệm đạo hàm trong sách giáo khoa hiện hành, và chỉ ra một sai lầm trong nhận thức của học sinh về khái niệm đạo hàm bằng một thử nghiệm.
+   3 MỤC TIÊU NGHIÊN CỨU
+   Khái niệm đạo hàm có vai trò quan trọng trong chương trình toán phổ thông. Khái niệm này thuộc trong chương trình toán lớp 11; sang lớp 12, học sinh học về khảo sát hàm số, các khái niệm nguyên hàm và tích phân. Tất cả chúng đều được phát triển trên cơ sở khái niệm đạo hàm. Về nhận thức, vì đạo hàm được định nghĩa thông qua việc xét một giới hạn dạng 0/0; do vậy, nó không dễ cho học sinh hiểu tận tường. Do những điều vừa nêu, một câu hỏi và một giả thuyết được đặt ra là:
+   Câu hỏi: Sách giáo khoa Đại số và Giải tích 11 đã bao gồm các tổ chức toán học nào liên quan khái niệm đạo hàm? 
+   Giả thuyết: "Trong việc tính đạo hàm bằng định nghĩa, nếu giới hạn  (hoặc ) không tồn tại hữu hạn thì HS sẽ bị sai lầm khi kết luận sự tồn tại đạo hàm của hàm số  tại một điểm ."
+   Mục tiêu nghiên cứu của chúng tôi là trả lời câu hỏi và kiểm nghiệm giả thuyết nêu trên.
+   4 TỔ CHỨC TOÁN HỌC ĐỐI VỚI KHÁI NIỆM ĐẠO HÀM
+   4.1 Phương pháp nghiên cứu 
+   Để trả lời câu hỏi được nêu ra ở trên (mục 2), chúng tôi đã sử dụng phương pháp phân tích nội dung. Cụ thể là phân tích nội dung toán học liên quan đến khái niệm đạo hàm trong các sách giáo khoa sau đây: M1: Đại số & Giải tích 11 (Trần Văn Hạo và ctv, năm 2008); M2: Đại số & Giải tích 11 nâng cao (Đoàn Quỳnh và ctv., năm 2007); E1: Bài tập Đại Số và Giải Tích 11 (Vũ Tuấn và ctv, năm 2008); E2: Bài tập Đại Số và Giải Tích 11 nâng cao (Nguyễn Huy Đoan và ctv., năm 2007).
+   4.2 Kết quả và bình luận
+Kết quả:
+   Các sách giáo khoa và bài tập trong chương trình toán lớp 11, đã đưa ra 4 kiểu nhiệm vụ chính liên quan đến khái niệm đạo hàm. Cụ thể như sau:
+  
+   Công nghệ : Định lí "Hàm số  có đạo hàm tại  khi và chỉ khi ,  tồn tại và bằng nhau. Khi đó, ta có "
+   Lý thuyết : Lý thuyết về giới hạn của hàm số (M1, tr.154)
+   Ví dụ [T(dh,cm),]: Ví dụ 1, M1, tr.155  
+   Kiểu nhiệm vụ Tpttt: "Viết phương trình tiếp tuyến với đồ thị hàm số tại điểm ."
+   Kỹ thuật : Bước 1, Tính f'(x),   và . Bước 2, Thay ,  và , ta được phương trình tiếp tuyến .
+   Công nghệ : Định lí 3, M1, tr 152: "Phương trình tiếp tuyến của đồ thị (C) của hàm 
+số  tại điểm  là ."
+   Lý thuyết :  Đạo hàm và ý nghĩa hình học của đạo hàm.
+   Ví dụ : Ví dụ 2, M1, tr. 152
+   Kiểu nhiệm vụ con T(pttt,a): "Tìm hệ số góc tiếp tuyến của đồ thị hàm số."
+   Kỹ thuật : Tính  hoặc .
+   Công nghệ : Định lí 2: (M2, tr. 187): 
+   " Đạo hàm của hàm số  tại điểm  là hệ số góc của tiếp tuyến của đồ thị hàm số tại điểm ."
+   Lý thuyết : Đạo hàm và ý nghĩa hình học của đạo hàm.
+   Ví dụ (): Bài toán 4, M2, tr. 192.
+   Kiểu nhiệm vụ con T(pttt,b): "Viết phương trình tiếp tuyến với đồ thị hàm số cho biết hệ số góc của tiếp tuyến."
+   Kỹ thuật : Bước 1: Từ hệ số góc , ta tìm  theo công thức . Bước 2: Tìm , thay  vào phương trình  ta được tiếp tuyến.
+   Công nghệ : Định lí 2: (M2, tr. 187): 
+   " Đạo hàm của hàm số  tại điểm  là hệ số góc của tiếp tuyến của đồ thị hàm số tại điểm ".
+   Lý thuyết : Đạo hàm và ý nghĩa hình học của đạo hàm.
+   Ví dụ : Bài toán 5, M1, tr.156
+   Kiểu nhiệm vụ con T(pttt,c): "Viết phương trình tiếp tuyến với đồ thị hàm số đi qua một điểm  không thuộc đồ thị hàm số (C)."
+   Kỹ thuật : Bước 1: Viết phương trình tiếp tuyến với đồ thị hàm số tại điểm bất kỳ  như sau: . Bước 2: Vì tiếp tuyến (d) đi qua điểm  nên ta có:  
+    (*)
+   Bước 3: Giải phương trình (*) tìm , ,thay vào phương trình (d).
+   Công nghệ : Hướng dẫn (tr.205, M2): Trước hết viết phương trình tiếp tuyến tại điểm có hoành độ  thuộc đồ thị hàm số đã cho. Sau đó tìm  để tiếp tuyến đi qua điểm A.
+   Lý thuyết :  Đạo hàm và ý nghĩa hình học của đạo hàm.
+   Ví dụ : Bài toán 25, tr.205, M2.
+   Kiểu nhiệm vụ Tvt: "Tìm vận tốc tức thời của chuyển động thẳng tại một thời điểm."
+   Kỹ thuật : Tính vận tốc tức thời tại một thời điểm  của chuyển động theo phương trình là hàm số thời gian  theo công thức: .
+   Công nghệ : Ý nghĩa cơ học của đạo hàm.
+   Lý thuyết : Đạo hàm và các ý nghĩa.
+   Ví dụ : Bài toán 7, M1, tr.157
+
+   Bình luận: Qua phân tích các tổ chức toán học có liên quan đến khái niệm đạo hàm và cùng các kết quả ghi nhận trong bảng tổng hợp ở trên (Bảng 1), chúng tôi nhận thấy rằng số lượng bài tập ở cả hai sách giáo khoa M1, M2 và E1, E2 là không chênh lệch nhiều. Riêng kiểu nhiệm vụ "viết phương trình tiếp tuyến" được sách giáo khoa chú trọng và có nhiều bài toán cho học sinh luyện tập. 
+   5 HẠN CHẾ VỀ NHẬN THỨC KHÁI NIỆM ĐẠO HÀM CỦA HỌC SINH
+   5.1 Giả thuyết
+   Từ các kết quả thu được về tổ chức toán học đối với khái niệm đạo hàm và bản chất phức tạp trong định nghĩa khái niệm đạo hàm; để xác định hàm số có đạo hàm hay không phải trải qua một quá trình tính toán. Chính vì những lý do vừa 
+nêu, chúng tôi thấy cần thiết kiểm chứng giả thuyết về việc lĩnh hội khái niệm đạo hàm của học sinh sau đây: 
+   Giả thuyết: "Trong việc tính đạo hàm bằng định nghĩa, nếu giới hạn  (hoặc ) không tồn tại hữu hạn thì học sinh (HS) sẽ bị sai lầm khi kết luận sự tồn tại đạo hàm của hàm số  tại một điểm ."
+   5.2 Kiểm chứng
+   Đối tượng khảo sát: Tổng cộng số học sinh (HS) là 138. HS được chọn làm thử nghiệm thuộc hai trường như sau: Trường THPT Thốt Nốt (thành phố Cần Thơ): 11A1 (có 33 HS, học theo SGK nâng cao hiện hành), 11A5 (có 41 HS, học theo SGK cơ bản hiện hành) do GV P.T.K trực tiếp giảng dạy. Trường THPT Ca Văn Thỉnh (tỉnh Bến Tre): 11T1 (có 36 HS) và 11T4 (có 28 HS) do GV L.T.L trực tiếp giảng dạy theo SGK nâng cao hiện hành. Thử nghiệm được tiến hành vào cuối học kỳ II (khoảng từ tháng 3 đến tháng 5 năm 2014) của chương trình toán lớp 11 năm học 2013 - 2014. Hình thức thử nghiệm: phát phiếu câu hỏi khảo sát HS, thu thập xử lý số liệu, thống kê, đưa ra kết luận có liên quan. 
+    Công cụ khảo sát: Chúng tôi sử dụng bài toán sau đây để kiểm nghiệm giả thuyết.
+   Bài toán: Bằng định nghĩa hãy tính đạo hàm của hàm số sau tại : 
+   Chú ý: Chỉ có KN 9 là chính xác.
+   Kết quả khảo sát và bình luận
+   Kết quả: Thực tế làm bài của học sinh được trình bày trong Bảng 2.
+   Bình luận: Quan sát bảng số liệu trong Bảng 2, chúng ta thấy có 117/138 (84.78%) HS không giải được hoặc bị lỗi trong quá trình giải toán. Một mặt, phần lớn HS gặp lúng túng khi tính giới hạn của hàm số tại một điểm trong trường hợp giới hạn vô cực; và mặt khác đáng chú ý là học sinh không ghi nhớ tính "hữu hạn" của giá trị đạo hàm tại một điểm. Chỉ có 21/138 (15.22%) chọn KN 9; tức là giải đúng hoàn toàn bài toán trên. Từ kết quả thử nghiệm trên đây, giả thuyết của chúng tôi nêu ra có thể chấp nhận được, và có thể khẳng định bước đầu rằng khái niệm đạo hàm là khái niệm khó nhận thức đối với học sinh phổ thông.
+
+   6 KẾT LUẬN
+   Các tổ chức liên quan đến khái niệm đạo hàm trong các sách giáo khoa toán 11, nhìn chung, bao gồm các kiểu nhiệm vụ (dạng toán) cơ bản, theo chúng tôi, phù hợp với xu hướng "giảm tải" của giáo dục phổ thông ở nước ta hiện nay. Kết quả thử nghiệm cho thấy rằng khái niệm đạo hàm nói riêng và các khái niệm trong Giải tích nói chung là những khái niệm có tính phức tạp "nội tại" cao, khó hiểu được một cách thấu đáo đối với học sinh phổ thông.
+   TÀI LIỆU THAM KHẢO
+1. Bessot, A. và ctv., 2010. Những yếu tố cơ bản của Didactic toán. NXB Đại học quốc gia TP. Hồ Chí Minh. 

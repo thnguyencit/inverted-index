@@ -1,0 +1,102 @@
+﻿
+DOI:10.22144/ctu.jsi.2020.046
+BIẾN ĐỘNG QUẦN ĐÀN CÁ SƠN Ambassis vachellii Richardson, 1846 PHÂN BỐ Ở VÙNG VEN BIỂN TÂY, ĐỒNG BẰNG SÔNG CỬU LONG
+Võ Thành Toàn*, Nguyễn Thị Vàng và Trần Đắc Định
+Khoa Thủy sản, Trường Đại học Cần Thơ
+*Người chịu trách nhiệm về bài viết: Võ Thành Toàn (email: vttoan@ctu.edu.vn)
+Thông tin chung:
+Ngày nhận bài: 21/10/2019
+Ngày nhận bài sửa: 01/11/2019
+Ngày duyệt đăng: 23/04/2020
+
+Title: 
+Population dynamics of Ambassis vachellii Richardson, 1846 distributed in the Mekong Delta, Vietnam
+Từ khóa: 
+Cá sơn, các tham số tăng trưởng, Đồng bằng sông Cửu Long, sự bổ sung
+Keywords:
+Ambassis vachellii, growth parameters, Mekong Delta, recruitment   ABSTRACT
+A study on the fluctuation of fish stock of A. vachellii was conducted in the West estuarines of Ca Mau province from August 2017 to June 2019. Fish samples were collected twelve times with two-month intervals, by using trawl-net. Length frequency data were analyzed by using FiSAT II software. Results showed that this species was exploited year-round, but concentrated on the rainy season from June to October. The commonly exploited sizes of fish ranged from 3 cm to 5 cm. The analysis of length-frequency data of 6,922 individuals showed that the Von Bertalanffy growth parameters (VBGF) were L∞=7.35 cm and K=0.73/year. The total mortality (Z), natural mortality (M), and fishing mortality (F) of this species were 2.48 yr-1, 2.12 yr-1, 0.36 yr-1, respectively. The exploitation rate (E=0.15) was lower than that of the potential exploitation rate (Emax=0.421). The length at first capture was 3.36 cm with two recruitment peaks in May and October in this species population.
+   TÓM TẮT
+Nghiên cứu biến động quần đàn cá sơn được thực hiện tại vùng cửa sông phía Tây Cà Mau từ tháng 8/2017 đến 6/2019. Ngư cụ thu mẫu là lưới te. Số liệu tần suất chiều dài của cá được ghi nhận với chu kỳ thu mẫu là 2 tháng/lần và được phân tích bằng phầm mềm FiSAT II. Kết quả cho thấy mùa vụ xuất hiện của cá sơn là quanh năm, tập trung nhiều vào từ tháng 6-10, kích cỡ cá khai thác phổ biến ở chiều dài chuẩn từ 3-5 cm. Với 6.922 mẫu cá sơn thu được và tính toán dữ liệu tần suất chiều dài, sử dụng đường cong tăng trưởng von Bertalanffy đã xác định được các tham số tăng trưởng gồm: L∞=7,35 cm và K=0,73/năm. Tỉ lệ chết của cá là Z=2,48/năm, trong đó tỉ lệ chết tự nhiên của cá khá cao (M=2,12), trong khi đó tỉ lệ chết do khai thác thấp hơn rất nhiều (F=0,36). Cường lực khai thác cá sơn ở khu vực vùng ven biển phía Tây tỉnh Cà Mau (E=0,15) thấp hơn khả năng khai thác với hệ số khai thác tối đa là Emax=0,421. Kết quả cũng chỉ ra rằng sự bổ sung của quần đàn cá vào ngư trường khai thác là 2 lần trong năm, tập trung nhiều vào tháng 5 và tháng 10.Trích dẫn: Võ Thành Toàn, Nguyễn Thị Vàng và Trần Đắc Định, 2020. Biến động quần đàn cá sơn Ambassis vachellii Richardson, 1846 phân bố ở vùng ven biển Tây, Đồng bằng sông Cửu Long. Tạp chí Khoa học Trường Đại học Cần Thơ. 56(Số chuyên đề: Thủy sản)(2): 117-123.
+   1 GIỚI THIỆU
+   Nguồn lợi thủy sản ở vùng ven biển cửa sông thuộc vùng Đồng bằng sông Cửu Long (ĐBSCL) được xem là rất đa dạng và phong phú về thành phần loài và sản lượng, chúng là nguồn thực phẩm quan trọng góp phần cải thiện cuộc sống của ngư dân trong vùng. Tuy nhiên, trong những năm gần đây nguồn lợi này có xu hướng giảm nhiều do việc khai thác nhiều và chưa hợp lý (Trịnh Kiều Nhiên và Trần Đắc Định, 2012; Diệp Anh Tuấn và ctv., 2014). Loài cá sơn (Ambassis vachellii) là một trong ba loài thuộc họ cá sơn (Ambassudae) hiện đang phân bố phổ biến ở vùng cửa sông ven biển thuộc ĐBSCL. Theo Trần Đắc Định và ctv. (2013), loài cá này có vảy lớn, thân hình tương đối thon, cơ quan đường bên gián đoạn, trên hốc mắt có 3-5 gai nhỏ, xương nắp mang có rìa răng cưa, cá có chiều dài thân ngắn (5 cm) và phân bố chủ yếu ở vùng Ấn Độ Dương cho đến vùng phía Tây Thái Bình Dương. Ở ĐBSCL, hiện nay loài cá sơn này được khai thác quanh năm với số lượng xuất hiện khá nhiều, chất lượng thịt cá ngon và được nhiều người ưa chuộng. Tuy nhiên, cho đến nay chưa có nhiều công trình nghiên cứu về đối tượng cá này, đặc biệt là ở các vùng cửa sông ven biển của vùng ĐBSCL. Nhằm tìm hiểu rõ hơn về một số đặc điểm sinh học của loài cá này, nghiên cứu các thông số sinh học quần thể cá sơn ở vùng biển phía Tây thuộc hai nhánh sông Cửa Lớn và sông Bảy Háp của tỉnh Cà Mau đã được thực hiện. Các thông số về biến động quần thể cá (như chiều dài tiệm cận cực đại của cá, hệ số tăng trưởng của cá, tỉ lệ chết của cá, cũng như hệ số khai thác và sự bổ sung của quần đàn) là cơ sở đánh giá hiện trạng khai thác nguồn lợi cá sơn ở vùng nghiên cứu, đồng thời cung cấp thông tin khoa học cho việc nghiên cứu phát triển và quản lý loài cá này trong điều kiện biến đổi khí hậu như hiện nay.
+   2 PHƯƠNG PHÁP NGHIÊN CỨU
+   Mẫu cá sơn được thu bằng ngư cụ lưới te tại vùng biển phía Tây của tỉnh Cà Mau và được giữ lạnh chuyển về phòng thí nghiệm Khoa Thủy sản, Trường Đại học Cần Thơ để phân tích. Thời gian thu mẫu từ tháng 8 năm 2017 đến tháng 6 năm 2019, chu kỳ thu mẫu 2 tháng/lần và được thu vào lúc triều cường của tháng. Hình 1 mô tả vị trí thu mẫu và ngư cụ dùng để thu mẫu.
+
+
+Hình 1: Sơ đồ vị trí thu mẫu cá sơn
+       
+   Số liệu về tần suất chiều dài (standard length = SL, cm) của cá được tính toán và sử dụng phần mềm FiSAT II để xác định các thông số sinh học quần thể của loài cá này (Gayanilo et al., 2005). Chiều dài tối đa (L∞) và hệ số tăng trưởng (K) được xác định bằng phương pháp ELEFAN I (Pauly, 1982; Pauly, 1987; Pauly and David, 1981). Tỉ lệ chết tổng cộng của cá (Z) được xác định bằng phương pháp đường cong sản lượng chuyển đổi thành chiều dài (Length-Converted Capture Curve, Beverton and Holt, 1957; Ricker, 1975). Tỉ lệ cá chết do điều kiện tự nhiên (M) được xác định dựa theo công thức tính của Pauly (1980): LogM= -0,0066 - 0,279LogL∞ + 0,6543LogK + 0,463LogT (L∞ và K là các thông số được tính từ kết quả xử lý bằng phương pháp ELEFAN I. Tỉ lệ cá chết do khai thác được tính bằng công thức F=Z-M  và hệ số khai thác E=F/Z (Ricker, 1975). Sự bổ sung quần đàn và khả năng khai thác tại các nhóm kích cỡ cá được xác định bằng phương pháp tính của Pauly (1987).
+   3 KẾT QUẢ VÀ THẢO LUẬN
+   3.1 Biến động kích cỡ cá sơn 
+   Kết quả nghiên cứu cho thấy kích cỡ của cá sơn thu được khá nhỏ với chiều dài chuẩn (standard length, SL) dao động 1-7 cm, phổ biến ở kích cỡ SL=3-5 cm. Kích cỡ cá có sự biến động lớn giữa mùa mưa và mùa khô ở cả hai vùng cửa sông thuộc biển Tây tỉnh Cà Mau và nhiều nhất là vào mùa mưa (Hình 2). Kết quả này cũng tương tự với công trình nghiên cứu của Trần Đắc Định và ctv. (2013), theo tác giả này thì loài cá sơn này được khai thác quanh năm ở vùng cửa sông ven biển ĐBSCL và kích cỡ xuất hiện của cá đa phần ở giai đoạn cá đã trưởng thành.
+
+
+Hình 2: Biến động kích cỡ cá sơn phân bố ở vùng ven biển phía Tây tỉnh Cà Mau
+1.1 
+   3.2 Các thông số tăng trưởng của quần đàn cá sơn
+   Kết quả phân tích dựa trên dữ liệu về tần suất chiều dài của 6.922 mẫu cá sơn phân bố ở vùng ven biển phía Tây của tỉnh Cà Mau cho thấy tần suất chiều dài của cá thay đổi theo thời gian trong năm. Trong đó kích cỡ cá thu được chủ yếu tập trung ở nhóm 3-5 cm và thời gian thu được cá có số lượng nhiều nhất là trong tháng 8 năm 2017 (Bảng 1).
+
+Bảng 1: Số liệu tần suất chiều dài của cá sơn phân bố ở vùng cửa sông ven biển phía Tây, tỉnh Cà Mau
+Thời gian201720182019Chiều dài chuẩn (SL, cm)81012246810122461-<21893752-<32635374562319113-<415587745193156368814224244454-<510292318476220209761466012516275-<643478615128213916-<721467-<81Tổng25911054028023907261752027020136574         
+   Kết quả phân tích cho thấy quần đàn cá sơn có bốn nhóm kích cỡ xuất hiện khác nhau (Hình 3). Các tham số tăng trưởng của phương trình Von Bertalanffy đối với quần đàn cá này được xác định gồm: L∞=7,35 cm và K=0,73/năm. Chiều dài tối đa của loài cá này nhỏ hơn rất nhiều so với một số loài cá khác phân bố trong cùng hệ sinh thái vùng cửa sông ven biển như loài cá kèo vảy nhỏ (Pseudapocryptes elongates) là 26,0 cm (Tran et al., 2007), loài cá kèo vảy to (Parapocryptes serperaster) là 25,5 cm (Dinh et al., 2015) và loài cá bống cát (Glossogobius giruis) là 20,5 cm (Dinh et al., 2017). Trong một công trình nghiên cứu của Paxton et al. (1989) đã được công bố thì chiều dài lớn nhất (Lmax) của loài cá này là SL=6,5 cm, tương tự với kết quả của nghiên cứu này (Lmax=7 cm, Bảng 1). Tuy nhiên, giá trị chiều dài cực đại (L) của loài cá sơn này cho đến nay cũng chưa được đề cập đến.
+
+
+Hình 3: Đường cong tăng trưởng của cá sơn phân bố vùng cửa sông ven biển Tây
+   
+   Kết quả phân tích bằng đường cong sản lượng chuyển đổi thành chiều dài (Length-Converted Catch Curve, LCCC) cho thấy tỉ lệ chết tổng cộng (Z), tỉ lệ chết tự nhiên (M) và tỉ lệ chết do khai thác (F) của loài cá sơn này lần lượt là Z=2,48/năm, M=2,12/năm và F=0,36/năm (Hình 4). Như vậy, tỉ lệ chết của cá sơn do điều kiện tự nhiên là rất lớn (M=2,12/năm), trong khi đó tỉ lệ chết của cá do điều kiện khai thác ít hơn rất nhiều (F=0,36/năm). Cá sơn thuộc nhóm tăng trưởng khá nhanh với hệ số tăng trưởng là K=0,73/năm.
+
+
+Hình 4: Đường cong sản lượng chuyển đổi thành chiều dài của cá sơn  
+   
+   Hệ số khai thác cá sơn là E=0,15 (Hình 4) và chiều dài đánh bắt đầu tiên là 3,36 cm (Hình 5), kết quả này chứng tỏ khả năng khai thác loài cá này nằm trong giới hạn cho phép khai thác do hệ số khai thác của chúng thấp hơn so với hệ số khai thác tối đa là Emax=0,421 (Hình 6). Kết quả này tương tự với nghiên của Tran et al. (2007), khả năng khai thác cá kèo vảy nhỏ nằm trong giới hạn cho phép khai thác ở vùng cửa sông ven biển ĐBSCL. Như vậy, quần đàn cá sơn hiện nay vẫn còn tiềm năng để phục vụ cho việc khai thác do chúng có hệ số khai thác tối đa tương đối cao (Emax=0,421).
+
+
+Hình 5: Khả năng khai thác tại các nhóm chiều dài của quần đàn cá sơn
+(L25=3,36 cm; L50=3,92 cm; L75=4,48)
+
+Hình 6: Hệ số khai thác của quần đàn cá sơn (E10=0,355; E50=0,278; Emax=0,421)
+
+   3.3 Sự bổ sung của quần đàn cá sơn
+   Sự bổ sung của quần đàn cá sơn vào ngư trường khai thác là hai lần trong năm và giữa hai lần bổ sung cách nhau khoảng 6 tháng. Kết quả này tương tự với kết quả nghiên cứu của Võ Thành Toàn và Trần Đắc Định (2005), sự bổ sung quần đàn của quần đàn cá kèo vảy nhỏ phân bố ở khu vực ĐBSCL là hai lần trong năm. Điều đó chứng tỏ các loài cá này có khả năng sinh sản hai lần trong năm. Theo Tran et al. (2007) và Dinh et al. (2016), mùa vụ sinh sản của cá kèo vảy nhỏ và cá kèo vảy to ở vùng ĐBSCL tập trung chủ yếu vào mùa mưa. Mùa vụ sinh sản chính của loài cá sơn này cũng tập trung chủ yếu vào mùa mưa (Hình 7).
+
+
+Hình 7: Tỉ lệ bổ sung quần đàn cá sơn  
+
+   4 KẾT LUẬN VÀ ĐỀ XUẤT
+   4.1 Kết luận
+   Loài cá sơn (Ambassis vachellii) có tốc độ tăng trưởng khá nhanh (K=0,73/năm) và chiều dài tiệm cận cực đại của cá tương đối nhỏ (L=7,35 cm). Tỉ lệ chết tổng cộng của loài cá này là Z=2,48/năm, trong đó tỉ lệ chết tự nhiên cao (M=2,12) và tỉ lệ chết do khai thác thấp (F=0,36).
+   Cường lực khai thác cá sơn ở khu vực vùng ven biển phía Tây tỉnh Cà Mau là khá thấp (E=0,15), khả năng khai thác của loài cá này nằm trong giới hạn cho phép (Emax=0,421).
+   Quần đàn của cá sơn được bổ sung hai lần trong năm với tỉ lệ bổ sung của quần đàn nhiều nhất là trong mùa mưa (từ tháng 5 đến tháng 10) và chu kỳ bổ sung cách nhau 6 tháng.
+   4.2 Đề xuất
+   Tiếp tục nghiên cứu về biến động quần đàn của hai loài cá sơn còn lại trong họ cá sơn (Ambassidae) ở các vùng ven biển khác của khu vực ĐBSCL.
+   LỜI CẢM TẠ
+   Đề tài này được tài trợ bởi Dự án Nâng cấp Trường Đại học Cần Thơ VN14-16 bằng nguồn vốn vay ODA từ chính phủ Nhật Bản.
+   TÀI LIỆU THAM KHẢO
+Beverton, R.J.H. and Holt S.J, 1957. On the dynamics of exploited fish populations, vol. 19, Chapman & Hall, London, 533 pages.
+Diệp Anh Tuấn, Đinh Minh Quang và Trần Đắc Định, 2014. Nghiên cứu thành phần loài cá họ bống trắng (Gobiidae) phân bố ở ven biển tỉnh Sóc Trăng. Tạp chí Khoa học ĐHQGHN: Khoa học Tự nhiên và Công nghệ. 30(3): 68-76.
+Dinh, M.Q.; Y, P.N. and Dinh, T.D., 2017. Population biology of the goby Glossogobius giuris (Hamilton 1822) caught in the Mekong Delta. Asian Fisheries Sciences.  30(1): 26-37.
+Dinh, M.Q.; Qin, J.G. and Dinh, T.D., 2015. Population and age structure of the goby Parapocryptes serperaster (Richardson, 1864; Gobiidae: Oxudercinae) in the Mekong Delta. Turkish Journal of Fisheries and Aquatic Sciences. 15(2): 345-357.
+Gayanilo, F.C; Sparre, P. and Pauly, D., 2005. FAO-ICLARM stock assessment tools II (FiSAT II): User's guide, FAO Computerized Information Series: Fisheries, FAO, Roma, 126.
+Pauly, D., 1980. On the interrelationships between natural mortality, growth parameters, and mean environmental temperature in 175 fish stocks. Journal du Conseil. 39(2): 175-92.
+Pauly, D., 1982. Studying single-species dynamics in a tropical multi-species context.  Theory and management of tropical fisheries, Philippines, eds D. Pauly, G.I. Murphy. ICLARM.  9: 33-70.
+Pauly, D., 1987. A review of the ELEFAN system for analysis of length-frequency data in fish and aquatic invertebrates.  The international conference on the theory and application of length-based methods for stock assessment, Mazzara del Vallo, eds D. Pauly, GR Morgan. ICLARM. 13: 7-34.
+Pauly, D. and David, N., 1981. ELEFAN I, a basic program for the objective extraction of growth parameters from length-frequencies data. Meeresforschung. 28(4): 205-211.
+Paxton, J.R.; Hoese, D.F.; Allen, G.R. and Hanley, J.E., 1989. Pisces. Petromyzontidae to Carangidae. Zoological Catalogue of Australia, Vol. 7. Australian Government Publishing Service, Canberra, 665 pages.
+Ricker, W.E., 1975. Computation and interpretation of biological statistics of fish populations, vol. 191, Department of the Environment, Fisheries and Marine Service, Canada, 382 pages.
+Sparre, P. and Venema, S.C., 1992. Introduction to tropical fish stock assessment - Part I:  Manual, FAO, Roma, 337 pages.
+Trần Đắc Định, Shibukawa Koichi, Nguyễn Thanh Phương, Hà Phước Hùng, Trần Xuân Lợi, Mai Văn Hiếu và Utsugi Kenzo, 2013. Mô tả định loại cá Đồng Bằng Sông Cửu Long, Việt Nam. Nhà xuất bản Đại học Cần Thơ. 174 trang.
+Dinh, T.D., Ambak, M. A., Hassan, A. and Phuong, N.T., 2007. Population biology of the goby Pseudapocryptes elongatus (Cuvier, 1816) in the coastal mud flat areas of the Mekong Delta, Vietnam. Asian Fisheries Sciences. 20(2): 165-79.
+Trịnh Kiều Nhiên và Trần Đắc Định, 2012. Hiện trạng khai thác và quản lý nguồn lợi hải sản ở tỉnh Sóc Trăng. Tạp chí Khoa học Trường Đại học Cần Thơ. 24b: 46-55.
+Võ Thành Toàn và Trần Đắc Định, 2005. Một số nghiên cứu bước đầu về nguồn lợi cá kèo vẩy nhỏ (Pseudapocryptes elongatus Cuvier, 1816) phân bố ở khu vực ven biển tỉnh Bạc Liêu. Tuyển tập nghề cá sông Cửu Long. Nhà xuất bản Nông nghiệp, 217-225.
+Von Bertalanffy, L., 1934. A quantitative theory of organic growth. Inquiries on growth laws & Human Biology. 10: 181-213.
+
+
+
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Tập 56, Số chuyên đề: Thủy sản (2020)(2): 117-123
+
+8
+
+
+

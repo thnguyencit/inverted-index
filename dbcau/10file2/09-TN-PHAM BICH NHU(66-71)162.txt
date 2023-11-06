@@ -1,0 +1,161 @@
+﻿
+DOI:10.22144/ctu.jvn.2018.162
+XÂY DỰNG ẢNH CỦA ĐỒNG CẤU CHUYỂN SINGER HẠNG 3
+Phạm Bích Như*
+Khoa Khoa học Tự nhiên, Trường Đại học Cần Thơ
+*Người chịu trách nhiệm về bài viết: Phạm Bích Như (email: pbnhu@ctu.edu.vn)
+Thông tin chung:
+Ngày nhận bài: 26/03/2018
+Ngày nhận bài sửa: 25/05/2018
+Ngày duyệt đăng: 27/12/2018
+
+Title: 
+Construction image of the third Singer transfer
+Từ khóa: 
+Đại số Steenrod, đối đồng điều, đồng cấu đại số, đồng cấu chuyển Singer, giải thức Bar
+Keywords:
+Algebraic homomorphism, cohomology, resolution Bar, Singer transfer, Steenrod algebra   ABSTRACT
+The cohomology of the Steenrod algebra is one of the most important objects in calculating the stable homotopy group of spheres through the Adams range. Algebraic homomorphism is considered an algebraic form of the geometric homomorphism on the Adams range. It has the ability to detect many non-trivial elements in the subject matter of algebraic Steenrod. Some authors studied this matter on field of characteristic 2, however it has not been studied much on field of characteristic odd prime p. This article is aimed to build the Singer transfer rank 3 on field of characteristic odd prime p and some examples on field of characteristic 3.
+   TÓM TẮT
+Đối đồng điều của đại số Steenrod là một trong những đối tượng quan trọng trong việc tính nhóm đồng luân ổn định của mặt cầu thông qua dãy phổ Adams. Đồng cấu chuyển đại số  được xem như dạng đại số của đồng cấu chuyển hình học trên trang Es của dãy phổ Adams. Nó có khả năng phát hiện được nhiều phần tử không tầm thường trong đối đồng điều của đại số Steenrod. Một số tác giả đã nghiên cứu về vấn đề này trên trường có đặc số 2, tuy nhiên trên trường đặc số nguyên tố p lẻ vẫn chưa được nghiên cứu nhiều. Bài báo này xây dựng ảnh đồng cấu chuyển Singer hạng 3 trên trường có đặc số p lẻ và một số ví dụ trên trường có đặc số .Trích dẫn: Phạm Bích Như, 2018. Xây dựng ảnh của đồng cấu chuyển Singer hạng 3. Tạp chí Khoa học Trường Đại học Cần Thơ. 54(9A): 66-71.
+   1 	GIỚI THIỆU
+   Với ý tưởng nghiên cứu đối đồng điều của đại số Steenrod bằng công cụ lý thuyết bất biến modular, năm 1989, Singer đã xây dựng một đồng cấu thuần túy đại số, gọi là đồng cấu chuyển đại số (hay còn gọi là đồng cấu chuyển Singer) 〖Tr〗_s. Đồng cấu chuyển đại số của Singer  còn được xem như dạng đại số của đồng cấu chuyển hình học trên trang của dãy phổ Adams. Ngay lập tức nó thu hút được sự chú ý của các nhà toán học. Trên trường có đặc số bằng 2, với sự kiện được chứng minh là các đẳng cấu với  và  là một đồng cấu đại số (Singer, 1989) cùng với những tính toán về ảnh của đồng cấu chuyển đại số ở số chiều thấp (Bruner et al., 2005; Hung, 2005; Ha, 2007; Quynh, 2007;  Nam, 2008; Hung and Quynh, 2009; Chon and Ha, 2012; Chon and Ha, 2014) chứng tỏ rằng đồng cấu chuyển đại số có khả năng phát hiện được nhiều phần tử không tầm thường trong đối đồng điều của đại số Steenrod, do đó nó được kỳ vọng là một công cụ hữu hiệu để nghiên cứu đối đồng điều của đại số Steenrod. Ở Việt Nam, việc nghiên cứu về đồng cấu chuyển Singer và các ứng dụng của nó cũng được nhiều nhà toán học quan tâm như  Hung, 2005; Ha, 2007; Sum, 2010; Chon and Ha, 2012, 2014. Từ đó, có thể khẳng định những nhóm nghiên cứu của Việt Nam đã có đóng góp quan trọng cho hướng nghiên cứu này. Họ đã hoàn thành việc mô tả ảnh của đồng cấu chuyển đại số , với s=4, và chỉ ra một số đặc tính quan trọng của . Điển hình cho các đóng góp này là việc chứng minh , s>5  không là đẳng cấu tại vô hạn bậc (Hung, 2005).  Tuy nhiên, những kết quả trên chỉ tập trung chủ yếu vào nghiên cứu đồng cấu chuyển đại số trên trường có đặc số 2. Cho đến hiện tại các đóng góp về đồng cấu chuyển đại số trên trường đặc số p, với p lẻ, là hết sức hạn chế (Crossley, 1999). Do đó, việc xác định ảnh của đồng cấu chuyển đại số vẫn còn là một vấn đề cần được quan tâm nghiên cứu, đặc biệt là trên trường có đặc số p, với p lẻ.
+   2 KIẾN THỨC CƠ BẢN
+   2.1 Phức dây chuyền
+   Định nghĩa 1: Cho R là một vành. Phức dây chuyền (M,d) là một họ các R-mô đun ( )
+   
+thỏa  , tức là  .
+   Định nghĩa 2: Cho phức dây chuyền  
+
+   và phức dây chuyền  
+.
+   Khi đó, phức được gọi là phức con của phức nếu  
+   Định nghĩa 3: Cho phức dây chuyền  
+.
+   Khi đó, nếu thỏa  thì được gọi là n-chu trình và b được gọi là n-biên. Ngoài ra,  được gọi là nhóm đồng điều thứ n và  được gọi là đồng điều của phức .
+   Định nghĩa 4: Cho hai phức dây chuyền  và . Một đồng cấu dây chuyền   là một họ các đồng cấu mô đun sao cho biểu đồ sau giao hoán 
+
+   Định nghĩa 5: Cho
+   
+là một dãy khớp ngắn của phức dây chuyền. Tại 
+mỗi số nguyên n tồn tại một ánh xạ  thỏa
+   trong đó,  được xác định  ( là n-chu trình trong ).
+   Đồng cấu  được gọi là đồng cấu nối.
+   Việc xác định ảnh của đồng cấu nối được xác định theo sơ đồ sau:
+
+    được xác định , trong đó  là n-chu trình trong  và  là (n-1)-chu trình trong . 
+   2.2 Giải thức Bar
+   Cho  là một đại số và  là một -mô đun phải, khi đó  là một -mô đun với tác động theo quy tắc .Đặt là một phức của -mô đun với bậc n là 
+   
+   Vi phân được cho bởi
+   
+    là một dãy thức tự do của M và được gọi là giải thức Bar.
+   2.3 Đồng cấu chuyển đại số
+   Cho  là một trường có đặc số nguyên tố p lẻ,  là một - không gian véc tơ s chiều và là không gian phân loại của nhóm cộng của không gian . Đối đồng điều modulo p của , ký hiệu , trong đó  là đại số đa thức sinh bởi và  là đại số ngoài sinh bởi  với x, y thỏa   và . Khi đó, 
+   ,trong đó,  và  và khi   thì các phần tử của  có dạng  với  hoặc 1 và  với   
+   Đồng cấu chuyển đại số 
+.
+   Đồng cấu này được xây dựng bởi Singer và nó được xem như là dạng đại số của đồng cấu chuyển hình học . Trong phần này, một ánh xạ giữa các dãy phổ May được xây dựng
+   . 
+   Ánh xạ này sẽ hội tụ về đồng cấu chuyển đại số . Hơn nữa,  có bậc đồng điều  trùng với ánh xạ cảm sinh của đồng cấu chuyển trong mô đun phân bậc kết hợp tương ứng. 
+   Tác động của các phần tử trong đại số Steenrod A được xác định bởi các quan hệ sau:
+    
+
+   3 KẾT QUẢ CHÍNH
+   3.1 Xây dựng đồng cấu chuyển Singer hạng 1
+   Cho dãy khớp ngắn
+   trong đó, ,
+,
+           và   
+   Dãy khớp trên cảm sinh dãy khớp ngắn trên dãy thức Bar
+   
+   Dãy khớp này sinh ra đồng cấu nối
+
+   Khi  ta có đồng cấu chuyển Singer hạng 1
+    	Xây dựng biểu diễn của  
+   Lấy  sao cho  tức là
+Khi đó, nghịch ảnh của  qua là
+.
+Ta có
+
+   Do đó, 
+    với . 
+   Khi k=1 ta có . 
+   Ví dụ: Trong đại số Steenrod A3, ta xác định ảnh đồng cấu chuyển hạng 1 trên dãy thức Bar
+  
+   Như vậy,   có cơ sở gồm các đa thức  và có cơ sở gồm các phần tử có dạng  và  là ảnh của đồng cấu của  trên giải thức Bar. 
+   3.2 Xây dựng đồng cấu chuyển Singer hạng 2
+   Cho dãy khớp ngắn
+     
+   trong đó 
+
+
+và  
+   Dãy khớp trên cảm sinh dãy khớp ngắn trên dãy thức Bar
+
+   Dãy khớp này sinh ra đồng cấu nối
+
+   Ta lấy tích hai đồng cấu nối  và  ta được đồng cấu nối
+   
+Khi n=2 ta có đồng cấu chuyển Singer hạng 2
+     Xây dựng biểu diễn của  
+   Lấy  sao cho  tức là
+
+ Khi đó, nghịch ảnh của qualà
+
+ 	Ta có
+	Do đó, 
+
+Khi  ta có 
+	Ví dụ: Trong đại số Steenrod , ta xác định ảnh đồng cấu chuyển hạng 2 trên dãy thức Bar
+   
+   3.3 Xây dựng đồng cấu chuyển Singer hạng 3
+   Cho dãy khớp ngắn
+   
+   trong đó, 
+   
+   với  
+   và  
+   Dãy khớp trên cảm sinh dãy khớp ngắn trên dãy thức Bar
+   
+   Dãy khớp này sinh ra đồng cấu nối
+   
+   Ta lấy tích ba đồng cấu nối và ta được đồng cấu nối
+   
+   Khi n=3 ta có đồng cấu chuyển Singer hạng 3
+ 
+   Ta xây dựng biểu diễn của . 
+   Lấy 
+ sao cho  tức là
+   
+    Khi đó, nghịch ảnh của  qua  là 
+   
+    Ta có
+    
+	Do đó, 
+   		Khi k=3 ta có
+    Ví dụ: Trong đại số Steenrod  , ta xác định ảnh đồng cấu chuyển hạng 3 trên dãy thức Bar
+
+4. KẾT LUẬN 
+   Dựa trên các kết quả nghiên cứu của các nhà toán học trong và ngoài nước về đồng cấu chuyển đại số trên trường có đặc số 2, đặc biệt là hai bài báo của hai tác giả  Chơn và Hà, ảnh đồng cấu chuyển Singer hạng 3 đã được xây dựng trên trường có đặc số nguyên tố lẻ đã được xây dựng. Tuy nhiên, các kết quả nghiên cứu chưa chứng minh được sự ổn định của đồng cấu chuyển Singer trên các đặc số nguyên tố lẻ khác nhau và đây cũng là hướng nghiên cứu trong thời gian tới.
+   TÀI LIỆU THAM KHẢO
+Bruner, R. R.,  Ha, L. M. and Hung, N. H. V., (2005). On behavior of the algebraic transfer, Transactions of the American Mathematical Society. 357(2): 473- 487.
+Bruner, R. R., 2009. An Adams spectral sequence Primer. Department of Mathematics. Wayne State University. Detroit MI 48202-3489. USA.
+Chon, P. H.  and Ha, L. M., 2012. On May spectral sequence and the algebraic transfer. Manuscirpta Mathematica. 138(1): 141-160.
+Chon, P. H.  and Ha, L. M., 2014. On the May spectral sequence and the algebraic transfer II. Topology and its Application. 178: 372-383.
+Crossley, M. D., 1999. generators for  and Singer's homological transfer. Mathematische Zeitschrift. 230(3): 401-411.
+Crossley, M. D.,1999. Monomial bases for  over A(p). Transactions of the American Mathematical Society. 351(1): 171-192. 
+Ha, L. M., 2007. Sub-Hopf algebra of the Steenrod algebra and Singer transfer. Geometry and Topology Monographs. 11: 81-105.
+Hung, N. H. V., 2005. The cohomology of the Steenrod algebra and representations of the general linear groups. Transactions of the American Mathematical Society. 375(10): 4065- 4089.
+Hung, N. H. V. and Quynh, V. T. N., 2009. The image of the fourth algebraic transfer. Comptes rendus de l'Académie des Sciences, Paris, Ser. I. 347: pp 23-24, 1415-1418.
+Nam, T. N., 2008. Transfert algébrique et action du groupe linéaire sur les puissances divisées modulo 2, Annales de l'Institut Fourier (Grenoble). 58: 1785-1837.
+Quynh, V. T. N., 2007. On behavior of the fifth algebraic transfer. Geometry and Topology Monographs. 11(2007): 309-326.
+Singer, W. M., 1989. The transfer in homological algebra. Mathematische Zeitschrift. 202: 493-523.
+Sum, N., 2010. The negative answer to Kameko's conjecture on the hit problem. Advances in Mathematics. 225: 2365-2390.
+Sum, N., 2015. On the Peterson hit problem. Advances in Mathematics. 274: 432- 489.
+
+   
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Tập 54, Số 9A (2018): 66-71
+
+
+

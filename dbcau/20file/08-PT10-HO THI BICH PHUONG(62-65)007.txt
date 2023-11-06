@@ -1,0 +1,74 @@
+﻿
+DOI:10.22144/ctu.jsi.2019.007
+CHỈ THỊ PHÂN TỬ CSFEMALE-1 VÀ GIỚI TÍNH CỦA DƯA LEO
+Hồ Thị Bích Phượng, Đặng Thanh Dũng và Lê Thị Trúc Linh*
+Khoa Công nghệ sinh học, Trường Đại học Mở Thành phố Hồ Chí Minh
+*Người chịu trách nhiệm về bài viết: Lê Thị Trúc Linh (email: linh.ltt@ou.edu.vn)
+Thông tin chung:
+Ngày nhận bài: 13/11/2018
+Ngày nhận bài sửa: 14/01/2019
+Ngày duyệt đăng: 12/04/2019
+
+Title: 
+Molecular marker CsFemale-1 and sex determination in cucumber
+Từ khóa: 
+CsFemale-1, dòng toàn hoa cái, dưa leo, hoa đực, marker phân
+Keywords:
+CsFemale-1, Cucumis sativus, gynoecious line, male flower, molecular marker   ABSTRACT
+In breeding programs, it is important to accurately identify crop phenotypes. The purpose of this study was to determine the correlation between marker CsFemale-1 and sex phenotype of different cucumber lines. PCR with CsFemale-1 marker was applied for 120 samples from 12 pure cucumber lines (5 gynoecious and 7 monocecious lines, ten plants for each). In 50 samples of 5 gynoecious lines, PCR results showed that the correlation between marker CsFemale-1 and female phenotype was 100%. However, it was found that in 70 samples of 7 monoecious lines, the correlation between marker CsFemale-1 and monoecious lines was 42%.  These data suggest that CsFemale-1 precisely identify gynoecious cucumber. However, in order to be utilized for breeding, CsFemale-1 should be combined with other markers specific for monoecious lines.
+   TÓM TẮT
+Trong quá trình chọn giống, việc nhận diện chính xác kiểu hình của cây trồng có vai trò rất quan trọng. Nghiên cứu được tiến hành nhằm mục đích xác định mối tương quan giữa chỉ thị phân tử CsFemale-1 với kiểu hình giới tính hoa của các dòng dưa leo. Thực hiện phản ứng PCR sử dụng chỉ thị CsFemale-1 để khuếch đại vùng trình tự mục tiêu trên 120 mẫu thuộc 12 dòng dưa leo thuần (5 dòng toàn hoa cái, 7 dòng có cả hoa đực và hoa cái, mỗi dòng 10 mẫu). Kết quả sàng lọc 50 mẫu thuộc 5 dòng toàn hoa cái cho thấy độ tương thích giữa chỉ thị CsFemale-1 với kiểu hình toàn hoa cái là 100%. Tuy nhiên, với 70 mẫu có kiểu hình có cả hoa đực và hoa cái, độ tương thích giữa CsFemale-1 và kiểu hình là 42%. Kết quả này cho thấy, khả năng nhận diện các dòng dưa leo mang toàn hoa cái của CsFemale-1 khá tốt. Tuy nhiên, để có thể ứng dụng trong chọn giống, cần kết hợp CsFemale-1 với một chỉ thị phân tử khác để nhận diện chính xác kiểu hình dòng dưa leo có cả hoa đực và hoa cái.Trích dẫn: Hồ Thị Bích Phượng, Đặng Thanh Dũng và Lê Thị Trúc Linh, 2019. Chỉ thị phân tử CsFemale-1 và giới tính của dưa leo. Tạp chí Khoa học Trường Đại học Cần Thơ. 55(Số chuyên đề: Công nghệ Sinh học)(1): 62-65.
+   1 MỞ ĐẦU
+   Dưa leo (Cucumis sativus L.) thuộc họ bầu bí (Cucurbitaceae), là một loại thực phẩm quen thuộc của nhiều gia đình do có vị ngọt, giòn và tính mát. Dưa leo chứa nhiều nước, vitamin và các khoáng chất tự nhiên cần thiết cho cơ thể. Không những thế, một số hoạt chất có trong dưa leo như lariciresinol, pinoresinol và secoisolariciresinol còn có tác dụng phòng ngừa ung thư rất tốt (Muruganantham et al., 2015).
+   Dưa leo có thể trồng được ở nhiều vùng khác nhau trong cả nước, kéo theo nhu cầu về nguồn hạt giống lớn. Năng suất và chất lượng là hai yếu tố chính được chú trọng trong tiến trình cải thiện giống dưa leo. Trong đó, tính trạng giới tính hoa có ý nghĩa rất quan trọng trong các chương trình chọn tạo giống dưa leo vì ảnh hưởng trực tiếp đến cả năng suất và chất lượng của dưa leo.
+   Giới tính hoa ở dưa leo được xác định bởi ba gen chính F, M và A. Gen trội F (Female) kiểm soát sự biểu hiện hoa cái, mức độ tác động của kiểu gen xếp theo thứ tự FF > Ff > ff. Gen lặn M (Monoecious) kiểm soát sự biểu hiện hoa lưỡng tính, kiểu gen M- quy định biểu hiện hoa đơn tính và kiểu gen mm quy định biểu hiện hoa lưỡng tính. Gen lặn A (Androecious) làm tăng xu hướng hình thành hoa đực khi kết hợp với gen F ở tổ hợp gen lặn aaff. Sự kết hợp và tương tác giữa ba gen F, M và A hình thành các loại kiểu hình giới tính hoa khác nhau ở dưa leo như dòng có toàn hoa cái (F-M-), dòng có cả hoa đực và hoa cái (ffM-A-), dòng toàn hoa lưỡng tính (F-mm) hay dòng có hoa đực và hoa lưỡng tính (ffmm) (Mibus and Tatlioglu, 2004; Knopf and Trebitsh, 2006; Li et al., 2009; Win et al., 2015). Trong đó, dòng toàn hoa cái được chú ý vì có thể được sử dụng làm dòng mẹ trong sản xuất hạt giống lai và cho năng suất cao khi trồng.
+   Để nhận diện dòng dưa leo toàn hoa cái, các phương pháp truyền thống phải chờ giống phát triển thành cây trưởng thành mới đánh giá được. Các biện pháp này thường tốn nhiều thời gian và công sức, dẫn đến chi phí cao. Hiện nay, chỉ thị phân tử được phát triển và trở thành công cụ hữu ích giúp nhận diện sớm các dòng dưa leo toàn hoa cái. CsFemale-1 là một trong những chỉ thị phân tử được chứng minh có khả năng nhận diện dòng dưa leo toàn hoa cái (Win et al., 2015). Vì vậy, nghiên cứu này được thực hiện nhằm mục đích sàng lọc bộ mẫu giống dưa leo ở Việt Nam bằng marker CsFemal-1.
+   2 NGUYÊN LIỆU VÀ PHƯƠNG PHÁP
+   2.1 Thực vật
+   Nghiên cứu sử dụng 120 mẫu dưa leo thuộc 12 dòng thuần có nguồn gốc từ các dòng địa phương trong nước (5 dòng toàn hoa cái và 7 dòng có cả hoa đực và hoa cái), cung cấp bởi công ty TNHH hạt giống Tân Lộc Phát. Các mẫu dưa leo được trồng trong nhà lưới với điều kiện môi trường giống nhau. Từng mẫu được đánh số trước khi tiến hành thu nhận lá tách chiết DNA để so sánh với kiểu hình giới tính hoa sau đó.
+   2.2 Phương pháp tách chiết DNA từ lá dưa leo
+   DNA bộ gen được tách từ lá non dưa leo bằng Plant DNAzol (r) Reagent (Invitrogen, 10978021) theo quy trình của nhà sản xuất. Nồng độ DNA sau khi tách chiết được xác định bằng máy quang phổ. Độ tinh sạch của DNA được xác định thông qua tỉ lệ A260/A280. DNA sau đó được pha loãng tới 25ng/μL và bảo quản ở -20oC cho các thí nghiệm tiếp theo. 
+   2.3 PCR 
+   Phản ứng PCR được thực hiện với chỉ thị CsFemale-1 (Win et al., 2015) có trình tự mồi 
+xuôi (5'-TGGAGATAAAGCGTAAGGGAA-3') và trình tự mồi ngược (5'-CCTCCAACGTCATAGAGTAAA-3') để khuếch đại một đoạn gen mục tiêu có kích thước khoảng 200 bp trong bộ gen của dưa leo. Tổng thể tích phản ứng PCR là 20 μL với các thành phần phản ứng như sau: 25 ng DNA; 0,4 μL Phire Hot Start II DNA Polymerase (Invitrogen, F122S); 0,5 μM mồi xuôi (PDH-BIO); 0,5 μM mồi ngược (PDH-BIO); 200 μM dNTP (Bioline, BIO-39044) và 1X Buffer. Chu trình nhiệt của phản ứng PCR: 98oC - 30s, 30 chu kỳ gồm 98oC - 5s, Tm tối ưu 5s, 72oC - 7s và 72oC - 30s để kết thúc phản ứng.
+   2.4 Điện di 
+   Sản phẩm PCR được điện di trên gel agarose 2% (Invitrogen, 16520050) trong dung dịch TBE (Sigma, T4415) với 0,1 μg/mL ethidium bromide (Sigma, E1510), điện trường 90V trong thời gian 90 phút. Sản phẩm được phát hiện bằng Gel Doc (Biorad).
+   2.5 Thời gian và địa điểm thực hiện
+   Nghiên cứu được thực hiện từ tháng 03/2018 đến tháng 09/2018, tại Phòng thí nghiệm Sinh học phân tử thuộc trường Đại học Mở Thành phố Hồ Chí Minh và Khu nhà lưới thuộc công ty TNHH Hạt giống Tân Lộc Phát.
+   3 KẾT QUẢ
+   Tối ưu hóa điều kiện phản ứng PCR
+   Một trong những yếu tố quyết định đến hiệu suất và kết quả của phản ứng PCR là nhiệt độ bắt cặp. Do đó, nhiệt độ bắt cặp tối ưu của cặp mồi CsFemale-1 được khảo sát và xác định trước khi thực hiện phản ứng PCR trên các dòng dưa leo thuần. Thực hiện phản ứng PCR với các thành phần phản ứng và số chu kỳ cố định nhưng nhiệt độ bắt cặp thay đổi từ 50oC - 60oC.
+
+
+Hình 1: Phản ứng PCR với cặp mồi CsFemale-1 với các nhiệt độ lai khác nhau trên hai mẫu DNA được tách chiết từ lá dưa leo
+   Kết quả điện di sản phẩm PCR cho thấy ở mọi nhiệt độ từ 50o C - 60o C đều cho sản phẩm PCR rõ ràng (Hình 1). Tuy nhiên, vạch sản phẩm PCR ở các ngưỡng nhiệt độ thấp (từ 50oC - 55,7oC) mảnh hơn so với ở nhiệt độ đặc hiệu từ 58oC - 60oC. Trong đó nhiệt độ bắt cặp ở 60oC cho băng sáng và đậm nhất so với các nhiệt độ còn lại. Như vậy, nhiệt độ lai 60oC là tối ưu cho cặp mồi CsFemale-1.
+   Mối tương quan giữa CsFemale-1 và bộ mẫu 
+   Một chỉ thị được sử dụng để hỗ trợ quá trình chọn tạo giống phải có sự tương thích chặt chẽ với tính trạng mục tiêu, giúp nhận diện chính xác tính trạng mục tiêu. Ở thí nghiệm này, mối tương quan giữa chỉ thị CsFemale-1 với 120 mẫu thuộc 12 dòng dưa leo thuần đã biết rõ kiểu hình về giới tính hoa, bao gồm: 5 dòng dưa leo toàn hoa cái (50 mẫu) và 7 dòng có cả hoa đực và hoa cái (70 mẫu) được khảo sát. Các điều kiện về quá trình tách chiết DNA và chu trình nhiệt của phản ứng PCR, thành phần phản ứng PCR, được thực hiện theo phản ứng tối ưu hóa ở thí nghiệm trên. 
+
+
+
+Hình 2: Kết quả mối tương quan giữa kiểu hình và kiểu gen của bộ mẫu khi sử dụng chỉ thị CsFemale-1
+123456789101112KHHoa đực nhiều hơn hoa cáiToàn hoa cáiHoa đực nhiều hơn hoa cáiA 197197163163163163163163163163163197KGffffFFFFFFFFFFFFFFFFFFffB ++--+++++--+(A): Kích thước sản phẩm PCR (bp); KH: kiểu hình; (B) Độ tương thích giữa kiểu gen và kiểu hình; KG: kiểu gen
+
+   Chỉ thị CsFemale-1 cho sản phẩm PCR kích thước 163 bp cho các dòng dưa leo đồng hợp toàn hoa cái và kích thước 197 bp cho các dòng dưa leo đồng hợp có đồng thời hoa đực và hoa cái (hoặc hoa đực và hoa lưỡng tính) trên cùng một cây. Kết quả khảo sát trên 120 mẫu cho thấy chỉ thị CsFemale-1 nhận diện được chính xác 100% giới tính của các dòng dưa leo toàn hoa cái trong bộ mẫu (các dòng số 5-9, Hình 2). Tuy nhiên, đối với dòng dưa leo có cả hoa đực và hoa cái, chỉ thị CsFemale-1 chỉ nhận diện đúng 42% (dòng số 1, 2 và 12), chưa nhận diện chính xác các dòng 3, 4, 10 và 11 (Hình 2).
+   4 THẢO LUẬN
+   Phương pháp chọn lọc truyền thống các dòng dưa leo toàn hoa cái dựa trên quan sát giới tính của cây ở ngoài đồng. Phương pháp này phải chờ giống phát triển đến giai đoạn trưởng thành và ra hoa mới có thể xác định được nên không có khả năng nhận diện sớm. Mặt khác, giới tính của hoa dưa leo bị ảnh hưởng bởi điều kiện môi trường. Việc chọn lọc dựa trên kiểu hình có thể bị ảnh hưởng khi điều kiện môi trường ngoài đồng ruộng thay đổi, dẫn đến hạn chế về độ chính xác. Phương pháp chọn lọc bằng chỉ thị phân tử có thể giúp nhận diện sớm, tăng hiệu quả và độ chính xác của quy trình tuyển chọn dòng toàn hoa cái so với phương pháp truyền thống. 
+   Chỉ thị CsFemale-1 được thiết kế dựa trên sự khác biệt giữa trình tự gen của dòng dưa leo toàn hoa cái và dòng dưa leo có cả hoa đực và hoa cái (Win et al., 2015). Trong đó, đột biến mất đoạn 34 bp trên dòng toàn hoa cái là cơ sở để nhận diện cây toàn hoa cái mục tiêu với các cây có hoa cái và hoa đực. Trong ba gen xác định giới tính (sex-determination genes): F, M và A, gen F có vai trò quan trọng trong việc kiểm soát tính trạng toàn hoa cái (gynoecy). Chỉ thị CsFemale-1 được chứng minh liên kết chặt với gen F với khoảng cách di truyền là 0,8 cM (Win et al., 2015). Do vậy, khả năng chỉ thị CsFemale-1 phân ly cùng với gen F trong quá trình hình thành giao tử rất cao.
+   Trong nghiên cứu này, độ tương thích giữa kiểu gen được kiểm tra bằng marker CsFemale-1 và kiểu hình đã biết trước của 120 mẫu thuộc 12 dòng dưa leo thuần sẽ được xác định. Kết quả thu được sự tương quan giữa kiểu gen với kiểu hình toàn hoa cái và kiểu hình có cả hoa đực và hoa cái lần lượt là 100% và 42%. Trong đó, CsFemale-1 không nhận diện được chính xác một số dòng có cả hoa đực và hoa cái. Một trong những nguyên nhân dẫn đến sự nhận diện không chính xác này là vì marker CsFemale-1 chỉ phân biệt các kiểu gen của locus F (FF, Ff và ff). Trong khi đó, giới tính hoa ở dưa leo được điều hòa bởi ba locus F, M và A. Một nguyên nhân khác có thể ảnh hưởng đến kết quả nhận diện đó là điều kiện môi trường. Giới tính hoa dưa leo chịu ảnh hưởng mạnh của rất nhiều yếu tố từ môi trường (Rodriguez-Granados et al., 2017). Việc xác định kiểu hình của các dòng dưa leo trong nghiên cứu này được thực hiện trong nhà lưới với các điều kiện về dinh dưỡng, đất và nước thống nhất giữa các dòng dưa leo với nhau. Tuy nhiên, sự khác biệt về nhiệt độ có thể dẫn tới thay đổi kiểu hình ở một số dòng dưa leo. Từ đó dẫn tới các sai khác so với kiểu gen được xác định. Tuy nhiên, đây có thể không phải là nguyên nhân mà là một tác nhân di truyền khác chưa được phát hiện. 
+   Cho đến hiện nay, vẫn chưa có chỉ thị phân tử nào nhận diện chính xác 100% các dòng dưa leo. Vì vậy cần tiếp tục phát triển các chỉ thị phân tử mới có độ nhận diện chính xác hơn hoặc phát triển tổ hợp các loại chỉ thị khác nhau để tăng hiệu quả nhận diện. 
+   5 KẾT LUẬN
+   Chỉ thị CsFemale-1 có khả năng nhận diện các dòng dưa leo toàn hoa cái trong bộ giống hiện có với độ tương thích là 100% và tỷ lệ này đối với dòng có cả hoa đực và hoa cái là 42%. Sự phân ly giữa chỉ thị này với gen F đang được tiếp tục đánh giá ở các thế hệ F2, F3.
+   6 ĐỀ XUẤT
+   Cần tiếp tục nghiên cứu thêm về các chỉ thị phân tử khác liên kết với các locus còn lại (locus M và A) để có thể nhận diện chính xác các dòng dưa leo khác nhau, đặc biệt là dòng toàn hoa cái.
+   TÀI LIỆU THAM KHẢO
+Knopf, R.R., and Trebitsh, T., 2006. The female-specific Cs-ACS1G gene of cucumber. A case of gene duplication and recombination between the non-sex-specific 1-aminocyclopropane-1-carboxylate synthase gene and a branched-chain amino acid transaminase gene. Plant and Cell Physiology. 47(9): 1217-1228.
+Li, Z., Huang, S., Liu, S., et al. , 2009. Molecular isolation of the M gene suggests that a conserved-residue conversion induces the formation of bisexual flowers in cucumber plants. Genetics. 182: 1381-1385.
+Mibus, H. and Tatlioglu, T., 2004. Molecular characterization and isolation of the F/f gene for femaleness in cucumber (Cucumis sativus L.). Theoretical and Applied Genetics. 109(8): 1669-1676.
+Muruganantham, N., Solomon, S. and Senthamilselvi, M. M., 2015. Anti-cancer activity of Cucumis sativus (Cucumber) flowers against human liver cancer. International Journal of Pharmaceutical and Clinical Research. 8(1): 39-41.
+Rodriguez-Granados, N.Y., Lemhemdi, A., Choucha, F.A., Latrasse, D., Benhamed, M., Boualem, A. and Bendahmane, A., 2017. Sex determination in cucumis. In: Grumet, R., Katzir, N., Garcia-Mas, j. (eds). Genetics and genomics of cucurbitaceae. Plant genetics and genomics: crops and models, vol 20. Springer, Cham, 307-319.
+Win, K. T., Zhang, C., Song, K., Lee, J. H. and Lee, S., 2015. Development and characterization of a co-dominant molecular marker via sequence analysis of a genomic region containing the Female (F) locus in cucumber (Cucumis sativus L.). Molecular Breeding. 35(12): 229.
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Tập 55, Số chuyên đề: Công nghệ Sinh học (2019)(1): 62-65
+
+
+

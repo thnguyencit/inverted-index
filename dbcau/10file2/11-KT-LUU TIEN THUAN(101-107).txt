@@ -1,0 +1,123 @@
+﻿
+CÁC YẾU TỐ TÁC ĐỘNG ĐẾN VIỆC ỨNG DỤNG THƯƠNG MẠI ĐIỆN TỬ CỦA CÁC DOANH NGHIỆP NHỎ VÀ VỪA 
+TRÊN ĐỊA BÀN THÀNH PHỐ CẦN THƠ 
+Lưu Tiến Thuận1 và Trần Thị Thanh Vân2
+1 Khoa Kinh tế và Quản trị Kinh doanh, Trường Đại học Cần Thơ
+2 Công ty TNHH Lê Tuân
+Thông tin chung:
+Ngày nhận: 01/08/2014
+Ngày chấp nhận: 27/02/2015
+Title: 
+Impact factors in applying 
+E-commerce of the small and medium enterprises in Cantho City
+Từ khóa: 
+Phân tích phân biệt, doanh nghiệp nhỏ và vừa, ứng dụng thương mại điện tử
+Keywords:
+Discriminant analysis, the Small and Medium Size Enterprises, E-commerce application   ABSTRACT
+This research aimed to identify the factors affected the e-commerce application in the Small and Medium Size Enterprises (SMEs) in Can Tho City. The sample size of 215 respondent was collected from the SMEs in Ninh Kieu, Binh Thuy, and Cai Rang districts, Can Tho City by random sampling method. There are some methods using in this paper such as: Descriptive statistics, Binary Logistic and Discriminant analysis. The results showed that the internal environment (organization and awareness of owner) and external environment (government and market) affect the application of e-commerce business. In which support from government is the most important factor. The government should set up well legal and policy environment in order to attract high tech and encourage enterprise for e-commerce application. It also supports public services well for e-commerce activities.
+   TÓM TẮT
+Mục tiêu nghiên cứu là xác định các yếu tố tác động đến việc ứng dụng thương mại điện tử (TMĐT) của doanh nghiệp nhỏ và vừa (DNNVV) tại Thành phố Cần Thơ (TPCT). Bài nghiên cứu tiến hành chọn mẫu ngẫu nhiên với số quan sát là 215 DNNVV tại 3 quận TPCT: Ninh Kiều, Bình Thủy và Cái Răng. Phương pháp thống kê mô tả, phân tích hồi quy nhị nguyên Binary Logistic và phân tích phân biệt được sử dụng trong bài nghiên cứu. Kết quả nghiên cứu cho thấy, môi trường bên trong gồm nhóm yếu tố thuộc về Tổ chức của doanh nghiệp và về Nhận thức của chủ doanh nghiệp; và môi trường bên ngoài gồm nhóm yếu tố thuộc Chính phủ và nhóm yếu tố Thị trường đều ảnh hưởng đến việc ứng dụng TMĐT của doanh nghiệp. Trong đó nhóm yếu tố thuộc Sự hỗ trợ của Chính phủ là cực kỳ quan trọng, Chính phủ cần tạo lập môi trường pháp lý và cơ chế chính sách thuận lợi, thu hút công nghệ tiên tiến và khuyến khích doanh nghiệp ứng dụng TMĐT; và cung cấp các dịch vụ công hỗ trợ hoạt động TMĐT của doanh nghiệp.
+   1 GIỚI THIỆU
+   Với sự phát triển mạnh mẽ của công nghệ thông tin cùng với việc sử dụng mạng internet ngày càng phổ biến thì thương mại điện tử (TMĐT) đang là một vấn đề rất được nhiều doanh nghiệp quan tâm. TMĐT giúp doanh nghiệp giảm chi phí sản xuất, mở rộng thị trường, cải thiện hệ thống phân phối... Khi nền kinh tế hội nhập sâu rộng vào nền kinh tế thế giới, thì hoạt động ứng dụng TMĐT của Việt Nam nói chung và của Thành phố Cần Thơ (TPCT) nói riêng ngày càng được quan tâm phát triển. Uỷ Ban nhân dân TPCT đã đặt ra mục tiêu phát triển TMĐT giai đoạn 2011-2015 là đẩy nhanh loại hình giao dịch TMĐT giữa doanh nghiệp với người tiêu dùng, giữa doanh nghiệp với doanh nghiệp, trong đó có 80% doanh nghiệp sử dụng thư điện tử trong hoạt động giao dịch, trao đổi thông tin. 35% doanh nghiệp có trang thông tin điện tử, cập nhật định kỳ thông tin hoạt động và quảng bá sản phẩm doanh nghiệp, 10% doanh nghiệp tham gia các trang thông tin điện tử TMĐT để mua bán, 20% doanh nghiệp ứng dụng các phần mềm ứng dụng các phần mềm chuyên dụng trong hoạt động quản lý sản xuất kinh doanh (SXKD). Tuy nhiên, tình hình ứng dụng TMĐT tại các doanh nghiệp nhỏ và vừa (DNNVV) tại TPCT trong thời gian qua còn gặp nhiều trở ngại do nhận thức của doanh nghiệp về TMĐT còn hạn chế, nguồn nhân lực dành cho TMĐT tại các doanh nghiệp cũng chưa thật phù hợp... Vì vậy, việc nghiên cứu "Các yếu tố tác động đến việc ứng dụng TMĐT trong các DNNVV tại TPCT" là thật sự cần thiết, giúp các DNNVV có những giải pháp đẩy mạnh ứng dụng trang tin điện tử trong các doanh nghiệp, nhằm nâng cao lợi thế cạnh tranh của các DNNVV trên thị trường. Đồng thời, nghiên cứu đưa ra các đề xuất đối với các nhà quản lý nhằm hỗ trợ tích cực cho các DNNVV trên địa bàn thành phố ứng dụng và phát triển TMĐT một cách hiệu quả. 
+   2 PHƯƠNG PHÁP NGHIÊN CỨU
+   Lê Văn Huy (2008) đã nghiên cứu hội nhập TMĐT trong các doanh nghiệp tại Việt Nam và chỉ ra các nhóm yếu tố ảnh hưởng đến hội nhập TMĐT gồm: (1) nhóm các yếu tố về tổ chức của doanh nghiệp; (2) nhóm các yếu tố về đặc điểm nhà lãnh đạo; (3) nhóm các yếu tố về đổi mới công nghệ; và (4) nhóm các yếu tố về môi trường bên ngoài. Ngoài ra, việc áp dụng TMĐT còn phụ thuộc vào các giai đoạn hội nhập TMĐT cũng như mức độ hội nhập TMĐT (mức độ ứng dụng và triển khai các hoạt động TMĐT) của doanh nghiệp như giai đoạn đang áp dụng, giai đoạn thăm dò và giai đoạn đi sau. Do đó, trên cơ sở tiếp cận mô hình nghiên của Lê Văn Huy cùng với với lược khảo tài liệu, bài nghiên cứu đã đề xuất mô hình nghiên cứu 
+(Hình 1) các yếu tố ảnh hưởng đến ứng dụng TMĐT trong các DNNVV trên địa bàn thành phố Cần Thơ, bao gồm 02 nhóm yếu tố chính đó là (1) các yếu tố thuộc về môi trường bên trong tổ chức, (2) các yếu tố thuộc về môi trường bên ngoài tổ chức.
+   Bài nghiên cứu tiến hành lược khảo tài liệu cùng với việc nghiên cứu khám phá nhằm hoàn chỉnh mô hình nghiên cứu (Hình 1) trước khi tiến hành nghiên cứu định lượng với cỡ mẫu 215 DNNVV bằng phương pháp chọn mẫu ngẫu nhiên đơn giản từ danh sách 600 DNNVV hiện có đang hoạt động SXKD trên địa bàn TPCT đã ứng dụng TMĐT do Sở Công Thương cung cấp. Với cỡ mẫu 215 DNNVV là cỡ mẫu đủ lớn và mang tính đại diện cao. Bên cạnh đó, nghiên cứu còn sử dụng một số thông tin thứ cấp từ Cục Thống Kê, Sở Công Thương TPCT. Đối tượng nghiên cứu là chủ doanh nghiệp, hoặc là người đại diện DNNVV trên địa bàn TPCT đã ứng dụng TMĐT vào hoạt động SXKD. Bài nghiên cứu không xem xét trường hợp sử dụng email trong giao tiếp hàng ngày như là việc ứng dụng TMĐT vì tính phổ biến của email trong xã hội ngày nay. Việc phân loại DNNVV dựa theo NĐ 56/2009/NĐ-CP. Địa bàn nghiên cứu tập trung chủ yếu ở các quận trung tâm như quận Ninh Kiều, Bình Thủy, và Cái Răng là những quận có số DNNVV chiếm đa số và đại diện cho TPCT. 
+   Các phương pháp phân tích được sử dụng 
+trong bài nghiên cứu: (1) Phương pháp thống kê mô tả như số trung bình, tỷ lệ, tần số, độ lệch chuẩn được sử dụng để phân tích thực trạng ứng dụng TMĐT của DNNVV; (2) Phương pháp kiểm định Cronbach's Alpha về độ tin cậy của thang đo; (3) Phương pháp phân tích Hồi quy nhị nguyên (Binary Logistic) và (4) Phân tích phân biệt được sử dụng để xác định các yếu tố ảnh hưởng đến việc ứng dụng TMĐT của DNNVV ở TPCT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hình 1: Mô hình nghiên cứu đề xuất
+
+   Thông qua lược khảo một số nghiên cứu cho thấy, có nhiều yếu tố ảnh hưởng đến việc ứng dụng TMĐT của các doanh nghiệp. Trong các nghiên cứu của Huy (2008), Ling (2001), Teo và Tan (1998) đã chỉ ra rằng đặc điểm sản phẩm, quy mô doanh nghiệp là một trong những yếu tố có ảnh hưởng đến việc ứng dụng TMĐT của doanh nghiệp. Theo nghiên cứu của Basil Alzougool Sherah Kurnia (2008) để cho việc hội nhập công nghệ mới nói chung và TMĐT nói riêng được thực hiện nhanh chóng trong doanh nghiệp đòi hỏi người lãnh đạo phải có những nhận thức và kiến thức nhất định về vai trò của TMĐT đối với doanh nghiệp. Bên cạnh đó, tập quán tiêu dùng, nhận thức về thanh toán điện tử là một trở ngại lớn khi xã hội Việt Nam có một thói quen lâu đời sử dụng tiền Huy (2008). Một trong những yếu tố môi trường tác động đến việc hội nhập là sức ép từ chính những người bán và nhà cung cấp của doanh nghiệp (Ling (2001), Tan và Teo (2000)). Khôi và ctv (2008) đã cho thấy trình độ học vấn của chủ doanh nghiệp và chính sách hỗ trợ của Chính phủ có ảnh hưởng đến hiệu quả hoạt động SXKD của DNNVV. Vì thế, trong nghiên cứu này, các yếu tố trên được đưa vào mô hình phân tích để xác 
+định các yếu tố ảnh hưởng đến việc ứng dụng TMĐT của DNNVV. Mô hình nghiên cứu có dạng như sau:
+
+   Trong đó:
+   Biến phụ thuộc Y: ứng dụng TMĐT của DNNVV tại TPCT (1 là có ứng dụng, 0 là không có ứng dụng TMĐT).
+   Biến độc Xi gồm 17 biến phân thành 4 nhóm như trình bày ở Hình 1 và từng biến được đo lường bằng phân tích nhân tố.
+   X1-6 : Các yếu tố thuộc Tổ chức doanh nghiệp (gồm 6 biến)   
+   X7-10: Các yếu tố thuộc Người lãnh đạo (gồm 4 biến)
+   X11-13: Các yếu tố thuộc Chính phủ (gồm 3 biến) 		     
+   X14-17: Các yếu tố thuộc Thị trường (gồm 4 biến)
+   3 KẾT QUẢ VÀ THẢO LUẬN
+   3.1 Thực trạng ứng dụng TMĐT vào SXKD của DNNVV
+   Kết quả điều tra cho thấy, các doanh nghiệp chủ yếu hoạt động theo loại hình công ty TNHH chiếm gần 50%, doanh nghiệp tư nhân chiếm 30%, công ty cổ phần chỉ chiếm phần còn lại. Lĩnh vực Thương mại dịch vụ (TMDV) có số lượng doanh nghiệp đông nhất (70%), các doanh nghiệp ngành Công nghiệp-xây dựng, nông lâm nghiệp và thủy sản chiếm tỷ lệ thấp hơn, lần lượt là 25% và 6%. Kết quả điều tra cho thấy, các DNNVV trên địa bàn TPCT còn khá trẻ. Số doanh nghiệp hoạt động dưới 5 năm chiếm đa số 72%, còn lại là các DN có thâm niên trên 5 hoạt động chỉ chiếm gần 30%.
+
+Bảng 1: Mối liên hệ giữa thâm niên hoạt động với ứng dụng trang tin điện tử
+Thâm niên HĐSXKD của DNTrang thông tin điện tửTổngKhông sử dụngCó sử dụngSố lượng%Số lượng%Số lượng%< 2 năm 2310,74420,56731,2Trên 2 đến 5 năm5726,530148740,5Trên 5 năm4320188,46128,4Tổng12357,29242,8215100Nguồn: Số liệu điều tra trực tiếp, 2013
+
+   Theo kết quả khảo sát, có hơn 40% doanh nghiệp có trang thông tin điện tử. Đây là một tỷ lệ tương đối cao so với mặt bằng chung của cả nước. Tuy nhiên, phần lớn các doanh nghiệp được khảo sát thừa nhận trang thông tin điện tử chỉ được dùng để mở rộng kênh tiếp xúc khách hàng và xây dựng hình ảnh doanh nghiệp. Khi tiến hành phân tích mối liên hệ giữa các yếu tố như năm thành lập, số lượng lao động, lĩnh vực kinh doanh với việc ứng dụng TMĐT, kết quả cho thấy các yếu tố này đều có mối quan hệ với việc ứng dụng TMĐT ở mức ý nghĩa 1%. Các doanh nghiệp trẻ, mới thành lập thì ứng dụng TMĐT nhiều hơn so với các doanh nghiệp hoạt động lâu năm: chỉ có hơn 8% doanh nghiệp hoạt động trên 5 năm ứng dụng TMĐT, trong khi tỷ lệ này đối với những doanh nghiệp có thâm niên hoạt động dưới 2 năm là 20% (Bảng 1). Điều này có thể lý giải là do các doanh nghiệp có thâm niên hoạt động lâu năm nên thích nghi với phương thức kinh doanh truyền thống; mặt khác với quy mô nhỏ thiếu nguồn lực cũng là một trong những nguyên nhân làm cho doanh nghiệp có thâm 
+niên hoạt động cao ít ứng dụng TMĐT
+   Qua kết quả khảo sát cho thấy, trong 16% doanh nghiệp có số lao động từ 50 đến 200, 6,5% doanh nghiệp có số lao động từ 200 đến 300 thì số DNNVV xây dựng trang tin điện tử để phục vụ cho hoạt động SXKD càng chiếm tỷ lệ cao, tương ứng là 13% và gần 4%. Điều này cho thấy, những DNNVV có số lượng lao động càng lớn bao nhiêu thì việc xây dựng trang tin điện tử để phục vụ SXKD càng tăng bấy nhiêu.
+   Các doanh nghiệp trong lĩnh vực TMDV thì việc xây dựng trang tin điện tử được chú trọng hơn so với lĩnh vực công nghiệp xây dựng và nông lâm thủy sản vì thương mại và dịch vụ là lĩnh vực tiếp xúc trực tiếp và đòi hỏi cung cấp một khối lượng thông tin lớn cho khách hàng. Thông qua trang tin điện tử, doanh nghiệp có thể giới thiệu, cập nhật thông tin mới nhất về sản phẩm dịch vụ của doanh nghiệp, cung cấp thông tin miễn phí, bổ ích khác liên quan đến lĩnh vực dịch vụ của doanh nghiệp cho người xem, nhằm nâng cao ấn tượng và niềm tin của người xem đối với doanh nghiệp.
+
+
+Bảng 2: Mối liên hệ giữa số lượng LĐ với ứng dụng trang tin điện tử
+Số lao động trong DNTrang thông tin điện tửTổngKhông sử dụngCó sử dụngSố lượng%Số lượng%Số lượng%Dưới 10 56262913,58539,5Trên 10 đến 505324,728138137,7Trên 50 đến 20083,72712,63516,3Trên 200 đến 300 62,883,7146,5Tổng12357,29242,8215100Nguồn: Số liệu điều tra trực tiếp, 2013
+Bảng 3: Mối liên hệ giữa lĩnh vực SXKD với ứng dụng trang tin điện tử
+Lĩnh vực SXKDTrang thông tin điện tửTổngKhông sử dụngCó sử dụngTần số%Tần số%Tần số%Thương mại và dịch vụ8238,16831,615069,7Công nghiệp và xây dựng3114,42210,35324,7Nông lâm thủy sản104,720,9125,6Tổng12357,29242,7215100Nguồn: Số liệu điều tra trực tiếp, 2013
+   3.2 Các nhân tố ảnh hưởng đến việc ứng dụng TMĐT của DNNVV
+   Kết quả mô hình hồi quy Binary Logistic 
+(Bảng 4) cho thấy kiểm định giả thiết về độ phù hợp tổng quan có mức ý nghĩa Sig = 0,000 nên bác bỏ giả thiết H0 là hệ số hồi quy các biến độc lập bằng không. Để đánh giá độ phù hợp tổng quát của mô hình binary logistic dựa vào chỉ tiêu-2Log likelihood (-2LL), chỉ tiêu -2LL càng nhỏ thể hiện độ phù hợp càng cao. Kết quả cho thấy giá trị -2LL = 180,985 không cao, thể hiện mức độ phù hợp của mô hình tổng thể. Xác suất dự báo trúng của mô hình là 78,6%. Do đó, mức độ phù hợp của mô hình nghiên cứu khá cao. Theo kiểm định Wald với mức ý nghĩa 5% hầu hết các biến độc lập đều có ý nghĩa thống kê.
+   Trong 13 biến được đưa vào mô hình thì cả 13 biến đều giải thích được cho việc ứng dụng TMĐT của DNNVV tại TPCT ở mức ý nghĩa 5%. Trong đó, biến Sự hỗ trợ của Chính Phủ có tác động mạnh hơn các biến còn lại với tác động biên của biến này lên xác suất doanh nghiệp có ứng dụng TMĐT hơn 2,5 lần, cho thấy mức độ quan trọng của yếu tố này đến việc ứng dụng TMĐT của DNNVV là rất lớn. Thực vậy, Chính phủ đóng vai trò tạo lập môi trường pháp lý và cơ chế chính sách thuận lợi nhằm thu hút công nghệ tiên tiến và khuyến khích doanh nghiệp ứng dụng TMĐT, cung cấp các dịch vụ công hỗ trợ hoạt động TMĐT của doanh nghiệp.
+   Nếu xét về lĩnh vực hoạt động thì lĩnh vực TMDV có tác động mạnh hơn các lĩnh vực khác (lĩnh vực CNXD) đối với khả năng ứng dụng TMĐT của DNNVV do lĩnh vực kinh doanh này đòi hỏi cao về hàm lượng thông tin và mức độ tương tác giữa khách hàng với nhà cung cấp rất thích hợp cho môi trường TMĐT.
+   Yếu tố Số lượng lao động trong doanh nghiệp tuy không phải là yếu tố tác động mạnh mẽ đến việc ứng dụng trang thông tin điện tử trong DNNVV, tuy nhiên cho thấy mối quan hệ thuận chiều của yếu tố này đến việc ứng dụng TMĐT của DNNVV. Nghĩa là những doanh nghiệp càng có quy mô lớn thì càng có khả năng ứng dụng TMĐT nhiều hơn.
+   Yếu tố Văn hóa trong tâm lý người tiêu dùng tác động mạnh đến khả năng ứng dụng TMĐT của các DNNVV. TMĐT giúp người tiêu dùng và người bán hàng giao dịch được với nhau bất kể vị trí địa lý. 
+   Thâm niên của doanh nghiệp có tác động không cao đến khả năng ứng dụng TMĐT (0,791) thể hiện mức độ chưa sẵn sàng ứng dụng TMĐT so với các doanh nghiệp trẻ. Tương tự, các yếu tố Hạ tầng công nghệ thông tin, Sức ép người bán, người cung cấp, Nhận thức lợi ích liên quan, Hiểu biết về CNTT&TMĐT của chủ doanh nghiệp, cũng tác động thấp đến khả năng đẩy mạnh ứng dụng TMĐT.
+
+Bảng 4: Kết quả ước lượng mô hình hồi quy Binary Logistic
+Các biến độc lập trong mô hìnhHệ số BS.EExp (B)Lĩnh vực CNXD0,520***1,3871,806Lĩnh vực TMDV0,883***1,4488,727Số lao động trong DN0,017***0,0051,017Thâm niên hoạt động SXKD-0,234***0,0810,791Chính phủ 0,930***0,1972,535Định hướng CL_Văn hóa DN0,030**0,2391,706Hạ Tầng CNTT0,213**0,2090,808Nhận thức sự phức tạp-0,231**0,2061,260Cường Độ CT _ Sự hỗ trợ từ DN lớn0,195**0,1941,216Văn hóa trong tâm lý NTD0,737***0,2142,090Nhận thức Lợi ích0,053***0,1980,970Sức ép Người bán, nhà cung cấp0,795***0,2260,452Nguồn lực doanh nghiệp0,273**0,2051,314Hiểu biết về CNTT&TMĐT của CDN0,171**0,1860,843Hệ số B04,926***1,5680,0072-log likelihood180,985Cox & Snell R Square0,408Nagelkerke R Square0,547Ominibus Tests of Model CoefficientsChi-square112,583Sig.0,000Nguồn: Số liệu điều tra trực tiếp, 2013
+
+   Để kiểm tra lại kết quả nghiên cứu, bài nghiên cứu sử dụng phương pháp phân tích phân biệt để tìm hiểu các nhân tố phụ thuộc đến việc ứng dụng TMĐT của DNNVV. Với mức ý nghĩa 10%, các biến đều có ý nghĩa thống kê và ảnh hưởng đến khả năng ứng dụng TMĐT của DNNVV (Bảng 5). Kết quả này giúp một lần nữa khẳng định việc tìm ra các yếu tố ảnh hưởng đến việc ứng dụng TMĐT là có cơ sở khoa học với độ tin cậy cao.
+
+Bảng 5: Kết quả ước lượng mô hình phân tích phân biệt
+Wilks' LambdaFdf1df2Sig.Lĩnh vực SXKD0,9735,93011070,082Số lao động0,9706,60411070,011Thâm niên DN0,92716,70311070,032Chính Phủ0,89125,95011070,090ĐHCL_VHDN0,9902,06511070,012HTCNTT0,8990,23011070,032Sự Phức Tạp0,8921,64911070,000CDCT_Sự Hỗ Trợ0,9843,56611070,063VHNTD0,9726,04211070,025Nhận thức Lợi ích0,9960,76711070,082Sức ép Người bán0,93115,72911070,000Nguồn Lực DN0,7790,22411070,037Sự hiểu biết CNTT của chủ DN0,8690,26211070,069Eigenvalue0,858Sig 0,000hệ số Wilk λ0,684Hệ số xác định R20,441Nguồn: Số liệu điều tra trực tiếp, 2013
+
+   4 
+KẾT LUẬN VÀ ĐỀ XUẤT
+   4.1 Kết luận
+   Bài nghiên cứu tiến hành khảo sát 215 DNNVV tại 3 quận TPCT: Ninh Kiều, Bình Thủy và Cái Răng nhằm tìm ra các yếu tố tác động đến việc ứng dụng TMĐT của các doanh nghiệp tại TPCT. Qua việc sử dụng phương pháp thống kê mô tả, phân tích hồi quy nhị nguyên Binary Logistic và phân tích phân biệt, kết quả nghiên cứu cho thấy cho thấy việc ứng dụng TMĐT của DNNVV chịu tác động bởi môi trường bên trong và môi trường bên ngoài của doanh nghiệp. Cụ thể môi trường bên trong bao gồm nhóm yếu tố thuộc về Tổ chức của doanh nghiệp (Lĩnh vực kinh doanh của doanh nghiệp, Thâm niên doanh nghiệp, Số lượng lao động, Định hướng chiến lược và Văn hóa doanh nghiệp, nguồn lực doanh nghiệp) và nhóm các yếu tố thuộc về Nhận thức của chủ doanh nghiệp (Nhận thức về CNTT &TMĐT, Nhận thức sự phức tạp, Nhận thức lợi ích). Môi trường bên ngoài doanh nghiệp chịu ảnh hưởng bởi hai nhóm yếu tố là nhóm Yếu tố thuộc Chính phủ (Sự hỗ trợ của chính phủ, Hạ tầng công nghệ thông tin) và nhóm yếu tố Thị trường (Cường độ cạnh tranh và sự hỗ trợ từ doanh nghiệp lớn, văn hóa tiêu dùng, sức ép từ người bán nhà). Trong các yếu tố trên, ngoài yếu tố môi trường bên trong đòi hỏi mỗi doanh nghiệp phải luôn vận động, nâng cao nhận thức của doanh nghiệp về TMĐT, định hướng chiến lược cho TMĐT... thì nhóm yếu tố thuộc Sự hỗ trợ của Chính phủ là cực kỳ quan trọng. Chính phủ cần tạo lập môi trường pháp lý và cơ chế chính sách thuận lợi, thu hút công nghệ tiên tiến và khuyến khích doanh nghiệp ứng dụng TMĐT, cũng như cung cấp các dịch vụ công hỗ trợ hoạt động TMĐT của doanh nghiệp.
+   4.2 Đề xuất
+   Đối với cơ quan quản lý Thành phố Cần Thơ: (1) Tiếp tục đẩy mạnh công tác tuyên truyền, phổ biến về TMĐT, phổ biến kiến thức và các lợi ích của ứng dụng CNTT và TMĐT, đồng thời cung cấp cho các DNNVV lộ trình cụ thể và khả thi để có thể ứng dụng TMĐT trong điều kiện của từng DN. Nếu nhà quản lý DN nắm vững các lợi ích và cách thức triển khai TMĐT, họ sẽ ủng hộ việc đổi mới và ứng dụng TMĐT trong hoạt động để đem lại hiệu quả kinh doanh tốt hơn. (2) Xây dựng và triển khai các đề án đào tạo nguồn nhân lực về TMĐT; hỗ trợ các trường đại học, trường cao đẳng, các trường trung cấp chuyên nghiệp, các trung tâm giáo dục thường xuyên nâng cao chất lượng đào tạo TMĐT, gắn đào tạo với nhu cầu phát triển kinh tế của thành phố. (3) Hợp tác hỗ trợ giữa các ban ngành có liên quan trong việc xây dựng các chương trình hỗ trợ doanh nghiệp ứng dụng TMĐT, đào tạo các kỹ năng và tư vấn cho doanh nghiệp các vấn đề liên quan đến CNTT và TMĐT, vận động doanh nghiệp tham gia vào các chương trình phát triển TMĐT, xây dựng các bài viết, chuyên đề, phóng sự tuyên truyền, phổ biến pháp luật về TMĐT, đặc biệt là vai trò lợi ích của TMĐT trong đời sống người dân, các điển hình thành công ứng dụng TMĐT.
+   Đối với doanh nghiệp nhỏ và vừa: tích cực tham gia, cộng tác với các chương trình, dự án của cơ quan nhà nước, chủ động triển khai ứng dụng TMĐT trong các hoạt động SXKD.
+   TÀI LIỆU THAM KHẢO
+1. Lê Văn Huy, 2008. Mô hình Nghiên cứu hội nhập TMĐT trong các doanh nghiệp tại Việt Nam. Luận văn thạc sỹ kinh tế trường Đại học Kinh tế, Đà Nẵng.
+2. Basil Alzougool Sherah Kurnia, 2008. Electronic Commerce Technology Adoption by SMEs: A Conceptual study. Luleå University of Technology Master Thesis, Continuation Courses, Marketing and e-commerce Department of Business Administration and Social Sciences Division of Industrial marketing and e-commerce.
+3. Teo, T. S. H. et Tan, M., 1998. An empirical study of adopters and non-adopters of the Internet in Singapore, Information & Management, 34, 339-345.
+4. Ling, C. Y., 2001. Model of factors influences on electronic commerce adoption and diffusion in small & medium sized enterprises, ECIS Doctoral Consortium, 24-26 June, AIS region 2 (Europe, Africa, Middle-East).
+
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 		Phần D: Khoa học Chính trị, Kinh tế và Pháp luật: 36 (2015): 101-107
+
+
+

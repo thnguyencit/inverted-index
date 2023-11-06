@@ -1,0 +1,69 @@
+﻿
+CHẾ TẠO HẠT XÚC TÁC NANO CẤU TRÚC LÕI-VỎ PLATINUM-RUTHENIUM TRÊN NỀN CARBON CHO PIN NHIÊN LIỆU DÙNG METHANOL TRỰC TIẾP 
+Đặng Long Quân1 và Nguyễn Mạnh Tuấn2 
+1 Khoa Khoa học Tự nhiên - Trường Đại học Cần Thơ, Khu 2 - đường 3/2 - TP. Cần Thơ 
+2 Viện Khoa học Vật liệu ứng dụng, 01 Mạc Đĩnh Chi - Q.1 - TP. Hồ Chí Minh
+Thông tin chung:
+Ngày nhận: 03/04/2015
+Ngày chấp nhận: 27/10/2015
+Title: 
+Synthesis of carbon-supported platinum-ruthenium core-shell nanoparticles for direct methanol fuel cell
+Từ khóa: 
+Cấu trúc lõi-vỏ, hạt nano Ru@Pt, pin nhiên liệu dùng methanol trực tiếp (DMFC), vật liệu xúc tác điện cực
+Keywords:
+Core-shell structure, Ru@Pt nanoparticles, direct methanol fuel cell (DMFC), electrocatalyst material   ABSTRACT
+Electrocatalyst material of direct methanol fuel cell (DMFC) with carbon Vulcan supported ruthenium-core and platinum-shell nanoparticles (Ru@Pt/C) was successfully synthesized by a two-step method. H2PtCl6 and RuCl3 precursors were used with the efficient reduction of NaBH4 agent in ethylene glycol (EG). Besides, an alloy structure catalyst sample (Pt-Ru/C) was prepared to compare with the Ru@Pt/C sample. The electrocatalyst samples were investigated by experimental methods including X-ray diffraction (XRD), transmission electron microscopy (TEM), and cyclic voltammetry (CV). The results showed that the Ru@Pt/C electrocatalyst sample was better than the Pt-Ru/C sample with respect to methanol oxidation.
+   TÓM TẮT
+Vật liệu xúc tác nano cấu trúc ruthenium-lõi và platinum-vỏ trên nền carbon Vulcan (Ru@Pt/C) làm chất xúc tác trong điện cực pin nhiên liệu dùng methanol trực tiếp (DMFC) được chế tạo bằng phương pháp khử hai bước. Các tiền chất H2PtCl6 và RuCl3 đã được sử dụng, với dung dịch ethylene glycol (EG) kết hợp với NaBH4 làm chất khử. Ngoài ra, mẫu xúc tác dạng hợp kim Pt-Ru/C được tổng hợp trong cùng điều kiện chế tạo mẫu Ru@Pt/C để so sánh. Các phương pháp phân tích như X-ray diffraction (XRD), transmission electron microscopy (TEM), và đo điện hóa cyclic voltammetry (CV) đã được sử dụng để phân tích và đánh giá. Kết quả cho thấy vật liệu xúc tác nano cấu trúc lõi-vỏ Ru@Pt/C đã được chế tạo thành công, các hạt nano Ru@Pt có kích thước đồng nhất và phân bố đồng đều. Đồng thời, kết quả cũng cho thấy sự vượt trội hoàn toàn của mẫu xúc tác cấu trúc lõi-vỏ so với mẫu hợp kim về cả hai mặt: khả năng oxy hóa methanol và mức độ oxy hóa hoàn toàn methanol.
+   1 GIỚI THIỆU 
+   Hiện nay, trên thế giới, pin nhiên liệu DMFC đang thu hút mạnh mẽ sự quan tâm nghiên cứu của nhiều nhà khoa học bởi đây là nguồn năng lượng sạch và có nhiều ưu điểm như nhỏ gọn, không gây tiếng ồn và hoạt động ở nhiệt độ thấp (King, T. J., et al., 2006; Wenzhen, L., et al., 2002; Wenzhen, L., et al., 2004). Vật liệu xúc tác tốt nhất cho quá trình oxy hóa methanol tại điện cực pin DMFC là platinum (Pt) (Nguyễn Việt Long và ctv., 2013). Tuy nhiên, quá trình oxy hóa methanol tại điện cực pin DMFC lại sản sinh ra sản phẩm phụ carbon monoxide (CO), các phân tử CO được hình thành sẽ bám lên bề mặt Pt ngăn cản quá trình oxy hóa tiếp diễn dẫn đến làm giảm hiệu suất pin. Để loại bỏ các phân tử CO này, người ta sử dụng xúc tác lưỡng kim loại bao gồm ruthenium (Ru) kết hợp với Pt. Thành phần Ru trong chất xúc tác bên cạnh việc loại bỏ các phân tử gây hại CO, còn giúp tăng cường quá trình oxy hóa methanol và làm giảm kích thước hạt.  
+   Việc sử dụng xúc tác lưỡng kim loại Pt-Ru cho điện cực pin DMFC trong thời gian đầu chỉ dừng lại ở dạng hỗn hợp hoặc hợp kim. Cho đến thời gian gần đây, các nhà khoa học bắt đầu chú ý nghiên cứu và tổng hợp chúng dưới dạng cấu trúc lõi-vỏ (Hsieh, Y. C., et al., 2013; Lei, Z., et al., 2011; Selim, A., et al., 2008). Các kết quả bước đầu cho thấy, xúc tác lưỡng kim Pt-Ru cấu trúc lõi-vỏ cho hiệu suất xúc tác cao hơn hẳn so với khi sử dụng chúng ở dạng hỗn hợp hay hợp kim. Do đó, việc tiếp tục nghiên cứu để đưa ra quy trình chế tạo tối ưu cũng như đánh giá một cách kỹ lưỡng về loại xúc tác cấu trúc lõi-vỏ này là hết sức cần thiết. Bài báo này của chúng tôi cung cấp một quy trình chế tạo xúc tác lưỡng kim Ru lõi - Pt vỏ trên nền carbon Vulcan (Ru@Pt/C) và sử dụng phép phân tích điện hóa CV để khảo sát khả năng oxy hóa methanol của vật liệu xúc tác thu được. 
+   2 THỰC NGHIỆM 
+   2.1 Vật liệu và hóa chất 
+   Vật liệu đóng vai trò làm chất nền xúc tác được sử dụng là loại carbon black Vulcan thương mại, cung cấp bởi hãng Boulder (Mỹ). Các tiền chất của Pt và Ru lần lượt là hexachloroplatinic (IV) acid hexahydrate (H2PtCl6.6H2O) và ruthenium (III) chloride hydrate (RuCl3.xH2O), hãng sản xuất Merck (Đức). Các chất khử được sử dụng trong nghiên cứu gồm có ethylene glycol (EG) và sodium borohydride (NaBH4). Ngoài ra, acid sulfuric (H2SO4, 98%) được sử dụng để tăng cường khả năng khử của EG và sodium hydroxide (NaOH) được sử dụng cho việc điều chỉnh độ pH của dung dịch. Các hóa chất trên đều được mua từ hãng Merck. 
+   2.2 Quy trình chế tạo 
+   Trước tiên, hỗn hợp gồm 56 mg carbon black Vulcan (C) và 40 mL ethylene glycol (EG) được rung siêu âm 15 phút. Sau đó, đưa thêm vào hỗn hợp 10 mL acid H2SO4 98%, khuấy từ trong 30 phút ở 170 oC. 
+   Sau giai đoạn khuấy từ, điều chỉnh hỗn hợp trên về nhiệt độ phòng, nhỏ từ từ vào chúng dung dịch gồm 22 mg RuCl3 và 5 mL nước cất. Tiếp theo, hòa 200 mg NaBH4 với 10 mL nước cất, nhỏ từ từ vào hỗn hợp. Thêm dung dịch NaOH vào để điều chỉnh đến khi pH = 11. Hỗn hợp được tiếp tục khuấy từ trong 5 giờ ở nhiệt độ phòng. 
+   Sau 5 giờ, tiếp tục nhỏ từ từ dung dịch gồm 42 mg H2PtCl6 và 5 mL nước cất vào hỗn hợp trên. Hòa 200 mg NaBH4 với 10 mL nước cất, nhỏ từ từ vào hỗn hợp. Thêm dung dịch NaOH vào để điều chỉnh đến khi pH = 11. Hỗn hợp được tiếp tục khuấy từ trong 5 giờ ở nhiệt độ phòng. 
+   Kết thúc quá trình khuấy từ, dùng nước cất lọc rửa đưa hỗn hợp về trung tính (pH = 7), sấy khô ở 110oC trong vài giờ. 
+   2.3 Phương pháp phân tích đánh giá 
+   Mẫu vật liệu Ru@Pt/C được kiểm tra thành phần cấu tạo bằng phổ XRD. Máy XRD sử dụng là loại D8-ADVANCE tại Khoa Khoa học Tự nhiên - Trường Đại học Cần Thơ. Máy sử dụng điện áp gia tốc 40 kV, cường độ dòng 10 mA, bước đo 0,01o, tốc độ quét 3o2θ/phút. Hình ảnh trực quan về kích thước, cấu trúc lõi-vỏ của các hạt nano Ru@Pt và vị trí bám của chúng trên nền carbon Vulcan được cung cấp thông qua các ảnh TEM và HRTEM của mẫu vật liệu Ru@Pt/C. Máy chụp ảnh TEM là loại JEOL JEM-1400 tại Đại học Bách khoa TP. HCM. Ảnh HRTEM được chụp ở Hàn Quốc. 
+   Khả năng xúc tác oxy hóa methanol của mẫu được khảo sát bằng thực hiện phép đo thế vòng tuần hoàn (CV). Dùng 5 mg vật liệu Ru@Pt/C chế tạo được quét lên 1,0 cm2 giấy carbon Toray và chúng được đặt ở vị trí điện cực làm việc trong hệ đo điện hóa CV. Máy đo CV được sử dụng trong nghiên cứu này là loại AUTOLAB, đặt tại PTN Công nghệ nano - ĐHQG TP. HCM. 
+   3 KẾT QUẢ VÀ THẢO LUẬN 
+   3.1 Kết quả chụp XRD
+   Hình 1 cho chúng ta phổ XRD của mẫu Ru@Pt/C. Trên ảnh phổ, chúng ta thấy rõ có 5 peak lần lượt tại các vị trí góc 2 theta là: 25,1o, 39,7o, 46,2o, 67,4o, và 81,2o. Trong đó, peak đầu tiên (vị trí 25,1o) là peak đặc trưng của vật liệu carbon Vulcan. Bốn peak còn lại đặc trưng cho tinh thể Pt tương ứng với các mặt mạng (111), (200), (220), và (311) trong cấu trúc lập phương tâm mặt của Pt. Ở đây, ta không thấy có sự hiện diện của peak đặc trưng cho tinh thể Ru bởi vì vị trí các peak này nằm gần với các peak đặc trưng của tinh thể Pt nên chúng không xuất hiện riêng lẻ mà sẽ làm cho các peak đặc trưng của tinh thể Pt bị lệch đi một chút so với bình thường (Selim, A., et al., 2008; Hsieh, Y. C., et al., 2013). 
+Hình 1: Phổ XRD mẫu Ru@Pt/C
+   3.2 Kết quả chụp ảnh TEM và HRTEM 
+   Ảnh TEM của mẫu carbon Vulcan nền và mẫu xúc tác Ru@Pt/C cho chúng ta cái nhìn trực quan về các hạt nano Ru@Pt trên nền carbon Vulcan (Hình 2a, 2b). Từ các ảnh TEM này chúng ta thấy rõ các hạt xúc tác nano có kích thước đồng nhất và phân bố đồng đều trên nền carbon. Kích thước 
+hạt tập trung trong khoảng 3 - 5 nm (chiếm 80%, Hình 2b). 
+   Ảnh HRTEM (Hình 2c) giúp chúng ta nhìn rõ hơn cấu trúc lõi-vỏ của hạt nano Ru@Pt với thành phần lõi là Ru (phần sậm màu bên trong hạt) và phần vỏ là Pt (phần nhạt hơn bao bên ngoài) (Selim, A., et al., 2008). Điều này chứng tỏ hạt nano Ru@Pt đã được chế tạo thành công. 
+
+
+Hình 2: Ảnh TEM mẫu carbon Vulcan (a), mẫu xúc tác Ru@Pt/C (b) chụp ở giai đo 50 nm và ảnh HRTEM mẫu Ru@Pt/C chụp ở giai đo 2 nm (c)  
+   
+   3.3 Kết quả đo điện hóa 
+   Việc đo điện hóa mẫu vật liệu Ru@Pt/C được thực hiện trong dung dịch CH3OH 2 M + H2SO4 1 M, quét thế từ -0,2 V đến 1,2 V. Trên đường cong điện hóa xuất hiện hai peak oxy hóa methanol tại hai vị trí A1 và B1 (Hình 3, đường màu đỏ). Peak A1 xuất hiện khi quét điện thế về phía dương (quét tới) tại vị trí 0,9322 V với mật độ dòng 64,48 mA/cm2. Quá trình quét thế về phía âm cho peak oxy hóa thứ hai tại vị trí 0,4805 V ứng với mật độ dòng 7,257 mA/cm2. Peak oxy hóa thứ hai này có vị trí thấp hơn so với peak đầu, sự xuất hiện của nó được giải thích là do quá trình oxy hóa methanol theo chiều dương diễn ra không hoàn toàn, các sản phẩm trung gian CO sinh ra chưa kịp chuyển hóa hoàn toàn thành sản phẩm bền là CO2 nên khi ta quét thế về phía âm, sự chuyển hóa các phân tử CO thành CO2 tạo thành một peak tín hiệu trên đường cong. Người ta sử dụng tỉ lệ cường độ hai peak tại A và B (IA/IB) để so sánh mức độ oxy hóa hoàn toàn của quá trình oxy hóa methanol, nếu tỉ lệ này nhỏ chứng tỏ sự oxy hóa methanol diễn ra không hoàn toàn hay có nhiều sản phẩm phụ CO tích tụ trên bề mặt điện cực và ngược lại, nếu tỉ lệ này càng lớn chứng tỏ sự oxy hóa methanol diễn ra hoàn toàn hơn, có ít sản phẩm phụ CO tích tụ trên bề mặt hơn (Liang, H. and L. Zhaolin, 2007; Qi, N., et al., 2012). 
+   Bên cạnh mẫu xúc tác cấu trúc lõi-vỏ Ru@Pt/C, chúng tôi cũng chế tạo mẫu xúc tác dạng hợp kim Pt-Ru/C với cùng các điều kiện đầu vào để so sánh. Kết quả đo CV của hai mẫu được thể hiện ở Hình 3. Ta thấy đường cong điện hóa CV của mẫu Pt-Ru hợp kim (đường màu đen) cũng có dạng tương tự mẫu lõi-vỏ, với hai peak oxy hóa methanol khi quét thế theo chiều dương và chiều âm lần lượt tại các vị trí: A2 (E = 0,7796 V, I = 24,59 mA/cm2) và B2 (E = 0,4836 V, I = 6,397 mA/cm2). 
+   Các thông số định lượng đặc trưng cho khả năng và hiệu suất oxy hóa methanol của hai mẫu được liệt kê trong Bảng 1. Chúng ta thấy rõ sự vượt trội hoàn toàn của mẫu xúc tác cấu trúc lõi-vỏ so với mẫu hợp kim về cả hai mặt: khả năng oxy hóa methanol cao hơn gần gấp ba lần (64,48 mA/cm2 so với 24,59 mA/cm2) và mức độ oxy hóa hoàn toàn methanol khi quét thế về phía dương cũng hơn gấp đôi (tỉ lệ IA/IB là 8,885 so với 3,844). 
+Hình 3: So sánh đường cong điện hóa CV giữa mẫu Ru@Pt/C với mẫu Pt-Ru/C chế tạo ở cùng điều kiện. Các mẫu được khảo sát trong dung dịch CH3OH 2 M + H2SO4 1 M, quét thế từ -0,2 V đến 1,2 V, tốc độ quét 50 mV/s
+Bảng 1: So sánh khả năng oxy hóa methanol giữa mẫu hợp kim và mẫu lõi-vỏ 
+Mẫu IA (mA/cm2) IB (mA/cm2) IA/IB Pt-Ru/C24,596,3973,844Ru@Pt/C64,487,2578,885   4 KẾT LUẬN 
+   Mẫu vật liệu xúc tác nano cấu trúc lõi-vỏ Ru@Pt/C đã được chế tạo thành công bằng phương pháp khử hai bước. Các hạt nano Ru@Pt có kích thước đồng nhất, tập trung trong khoảng 3 - 5 nm và phân bố đồng đều trên nền carbon Vulcan. Khảo sát điện hóa CV cho thấy khả năng và hiệu suất oxy hóa methanol của mẫu xúc tác cấu trúc lõi-vỏ vượt trội hoàn toàn so với mẫu cấu trúc hợp kim, với khả năng oxy hóa cao hơn gần gấp ba lần và khả năng oxy hóa hoàn toàn hơn gấp hai lần. 
+   LỜI CẢM TẠ 
+   Nghiên cứu này được hỗ trợ kinh phí từ đề tài nghiên cứu khoa học cấp trường thuộc Trường Đại học Cần Thơ, mã số đề tài: T2015-36. 
+   TÀI LIỆU THAM KHẢO 
+Hsieh, Y. C., et al., 2013. Ordered bilayer ruthenium-platinum core-shell nanoparticles as carbon monoxide-tolerant fuel cell catalysts. Nature communications. 4: 1-9. 
+King, T. J., et al., 2006. Performance of direct methanol fuel cell using carbon nanotube-supported Pt-Ru anode catalyst with controlled composition. Journal of Power Sources. 160: 97-104. 
+Lei, Z., et al., 2011. A novel CO-tolerant PtRu core-shell structured electrocatalyst with Ru rich in core and Pt rich in shell for hydrogen oxidation reaction and its implication in proton exchange membrane fuel cell. Journal of Power Sources. 196: 9117-9123. 
+Liang, H. and L. Zhaolin, 2007. Electronchemical characterization of the electrooxidation of methanol, ethanol and formic acid on Pt/C and PtRu/C electrodes. Electrochemistry. 37: 505-510. 
+Nguyễn Việt Long và ctv., 2013. Platinum and Palladium nano-structured catalysts for polymer electrolyte fuel cells and direct methanol fuel cells. Journal of Nanoscience and Nanotechnology. 13: 4799-4824. 
+Qi, N., et al., 2012. The influence of based supports and the role of synthesis procedures on the formation of platinum and platinum-ruthenium clusters and nanoparticles for the development of highly active fuel cell catalysts. International journal of hydrogen energy. 37: 9459-9469. 
+Selim, A., et al., 2008. Ru-Pt core-shell nanoparticles for preferential oxidation of carbon monoxide in hydrogen. Nature Materials. 7: 333-338. 
+Wenzhen, L., et al., 2002. Carbon nanotubes as support for cathode catalyst of a direct methanol fuel cell. Carbon. 40: 791-794. 
+Wenzhen, L., et al., 2004. Homogeneous and controllable Pt particles deposited on multi-wall carbon nanotubes as cathode catalyst for direct methanol fuel cells. Carbon. 42: 436-439.
+
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Phần A: Khoa học Tự nhiên, Công nghệ và Môi trường: 40 (2015): 17-21
+
+
+

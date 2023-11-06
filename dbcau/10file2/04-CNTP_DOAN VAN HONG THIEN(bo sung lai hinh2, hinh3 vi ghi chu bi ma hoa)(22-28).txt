@@ -1,0 +1,111 @@
+﻿
+SỬ DỤNG NƯỚC ÉP CHANH TỔNG HỢP NANO VÀNG
+Đoàn Văn Hồng Thiện1, Hứa Hoàng Thái1, Lý Cẩm Nhung2, Huỳnh Thu Hạnh1, 
+Nguyễn Việt Bách1 và Nguyễn Quang Long3 
+1 Bộ môn Công nghệ Hóa học, Trường Đại học Cần Thơ
+2 Bộ môn Hóa học, Trường Đại học Cần Thơ
+3 Khoa Kỹ thuật Hóa học, Trường Đại học Bách Khoa, Đại học Quốc gia Thành phố Hồ Chí Minh 
+Thông tin chung:
+Ngày nhận: 10/12/2013
+Ngày chấp nhận: 26/02/2014
+
+Title: 
+Synthesis gold nanostructure using extracts of lemon
+Từ khóa: 
+Chanh, cấu trúc nano, hoá học xanh, vàng
+Keywords:
+Green chemistry, gold, lemon, nanostructure   ABSTRACT
+Gold nanoparticles were synthesised by a redox method using gold chloride, extract of lemon, and polyvinylpyrrolidone as a stabilizer. The optimal conditions for synthesis of gold nanoparticle was obtained, including the ratio of lemon juice to Au+ of 1:1,  reaction time of 45 minutes, and reaction temperature of 65oC. UV-Vis spectrophotometer was used to detect the concentration of Au ions. The maximum of adsorption peaks were obtained in a range of 538 to 570 nm. At the optimal conditions, gold nanoparticles were analyzed using Transmission Electron Microscopy (TEM) to observe the surface characteristics. The average diameter of gold nanoparticles was 13,6 ± 5,48 nm that was determined by the TEM image and an imageJ software.
+   TÓM TẮT
+Tổng hợp nano vàng bằng phương pháp oxi hóa khử, chất khử được sử dụng là dịch chiết chanh, chất oxi hóa là muối vàng chlorua (HAuCl4), chất ổn định là polyvinylpyrrolidone (PVP). Tỉ lệ Au+ và dịch chiết chanh 1:1, nhiệt độ phản ứng ở 65oC, và thời gian phản ứng là 45 phút là điều kiện tối ưu. Quang phổ hấp thụ UV-Vis được sử dụng để xác định sự hiện diện của nano vàng trong dung dịch sau phản ứng. Đỉnh hấp thụ cực đại nằm trong khoảng từ 538 - 570 nm. Mẫu nano vàng được tổng hợp dựa theo những điều kiện tối ưu. Sau đó, mẫu được tiến hành phân tích một số tính chất đặc trưng như: hình dáng nano vàng được xác định thông qua kính hiển vi điện tử truyền qua (TEM), kích thước trung bình hạt là 13,6 ± 5,48 nm được xác định bởi ảnh TEM và phần mềm Image J.
+   1 GIỚI THIỆU
+   Nano vàng được ứng dụng rộng rãi trong nhiều lĩnh vực như: xúc tác, cảm biến sinh học (biosensor), y sinh, xử lý môi trường (Agnihotri et al., 2009, Baishya et al., 2013, Banoee, et al., 2010, Bhumkar et al., 2007, Boruah et al., 2012, Nghiêm Thị Hà Liên et al., 2012, Nguyễn Công Tráng et al., 2012, Nguyễn Duy Thiện, 2011, Nguyễn Quốc Hiến et al., 2012, Selim et al., 2012, Sharma et al., 2010). Hiện nay có nhiều phương pháp hóa hợp tổng hợp nano vàng. Tuy nhiên, hầu hết các phương pháp sử dụng hóa chất độc hại được yêu cầu xử lý sau quá trình tổng hợp (Nghiêm Thị Hà Liên et al., 2012, Nguyễn Công Tráng et al., 2012, Nguyễn Quốc Hiến et al., 2012). Vì vậy, việc sử dụng phương pháp hóa học xanh vừa để giải quyết vấn đề về môi trường vừa giảm thiểu chất phản ứng hoặc dung môi đắt tiền.
+   Việc nghiên cứu về nano vàng và ứng dụng của nó ở nước ta hiện nay còn rất hạn chế. Nghiêm Thị Hà Liên và ctv đã tổng hợp và khảo sát tính chất quang của các hạt nano vàng dạng cầu định hướng ứng dụng trong việc phát hiện nhanh bệnh ung thư vú (Nghiêm Thị Hà Liên et al., 2012). Nguyễn Duy Thiện đã thực hiện luận văn với đề tài tổng hợp vật liệu nano vàng từ vàng kim loại bằng phương pháp điện hóa siêu âm và khảo sát một số tính chất (Nguyễn Duy Thiện, 2011). Nguyễn Công Tráng và ctv đã chế tạo xúc tác của nano vàng trên chất mang Fe2O3 (Nguyễn Công Tráng et al., 2012). Nguyễn Quốc Hiến và ctv đã chế tạo vàng nano bằng phương pháp chiếu xạ (Nguyễn Quốc Hiến et al., 2012). Trên thế giới, có nhiều nghiên cứu về phương pháp tổng hợp nano vàng cũng như ứng dụng của nó (Agnihotri, et al., 2009, Baishya and Kalita, 2013, Banoee et al., 2010, Bhumkar et al., 2007, Boruah et al., 2012, Selim and Hendi 2012, Sharma et al., 2010). Tuy nhiên, chỉ một vài báo cáo về tổng hợp nano vàng bằng phương pháp hóa học xanh. 
+   Cơ sở lý thuyết để thực hiện phản ứng tổng hợp nano vàng là phản ứng HAuCl4 và axit có trong nước ép chanh: citric acid, ascorbic acid... (Marı́n et al., 2002, Masmoudi et al., 2008, Vandercook et al., 1966). Nội dung nghiên cứu chính của bài báo này, chanh sẽ được tận dụng để làm tác chất phản ứng vì trong chanh có chứa nhiều axit.
+   Bài nghiên cứu này nhằm giảm thiểu sử dụng hóa chất tổng hợp nano vàng. Việc tận dụng nước ép trái cây để điều chế nano vàng là một phương pháp thân thiện với môi trường.  
+   2 THỰC NGHIỆM
+   2.1 Vật liệu
+   Chanh tươi được tuyển chọn từ Huyện Phong Điền, Cần Thơ. Chloroauric acid (HAuCl4), polyvinylpyrrolidone (PVP) được mua từ công ty Sigma-Aldrich.
+   2.2 Tổng hợp
+2.2.1 Chuẩn bị dung dịch phản ứng
+   Chanh tươi mua về được rửa sạch. Sau khi tách vỏ, chanh được ép lấy dịch lọc bằng giấy lọc Whatman. Dịch lọc được ly tâm để bỏ phần cặn bên dưới, với tốc độ 6000 vòng/phút trong thời gian 30 phút. Dịch trong sau ly tâm được lọc lấy dịch lọc bằng giấy Whatman để loại bỏ phần cặn nhỏ còn xót lại. Dịch chiết được bảo quản ở 4C để tránh cho vitamin C bị oxy hóa trong không khí. Tất cả dụng cụ đều được sấy khô rửa bằng cồn 96. Dung dịch muối vàng được pha từ HAuCl4.3H2O với nước cất với nồng độ cho trước trong cốc 50 ml. Dung dịch thu được có màu vàng.
+   2.2.2 Khảo sát ảnh hưởng của tỷ lệ dịch chiết chanh và muối vàng
+   Cho dịch chiết chanh và dung dịch HAuCl4.3H2O với tỉ lệ thể tích (1:1; 1:2; 1:3; 1:4) vào cốc thủy tinh 100 mL. Sau đó, hỗn hợp được đun trên bếp khuấy từ với tốc độ 400 vòng/phút trong khoảng thời gian 60 phút ở nhiệt độ 30C. Dung dịch sẽ từ màu vàng nhạt chuyển sang màu tím. Tiếp đến, lấy hỗn hợp ra khỏi máy khuấy từ. Hỗn hợp sau phản ứng được thêm chất ổn định polyvynylpyrolidon (PVP) vào để trong ống nghiệm có nắp ổn định trong 24 giờ đem đo UV để khảo sát sự hình thành nano vàng. 
+  2.2.3 Khảo sát sự ảnh hưởng của thời gian phản ứng lên quá trình hình thành nano vàng
+   Ảnh hưởng của thời gian phản ứng được thí nghiệm tương ứng với: 45 phút, 55 phút, 65 phút, 75 phút và 85 phút. Các điều kiện phản ứng khác được cố định: nồng độ HAuCl4.3H2O là 10-2 M, với tốc độ khuấy là 400 vòng/phút, nhiệt độ khoảng (32 - 35C), tỉ lệ tác chất là tỉ lệ tối ưu là 1:1.
+   2.2.4 Khảo sát về sự ảnh hưởng của nhiệt độ lên quá trình hình thành nano vàng
+   Ảnh hưởng của nhiệt độ lên quá trình hình thành hạt nano được tiến hành các nhiệt độ khác nhau: 35C, 45C, 55C, 65C, 75C và 85C. Các điều kiện phản ứng khác được cố định: tốc độ khuấy là 400 vòng/phút, tỉ lệ tác chất là tỉ lệ tối 
+ưu (1:1) và thời gian phản ứng là thời gian tối ưu (45 phút). 
+   Phân tích đặc tính nano vàng
+   UV-Vis
+   UV-Vis 6800 được dùng để xác định nano vàng. Đối với nano vàng thì mũi đặc trưng là 500 - 590 nm. Vì vậy, nếu phổ hấp thu của dung dịch nano vàng có chiều cao tương ứng với bước sóng vào khoảng 500 ‒ 590 nm thì ta có thể xác định hạt nano vàng cũng như dự đoán được kích thước hạt nano vàng theo hiện tượng cộng hưởng plasmon. 
+   TEM
+   Sau khi khảo sát tỷ lệ tối ưu. Nano vàng được phân tích dưới kính hiển vi điện tử quét (TEM-1200EX, JEOL). Để kiểm tra khả năng tạo oxit vàng sau quá trình tổng hợp, hỗn hợp sau phản ứng được phân tích dưới phổ hồng ngoại (FTIR, FTS-3500, Bio-Rad, USA) sử dụng phim KBr. Phổ được phân tích ở vùng 4000-400 cm-1.
+   Phần mềm ImageJ
+   Phần mềm ImageJ phiên bản 1.45 được dùng để xác định kích thước trung bình hạt nano vàng và phân bố kích thước hạt.
+   3 KẾT QUẢ VÀ THẢO LUẬN
+   3.1 Ảnh hưởng của tỷ lệ dịch chiết chanh và HAuCl4
+   Ảnh hưởng của tỷ lệ dịch chiết chanh và HAuCl4 lên sự hình thành hạt nano vàng được đo 
+bằng máy quang phổ UV được biểu diễn ở Hình 1. Hiện nay, phương pháp đo phổ hấp thụ UV ‒ Vis để khảo sát sự hình thành nano vàng được sử dụng rộng rãi bởi tính đơn giản và chính xác của nó (Baishya and Kalita, 2013, Banoee et al., 2010, Boruah et al., 2012, Hussain et al., 2003, Rajeshkumar et al., 2013, Selim and Hendi, 2012). Kết quả phân tích phổ bằng máy UV-Vis cho thấy có sự tạo thành hạt nano vàng khi tổng hợp nano từ dịch chiết chanh với đỉnh hấp thụ cực đại nằm trong khoảng từ 538 - 570 nm. Đây là các đỉnh ứng với plasmon cộng hưởng bề mặt của nano vàng, chứng tỏ dung dịch tạo ra là dung dịch nano vàng.
+
+Hình 1: Phổ UV-Vis của nano vàng với tỷ lệ dịch chiết chanh và Au+ tương ứng là 1:1, 1:2, 1:3, 1:4   
+   Từ đồ thị Hình 1 cho thấy có thể nhận thấy rằng cường độ hấp thụ của mẫu thu được có xu hướng tăng tỉ lệ với màu sắc dung dịch tổng hợp, tương ứng với nồng độ hạt nano vàng tăng lên trong dung dịch. Với tỉ lệ 1:1, phổ UV-Vis cho độ hấp thụ cao nhất (Amax = 2.07), do đó tỉ lệ 1:1 được chọn là tối ưu để tổng hợp nano vàng. 
+   3.2 Khảo sát sự ảnh hưởng của thời gian phản ứng lên quá trình hình thành nano vàng
+   Kết quả phổ hấp thụ UV  Vis của các mẫu nano vàng tại những thời gian khác nhau được biểu diễn ở Hình 2. Các đỉnh hấp thụ cực đại hầu hết đều nằm trong khoảng bước sóng từ 536 - 540 nm chứng tỏ đây là dung dịch nano vàng. Bước sóng hấp thụ cực đại theo các thời gian phản ứng khác nhau không có sự thay đổi nhiều. Cường độ hấp 
+thụ của mẫu thu được có xu hướng tăng theo thời gian phản ứng, tương ứng với nồng độ hạt nano Au tăng lên trong dung dịch. Tuy nhiên khi ở thời gian phản ứng quá lâu thì độ hấp thụ cực đại có khuynh hướng giảm xuống. Điều này chứng tỏ là khi thời gian phản ứng quá lâu, sẽ tạo điều kiện cho việc tạo ra oxit vàng, dẫn đến làm giảm năng lượng tự do bề mặt, nên đỉnh hấp thụ cực đại của dung dịch giảm xuống. 
+   Mặc dù vậy khi thay đổi thời gian phản ứng thì cường độ hấp thụ thay đổi, nhưng sau khoảng thời gian từ 45 - 55 phút thì độ hấp thụ cực đại của dung dịch thay đổi không đáng kể (A45phút = 2,04 và A55phút =2,03). Do đó, thời gian phản ứng là 45 phút (bước sóng hấp thụ là  = 536,5 nm) được chọn để khảo sát ở các điều kiện phản ứng tiếp theo.
+
+
+
+Hình 2: Phổ hấp thụ UV - Vis của hạt nano vàng tại các thời gian khác nhau
+   3.3 Khảo sát sự ảnh hưởng của nhiệt độ lên quá trình hình thành nano vàng
+   Ảnh hưởng của nhiệt độ lên quá trình hình thành nano vàng được khảo sát với các yếu khác cố định: tỉ lệ phản ứng là 1 : 1, thời gian phản ứng là 45 phút, nồng độ muối HAuCl4.3H2O là 10-2 M. Ở các nhiệt độ khác nhau khi phản ứng tạo ra các mẫu nano có giá trị hấp thụ cực đại của các mẫu nano vàng khi đo phổ hấp thụ UV  Vis (Hình 3). 
+   Từ kết quả đo phổ UV - Vis nhận thấy rằng hầu hết các đỉnh hấp thụ đều nằm trong khoảng bước sóng từ 538 - 567 nm chứng tỏ dung dịch được tạo ra là dung dịch nano vàng. Cường độ hấp thụ của mẫu thu được tăng khi tăng nhiệt độ phản ứng từ 35 - 65C tương ứng với nồng độ nano Au tăng lên trong dung dịch và cường độ hấp thụ của mẫu 
+giảm dần từ 75 - 85C.
+    Nguyên nhân của hiện tượng này là do khi ở nhiệt độ thấp 35C năng lượng nhiệt cung cấp chưa đủ lớn để tạo ra lượng nano Au nhiều, khi tăng nhiệt độ lên dưới tác dụng nhiệt, các keo PVP được nới rộng việc tạo ra các hạt nano Au sẽ dễ dàng hơn, lượng nano Au tạo ra nhiều hơn. Nhưng khi tăng nhiệt độ cao hơn nữa dưới tác dụng nhiệt quá lớn đã phá hỏng một lượng lớn các cấu trúc keo làm cho các hạt nano vàng tạo ra ít hơn vì lượng PVP đã hết không bao bọc được các hạt nano nên có thể làm cho các hạt dễ dàng kết tụ lại (có thể dẫn tới việc hình thành oxit vàng), làm giảm năng lượng bề mặt dẫn đến độ hấp thụ của dung dịch giảm đi.  Vì vậy, nhiệt độ 65C là nhiệt độ tối ưu (Amax = 3,0 và max = 543 nm) cho sự hình thành nano vàng.
+
+Hình 3: Phổ hấp thụ UV - Vis của hạt nano vàng tổng hợp tại các khoảng nhiệt độ khác nhau
+   3.4 Phân tích đặc tính hạt nano và phân bố kích thước
+   Kết quả phân tích FTIR
+   Xác định các nhóm chức có trong dung dịch nano vàng bằng phương pháp đo phổ hồng ngoại biến đổi FT  IR được thể hiện trong Hình 4.
+
+Bước sóng (cm-1)Hình 4: Phổ FT ‒ IR của dung dịch nano vàng
+
+   Phổ FT - IR cho thấy trong dung dịch nano vàng chứa các nhóm chức: OH; C  O; C  H; O C  N, chứng tỏ trong dung dịch chỉ có sự tồn tại của chất ổn định PVP và AuNPs. Qua đó cho thấy hạt nano vàng tạo ra ít lẫn tạp chất, phổ thu được ít bị nhiễu và tương tối cân xứng và đỉnh hấp thụ có hình dạng rõ ràng đặc trưng cho từng nhóm chức cụ thể.
+   Tại vị trí 3442,06 cm-1 là sự dao động đặc trưng cho nhóm OH liên kết tạo cầu với hydro trong dung dịch. Còn vân phổ tại 1643,28 cm-1 là C  O nằm trên vòng của PVP. Ở tần số 2361,85 cm-1 và 2090,98 cm-1 là sự dao động của các nhóm liên kết trong vòng của PVP.
+   Kết quả phân tích TEM và phần mềm imageJ
+   Phân tích hiển vi điện tử truyền qua (TEM) các hạt nano vàng tổng hợp được tại nhiệt độ 65C với thời gian là 45 phút theo tỉ lệ 1 : 1 và nồng độ là 10-2 M xuất hiện nhiều và đồng đều. Có nhiều hình dạng khác nhau như: hình cầu, đa giác, tam giác, lục giác và ngũ giác. Các hạt phân tách nhau tương đối rõ nhờ sự có mặt của PVP có vai trò vừa là chất ổn định vừa là chất hoạt động bề mặt. Kích thước hạt trung bình (sau khi xử lý bằng phần mềm ImageJ) là khoảng 13,605,48 nm (Hình 5). Sự phân bố kích thước hạt được biểu diễn ở Hình 6. Sự phân bố hạt tập trung từ 12 - 16 nm.  Ảnh TEM cho thấy kích thước hạt nano vàng phù hợp với kết quả đo phổ hấp thụ UV Vis ban đầu. 
+
+Hình 5: Ảnh TEM của nano vàng với tỷ lệ dịch chiết chanh: Au+ là 1:1
+
+Hình 6: Sự phân bố kích thước hạt nano vàng ở độ phóng đại 80.000
+   4 KẾT LUẬN
+   Nano vàng đã được tổng hợp thành công bằng phương pháp hóa học xanh sử dụng dịch chiết chanh. Nano vàng tạo ra có dạng hình cầu với kích thước trung bình là 13,6 ± 5,48 nm ở điều kiện tối ưu của tỷ lệ dịch chiết chanh: nồng độ Au+ là: 1:1, nhiệt độ phản ứng ở 65oC, và thời gian phản ứng
+ là 45 phút. Nano vàng có nhiều tiềm năng ứng dụng vào xúc tác, cảm biến sinh học hay kỹ thuật sinh học.
+   LỜI CẢM TẠ
+   Nhóm tác giả xin chân thành cảm ơn sự hỗ trợ kinh phí của Trường Đại học Cần Thơ thông qua đề tài cấp cơ sở T2013-14. Cám ơn Viện dịch tễ Trung Ương đã giúp đỡ chúng tôi trong việc chụp hình TEM. Cám ơn Ông Phạm Quốc Nhiên, Khoa Khoa học đã hỗ trợ chúng tôi phân tích phổ IR.
+   TÀI LIỆU THAM KHẢO
+1. Agnihotri, M., S. Joshi, A. R. Kumar, S. Zinjarde, et al., 2009. Biosynthesis of gold nanoparticles by the tropical marine yeast Yarrowia lipolytica NCIM 3589. Materials Letters: 1231-1234.
+2. Baishya, B. and M. C. Kalita, 2013. Green synthesis of gold nanoparticles using musa balbisiana bract extract. International Journal of Pharma & Bio Sciences: 
+3. 
+Banoee, M., N. Mokhtari, A. A. Sepahi, P. J. Fesharaki, et al., 2010. The green synthesis of gold nanoparticles using the ethanol extract of black tea and its tannin free fraction. Iran J Mater Sci Eng: 48-53.
+4. Bhumkar, D. R., H. M. Joshi, M. Sastry and V. B. Pokharkar, 2007. Chitosan reduced gold nanoparticles as novel carriers for transmucosal delivery of insulin. Pharmaceutical research: 1415-1426.
+5. Boruah, S. K., P. K. Boruah, P. Sarma, C. Medhi, et al., 2012. Green Synthesis of gold nanoparticles using camellia sinensis and Kinetics of the reaction. Advanced Materials Letters: 
+6. Hussain, I., M. Brust, A. J. Papworth and A. I. Cooper, 2003. Preparation of acrylate-stabilized gold and silver hydrosols and gold-polymer composite films. Langmuir: 4831-4835.
+7. Marı́n, F. R., M. Martinez, T. Uribesalgo, S. Castillo, et al., 2002. Changes in nutraceutical composition of lemon juices according to different industrial extraction systems. Food Chemistry: 319-324.
+8. Masmoudi, M., S. Besbes, M. Chaabouni, C. Robert, et al., 2008. Optimization of pectin extraction from lemon by-product with acidified date juice using response surface methodology. Carbohydrate Polymers: 185-192.
+9. Nghiêm Thị Hà Liên, Nguyễn Thanh Hải, Vũ Xuân Hòa, Đỗ Quang Hòa và ctv., 2012. Tổng hợp và khảo sát tính chất quang của các hạt nano vàng dạng cầu định hướng ứng dụng trong y sinh. Vietnam Journal of Chemistry: 
+10. Nguyễn Công Tráng, Trần Thị Minh Nguyệt and Nguyễn Quang Huấn, 2012. Nghiên cứu công nghệ chế tạo và hoạt tính xúc tác của nano vàng trên chất mang Fe2O3. Tạp chí Hóa Học: 671-675.
+11. Nguyễn Duy Thiện, 2011. Tổng hợp vật liệu nano vàng từ vàng kim loại bằng phương pháp điện hóa siêu âm và khảo sát một số tính chất. Đại học KHTN Hà Nội: 
+12. 
+Nguyễn Quốc Hiến, Đặng Văn Phú, Nguyễn Thị Kim Lan, Nguyễn Tuệ Anh, et al., 2012. Chế tạo vàng nano bằng phương pháp chiếu xạ. Tạp chí Hóa học: 174.
+13. Rajeshkumar, S., C. Malarkodi, G. Gnanajobitha, K. Paulkumar, et al., 2013. Seaweed-mediated synthesis of gold nanoparticles using Turbinaria conoides and its characterization. Journal of Nanostructure in Chemistry: 1-7.
+14. Selim, M. E. and A. A. Hendi, 2012. Gold nanoparticles induce apoptosis in MCF-7 human breast cancer cells. Asian Pac J Cancer Prev: 1617-1620.
+15. 
+Sharma, J., Y. Tai and T. Imae, 2010. Biomodulation Approach for Gold Nanoparticles: Synthesis of Anisotropic to Luminescent Particles. Chemistry - An Asian Journal: 70-73.
+16. Vandercook, C. E. and R. G. Stephenson, 1966. Lemon Juice Composition. Identification of Major Phenolic Compounds and Estimation by Paper Chromatography. Journal of Agricultural and Food Chemistry: 450-454.
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 		Phần B: Nông nghiệp, Thủy sản và Công nghệ Sinh học: 30 (2014): 22-28
+
+
+

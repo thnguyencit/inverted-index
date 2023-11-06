@@ -1,0 +1,95 @@
+﻿
+HỢP CHẤT FLAVONOIT TỪ LÁ CÂY MUỒNG HOÀNG YẾN (CASSIA FISTULA L.)
+Phạm Thị Nhật Trinh1, Đặng Thị Cẩm Nhung1 và Lê Tiến Nhung2
+1 Trường Đại học Tiền Giang
+2 Viện Công nghệ Hóa học
+Thông tin chung:
+Ngày nhận: 02/10/2013
+Ngày chấp nhận: 28/04/2014
+
+Title: 
+Flavonoids from the leaves of Cassia fistula L.
+Từ khóa: 
+Muồng hoàng yến, flavonoit
+Keywords:
+Cassia fistula, flavonoid   ABSTRACT
+Two flavonoids, kaempferol (1) and liquiritigenin (2) were extracted and isolated from the ethyl acetate fraction of the leaves of Cassia fistula. Their structures were elucidated by 1D and 2D NMR spectral analysis and comparison with published data.
+   TÓM TẮT
+Hai hợp chất flavonoit, kaempferol (1) và liquiritigenin (2) đã được phân lập từ dịch chiết etyl axetat lá muồng hoàng  yến. Cấu trúc các hợp chất được xác định dựa vào phổ cộng hưởng từ hạt nhân 1 chiều, 2 chiều và kết hợp với tài liệu tham khảo.
+   1 MỞ ĐẦU
+   Cây Muồng hoàng yến có tên khoa học là Cassia fistula L., thuộc họ Vang (Caesalpiniaceae). Hiện nay, cây được trồng rất nhiều để làm cảnh ở các tỉnh, thành phố lớn như Hà Nội, thành phố Hồ Chí Minh, Đồng Nai... Theo y học dân gian, nước sắc của lá cây Muồng hoàng yến có tác dụng nhuận tràng, được dùng để chữa chứng khó tiêu, đau lưng, bệnh kí sinh trùng đường ruột và các bệnh ngoài da [1]. Các nghiên cứu trên thế giới cho thấy lá Muồng hoàng yến có thành phần chính là flavonoid và antraquinon, có tác dụng kháng oxy hoá, kháng viêm, kháng nấm, kháng khuẩn [2]. Nghiên cứu dược tính lâm sàng của lá cây lên một số động vật cho thấy nhiều kết quả quan trọng, đặc biệt là khả năng bảo vệ gan [4] và làm lành vết thương [3].
+   Ở nước ta, cây Muồng hoàng yến vẫn chưa được nghiên cứu về mặt hoá học cũng như hoạt tính sinh học. Bài báo này thông báo những kết quả nghiên cứu ban đầu về thành phần hoá học của cây Muồng hoàng yến. Bằng các phương pháp sắc ký, 
+hai hợp chất kaempferol (1) và liquiritigenin (2) đã được phân lập từ dịch chiết etyl axetat của lá cây Muồng hoàng yến.
+   2 PHƯƠNG PHÁP NGHIÊN CỨU
+   2.1  Phương pháp nghiên cứu
+   Sắc ký lớp mỏng (TLC) được thực hiện trên bảng mỏng tráng sẵn DC-Alufolien 60 F254 (Merck), RP18 F254s (Merck). Phát hiện chất bằng đèn tử ngoại ở hai bước sóng 254 nm và 365 nm hoặc dùng thuốc thử là dung dịch 10% H2SO4/EtOH hay 1% FeCl3/EtOH được phun đều lên bản mỏng, sấy khô rồi hơ nóng trên bếp điện từ từ đến khi hiện màu.
+   Sắc ký cột (CC) được tiến hành với chất hấp phụ là silica gel pha thường và pha đảo. Silica gel pha thường có cỡ hạt là 0,40-0,063 mm (240-430 mesh). Silica gel pha đảo RP-18 (30-50 m). Ngoài ra còn sử dụng gel sephadex LH-20.
+   Điểm nóng chảy (mp) được đo trên máy Electrothermal IA seriee, dùng mao quản không hiệu chỉnh của Viện Công nghệ Hoá học.
+   Phổ cộng hưởng từ hạt nhân (NMR): 1H-NMR (500 MHz) và 13C-NMR (125 MHz) được đo trên máy Bruker AM500 FT-NMR Spectrometer, Viện Hoá học, Viện Hàn lâm Khoa học và Công nghệ Việt Nam.
+   2.2 Nguyên liệu
+   Mẫu thực vật được dùng trong nghiên cứu là lá cây Muồng hoàng yến (Cassia fistula L.). Mẫu được thu hái tại thành phố Hồ Chí Minh vào tháng 6 năm 2010.
+   2.3  Phân lập các chất
+   Nguyên liệu sấy khô, nghiền thành bột (2,9 kg) được ngâm chiết bằng etanol. Dịch chiết được cô đuổi dung môi ở áp suất kém thu cao etanol (142,6 g). Phân bố lại cao etanol bằng sắc ký cột nhanh silica gel với các dung môi n-hexan, clorofom, etyl axetat và metanol. Cô cạn các phân đoạn cho các cao tương ứng có khối lượng lần lượt là 15,8; 32,1; 41,4 và 25,9 g. Từ cao etyl axetat (41,4 g), sử dụng sắc ký cột silica gel pha thường nhiều lần kết hợp với sắc ký cột silica gel pha đảo Rp-18 và sắc ký lọc gel sephadex LH-20 thu được hợp chất 1 (5 mg) và 2 (2 mg).
+   Hợp chất 1: dạng bột màu vàng, nhiệt độ nóng chảy 276-278oC. 1H-NMR (500 MHz, CD3COCD3), δ (ppm), J (Hz): 12,16 (1H, s, 
+5-OH); 9,76 (s, OH); 9,09 (s, OH) 8,15 (2H, d, 9Hz, H-2'/ H-6'); 7,02 (2H, d, 9Hz, H-3'/H-5'); 6,53 (1H, s, H-8); 6,26 (1H, s, H-6). 13C-NMR (125 MHz, CD3COCD3 ), δ (ppm): 176,6 (C-4); 165,0 (C-7); 162,3 (C-5); 160,1 (C-4'); 157,8 (C-9); 147,0 (C-2); 136,6 (C-3); 130,4 (C-2'/ C-6'); 123,3 (C-1'); 116,3 (C-3'/ C-5'); 104,1 (C-10); 99,2 (C-6); 94,5 (C-8).
+   Hợp chất 2: tinh thể trắng, nhiệt độ nóng chảy 209-211oC. 1H-NMR (500 MHz, CD3COCD3), 
+δ (ppm), J (Hz): 7,73 (1H, d, 8,5Hz, H-5); 7,40 (2H, d, 9,0Hz, H-2'/H-6'); 6,.90 (2H, d, 8,0Hz, H-3'/ H-5'); 6,57 (1H, dd, 8,0Hz; 2,5Hz, H-6); 6,42 ( 1H, d, 2,5Hz, H-8); 5,46 (1H, dd, 13,0Hz; 3,0Hz, H-2); 3,06 (1H, dd, 16,5Hz; 13Hz, H-3e); 2,69 (1H, dd, 16,5Hz; 3,0Hz, H-3a). 13C-NMR (125 MHz, CD3COCD3 ), δ (ppm): 190,4 ( C-4); 165,3 (C-7); 164,5 (C-9); 158,6 (C-4'); 131,3 (C-1'); 129,5 (C-5); 128,9 (C-2'/C-6'); 116,1 (C-3'/C-5'); 115,2 (C-10); 111,2 (C-6); 103,7 (C-8); 80,5 (C-2); 44,6 (C-3).
+   3 KẾT QUẢ VÀ THẢO LUẬN
+   Hợp chất 1 cô lập được ở dạng bột màu vàng có nhiệt độ nóng chảy 276-278oC dung môi acetone. 
+Hợp chất này cho phản ứng dương tính với 
+thuốc thử FeCl3/EtOH, chứng tỏ đây là một hợp chất phenol. 
+   Phổ 13C-NMR của 1 xuất hiện 13 tín hiệu, trong đó 2 tín hiệu tại δC 130,4  và 116,3 có cường độ cacbon gấp đôi. Vậy công thức phân tử của 1 có 15 cacbon, gồm 1 cacbon cacbonyl [δC 176,6 (C-4)], 12 cacbon vòng thơm [δC 165,0 (C-7); 162,3 (C-5); 157,8 (C-9); 130,4 (C-2' và C-6'); 123,3 (C-1'); 116,3 (C-3' và C-5'); 104,1 (C-10); 99,2 (C-6) và 94,5 (C-8)] và 2 cacbon olefin mang oxygen 
+[δC 147,0 (C-2) và 136,6 (C-3)]. Từ dữ liệu phổ 
+1H NMR, 13C NMR và DEPT cho dự đoán 1 có khung flavone.
+   Phổ 1H NMR của 1 còn sáu proton vòng thơm, trong đó, hai tín hiệu proton vòng thơm xuất hiện với cường độ proton gấp đôi [δH 8,15 (2H, d) và 7,02 (2H, d)], hằng số ghép J = 8,5 cho thấy đây là 2 cặp proton tương đương nằm ở vị trí orto với nhau. Tín hiệu proton tại δH 7,02 cho tương quan với tín hiệu cacbon tại δC 116,3 và tín hiệu proton tại δH 8,15 cho tương quan với cacbon tại δC 130,4 trên phổ HSQC và tương quan qua lại lẫn nhau trên phổ HMBC. Điều này chứng tỏ bốn proton này cùng nằm trên vòng B có tính đối xứng.
+   Tín hiệu kiềm nối tại δH 12,16 trên phổ 1H NMR khẳng định nhóm -OH phải gắn vào C-5 khung flavon. Trên phổ HMBC, proton của -OH kiềm nối tương quan với một cacbon vòng thơm mang oxygen δC 162,3, một cacbon vòng thơm tứ cấp δC 104,1 và một cacbon vòng thơm mang hydrogen δC 99,2 khẳng định ba tín hiệu cacbon này lần lượt là C-5, C-10 và C-6. Proton H-6 
+[δH 6,26] ghép meta với proton δH 6,53, nên proton này chỉ có thể là H-8. Mặt khác, hai proton H-6 và H-8 cùng tương quan với carbon δC 165,0 trên phổ HMBC, xác nhận cacbon này phải là C-7. Cacbon δC 157,8 cũng cho tương quan với với proton H-8 trên phổ HMBC nên cacbon này là C-9. 
+   Xét vòng B, trên phổ HMBC, tín hiệu proton δH 8,15 cho tương quan với hai carbon sp2 mang oxygen [δC 160,1 và 147,0] và một carbon sp2 tứ cấp [δC 123,3]. Tín hiệu proton δH 7,02 cũng cho tương quan với hai trong ba carbon trên là δC 160,1 và δC 123,3. Do đó có thể suy ra tín hiệu proton δH 8,15  ứng với H-2' và H-6', tín hiệu proton tại δH 7,02  ứng với H-3' và H-5'; ba carbon sp2 δC 130,4; 147,0  và 123,3 lần lượt là C-6', C-2 và C-1'. Như vậy, trong 13 tín hiệu carbon của khung flavon trên phổ 13C NMR chỉ còn tín hiệu carbon sp2 δC 136,6 nên carbon này phải là C-3.
+   Từ các biện luận trên, kết hợp với tài liệu 
+tham khảo [5], chúng tôi kết luận hợp chất 1 là kaempferol.
+   Kaempferol có tác dụng tích cực trong việc 
+chống ung thư và bệnh tim mạch. Nhiều nghiên cứu cũng chỉ ra một số tác dụng chữa bệnh của kaempferol như chống động kinh, chống viêm, kháng khuẩn, chống oxy hóa, chống co thắt, trị đái tháo đường, giảm đau và làm giảm ho [7].
+   
+	            
+1			                                              		2
+
+   Hợp chất 2 thu được dạng tinh thể màu trắng. Nhiệt độ nóng chảy 209-211oC dung môi acetone, 2 cho phản ứng dương tính với thuốc thử FeCl3/EtOH, chứng tỏ đây là một dẫn xuất phenol.
+   Phổ 1H-NMR (aceton-d6) cho thấy sự hiện diện của 7 proton vòng thơm, trong đó có 2 cặp proton đối xứng trên vòng benzen H [7,40 (2H; d; 9 Hz)] và H [6,90 (2H, d; 9 Hz)]  và 3 proton nhân thơm H [7,73 (1H; d; 8,5 Hz)]; 6,57 (1H; dd; 8,5 Hz, 2,5 Hz); 6,42 (1H; d; 2,5 Hz)], 2 proton của nhóm methylen và 1 proton của carbon sp3 H 5,46 (1H, dd, 13,0Hz; 3,0Hz).
+   Phổ 13C-NMR (aceton-d6) kết hợp với kỹ thuật DEPT cho biết hợp chất 2 có 13 tín hiệu. Trong đó, mỗi tín hiệu ở C 128,9  và C 116,1 có cường độ cacbon gấp đôi. Vậy trong hợp chất 2 có 15 cacbon, gồm 1 cacbon cacbonyl [δC 190,4 (C-4)], 12 cacbon vòng thơm [δC 165,3 (C-7); 129,4 (C-5); 164,5 (C-9); 128,9 (C-2' và C-6'); 131,3 (C-1'); 116,1 (C-3' và C-5'); 115,2 (C-10); 111,2 (C-6) và 103,7 (C-8)] và 1 cacbon sp3 mang oxygen δC 80,5 (C-2) và 1 cacbon metylen δC 44,6 (C-3).
+   Dữ liệu phổ NMR cho dự đoán đây là một flavanon, hai proton của nhóm methylen H [3.06 (1H; dd; 16.5Hz; 13 Hz); 2.69 (1H; dd; 16.5 Hz; 3.0Hz)] tương ứng là H-3e và H-3a.
+   Phổ HSQC cho biết C-3 có độ dịch chuyển hóa học C 44,6. Proton H-3 cho tương quan HMBC với một cacbon bậc 3 nối oxy C 80,5 ắt hẳn là C-2, vậy proton tại H 5,46 là H-2.
+   Trên HMBC, proton [H 7.73; d; 8,5 Hz] tương quan với cacbon cacbonyl xác nhận proton này là H-5, suy ra proton ghép orto với H-5 là H-6 [H 6,57 (1H; dd; 8,0 Hz; 2,5 Hz)]; proton ghép meta 
+với H-6 là H-8 [H 6,42; d; 2,5 Hz]. Như vậy nhóm thế -OH hẳn tại C-7. Proton H-8 và H- 5 cho tương quan với hai cacbon bậc bốn mang oxy C [165,3; 164,5], nên hai tín hiệu này lần lượt là C-7 và C-9.
+   Hai tín hiệu proton ghép orto tại H [7,40; 2H; d; 9Hz] và H [6,90; 2H; d; 8,5Hz] chứng tỏ chúng thuộc vòng benzen thế 1,4- có cấu trúc đối xứng. Vậy đây là những tín hiệu của vòng B và vòng B mang một nhóm thế -OH tại C-4'. 
+   Phân tích tín hiệu proton của nhóm metylen trên C-3, proton H [3m06 (1H; dd; 16 Hz; 13 Hz)] là proton H-3a, proton H [2,69 (1H; dd; 16,5Hz; 3,0Hz)] là proton H-3e, như vậy với hằng số ghép J=13,0 (ghép aa) của H-3a và J=3,0 (ghép ae) của H-3e nên H-2 chắc chắn phải nằm ở vị trí trục và vòng benzen nằm ở vị trí xích đạo. Như vậy cấu hình của C-2 là S.
+
+Sự ghép spin giữa các proton trong vòng C của hợp chất 2
+   Từ các dữ liệu phổ và tài liệu tham khảo 
+(Bảng 1), hợp chất 2 thu được là liquiritigenin.
+   Liquiritigenin có tác dụng chống lại sự nhiễm độc kim loại nặng trong máu. Ngoài ra, liquiritigenin còn có khả năng bảo vệ gan, ngăn chặn ung thư gan [7].
+
+Bảng 1: So sánh số liệu phổ NMR của 2 với phổ NMR của liaquiritigenin [6]
+Vị trí2 (Acetone-d6)Liquiritigenin (Acetone-d6)δH ppm (J, Hz)
+500 MHzC ppm
+125 MHzHMBC
+(H → C)δH ppm (J, Hz)
+500 MHzC ppm
+125 MHz25.46 (d, 13-3)80.54C-2'5.36 (dd;12.9-3.0)81.033.06 (dd,16-13)
+2.69 (dd;16.5-3)44.69C-2; C-4  C-2'3.01(dd; 16.8-12.)
+2.67 (dd; 16.8-3.0)44.94190.48193.557.73 (d; 8.5)129.45C-2; C-9  C-47.69 (d; 8.8)129.866.57 (dd; 8-2)111.23C-8; C-106.43 (dd; 8.8-2.2)111.87165.37166.986.42 (d; 2.5)103.70C-6; C-9  C-106.25 (d; 2.2)103.459164.54165.510115.20114.91'131.31131.32'7.40 (d; 9)128.92C-2; C-4'  C-6'7.33(d; 8.5)129.03'6.90 (d; 8.5)116.15C-1'; C-4'  C-5'6.83 (d; 8.5)116.34'158.62159.05'6.90 (d; 8.5)116.15C-1'; C-4'  C-3'6.83 (d; 8.5)116.36'7.40 (d; 9)128.92C-2; C-4'  C-2'7.33 (d; 8.5)129.0
+   4 KẾT LUẬN
+   Từ dịch chiết phân đoạn etyl axetat của lá Muồng hoàng yến, bằng các phương pháp sắc ký đã phân lập được hai hợp chất flavonoit: kaempferol và liquiritigenin. Cấu trúc hoá học của các hợp chất này được xác định bằng phổ cộng hưởng từ hạt nhân NMR (1D, 2D).
+   TÀI LIỆU THAM KHẢO
+1. Đỗ Huy Bích, Đặng Quang Chung, Bùi Xuân Chương, Nguyễn Thượng Dong, Đỗ Trung Đàm, Phạm Văn Hiển, Vũ Ngọc Lộ, Phạm Duy Mai, Phạm Kim Mãn, Đoàn Thị Nhu, Nguyễn Tập, Trần Toàn (2004), Cây thuốc và động vật làm thuốc ở Việt Nam, tập 1, Nhà xuất bản Khoa học và kĩ thuật Hà Nội, trang 215-217.
+2. Mohd. Danish, Pradeep Singh, Garima Mishra, Shruti Srivastava, K.K. Jha, R.L.Khosa (2011), "Cassia fistula Linn. (Amulthus)- An important medicinal plant: A review of its traditional uses, phytochemistry and pharmacological properties", J. Nat. Prod. Plant Resour, 1 (1), 101-118.
+3. Muthusamy Senthil Kumar, M.Sc., Ramasamy Sripriya, Ph.D., Harinarayanan Vijaya Raghavan, M.Sc., and Praveen Kumar Sehgal, Ph.D. (2006), "Wound Healing Potential of Cassia ﬁstula on Infected Albino Rat Model", Journal of Surgical Research, 131, 283-289.
+4. T. Bhakta, S. Banerjee, Subhash C. Mandal, Tapan K. Maity, B. P. Saha and M. Pal (2001), "Hepatoprotective activity of Cassia fistula leaf extract", Phytomedicine, 8 (3), 220-224.
+5. Deepa T. Vasudevan, Kavitha R. Dinesh, S. Gopalakrishnan, S.K. Sreekanth And Sonal Shekar (2009), "the potential of aqueous and isolated fraction from leaves of Cassia fistula linn as antibacterial agent", Int. J. Chem. Sci., 7(4), 2363-2367.
+6. Lê Tiến Dũng (2008), "Nghiên cứu hoá học và hoạt tính sinh học của cây Ban nhật (Hypericum japonicum)", Luận án tiến sĩ hoá học, Viện hoá học các hợp chất thiên nhiên.  
+7.  Dictionary of Natural Prduct on DVD, 2012, CRC press, Taylor and Francis group.
+
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Phần A: Khoa học Tự nhiên, Công nghệ và Môi trường: 31 (2014): 81-84
+
+
+

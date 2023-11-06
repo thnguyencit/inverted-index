@@ -1,0 +1,103 @@
+﻿
+BA HỢP CHẤT TỪ CAO ETHYL ACETATE 
+CỦA TRÁI Ô MÔI (CASSIA GRANDIS L.F)
+Ngô Quốc Luân1, Lê Văn Ril1, Đỗ Hoàng Vinh1, Ngô Khắc Không Minh2 và Nguyễn Ngọc Hạnh3
+1 Khoa Sư phạm, Trường Đại học Cần Thơ
+2 Trường Đại học Bách Khoa, Đại học Quốc gia Thành phố Hồ Chí Minh
+3 Viện Công nghệ Hóa học, Thành phố Hồ Chí Minh
+Thông tin chung:
+Ngày nhận: 01/07/2013
+Ngày chấp nhận: 25/02/2014
+
+Title: 
+Three natural compounds from ethyl acetate extracts of fruit of Cassia grandis L.f
+Từ khóa: 
+Trái Ô môi, cinnamic acid
+Keywords:
+Fruit of Cassia grandis L.f, cinnamic acid, beta-sitosterol   ABSTRACT
+From the ethyl acetate extracts of the fruit of Cassia grandis L.f from An Giang Province, three compounds (apigenin-7-O--D-glucopyranoside, cinnamic acid and beta-sitosterol) were isolated. Their structures were interpreted by spectra including 1H-NMR, 13C-NMR, HSQC, HMBC, MS and based on published data.
+   TÓM TẮT
+Từ dịch chiết ethyl acetate của trái Ô môi ở Tỉnh An Giang, ba hợp chất đã được cô lập và nhận danh là apigenin-7-O--D-glucopyranoside, cinnamic acid và beta-sitosterol. Cấu trúc các chất này được xác định bằng các phương pháp phổ hiện đại như  1H-NMR, 13C-NMR, HSQC, HMBC, MS và so sánh với tài liệu đã công bố.
+   1 GIỚI THIỆU
+   Cây Ô môi đã được giới thiệu trong các bài báo trước đây[3, 4], nhóm nghiên cứu bắt đầu nghiên cứu cây này từ năm 2011 và đã công bố phát hiện được 11 hợp chất trong lá Ô môi[1, 2, 3, 4]. Bài báo này tiếp tục công bố thêm 3 hợp chất nữa, trong đó có 2 hợp chất mới phát hiện từ trái Ô môi.
+   2 THỰC NGHIỆM
+   2.1 Nguyên liệu
+   Nguyên liệu từ các bộ phận của cây Ô môi được ThS. Đặng Minh Quân-Trường Đại học Cần Thơ giám định. Trái Ô môi chín thu hái vào tháng 10/2012 tại huyện Phú Tân, tỉnh An Giang. Sau khi rửa sạch, loại bỏ phần sâu mọt, sấy khô ở 50C, tách lấy hạt để riêng, các phần còn lại xay thành bột làm nguyên liệu.
+   2.2 Phương pháp nghiên cứu
+   2.2.1 Phương pháp chiết xuất, cô lập các hợp chất
+   * Chiết rắn-lỏng, lỏng-lỏng, soxhlet bằng các dung môi cồn 96°, n-hexane, ethyl acetate, methanol. Cô loại dung môi bằng máy cô quay dưới áp suất kém Buchi R-210.
+   * Sắc ký lớp mỏng (SKLM) sử dụng bản nhôm silica gel 60F254 (Merck) tráng sẵn độ dày 0,2 mm. Phát hiện vết bằng đèn tử ngoại hai bước sóng 254 và 365 nm, hoặc phun dung dịch H2SO4 10% trong ethanol và hơ nóng trên bếp điện.
+   * Sắc ký cột pha thường (SKCPT), nhiều kích cỡ cột tùy lượng mẫu, chất hấp phụ là silica gel cỡ hạt 0,040-0,063 mm (230-400 mesh) của các hãng Himedia, Scharlau, Merck.
+   * Làm sạch chất bằng cách kết tinh lại nhiều lần trong các dung môi tinh khiết khác nhau.
+   2.2.2 Phương pháp xác định cấu trúc và nhận danh
+   Điểm tan chảy (mp.) được đo trên máy Electrothermal 9100 (U.K), dùng mao quản không hiệu chỉnh. Các phổ 1H-NMR, 13C-NMR, HSQC, HMBC được ghi trên máy Bruker AM500 FT-NMR Spectrometer tại Viện Hóa học-Viện Hàn lâm Khoa học và Công nghệ Việt Nam. Phổ khối lượng được đo trên máy HP 1100 Series, LC/MSD Trap, Agilent tại Viện Công nghệ Hóa học-Viện Hàn lâm Khoa học và Công nghệ Việt Nam.
+   2.3 Chiết xuất và phân lập các hợp chất
+     Bột khô nguyên liệu trái Ô môi (4,0 kg) được tận trích với cồn 96º, lọc bỏ bã, sau đó cô đặc và sấy ở 50ºC được 380 g cao F. Phân tán cao F trong nước-cồn ấm và chiết kiệt với n-hexane, cô loại dung môi thu được 15 g cao FH. Phần không tan trong n-hexane tiếp tục được chiết kiệt với ethyl acetate và cô loại dung môi thu được 65 g cao FE.
+   Từ 60 g cao FE tiến hành SKCPT với các hệ dung môi n-hexane:ethyl acetate (H:E) tỷ lệ thay đổi theo hướng tăng dần độ phân cực. Các phân đoạn con giống nhau được gom lại, được 12 phân đoạn có các vết chất khác nhau (FE01, FE02... FE12). Tại phân đoạn FE05 (H:E = 5:5) thu được cặn chứa kết tinh màu trắng, kết tinh lại nhiều lần trong n-hexane thu được 50 mg chất sạch đặt tên là CGFE04.
+   Tại phân đoạn FE10 (ethyl acetate 100%) thu được 0,54 g cặn chứa vết chính màu vàng. Tiếp tục tiến hành SKCPT cặn FE10 lần 2 với hệ dung môi CHCl3:CH3OH (C:M) = 85:15. Tổng số phân đoạn gom được là 7 (FE10-1, FE10-2... FE10-7). Ở phân đoạn FE10-2 thu được chất bột kết tinh màu vàng, kết tinh lại trong CHCl3 và kiểm tra bằng SKLM thu được 10 mg chất sạch đặt tên là CGFE03.
+   Tại phân đoạn FE02 (H:E = 8:2) thu được 0,32 g cặn chứa vết chính màu tím. Tiếp tục tiến hành SKCPT cặn FE02 lần 2 với hệ dung môi H:E = 8:2. Tổng số phân đoạn gom được là 15 (FE02-1, FE02-2... FE02-15). Ở phân đoạn FE02-6 thu được chất kết tinh màu trắng khá sạch, kết tinh lại trong n-hexane và kiểm tra bằng SKLM thu được 16 mg chất sạch đặt tên là CGFE05.
+   Tiến hành đo điểm chảy, phân tích phổ MS và NMR các mẫu chất phân lập.
+   3 KẾT QUẢ VÀ THẢO LUẬN
+   3.1 Hợp chất CGFE03
+   * Hợp chất CGFE03 kết tinh hình kim màu vàng trong MeOH, mp. 236oC. SKLM giải ly bằng hệ dung môi C:M = 8:2, hiện vết bằng dung dịch H2SO4 10% trong ethanol và hơ nóng cho vết màu vàng, Rf = 0,18. Ngoài ra còn cho phản ứng dương tính với thuốc thử FeCl3/ethanol chứng tỏ đây là dẫn xuất phenolic.
+   * Phổ ESAPI-MS Negative cho pic ion phân tử m/z [M-H]+ = 431 và các mảnh khác phù hợp với công thức phân tử C21H20O10 (M = 432 đvC).
+   * Phổ 1H-NMR (DMSO-d6, 500 MHz, δH ppm, J Hz) cho tín hiệu đặc trưng của 7 proton vòng benzene (δH trong khoảng 6,45-7,97), trong đó có 2 cặp proton tương đương; 2 proton của 2 nhóm -OH gắn trực tiếp trên vòng benzene (δH 10,40 và 12,96). Ngoài ra còn có tín hiệu của 11 proton của 1 đơn vị đường hexose (δH trong khoảng 3,16-5,40), trong đó có 1 tín hiệu proton anomer δH 5,06.
+   * Phổ 13C-NMR (DMSO-d6, 125 MHz, δC ppm) kết hợp với kỹ thuật DEPT cho thấy tín hiệu đặc trưng của khung sườn flavone 15 carbon. Trong đó có 14 carbon vòng benzene (δC trong khoảng 99,48-164,21) gồm 7 carbon methin (có 2 cặp carbon tương đương), 7 carbon tứ cấp mà trong đó 5 carbon có δC ở vùng trường thấp hơn do có gắn với nhóm chứa nguyên tố có độ âm điện lớn, có thể là oxygen và 1 carbon carbonyl có δC 181,93. Ngoài ra còn có tín hiệu của 6 carbon vòng đường hexose (không chứa carbon methyl), trong đó có 5 tín hiệu dạng hydroxy methine, 1 hydroxy methylene, tín hiệu ở δC 99,89 là carbon anomer.
+   * Các phổ HSQC và HMBC cho thông tin về các mối tương quan giúp qui nạp các giá trị δH và δC phù hợp vào khung flavone và vòng đường hexose: Trong cụm proton của vòng đường, ngoài các proton không gắn trực tiếp với carbon thì proton anomer có độ dời hóa học lớn nhất (δH 5,06; d; J = 7,5), gắn trực tiếp với carbon anomer (có độ dời hóa học lớn nhất so với các carbon còn lại của vòng đường, δC 99,89) và có tương quan với carbon δC 162,91 chứng tỏ đơn vị đường gắn với khung flavone tại vị trí C-7 (xác định C-7 nhờ tương quan với H-6 và H-8). Với độ dời hóa học của các carbon vòng đường C-1″>C-5″>C-3″>C-2″>C-4″>C6″ cho biết đây là đường glucose và đây là đường dạng β vì proton anomer có J = 7,5.
+   Từ các đặc điểm trên cho phép dự đoán CGFE03 thuộc loại flavonoid có gắn 1 đơn vị đường glucose, tra cứu tài liệu thấy trùng khớp với apigenin-7-O-β-D-glucopyranoside. Dữ liệu phổ NMR sau khi phân tích và so sánh với tài liệu tham khảo như sau:
+   
+Bảng 1: So sánh dữ liệu phổ NMR của CGFE03 và apigenin-7-O-β-D-glucopyranoside
+Vị trí C/HCGFE03Apigenin-7-O-β-D-glucopyranoside[7]13C-NMR
+(DMSO-d6, 125 MHz)1H-NMR
+(DMSO-d6, 500 MHz)13C-NMR
+(CD3OD, 125 MHz)1H-NMR
+(CD3OD, 500 MHz)2164,21164,41(*)3103,076,87 (1H, s)106,576,85 (1H, s)4181,93180,455156,89166,25(*)699,486,45 (1H, d, J = 2,0)104,836,83 (1H, d, J = 2,1)(*)7162,91160,16(*)894,806,83 (1H, d, J = 2,5)99,346,71 (1H, d, J = 2,1)(*)9161,06160,72(*)10105,29109,391'120,99123,322', 6'128,547,96 (2H, d, J = 9,0)129,517,83 (2H, d, J = 8,8)3', 5'115,946,94 (2H, d, J = 9,0)117,106,92 (2H, d, J = 8,8)4'161,30162,60(*)5-OH12,96 (1H, s)4'-OH10,40 (1H, s)1''99,895,06 (1H, d, J = 7,5)105,114,90 (1H, d, J = 7,6)2''73,063,16-3,46 (4H, m)74,833,25-3,50 (4H, m)3''76,4077,584''69,5371,805''77,1378,666''60,573,49 (1H, dd, J = 6,0 và J = 12,0)
+3,71 (1H, dd, J = 5,5 và J = 10,5)62,613,73 (1H, dd, J = 11,9 và J = 5,4)
+3,87 (1H, dd, J = 11,9 và J = 2,2)2''-OH5,40 (1H, d, J = 5,0)3''-OH5,13 (1H, d, J = 4,5)4''-OH5,07 (1H, d, J = 2,5)6''-OH4,61 (1H, t, J = 5,0)Chú thích: (*) Dữ liệu phù hợp nhưng gán chưa khớp vị trí so với với CGFE03
+
+   Từ các dữ kiện trên kết hợp so sánh với tài liệu[6], cấu trúc của CGFE03 được đề nghị như Hình 1 và định danh là apigenin-7-O-β-D-glucopyranoside (1).
+Hình 1: Cấu trúc hợp chất CGFE03
+   3.2 Hợp chất CGFE04
+   Hợp chất CGFE04 kết tinh trong n-hexane hình kim to, trắng và khá trong, mp. 134-135oC. SKLM giải ly bằng hệ dung môi C:M = 98:2, không hiện vết bằng dung dịch H2SO4 10% trong ethanol, hơ nóng thì bay hơi, soi vết dưới đèn UV và đánh dấu đo được Rf = 0,31.
+   * Phổ 1H-NMR (CDCl3, 500MHz, δH ppm, J Hz) cho 4 tín hiệu của 7 proton, trong đó có 2 cặp proton tương đương tương ứng với 2 cặp carbon methine tương đương trên phổ 13C-NMR đặc trưng cho vòng benzene. Hai proton olefin δH 6,46 (J = 15,5) và 7,80 (J = 16,0) ở vị trí trans vì có J lớn.
+   * Phổ 13C-NMR (CDCl3, 125MHz, δC ppm) kết hợp kỹ thuật DEPT cho 7 tín hiệu của 9 carbon. Trong đó có 7 carbon methine (có 2 cặp carbon methine tương đương đặc trưng cho vòng benzene), 1 carbon bậc 4 và 1 carbon carbonyl (δC 172,45).
+   Từ các đặc điểm trên cho phép dự đoán CGBE04 là dẫn xuất phenyl của carboxylic acid không no, tra cứu tài liệu thấy trùng khớp với cinnamic acid. Dữ liệu phổ NMR sau khi phân tích, kiểm tra lại trên các phổ HSQC, HMBC và so sánh với tài liệu tham khảo được trình bày trong Bảng 2.
+
+
+Bảng 2: So sánh dữ liệu phổ NMR của CGFE04 và cinnamic acid
+Vị trí C/HCGFE04Cinnamic acid[6]13C-NMR
+(CDCl3, 125 MHz)1H-NMR
+(CDCl3, 500 MHz)13C-NMR
+(CDCl3, 120 MHz)1H-NMR
+(CDCl3, 400 MHz)1172,45172,062117,346,46 (1H, d, J = 15,5)6,47 (1H, d, J = 16,0)3147,097,80 (1H, d, J = 16,0)147,117,81 (1H, d, J = 16,0)1′134,07133,992′, 6′128,387,55-7,57 (2H, m)128,377,57 (2H, m)3′, 5′128,977,39-7,42 (3H, m)128,967,42 (3H, m)4′130,757,39-7,42 (3H, m)130,777,42 (3H, m)
+   Từ các dữ kiện trên kết hợp so sánh với tài liệu[6], cấu trúc của CGFE04 được đề nghị như Hình 2 và định danh là cinnamic acid (2).
+
+Hình 2: Cấu trúc hợp chất CGFE04
+   3.3 Hợp chất CGFE05
+   * CGFE05 kết tinh trong CHCl3 ở dạng bột mịn, màu trắng, mp. 136-137°C. SKLM cho một vết màu tím khi phun dung dịch H2SO4 10% trong ethanol và hơ nóng, có Rf = 0,26 (CHCl3:MeOH = 95:5).
+   * Phổ khối lượng cho pic ion phân tử m/z 
+[M+H]+ = 415 tương ứng với công thức phân tử C29H50O = 414 đvC.
+   * Phổ 1H-NMR (CDCl3, 500MHz, δH ppm, J Hz) cho 6 tín hiệu proton methyl đặc trưng của hợp chất sterol trong khoảng δH 0,68-1,01; 1 tín hiệu proton nối đôi ở δH 5,35-5,36 (m); 1 tín hiệu proton của carbon gắn với nhóm OH ở δH 3,50-3,54 (m).
+   * Phổ 13C-NMR (CDCl3, 125MHz, δC ppm) kết hợp kỹ thuật DEPT cho 28 tín hiệu của tổng số 29 carbon. Trong đó có 6 carbon methyl, 11 carbon methylene, 9 carbon methine và 3 carbon tứ cấp.
+   Từ các đặc điểm trên cho phép dự đoán CGFE05 thuộc nhóm sterol, tra cứu tài liệu thấy trùng khớp với beta-sitosterol. Dữ liệu phổ NMR sau khi phân tích, so sánh với tài liệu tham khảo[5] như sau:
+   Phổ 1H-NMR (CDCl3, 500 MHz, δH ppm, J Hz): 0,70 (3H, s, H-18); 0,84 (3H, s, H-29); 0,92 (6H, s, H-26, 27); 0,95 (3H, s, H-21); 1,03 (3H, s, H-19); ... 3,55 (1H, d, J = 5,0; H-3) và 5,37 (1H, d, J = 4,5; H-6). Phổ 13C-NMR (CDCl3, 125 MHz, δC ppm): 12,65 (C-18); 19,19 (C-29); 19,45 (C-19); 19,80 (C-21); 20,22 (C-26); 21,50 (C-27); 23,49 (C-11); 24,71 (C-28); 26,51 (C-15); 28,65 (C-23); 29,58 (C-16); 31,31 (C-25); 32,06 (C-8); 32,32 (C-2); 32,32 (C-7); 34,37 (C-22); 36,55 (C-20); 36,91 (C-10); 37,67 (C-1); 40,19 (C-12); 42,70 (C-4); 42,73 (C-13); 46,25 (C-24); 50,55 (C-9); 56,48 (C-17); 57,18 (C-14); 73,20 (C-3); 122,11 (C-6) và 141,17 (C-5).
+   Từ các dữ liệu phổ trên đây kết hợp so sánh với tài liệu[5, 8] có thể nhận định CGFE05 là beta-sitosterol (3) (Hình 3).
+
+Hình 3: Cấu trúc hợp chất CGFE05
+   4 KẾT LUẬN
+   Từ trái cây Ô môi ở Tỉnh An Giang đã cô 
+lập được 3 hợp chất là apigenin-7-O-β-D-glucopyranoside (1), cinnamic acid (2), beta-sitosterol (3). Trong đó, các hợp chất (1) và (2), lần đầu tiên được cô lập từ loài cây này. Nhờ phổ 2D-NMR có thể xác định chính xác vị trí các proton và carbon trong cấu trúc của hợp chất (1).
+   TÀI LIỆU THAM KHẢO
+1. Lê Tiến Dũng và ctv (2011). Khảo sát thành phần hóa học phân đoạn phân cực của lá cây Ô môi-Cassia grandis L.. Tạp chí Hóa học T.49(6A-2011), trang 403-407.
+2. Lê Tiến Dũng và ctv (2012). Hợp chất flavonoit và antraquinon từ lá cây Ô môi. Tạp chí Hóa học T.50(5A-2012), trang 200-202.
+3. Ngô Quốc Luân và ctv (2012). Hợp chất flavonoid từ lá Ô môi Cassia grandis L.. Tạp chí Khoa học và Công nghệ, Tập 50, Số 3A, 2012, trang 296-301.
+4. Ngô Quốc Luân và ctv (2013). Phân lập và nhận danh hai hợp chất từ dịch chiết ethyl acetate của trái Ô môi Cassia grandis L.f. Tạp chí Khoa học, Trường Đại học Cần Thơ, Số 26(Phần A)-2013, trang 30-34.
+5. Nguyễn Quyết Tiến, Phạm Thị Hồng Minh, Nguyễn Quảng An, Trương Thị Thanh Nga, Nguyễn Ngọc Tuấn, Đoàn Văn Tuấn, Phạm Hữu Điển (2011). Một số kết quả nghiên cứu ban đầu về thành phần hóa học của cây Bằng Lăng nước. Tạp chí Khoa học và Công nghệ, Đại học Thái Nguyên, 83(07), 15-18.
+6. 
+Renmin Liu, Aifeng Li, Ailing Sun (2004). Preparative isolation and purification of hydroxyanthraquinones and cinnamic acid from the Chinse medicinal herb Rheum officinaile Baill. By high-speed counter-current chromatography. Journal of Chromatography A, 1052(2004): 217-221.
+7. Tayfun Ers ¨Oz, ¨U. Sebnem Harput, Iclal Saracoglu, Ihsan Calis. Phenolic Compounds from Scutellaria pontica. Turk. J. Chem. 26 (2002), pp. 581-588.
+8. Tôn Nữ Liên Hương và ctv (2011). Nghiên cứu thành phần hóa học của thân cây Cỏ xước (Achyranthes aspera L.) ở Trà Vinh. Tạp chí Khoa học, Trường Đại học Cần Thơ, Số 19b-2011, trang 56-61.
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Phần A: Khoa học Tự nhiên, Công nghệ và Môi trường: 30 (2014): 15-19
+
+
+

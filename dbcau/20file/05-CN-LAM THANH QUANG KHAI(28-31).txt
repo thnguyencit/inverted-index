@@ -1,0 +1,74 @@
+﻿
+NGHIÊN CỨU GIẢI PHÁP CHỐNG ĂN MÒN CỐT THÉP TRONG BÊTÔNG BẰNG VẬT LIỆU BÊTÔNG POLYMER
+Lâm Thanh Quang Khải1
+1Bộ môn Xây dựng, Trường Đại học Cửu Long
+Thông tin chung:
+Ngày nhận: 10/07/2015
+Ngày chấp nhận: 27/10/2015
+Title: 
+Study of corrosion resistant method for reinforcement in concrete by using polymer materials
+Từ khóa: 
+Bêtông polymer, cấu kiện chịu uốn, miền chịu kéo, ăn mòn cốt thép
+Keywords:
+Polymer concrete, bending elements, tensile region, corrosion of reinforcement   ABSTRACT
+This paper presents some methods for protecting the reinforcing steel in concrete, which are being widely used nowadays and proposes a method that uses polymer materials to protect the reinforcing steel. Concrete 
+with polymer structures is very expensive, and the bending components 
+its compressive areas can help to consolidate the concrete materials densely under working environment which results in the prevention of reinforcement corrosion. In tensile areas, concrete is expanded, resulting in cracks that allows the direct intrusion of environmental elements to the steel in concrete. Therefore, this paper suggests using polymer materials in the tensile region for cost-effectiveness and for preventing the corrosion of reinforcing steel in concrete
+   TÓM TẮT
+Bài báo này trình bày một số biện pháp bảo vệ cốt thép trong bêtông đang được sử dụng phổ biến hiện nay, từ đó đề xuất biện pháp bảo vệ cốt thép bằng vật liệu bêtông polymer. Nếu cấu kiện sử dụng hoàn toàn bằng vật liệu bêtông polymer thì giá thành rất đắt, ngoài ra trong cấu kiện chịu uốn thì miền chịu nén làm vật liệu khít lại trong quá trình làm việc dưới sự tác động của môi trường ngoài nên cốt thép ít bị ảnh hưởng. Còn miền chịu kéo, làm dãn nở bêtông nên xuất hiện nhanh các vết nứt dẫn đến môi trường xâm nhập nhanh và tác động trực tiếp đến cốt thép. Vì vậy, bài báo đã đề xuất sử dụng vật liệu bêtông polymer ở miền chịu kéo vừa đảm bảo kinh tế vừa chống ăn mòn cốt thép hiệu quả.
+   1 ĐẶT VẤN ĐỀ
+   Trong các công trình xây dựng hiện nay, hầu như vật liệu bằng thép hoặc bêtông cốt thép (BTCT) được sử dụng khá phổ biến. Nhiều công trình bị xuống cấp, hư hỏng do chịu ảnh hưởng của môi trường xung quanh làm giảm chất lượng công trình xây dựng. Trong đó, ăn mòn cốt thép làm hư hỏng kết cấu BTCT là vấn đề khá phổ biến trong xây dựng, đặc biệt là những công trình bị xâm thực của môi trường biển.
+   Trong môi trường biển do điều kiện khí hậu nóng ẩm, chứa hàm lượng ion Cl- rất cao nên kết cấu BTCT bị ăn mòn và phá hủy rất nhanh, đặc biệt là vùng có nước lên xuống và ven biển. Tốc độ ăn mòn làm hư hỏng công trình diễn ra khá nhanh, một số công trình có tuổi thọ trên 30 năm đã bị hư hỏng nặng sau 20-25 năm sử dụng, thậm chí sau 10-15 năm sử dụng. Chi phí cho việc sửa chữa khắc phục chiếm 30-70% mức đầu tư xây dựng công trình.
+   
+Trong môi trường xâm thực, hiện tượng ăn mòn cốt thép và bêtông dẫn đến làm rạn nứt và phá hủy kết cấu BTCT, làm BTCT sớm bị hư hỏng, không đảm bảo tuổi thọ công trình. Độ bền thực tế của BTCT phụ thuộc vào mức độ xâm thực và chất lượng vật liệu sử dụng. Quan điểm chung về chống ăn mòn cho kết cấu BTCT là: bảo vệ bêtông, lấy bêtông bảo vệ cốt thép.
+   Điều đó đòi hỏi phải có các biện pháp chống ăn mòn và hạn chế sự ăn mòn của các kết cấu bêtông và bêtông cốt thép. 
+   2 NỘI DUNG NGHIÊN CỨU
+   Bình thường, cốt thép được bảo vệ hoàn toàn trong môi trường kiềm của bêtông nhờ vào hàm lượng lớn của canxi oxit, natri oxit và kali oxit hòa tan. Các hợp chất kiềm này trong bêtông giữ độ pH ở mức 12-13 giúp tạo nên một lớp màng bảo vệ mỏng trên bề mặt cốt thép. Trong điều kiện bình thường, lớp màng mỏng có khả năng bảo vệ cốt thép chống lại sự tấn công của các tác nhân ăn mòn từ môi trường, cơ chế này được gọi là "cơ chế bảo vệ thụ động" của BTCT.
+   2.1 Các nguyên nhân gây ra ăn mòn cốt thép trong bêtông
+   * Quá trình carbonat hóa trong BTCT: sự tập trung hàm lượng dung dịch canxi hydroxit hòa tan (Ca(OH)2) trong các lỗ hổng của kết cấu bêtông là kết quả của quá trình thủy hóa xi măng giúp giữ độ pH ở ngưỡng an toàn 12-13. Quá trình carbonat hóa với sự hiện diện của CO2, nước và Ca(OH)2  tạo nên canxi carbonat và trung hòa môi trường kiềm trong bêtông: CO2 + H2O + Ca(OH)2 → CaCO3 + 2H2O. Sau quá trình trung hòa làm giảm nồng độ pH của bêtông theo thời gian, làm vỡ màng thụ động có tác dụng bảo vệ cốt thép (lớp màng dày 2-20 nanomét), đẩy nhanh quá trình ăn mòn cốt thép, dẫn đến phá hủy kết cấu. Quá trình ăn mòn bắt đầu khi gỉ thép xuất hiện và phát triển trên bề mặt cốt thép và gây nứt tại những vị trí tiếp giáp với bêtông, vết nứt phát triển dần dưới sự tấn công của các tác nhân ăn mòn cho đến khi phá vỡ hoàn toàn sự kết dính giữa bêtông và cốt thép (Hình 1). Tốc độ của quá trình carbonat hóa phụ thuộc vào tác động của các tác nhân từ môi trường ngoài như: độ ẩm không khí, nhiệt độ, hàm lượng CO2 và tính chất cơ lý của bêtông như độ kiềm và độ thẩm thấu, điều kiện lý tưởng thúc đẩy quá trình carbonat hóa hoạt động mạnh là khi độ ẩm không khí ở mức 60-75%. Hơn nữa, tốc độ quá trình carbonat hóa tăng dần khi hàm lượng CO2 trong không khí và nhiệt độ tăng dần, mặt khác hàm lượng xi măng là một yếu tố quan trọng để tăng độ kiềm và làm chậm quá trình carbonat hóa.
+
+
+Hình 1: Quá trình ăn mòn cốt thép trong bêtông
+   * 
+   * Quá trình thấm ion  vào bêtông, tương tác với các sản phẩn thủy hóa của xi măng, gây trương nở thể tích và phá hủy kết cấu (còn gọi là ăn mòn sunfat).
+   * Sự xâm nhập của ion Cl-: Quá trình xâm nhập của clorua không trực tiếp ăn mòn cốt thép (trừ trường hợp phá vỡ lớp màng bảo vệ trên bề mặt cốt thép và thúc đẩy quá trình ăn mòn phát triển), clorua đóng vai trò như một chất xúc tác cho quá trình ăn mòn BTCT. Tuy nhiên, cơ chế ăn mòn do ion clorua khác quá trình carbonat hóa ở chỗ ion clorua xâm nhập qua lớp bêtông bảo vệ và tấn công cốt thép ngay cả khi độ pH trong hỗn hợp vẫn ở mức cao (12-13). Có 4 cơ chế xâm nhập của ion clorua qua lớp bảo vệ bêtông: sự hút mao dẫn, sự thẩm thấu do tập trung hàm lượng ion clorua cao trên bề mặt BTCT, thẩm thấu dưới áp lực căng bề mặt và sự dịch chuyển do chênh lệch điện thế.
+   * Quá trình ăn mòn vi sinh vật, ăn mòn cơ học do sóng, ăn mòn rửa trôi.
+   2.2 Các yếu tố ảnh hưởng đến ăn mòn BTCT
+   Căn cứ theo tính chất xâm thực và mức độ tác động của môi trường biển lên kết cấu BTCT có thể phân thành 3 vùng sau:
+   * Vùng hoàn toàn ngập nước: các công trình bêtông và BTCT trong vùng này chịu tác động của nước biển với lượng muối hòa tan khá lớn, hàm lượng SO42- vượt quá tiêu chuẩn, hiện tượng ăn mòn hóa lý sẽ xảy ra, các ion SO42- sẽ phản ứng với các sản phẩm hydrat hóa bêtông tạo ra hợp chất khó hòa tan. Khi nồng độ SO42- lớn sẽ tạo ra muối . Sản phẩm tạo ra có thể tích gấp 2.86 lần gây phản ứng phá vỡ bêtông.
+   * Vùng nước lên xuống và sóng đánh: cùng với quá trình ăn mòn hóa học, ăn mòn điện hóa thì trên bề mặt kết cấu còn bị ăn mòn cơ học do áp lực sóng, đặc biệt là sóng có cường độ mạnh do gió bão gây ra. Trên bề mặt kết cấu, quá trình khô ướt xảy ra thường xuyên làm tăng nhanh quá trình tích tụ ion Cl-, O2-. Nước biển cũng thâm nhập vào bêtông thông qua quá trình khuếch tán và lực hút mao quản.
+   * Vùng khí quyển trên biển và ven bờ: hiện tượng ăn mòn và phá hủy kết cấu xảy ra mạnh tại vị trí trực diện với gió biển hoặc thường xuyên hứng chịu mưa gió và khí hậu nóng ẩm.
+   2.3 Một số biện pháp chống ăn mòn cốt thép hiện nay
+   Nhà nước ta đã ban hành các tiêu chuẩn: TCVN 3993-1985 "Chống ăn mòn trong xây dựng - Kết cấu bêtông và bêtông cốt thép - Nguyên tắc cơ bản để thiết kế"; TCVN 3994-1985 "Chống ăn mòn trong xây dựng - Kết cấu bêtông và bêtông cốt thép - Phân loại ăn mòn"; TCXD 149-1986 "Bảo vệ kết cấu xây dựng khỏi bị ăn mòn", TCVN 3993-1985 "Chống ăn mòn trong xây dựng - Kết cấu bêtông và bêtông cốt thép - Nguyên tắc cơ bản để thiết kế"; TCVN 9346-2012 "Kết cấu bêtông và bêtông cốt thép - Yêu cầu bảo vệ chống ăn mòn trong môi trường biển". Tuy nhiên, các tiêu chuẩn này chưa đề cập đến tất cả các loại ăn mòn, các môi trường ăn mòn, do đó việc áp dụng cũng bị hạn chế và chưa phát huy được tác dụng trong thực tế.
+   Nhận thức được tính cấp bách của việc chống ăn mòn bêtông và bêtông, ở nước ta có nhiều cơ quan khoa học đã nghiên cứu về các vấn đề về ăn mòn, chủ yếu đi vào các biện pháp cụ thể chống ăn mòn cho các công trình bêtông và bêtông cốt thép ở môi trường biển [8]:
+   * Viện Khoa học công nghệ xây dựng từ những năm đầu của thập kỷ 80 đã triển khai nghiên cứu lĩnh vực chống ăn mòn bêtông và bêtông cốt thép, đạt được những thành quả nhất định theo hướng sử dụng phụ gia ức chế ăn mòn và sơn phủ bề mặt kết cấu đối với công trình biển. Năm 1994, Bộ Khoa học công nghệ và môi trường đã giao cho Viện nghiên cứu công nghệ xây dựng nghiên cứu tổng thể các điều kiện kỹ thuật cần thiết để bảo vệ chống ăn mòn và đảm bảo độ bền cho kết cấu bêtông - bêtông cốt thép xây dựng ở vùng biển phù hợp với điều kiện tự nhiên, kinh tế và xã hội Việt 
+Nam, trên cơ sở đó biên soạn những chỉ dẫn kỹ thuật cần thiết cho công tác xây dựng và sửa chữa công trình làm bằng bêtông và bêtông cốt thép ở vùng biển nước ta. 
+   * Viện khoa học công nghệ Giao thông vận tải: trong một số công trình nghiên cứu về ăn mòn bêtông đã đưa ra nhiều ý kiến phân tích tình hình hư hỏng kết cấu bêtông và bêtông cốt thép do ăn mòn, chỉ ra những nguyên nhân và đề ra những biện pháp bảo vệ như: dùng các chất phụ gia kỵ nước (dầu thảo mộc), tăng cường bảo vệ mặt ngoài kết cấu bêtông bằng các lớp sơn chống thấm như: sơn bitum-cao su, sơn bitum-epoxy.
+   * Viện Khoa học thủy lợi quốc gia đã nghiên cứu thành công phụ gia bentonit tăng chống thấm, giảm ăn mòn cốt thép với các công trình thủy lợi.
+   Vào những năm cuối thập kỷ 90 có một số đề tài về công nghệ xây dựng mang mã số KC-05-13A về triển khai chế tạo các tổ hợp bêtông và vữa có phụ gia ức chế ăn mòn và bảo vệ cốt thép trong môi trường biển Việt Nam, đề tài bao gồm: nghiên cứu chất ức chế ăn mòn cốt thép, dung phụ gia ZKJ, phụ gia bentonit cải tiến, phụ gia khoáng SISEX,...Tuy nhiên, có một số kết quả nghiên cứu về bêtông và bêtông cốt thép trong môi trường biển ở nước ta đến nay vẫn chưa được triển khai nhiều.
+   2.4 Các đặc tính của vật liệu bêtông polymer
+   Bêtông polymer là bêtông xi măng với các phụ gia của các hợp chất hữu cơ cao phân tử khác nhau dưới dạng dung dịch của các polymer: vinylaxetat, vinyclorua, styrol và các chất khác. Sử dụng các polymer trong bêtông cho phép thay đổi cấu trúc và tính chất của nó theo hướng có lợi, cải thiện các tiêu chí kinh tế - kỹ thuật của vật liệu.
+   Hình thức của polymer trong bêtông cũng rất đa dạng và có các tính chất đặc biệt như: có cường độ chịu kéo (nén) và chịu uốn cao hơn so với bêtông thường, có độ chịu mòn và độ chống thấm cao... Tuỳ theo yêu cầu của cấu kiện công trình mà chọn loại bêtông polymer phù hợp với yêu cầu sử dụng.
+   Ví dụ như bêtông polymer được làm từ polyester, nhựa vinyl-ester (Bảng 1):	
+Bảng 1: Các đặc tính cơ bản của bêtông polymer và bêtông thường
+Bêtông thườngBêtông polymerChịu nén, MPa20 - 25>100Chịu kéo, MPa920 - 25Chịu uốn2 - 330 - 35   2.5 Đề xuất giải pháp
+   Có thể thấy điều kiện khí hậu tại Việt Nam, tác động xâm thực của môi trường là rất mạnh dẫn đến ăn mòn và phá hủy công trình. Mức độ ăn mòn phụ thuộc vào vị trí và điều kiện làm việc của công trình. Với đặc thù khí hậu nóng ẩm, mưa bão nhiều thì tốc độ và mức độ bị ăn mòn của công trình BTCT sẽ rất nhanh, tuổi thọ sẽ giảm đi đáng kể. Vì vậy, việc tìm ra các biện pháp phòng ngừa chống ăn mòn và các giải pháp kỹ thuật nâng cao khả năng làm việc, đảm bảo chất lượng và tuổi thọ lâu dài cho công trình là một vấn đề hết sức quan trọng, có ý nghĩa to lớn với nền kinh tế đang phát triển của Việt Nam.
+   Sau khi nghiên cứu một số biện pháp bảo vệ cốt thép trong bêtông đang được sử dụng phổ biến hiện nay, từ đó đề xuất biện pháp bảo vệ cốt thép bằng vật liệu bêtông polymer. Nếu cấu kiện sử dụng hoàn toàn bằng vật liệu bêtông polymer thì giá thành rất đắt, ngoài ra trong cấu kiện chịu uốn thì miền chịu nén làm vật liệu khít lại trong quá trình làm việc dưới sự tác động của môi trường ngoài nên cốt thép ít bị ảnh hưởng. Còn miền chịu kéo, làm dãn nở bêtông nên xuất hiện nhanh các vết nứt. Vì vậy, tác giả đã đề xuất giải pháp sử dụng vật liệu bêtông polymer ở miền chịu kéo vừa đảm bảo kinh tế vừa chống ăn mòn cốt thép hiệu quả.
+   3 KẾT LUẬN
+   Từ những phân tích trên, ta thấy rằng nghiên cứu giải pháp chống ăn mòn cốt thép trong bêtông bằng việc gia cố vật liệu bêtông polymer trong miền chịu kéo là vấn đề quan trọng trong xây dựng, có ý nghĩa khoa học và thực tiễn, đặc biệt trong điều kiện khí hậu tại Việt Nam, góp phần xem xét đầy đủ hơn trong việc đưa ra định hướng, phương pháp bảo vệ phù hợp và hiệu quả kinh tế đối với các công trình xây dựng.	
+   Ngoài ra, bêtông polymer là vật liệu tương đối mới cần nghiên cứu thêm ở những khía cạnh như sự làm việc của bản thân vật liệu bêtông polymer và vật liệu bêtông polymer với bêtông trong quá trình chịu tải trọng, cũng như hàm lượng polymer trong bêtông sao cho cấu kiện có khả năng chống ăn mòn lớn nhất.
+   TÀI LIỆU THAM KHẢO
+TCVN 3993 - 1985. Chống ăn mòn trong xây dựng - Kết cấu bêtông và BTCT - Nguyên tắc cơ bản để thiết kế.
+TCVN 3994 - 1985. Chống ăn mòn trong xây dựng - Kết cấu bêtông và BTCT - Phân loại môi trường xâm thực.
+TCXD 149 - 1986. Bảo vệ kết cấu xây dựng khỏi bị ăn mòn.
+TCVN 5574 - 2012. Kết cấu bê tông và bê tông cốt thép - Tiêu chuẩn thiết kế.
+TCVN 9346 - 2012. Kết cấu bê tông và bê tông cốt thép - Yêu cầu bảo vệ chống ăn mòn trong môi trường biển.
+Đồng Kim Hạnh và Dương Thị Thanh Hiền, Trình trạng ăn mòn BTCT và giải pháp chống ăn mòn cho công trình BTCT trong môi trường biển Việt Nam.
+Trương Hoài Chính, Trần Văn Quang, Nguyễn Phan Phú và Huỳnh Quyền, 2008. Nghiên cứu khảo sát hiện trạng ăn mòn phá hủy của các công trình bêtông cốt thép và khả năng xâm thực của môi trường vùng ven biển TP. Đà Nẵng. Tạp chí KH&CN - ĐH Đà Nẵng, số 6.
+http://betong.net.vn
+
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Phần A: Khoa học Tự nhiên, Công nghệ và Môi trường: 40 (2015): 28-31
+
+
+

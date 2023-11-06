@@ -1,0 +1,126 @@
+﻿
+NGHIÊN CỨU CÁC YẾU TỐ ẢNH HƯỞNG ĐẾN KHẢ NĂNG 
+TRÍCH LY DỊCH QUẢ SƠ RI (Magnolyophyta glabra) BẰNG ENZYME
+Mai Thanh Trung, Nguyễn Vương Tường Vân, Nguyễn Công Hà và Lê Nguyễn Đoan Duy
+Khoa Nông nghiệp & Sinh học Ứng dụng, Trường Đại học Cần Thơ
+Thông tin chung:
+Ngày nhận: 24/06/2015
+Ngày chấp nhận: 26/02/2016
+Title: 
+Factors affecting juice extraction ability of acerola fruit (Magnolyophyta glabra) by enzyme
+Từ khóa: 
+Sơ ri, enzyme, hoạt tính kháng oxy hóa (AA), polyphenol tổng số (TPC), flavonoid
+Keywords:
+Acerola, enzyme, antioxidant activity (AA), total polyphenol content (TPC), flavonoid   ABSTRACT
+Acerola (Magnolyophyta glabra) is rich resource of human nutritious benefits. The study was undertaken to examine the change of compound to prevent from oxidizing as well as the enhancement for juice extraction performance for the processing procedures of the diversified range of product from acerola. This study focused in the factors that affect juice extraction efficiency by using the combination of pectinase and cellulase. The results showed that this fruit could be blanched at 90oC for 120 seconds to ensure the highest recovery efficiency (50%), while ensuring vitamin C content, total polyphenol content, antioxidant activity and flavonoid content at 643.86 mg%, 5 mgGAE/mL, 72.92% and 199.67 µgQ/mL. When pectinase-cellulase combination in percentage 2P:2V was used [Pectinex Ultra SP-L (P) và Viscozyme L (V)], the results showed that the retrieval performance was 55.32% at 50oC, pH 4.5 for 60 minutes. Overall antioxidant activity remained at 83.52%, total polyphenolic content could also be maintained at 5.29 mgGAE/mL, flavonoid content at 233.67 µgQ/mL and vitamin C content levels decreased from 679.07 mg% to 602 mg%.
+   TÓM TẮT
+Sơ ri (Magnolyophyta glabra) là nguồn nguyên liệu giàu dưỡng chất cho người sử dụng. Nghiên cứu nhằm khảo sát sự biến đổi các hợp chất kháng oxi hóa cũng như tăng cường hiệu suất trích ly dịch quả phục vụ cho quy trình chế biến đa dạng hóa nhiều sản phẩm từ sơ ri bằng cách sử dụng enzyme. Kết quả cho thấy, sơ ri có thể chần ở 90oC trong 120 giây để đạt hiệu suất thu hồi cao nhất (50%) nhưng vẫn đảm bảo hoạt tính kháng oxi hóa (AA), hàm lượng polyphenol tổng số (TPC), flavonoid tổng và hàm lượng vitamin C ổn định ở mức 72,92%, 5 mgGAE/mL, 199,6 µgQ/mL và 643,86 mg%. Khi sử dụng hỗn hợp pectinase-cellulase ở tỷ lệ 2P:2V (% enzyme) [Pectinex Ultra SP-L (P) và Viscozyme  L (V)], kết quả cho thấy hiệu suất thu hồi cao nhất 55,32% ở chế độ ủ 50oC, pH 4,5 trong 60 phút. Hoạt tính kháng oxi hóa (AA) duy trì ở mức 83,52%, hàm lượng polyphenol tổng số (TPC) 5,29 mgGAE/mL, hàm lượng flavonoid 233,67 µgQ/mL và hàm lượng vitamin C giảm từ 679,07 mg% xuống còn 602 mg%.Trích dẫn: Mai Thanh Trung, Nguyễn Vương Tường Vân, Nguyễn Công Hà và Lê Nguyễn Đoan Duy, 2016. Nghiên cứu các yếu tố ảnh hưởng đến khả năng trích ly dịch quả sơ ri (Magnolyophyta glabra) bằng enzyme. Tạp chí Khoa học Trường Đại học Cần Thơ. 42b: 11-18.
+   1 MỞ ĐẦU
+   Trái sơ ri là một loại trái cây có nhiều lợi ích cho sức khỏe vì nó chứa rất nhiều các hợp chất có giá trị sinh học như polyphenol, flavonoid, vitamin C... Trong đó sơ ri ngọt là một loại cây ăn trái đặc thù ở Gò Công, Tiền Giang được hình thành do quá trình tuyển chọn của nông dân từ những giống sơ ri địa phương. Trái sơ ri có hương vị đặc trưng mà các loại khác không có được, khi chín quả chuyển từ màu xanh sang màu đỏ tươi, thịt quả màu vàng nhạt, hạt có màu trắng ngà, quả mọng, vỏ quả nhẵn, bóng, mỏng và mềm nên dễ bị dập. 
+   Trái sơ ri cũng dễ hư hỏng sau thu hoạch, điều này càng làm giới hạn việc sử dụng chúng cho các thị trường xa và làm giảm giá trị kinh tế. Do đó, việc đa dạng hóa các sản phẩm từ sơ ri sẽ mang lại hiệu quả kinh tế cao, nâng cao giá trị sử dụng từ loại trái cây giàu hợp chất sinh học này. Trong công nghệ sản xuất nước quả tự nhiên nói chung, nước ép sơ ri nói riêng, việc trích ly dịch quả và xử lý độ đục nước quả còn gặp nhiều khó khăn do trong quả chứa pectin và cellulose (Faigh, 1995; Tucker and Woods, 1991). Có nhiều phương pháp khắc phục như lọc, xử lý nhiệt, sử dụng pectinase (Hohn, 1996), trong đó giải pháp sử dụng enzyme được coi là hiệu quả nhất. Trong nghiên cứu này, sử dụng 2 chế phẩm enzyme là pectinex Ultra SP-L (P) và Viscozyme  L (V) trong giai đoạn trích ly dịch quả để chế biến sản phẩm nước ép sơ ri có gas dạng trong được thực hiện.
+   2 PHƯƠNG PHÁP NGHIÊN CỨU
+   2.1 Chuẩn bị nguyên liệu, chần và trích ly dịch quả
+   Thí nghiệm được thực hiện tại Bộ môn Công nghệ thực phẩm - Khoa Nông nghiệp và Sinh học Ứng dụng - Trường Đại học Cần Thơ.
+   Sơ ri ngọt được trồng và thu nhận ở huyện Gò Công Đông, Tiền Giang, lựa chọn trái có kích thước và chín đỏ đồng đều, sau đó được đem về sử dụng ngay (tối đa 4 giờ). Nguyên liệu được chần trong nước nóng nhiệt độ từ 80-100oC trong thời gian từ 90-150 giây, tỉ lệ nước chần/ nguyên liệu là 3/1. Tiến hành xác định hiệu suất thu hồi và chất lượng dịch quả. Cân mỗi mẫu 100 g (để nguyên) và tiến hành thủy phân với các tỉ lệ 2 enzyme Pectinase và Viscozyme (3P:3V; 2P:2V; 1P:1V) và nhiệt độ (30-60oC) xử lý với 2 enzyme pectinase và hemicellulase thích hợp. Chế phẩm Pectinex Ultra Sp-L và Viscozyme  L (Novozyme-Đan Mạch) ở dạng dịch lỏng có màu nâu và mùi nhẹ.
+   2.2 Phương pháp nghiên cứu
+   * Xác định hiệu suất thu hồi
+   Chuẩn bị mỗi mẫu 100 g quả tươi (m). Thực hiện quá trình chần và bổ sung enzyme với tỷ lệ, nồng độ và thời gian thủy phân khác nhau. Lọc thô lấy dịch quả (m'). Tính phần trăm dịch quả thu hồi. Kết quả được xác định theo công thức:        
+   H = (m'/m) x 100%.
+   Với H: Hiệu suất thu hồi (%)
+   m': khối lượng dịch quả thu được sau quá trình thủy phân (g)
+   m: khối lượng mẫu tươi (g)
+   * Xác định hoạt tính kháng oxi hóa theo phương pháp quét gốc tự do DPPH (2,2 diphenyl-1-picryl-hydrazyl) (Leonardo, 2011).
+   * Xác định hàm lượng polyphenol tổng theo phương pháp của Folin - Ciocalteau  (Leonardo, 2011).
+   Kết quả hàm lượng polyphenol tổng được tính tương đương axit galic (mg GAE/mL).
+   * Xác định hàm lượng Flavonoid tổng số theo phương pháp Quercetin (Leonardo, 2011).
+   * Xác định hàm lượng vitamin C theo phương pháp Iod (Nguyễn Văn Mùi, 2011).
+   * Xử lí số liệu.
+   Kết quả phân tích được xử lí, thống kê theo chương trình Statgraphics Centurion XVI.I và Microsoft Office Excel 2010. 
+   3 KẾT QUẢ VÀ THẢO LUẬN
+   3.1 Ảnh hưởng của thời gian chần và nhiệt độ chần đến hiệu suất thu hồi và chất lượng dịch quả sơ ri
+   Kết quả khảo sát một số thành phần hóa học của nguyên liệu được trình bày ở Bảng 1. Ảnh hưởng của thời gian chần và nhiệt độ chần đến hiệu suất thu hồi và chất lượng dịch quả sơ ri được thể hiện Hình 1, 2, 3, 4 và 5.
+Bảng 1: Thành phần nguyên liệu sơ ri 
+(trên 100 g thịt quả)
+Thành phầnHàm lượng Độ ẩm (% trong thịt quả)88,15 ± 0,22Tổng chất khô hòa tan (0Brix)9,7 ± 0,01pH (xác định trên dịch quả)3,92 ± 0,01Vitamin C (mg%)679,07 ± 0,11Polyphenol tổng (mgGAE/mL)    4,67 ± 0,01Flavonoid (µgQ/mL )181,47 ± 0,02Hoạt tính kháng oxi hóa (%)57 ± 0,15   
+
+
+Hình 1: Hiệu suất thu hồi (%) dịch quả sau khi chần
+    
+   Nhiệt độ và thời gian chần có ảnh hưởng đến hiệu suất thu hồi dịch quả (James, 2006). Nhiệt độ càng tăng càng làm cho hiệu suất trích ly tăng (Hình 1); đặc biệt ở 2 mức xử lí 90oC-120 giây và 90oC-90 giây, hiệu suất thu hồi dịch quả đạt giá trị cao nhất 50% so với không xử lí nhiệt (chần) thì hiệu suất thu hồi chỉ là 33%. Ở mức nhiệt độ 90oC các hoạt tính sinh học thu được tốt nhất, vitamin C ít bị thất thoát vì ngoài mục đích hiệu suất thu hồi còn quan tâm tới các hoạt tính sinh học.
+   Theo các kết quả nghiên cứu cho thấy, acid ascorbic dễ bị biến đổi nhất trong các loại vitamin khi xử lý nhiệt (Sheetal et al., 2008), chất này không những dễ hòa tan trong nước mà còn bị oxi hóa nhanh, nhất là ở nhiệt độ cao hoặc môi trường kiềm (Emese, 2008). Tùy theo các công đoạn chế 
+biến bằng nhiệt (chần, hấp, nấu....) mà lượng vitamin C biến đổi khác nhau. Nhiệt độ càng cao, thời gian đun nấu càng lâu thì khả năng vitamin bị phá hủy càng nhiều. Khi chần ở những điều kiện tốt nhất thì chỉ giữ lại khoảng 70 ÷ 90% vitamin C so với nguyên liệu ban đầu. Theo báo cáo của Robert et al. (2006) trên chíp khoai tây thì hàm lượng vitamin C có thể giảm đến 68% khi ngâm - chần ở 80oC trong 30 phút. Tác giả Sheetal et al. (2008) đề nghị nên chần ở nhiệt độ 80oC trong 1 phút đối với các loại rau dạng lá sẽ giảm được tổn thất vitamin C nhiều nhất. Tuy nhiên ở 80oC, hàm lượng vitamin C vẫn bị mất nhiều hơn so với 90oC vì các phân tử oxi hiện diện trong mô quả chưa bị đuổi ra ngoài hoàn toàn nên chúng dễ dàng tiếp xúc với các phân tử acid ascorbic khi vách tế bào bị phá vỡ. Ở 100oC vitamin C hao tổn rất nhiều.
+   
+
+Hình 2: Sự thay đổi hàm lượng vitamin C (mg%) 
+
+   Nhiệt độ càng cao, thời gian đun nấu càng lâu thì khả năng vitamin bị phá hủy càng nhiều (Emese, 2008). Kết quả ở Hình 2 cho thấy nhiệt độ chần càng cao ở mức 100oC ảnh hưởng lớn đến sự tổn thất vitamin C. Ở nhiệt độ chần 90oC, 120 giây có thể giúp vitamin C ổn định ở mức cao nhất đạt 643,86 mg%.
+
+
+Hình 3: Sự thay đổi hàm lượng polyphenol tổng (mgGAE/mL) 
+
+   Chần với mục tiêu chính là hạn chế quá trình hóa nâu do enzyme polyphenol oxidase (PPO) (Donghyun et al., 2006). Kết quả phân tích hàm lượng polyphenol còn lại sau quá trình chần của các chế độ chần khác nhau cho thấy nhiệt độ chần cao làm cho sự tổn thất polyphenol tổng giảm (Hình 3). Ở 2 mức nhiệt độ 90-100oC đã có thể ức chế tốt hoạt động của PPO làm hạn chế tổn thất polyphenol tổng, làm cho hàm lượng polyphenol tổng cao nhất đạt 5 mgGAE/mL. Như vậy, chế 
+độ chần thích hợp nhất là 90oC trong thời gian 
+120 giây.
+
+
+Hình 4: Sự thay đổi hoạt tính kháng oxi hóa (%)
+
+   Kết quả phân tích cho thấy nhiệt độ và thời gian chần ảnh hưởng hoạt tính kháng oxi hóa của trái sơ ri (Hình 4). Ở nhiệt độ 80oC enzyme peroxidase hoạt động mạnh làm giảm hoạt tính kháng oxi hóa, ngược lại ở nhiệt độ 100oC làm thay đổi cấu trúc phân tử các chất kháng oxi hóa. Như vậy, chế độ chần 90oC trong thời gian 120 giây là tối ưu nhất, hàm lượng chất kháng oxi hóa cao nhất.
+
+ 
+Hình 5: Sự thay đổi hàm lượng flavonoid (µgQ/mL)  
+
+   Kết quả Hình 5 cho thấy hàm lượng flavonoid bị ảnh hưởng bởi nhiệt độ và thời gian chần. Ở nhiệt độ 80-90oC thì hạn chế tổn thất, chế độ xử lý nhiệt ở mức 90oC trong thời gian 120 giây thì hàm lượng flavonoid cao nhất đạt 199,67 µgQ/mL.
+   3.2 Ảnh hưởng nhiệt độ và pH xử lý đến hiệu suất thu hồi và chất lượng dịch quả
+   Hợp chất pectin và hemicellulose thường tồn tại ở vách tế bào của các loại rau quả. Trong quá trình nghiền và trích ly dịch quả, các hợp chất này sẽ phóng thích cùng với dịch quả làm cho dịch quả có trạng thái keo. Do đó, dịch quả không thoát ra được trong quá trình ép và dịch quả có tính sệt và độ nhớt cao, khả năng giữ nước lớn. Vì thế, việc trích ly dịch quả bằng cách lọc rất khó khăn và hiệu suất trích ly dịch quả không cao (Đặng Thị Thu, 2004). Enzyme Pectinase hoạt động ở khoảng pH 4,0-5,0, nhiệt độ 30-50oC (Nguyễn Văn Mùi, 2011). Viscozym L có pH tối ưu trong khoảng 4,5-5,5, nhiệt độ 40-50oC, hoạt tính 700 UI/mL. Nhìn chung, pH và nhiệt độ tối thích của 2 chế phẩm enzyme này là gần nhau nên thích hợp cho việc phối trộn nâng cao hiệu suất trích ly. Khi tăng hay giảm nhiệt độ và khoảng pH ngoài khoảng tối ưu thì lượng dịch quả thu được ít hơn. Kết quả Hình 6 cho thấy hiệu suất trích ly tăng là do tỉ lệ phối trộn thích hợp của 2 chế phẩm enzyme làm phá vỡ vách tế bào triệt để hơn giúp dịch thoát ra dễ dàng hơn. Hiệu suất trích ly cao nhất ở nhiệt độ 50oC, pH 4,5 với tỉ lệ enzyme 2P:2V.
+
+
+Hình 6: Ảnh hưởng nhiệt độ và pH đến hiệu suất thu hồi dịch quả (%) 
+    
+   Hiệu suất thu hồi dịch quả gần như không khác biệt theo độ lệch chuẩn khi nhiệt độ tăng từ 30 đến 50oC (Hình 6), trong khi ở pH = 5, hiệu suất thu hồi dịch quả tăng có ý nghĩa ở nhiệt độ 40oC. Do ở 40oC hiệu suất thu hồi cao và có ý nghĩa về mặt thống kê vì viscoenzyme tối ưu từ 25-55oC, pectinase tối ưu ở 40-60oC vậy khi kết hợp lại thấy 50oC hiệu suất thu hồi cao và thu được các hoạt chất sinh học là cao nhất.
+
+
+Hình 7: Ảnh hưởng nhiệt độ và pH đến hàm lượng vitamin C (mg%)  
+
+   Hàm lượng vitamin C giảm dần khi nhiệt độ tăng dần vì acid ascorbic dễ biến đổi nhất trong các loại vitamin khi xử lý nhiệt (Sheetal et al., 2008). Kết quả phân tích hàm lượng vitamin C ở các mức nhiệt độ và pH khác nhau trong quá trình xử lý enzyme được thể hiện ở Hình 7. Nhìn chung, hàm lượng vitamin C cao  nhất (613,8 mg%) ở nhiệt độ  40oC, pH 4,5 và thấp nhất 476,3 mg% ở nghiệm thức 30oC, pH 5,0.
+
+
+Hình 8: Ảnh hưởng nhiệt độ và pH đến hàm lượng polyphenol tổng (mgGAE/mL)  
+
+   Khi nhiệt độ ≥ 60oC bắt đầu xảy ra quá trình suy thoái các hợp chất polyphenol ở nhiệt độ cao, tạo điều kiện cho các phản ứng oxi hóa polyphenol, hơn nữa 60oC cũng là nhiệt độ thích hợp cho hoạt động của enzyme polyphenoloxidase do đó lượng polyphenol còn lại thấp hơn (Akuwah et al, 2009). Kết quả ở Hình 8 cho thấy hàm lượng polyphenol tổng cao nhất (5,29 mgGAE/mL) ở nghiệm thức nhiệt độ  50oC, pH 4,5 và thấp nhất (3,27 mgGAE/mL) ở nhiệt độ 60oC, pH 5,0.
+
+
+Hình 9: Ảnh hưởng nhiệt độ và pH đến hàm lượng flavonoid (µgQ/mL)  
+
+   Các kết quả thể hiện ở Hình 9 cho thấy khi thực hiện thủy phân bằng hỗn hợp enzyme ở nhiệt độ 50oC, pH 4,5 thì hàm lượng flavonoid cao nhất 233,67 µgQ/mL. 
+   Sự gia tăng nhiệt độ sẽ thúc đẩy các phản ứng 
+xảy ra, do đó nó có thể làm tăng hoặc giảm khả năng kháng oxi hóa của một chất (Pokorný, 1986 trích dẫn của Réblová, 2012). Kết quả ở Hình 10 cho thấy hoạt tính oxi hóa tổng cao nhất (83,52%) ở nghiệm thức ủ nhiệt độ 50oC, pH 4,5 và thấp nhất ở nghiệm thức 40oC, pH 5.
+
+
+Hình 10: Ảnh hưởng nhiệt độ và pH đến hoạt tính kháng oxi hóa (%)
+
+   Như vậy, ủ ở nhiệt độ 50oC, pH 4,5 cho kết quả tốt nhất về hiệu suất trích ly, hàm lượng vitamin C, hoạt tính kháng oxi hóa, flavonoid và polyphenol tổng còn lại. Kết quả này trùng hợp với nghiên cứu ứng dụng chế phẩm enzyme pectinex để nâng cao hiệu suất trích ly và chất lượng nước quả dứa (Ananas comosus) (Ngô Xuân Mạnh và Trần Thị Lan Hương, 2005). 
+   Chế phẩm enzyme thương mại thường chứa nhiều phức hợp enzyme (Nguyễn Đức Lượng, 2004). Viscozym L được sản xuất từ loài Aspergillus aculeatus. Sản phẩm gồm nhiều enzyme khác nhau như β-glucanase, arabanase, xylanase, cellulose và hemicellulase. Pectinase thương mại là một phức hệ enzyme bao gồm pectinase, hemicellulase, cellulose và protease. Khi bổ sung chế phẩm enzyme vào dịch quả thì phức hợp các enzyme sẽ lần lượt phân cắt các thành phần cấu tạo nên thành tế bào như pectin cellulose, hemicellulose. Kết quả của việc này làm phá vỡ cấu trúc thành tế bào, đây vốn là cơ quan che chở bên ngoài của tế bào làm giải phóng các thành phần bên trong bao gồm cả nước và các hợp chất tan (Nguyễn Công Hà và ctv., 2014). Vì vậy, ủ ở nhiệt độ 50oC, và pH 4,5 làm cho lượng dịch quả tăng lên đáng kể và tăng chất lượng dịch quả. 
+   Trường hợp mẫu đối chứng không sử dụng enzyme thì sau thời gian 60 phút ở nhiệt độ 50oC thì hiệu suất trích ly và các hợp chất sinh học thấp hơn so với mẫu có sử dụng enzyme (dữ liệu không thể hiện ở đây). 
+   4 KẾT LUẬN
+   Sự lựa chọn thời gian chần và nhiệt độ chần phù hợp (90oC, 120 giây) có thể mang đến hiệu suất thu hồi dịch quả cao nhất (50%) và giữ được hàm lượng vitamin C và các hợp chất sinh học. Nghiên cứu cũng cho thấy việc kết hợp đồng thời 2 chế phẩm enzyme Pectinex Ultra Sp-L và Viscozym L với tỉ lệ 2P:2V ủ ở nhiệt độ 50oC, pH 4,5 trong 60 phút làm tăng hiệu suất trích ly, giảm tổn thất vitamin C, chất kháng oxi hóa tổng, flavonoid và polyphenol tổng. Nghiên cứu này là bước đầu trong việc xây dựng quy trình trích ly tối ưu cho quả sơ ri, một loại quả không có giá trị kinh tế cao, để tạo ra các loại nước uống khác nhau có giá trị dinh dưỡng cao từ quả sơ ri nhằm nâng cao giá trị kinh tế cho loại trái cây này, góp phần nâng cao thu nhập của nông dân.
+   TÀI LIỆU THAM KHẢO
+Akuwah, G. A., A. Mariam, J. H. Chin, 2009. The effect of extraction temperature on total phenols and antioxidant activity of Gynura procumbens leaf. University College Sedaya International. Vol.5, Issue 17, Page 81- 85.
+Donghyun Kim, Jiyeoun Park, Jinhee Kim, Cheolkyu Han, Jeonghyeoky Yoon, Namdoo Kim, Jinho Seo, Choonghwan Lee, 2006. Flavonoids as Mushroom Tyrosinase Inhibitors: A Fluorescence Quenching Study. J. Agric. Food Chem., 54:  935- 941.
+Đặng Thị Thu, 2004. Công nghệ enzyme, Nhà xuất bản Khoa học-Kỹ thuật, Hà Nội.
+Emese, J., P. F. Nagymate, 2008. The Stability of Vitamin C in Different Beverages.  British Food Journal. Vol 110, Issue 3, pp 296-309.
+Faigh J. G., 1995. Enzyme formulations for optimizing juice yields. Food. Tech. 49 (9), 79-83.
+Hohn A., 1996.  Enzyme in the fruit juice and wine industry. In L. P. Somogyi, H. S. Ramaswamy, H.Y. Hui (Editors). Processing fruit: Science and Technology. CRC Press, UK.
+James G. Brennan, 2006. Food Processing Handbook. WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim, Germany. ISBN: 3-527-30719-2.
+Leonardo F. M., 2011. Antioxidant activity, total phenolic compounds and flavonoids of mangoes coming from biodynamic, organic and conventional cultivations in three maturation stages. British Food Journal 113 (9), 1103-1113.
+Ngô Xuân Mạnh và Trần Thị Lan Hương, 2005. Ứng dụng các chế phẩm enzyme Pectinex để nâng cao hiệu suất trích ly và chất lượng nước quả dứa (Ananas comosus) tự nhiên. Tạp chí Khoa học và Công nghệ số 4, 333-338. 
+Nguyễn Công Hà, Trịnh Thị Anh Tâm, Trần Ngọc Điển, Nguyễn Hoài Thanh, Lê Nguyễn Đoan Duy, 2013. Nghiên cứu các yếu tố ảnh hưởng đến khả năng trích ly dịch quả bằng enzyme đối với dâu Hạ Châu. Tạp chí khoa học và Công nghệ 51 (6A), 177-182.
+Nguyễn Đức Lượng, 2004. Công nghệ enzyme. Nhà xuất bản Đại học Quốc gia, thành phố Hồ Chí Minh.
+Nguyễn Văn Mùi, 2011. Thực hành hóa sinh học, Nhà xuất bản Đại học Quốc gia, Hà Nội.
+Réblová, Z., 2012. Effect of temperature on the antioxidant activity of phenolic acids. Czech J. Food Sci., 30: pp. 171-177.
+Sheetal Gupta, Jyothi Lakshmi A, Jamuna Prakash, 2008. Effect of different blanching treatments on ascorbic acid retetion in green leafy vegetables. Natural Product Radience, Vol. 7(2), pp. 111 - 116.
+Tucker G. A., Woods L. F.J., 1996. Enzymes in Food Processing. Blackie Academic and Professional. Glasgow.
+Tạp chí Khoa học Trường Đại học Cần Thơ 		Phần B: Nông nghiệp, Thủy sản và Công nghệ Sinh học: 42 (2016): 11-18
+
+
+

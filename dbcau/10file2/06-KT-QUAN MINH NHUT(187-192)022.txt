@@ -1,0 +1,122 @@
+﻿
+DOI:10.22144/ctu.jvn.2018.022
+THỰC TRẠNG VÀ ẢNH HƯỞNG CỦA ĐẦU TƯ KHOA HỌC CÔNG NGHỆ ĐẾN KẾT QUẢ HOẠT ĐỘNG KINH DOANH CỦA CÁC DOANH NGHIỆP 
+NÔNG NGHIỆP TẠI TỈNH BẾN TRE  
+Quan Minh Nhựt*
+Khoa Kinh tế, Trường Đại học Cần Thơ
+*Người chịu trách nhiệm về bài viết: Quan Minh Nhựt (qmnhut@ctu.edu.vn)
+Thông tin chung:
+Ngày nhận bài: 11/08/2017
+Ngày nhận bài sửa: 23/08/2017
+Ngày duyệt đăng: 28/02/2018
+
+Title: 
+An affect of applying advance of science and technology on business activity result of the enterprises specializing in agriculture in Ben Tre province
+Từ khóa: 
+Doanh nghiệp nông nghiệp, khoa học công nghệ
+Keywords:
+Enterprises specializing in agriculture, science and technology   ABSTRACT
+The paper firstly outlines overview of investment and usage of machines of the enterprises specializing in agriculture in Ben Tre province. More important thing, the factor of applying advance of science and technology that affected the result in business activity of those enterprises has been measured as the second objective. The empirical results indicate that the ratio of machine value to total capital is rather low. Moreover, the results demonstrate that the usage of machine of the enterprises is not effective. Related to factors that make effects on the result in business activity of the enterprises, the study results show that there are four factors that significantly and statistically affected such as total revenues, capital of applying advance of science and technology, type of enterprises and open market.        
+   TÓM TẮT
+Nghiên cứu tập trung phân tích thực trạng đầu tư sử dụng máy móc thiết bị, hiệu quả sử dụng máy móc và các nhân tố ảnh hưởng đến mức độ đầu tư ứng dụng tiến bộ khoa học - công nghệ vào sản xuất - kinh doanh của các doanh nghiệp hoạt động trong lĩnh vực nông nghiệp trên địa bàn tỉnh Bến Tre. Kết quả khảo sát cho thấy tỷ trọng giá trị máy móc thiết bị trong tổng tài sản của doanh nghiệp chiếm tỷ trọng tương đối thấp. Ngoài ra, nhìn chung các doanh nghiệp sử dụng máy móc thiết bị đã đầu tư không mấy hiệu quả thể hiện qua hiệu suất sử dụng máy móc thiết bị của các doanh nghiệp qua các năm. Liên quan đến tác động của đầu tư khoa học công nghệ đối với kết quả hoạt động kinh doanh của doanh nghiệp, kết quả phân tích phân biệt chỉ ra rằng có 4 yếu tố có ý nghĩa thống kê tác động đến sự khác biệt lợi nhuận của doanh nghiệp là: tổng doanh thu, vốn đầu tư ứng dụng khoa học công nghệ, loại hình doanh nghiệp và tình hình mở rộng thị trường.Trích dẫn: Quan Minh Nhựt, 2018. Thực trạng và ảnh hưởng của đầu tư khoa học công nghệ đến kết quả hoạt động kinh doanh của các doanh nghiệp nông nghiệp tại tỉnh Bến Tre. Tạp chí Khoa học Trường Đại học Cần Thơ. 54(1D): 187-192.
+   1 PHẦN MỞ ĐẦU
+   Khoa học công nghệ (KHCN) luôn đóng vai trò quan trọng trong hoạt động sản xuất kinh doanh, giúp cho nhà quản trị nắm bắt cơ hội phát triển mới và rút ngắn khoảng cách giữa các quốc gia, đẩy nhanh quá trình hội nhập kinh tế khu vực và kinh tế thế giới, làm biến đổi nền sản xuất. Điều này tạo nên sự thay đổi lớn trong kinh doanh cũng như trong quản lý của mỗi doanh nghiệp (DN). Sự phát triển của KHCN cũng làm cho quá trình cạnh tranh giữa các DN và quốc gia trở nên khốc liệt.
+   Các DN trên địa bàn tỉnh Bến Tre đã không ngừng phát triển cả về số lượng và chất lượng, nhưng sự phát triển này còn chậm về số lượng và thấp về chất lượng vì thế rất cần có những lực đẩy tác động đến sự phát triển của DN, nâng cao năng lực cạnh tranh. Các DN, nhất là DN nhỏ và vừa (DNNVV) hiện nay đang đối diện với nhiều khó khăn, thách thức bắt nguồn từ nguyên nhân khách quan và chủ quan. Nguyên nhân khách quan là diễn biến không thuận lợi và khó lường của nền kinh tế thế giới thời gian qua tác động trực tiếp đến nước ta. Nguyên nhân chủ quan nằm ở chính bản thân các DN, đó là kinh nghiệm quản lý còn hạn chế, trình độ công nghệ lạc hậu, cũng chính vì vậy mà các DN không thể nào cạnh tranh hiệu quả với các DN nước ngoài hoặc 100% vốn đầu tư trên địa bàn. 
+   Trong quá trình phát triển và hội nhập quốc tế, Bến Tre phải đối mặt với hàng loạt các vấn đề như cơ sở hạ tầng, tiến trình công nghiệp hóa, hiện đại hóa chậm chưa đáp ứng nhu cầu cho sự phát triển kinh tế xã hội. Lãnh đạo tỉnh có nhiều chính sách thu hút cũng như khuyến khích đầu tư, ưu tiên các dự án có công nghệ tiên tiến góp phần vào tăng ngân sách cũng như giải quyết việc làm cho lao động tại địa phương. Các DN hoạt động trên địa bàn tỉnh chủ yếu là DNNVV, hiệu quả kinh doanh vẫn chưa cao, việc tiếp cận và ứng dụng KHCN vào sản xuất kinh doanh vẫn diễn ra chậm chạp và hiệu quả chưa cao, luôn vấp phải rất nhiều khó khăn và thách thức mang tính cố hữu và lâu dài ảnh hưởng đến khả năng cạnh tranh và phát triển trong việc cải tiến hoặc đổi mới KHCN như: qui mô DN nhỏ, trình độ công nghệ lạc hậu, khả năng tiếp cận nguồn vốn tín dụng đặc biệt là tình trạng lãi suất cho vay quá cao vào thời gian gần đây. Bởi vậy DN cần thiết phải có sự đánh giá về tình hình áp dụng tiến bộ KHCN để đưa ra những giải pháp nhằm cải thiện hoặc đầu tư mới máy móc thiết bị (MMTB) dây chuyền sản xuất để có thể thích nghi với tình hình sản xuất mới nhằm nâng cao sức cạnh tranh trên thị trường. Do đó, nghiên cứu thực trạng và ảnh hưởng của đầu tư KHCN đến kết quả hoạt động kinh doanh của các DN nông nghiệp tại tỉnh Bến Tre là thật sự cần thiết.
+   2 PHƯƠNG PHÁP NGHIÊN CỨU
+   2.1 Dữ liệu sử dụng
+   Dữ liệu sơ cấp được sử dụng trong phân tích được thu thập thông qua các bảng câu hỏi soạn sẵn. Trên cơ sở danh sách các DN thu thập được từ Sở Công thương, Sở Kế hoạch & Đầu tư tỉnh Bến Tre, các phiếu điều tra được gửi đến các DN trong địa bàn nghiên cứu. 
+   Do điều kiện thời gian và kinh phí hạn chế nên nhóm nghiên cứu chỉ tiến hành khảo sát thông tin sơ cấp từ 55 DN thuộc lĩnh vực nông nghiệp được chọn ngẫu nhiên, đại diện cho các DN nông nghiệp trên địa bàn tỉnh Bến Tre.
+   2.2 Công cụ chính trong phân tích
+   Phương pháp được sử dụng để phân tích sự khác biệt về lợi nhuận giữa hai nhóm DN hoạt động kinh doanh trong lĩnh vực nông nghiệp bị tác động/ ảnh hưởng bởi mức độ đầu tư ứng dụng KHCN vào hoạt động sản xuất kinh doanh là Hàm phân biệt (Nguyễn Minh Tân và ctv., 2015).
+   Giả thuyết của mô hình:
+   H0: Có sự khác biệt về lợi nhuận giữa 02 nhóm DN nông nghiệp có liên quan đến mức đầu tư ứng dụng KHCN (sự phân biệt có ý nghĩa).
+   H1: Không có sự khác biệt về lợi nhuận giữa 02 nhóm DN nông nghiệp có liên quan đến mức đầu tư ứng dụng KHCN (sự phân biệt không có ý nghĩa).
+   Mô hình thực nghiệm:
+   Mô hình phân tích phân biệt được dựa vào mô hình thống kê như sau:
+   D = b0 + b1X1 + b2X2 + b3X3 + b4X4 + b5X5 + b6X6 + b7X7 + b8X8 
+   D: Điểm phân biệt (biến phụ thuộc): Điểm phân biệt được xác định dựa trên mức lợi nhuận trung bình.
+   bi: các hệ số hay trọng số phân biệt (i = 1,n)
+   Xi: các biến độc lập (i = 1,n)
+   Biến phụ thuộc (Y): Lợi nhuận của các DN nông nghiệp, được chia làm 2 nhóm.
+   (1) DN nông nghiệp có lợi nhuận cao hơn trung bình.
+   (2) DN nông nghiệp có lợi nhuận thấp hơn trung bình.
+   Các biến độc lập (Xi ): được đưa vào phân tích trong mô hình như sau:
+   X1: Tổng chi phí (Triệu đồng)
+   X2: Tổng doanh thu (Triệu đồng)
+   X3:  Vốn đầu tư ứng dụng KHCN (Triệu đồng)
+   X4: Tổng số lao động (Người)
+   X5: Số năm hoạt động của DN (Năm)
+   X6: Trình độ học vấn của chủ DN
+   X7: Loại hình DN
+   X8: Hoạt động đầu tư mở rộng thị trường 
+   Chú ý: Bài viết xem xét yếu tố lợi nhuận cao hay thấp chỉ xét trong mẫu điều tra với mức lợi nhuận cao hơn lợi nhuận trung bình của mẫu, và ngược lại là lợi nhuận thấp (Hà Vũ Sơn và Dương Ngọc Thành, 2014).
+   3 KẾT QUẢ PHÂN TÍCH
+   3.1 Thực trạng áp dụng tiến bộ KHCN vào sản xuất kinh doanh của DN nông nghiệp
+   Đổi mới công nghệ
+   Kết quả phân tích ở Bảng 1 cho thấy trong lĩnh vực thu thập thông tin công nghệ mới chỉ có 34,1% DN là có thực hiện nhưng chủ yếu là tự thực hiện hay thuê ngoài. Có rất ít DN là có triển khai đề tài nghiên cứu (chỉ chiếm 7,4%). Việc đánh giá, lựa chọn công nghệ mới vẫn chưa được các DN chú trọng (chỉ có 26,8% DN tham gia). Việc đăng ký quyền sở hữu công nghiệp vẫn chưa được các DN coi trọng, có tới 85,2% DN không đăng ký quyền sở hữu công nghiệp. Các DN còn lại thì đăng ký chủ yếu bằng tự thực hiện hoặc mua dịch vụ. Hầu như các DN có tham gia các hoạt động trên là các DN vừa.
+
+Bảng 1:  Doanh nghiệp tham gia các hoạt động đổi mới công nghệ
+Chỉ tiêuSố DNTỷ lệ (%)Thu thập thông tin công nghệ mới1934,1Triển khai đề tài nghiên cứu đổi mới công nghệ47,4Đánh giá, lựa chọn công nghệ1526,8Mua sắm thiết bị, công nghệ mới2545,2Đăng ký bảo hộ quyền sở hữu công nghiệp814,8Nguồn: Số liệu điều tra, năm 2016
+   
+   Nguyên nhân chủ yếu nhất do không có thông tin chiếm tới 61% DN tham gia khảo sát, không có nhu cầu chỉ chiếm hơn 25%, còn lại là có nhu cầu mà chưa tiếp cận chỉ chiếm 12,5%, còn việc đề nghị không có DN nào lựa chọn.
+
+Bảng 2: Nguyên nhân mà DN chưa thực hiện hoạt động đổi mới công nghệ
+Chỉ tiêuSố DNTỷ lệ (%)Không có thông tin3461,0Không có nhu cầu1425,0Có nhu cầu mà chưa tiếp cận712,5Đã đề nghị nhưng chưa được00,0Nguồn: Số liệu điều tra, năm 2016
+* 
+   Tỷ suất tài trợ MMTB của DN
+   Trong quá trình sản xuất kinh doanh việc đầu tư cho MMTB là vô cùng quan trọng, đó là tư liệu sản xuất chủ yếu. Lực lượng sản xuất là toàn bộ những năng lực sản xuất của xã hội ở các thời kỳ nhất định. Về mặt cấu trúc, lực lượng sản xuất xã hội bao gồm hệ thống những tư liệu sản xuất mà người ta dùng cho sản xuất, trong đó quan trọng nhất là công cụ lao động. Tư liệu sản xuất bao gồm tư liệu lao động và các đối tượng lao động.  Vốn đầu tư vào MMTB được sử dụng dài hạn, thời gian thu hồi vốn chậm nên chúng ta sẽ dùng tỷ suất tự tài trợ cho MMTB để đánh giá năng lực tự chủ về mặt tài chính của DN. Chỉ tiêu này cho phép đánh giá bằng vốn tự có của DN sẽ có thể tự thỏa mãn bao nhiêu % đầu tư cho MMTB (Quan Minh Nhựt, 2014).
+   Tỷ suất tự tài trợ MMTB của DN nông nghiệp có sự biến động tăng qua 3 năm. Năm 2014, khả năng tự tài trợ của công ty là 334%. Nguyên nhân là do nguồn vốn chủ sở hữu năm 2014 tăng nhiều hơn so với tốc độ tăng của nguyên giá MMTB. Sang năm 2015, tỷ suất tự tài trợ có xu hướng giảm. Nguyên nhân đầu tiên là do năm 2015 nguồn vốn chủ sở hữu chỉ tăng 15% trong khi đó nguyên giá MMTB tăng mạnh với tốc độ tăng 36%, do có sự thay đổi dần các MMTB đã khấu hao hết bằng các dây chuyền thiết bị mới để tăng năng suất sản xuất, phục vụ tốt hơn cho kế hoạch mở rộng thị trường tiêu thụ và đổi mới sản phẩm, phục vụ thị hiếu cho khách hàng. Điều này có thể giải thích trên cơ sở số liệu biến động tăng của giá trị MMTB đầu tư lại tăng trong khi vốn chủ sở hữu không những không tăng mà còn giảm mạnh. 
+   Mặc dù tỷ suất tự tài trợ của các DN lĩnh vực nông nghiệp giảm trong năm 2015, thế nhưng nhìn chung, tỷ suất tự tài trợ của DN luôn ở mức rất cao. Điều này cho thấy khả năng tự chủ trong đầu tư cho MMTB của DN rất khả quan, với qui mô sản xuất hiện tại thì DN không cần phải tài trợ bằng vốn vay dài hạn, vì trong giai đoạn hiện nay sử dụng nguồn vốn vay với mức lãi suất quá cao là một rủi ro vô cùng lớn, đặc biệt là vay để tài trợ cho đầu tư MMTB, cần vay nhiều và thời gian thu hồi lâu.
+   Ngược lại, tỷ trọng MMTB trong tổng nguồn vốn luôn chiếm tỷ trọng tương đối thấp (dưới 29%) và có sự biến động nhẹ trong giai đoạn 2013 - 2014. Sang năm 2015, tỷ trọng MMTB tăng 29% so với năm 2014, đây là mức tỷ trọng cao nhất trong 3 năm. Nguyên nhân là do nguồn vốn tăng 5% trong khi giá trị MMTB tăng mạnh tốc độ 36%, chứng tỏ DN đang không ngừng đầu tư mua sắm mới MMTB qua các năm. Ngoài ra, do hoạt động trong lĩnh vực nông nghiệp nên MMTB (mặc dù quan trọng) không được DN đầu tư với tỷ lệ lớn như đối với các DN hoạt động trong lĩnh vực công nghiệp - xây dựng. 
+   
+Bảng 3: Tỷ suất tài trợ MMTB của DN nông nghiệp
+Đơn vị tính: Triệu đồng
+Chỉ tiêuNămChênh lệch2014/ 20132015/ 2014201320142015Tuyệt đối%Tuyệt đối%1. Tổng nguồn vốn13.28614.26715.030981776352. Vốn chủ sở hữu9.29210.85112.4681.559171.617153. Nguyên giá MMTB2.9143.2524.416338121.164364. Tỷ trọng MMTB trong tổng nguồn vốn (%)222329146295. Tỷ suất tự tài trợ cho MMTB (%)319334282155-51-15Nguồn: Tính toán từ số liệu điều tra năm 2016
+   
+   Trong điều kiện sản xuất như hiện tại, khi kết hợp 2 chỉ tiêu trên với nhau ta có thể đánh giá được là, giá trị MMTB chiếm tỷ lệ tương đối thấp trong tổng nguồn vốn, phụ thuộc nhiều vào nguồn vốn chủ sở hữu nên DN có thể tự chủ về mặt tài chính trong việc đầu tư MMTB. Mặc dù tỷ suất này đang có sự cải thiện tốt qua các năm, thế nhưng, cần phải có biện pháp cải thiện nhanh chóng và kịp thời. Về mặt lâu dài nếu tăng qui mô sản xuất lớn hơn nữa thì DN phải tính đến phương án huy động vốn dài hạn thay thế tốt hơn. Vì vậy, DN cần tăng cường uy tín tạo lợi thế để đẩy mạnh các kênh huy động vốn, nhằm chủ động hơn nữa khả năng về mặt tài chính.
+   Phân tích tình hình sử dụng MMTB
+   Việc trang bị MMTB tốt hay xấu, mới hay cũ đều ảnh hưởng tới năng suất sản xuất, hiệu quả sản xuất kinh doanh của DN, điều này đặc biệt quan trọng đối với các DN lĩnh vực nông nghiệp (Quan Minh Nhựt và Huỳnh Văn Tùng, 2017). Vì vậy, nói đến tình hình sử dụng thiết bị máy móc thì chúng ta nên đánh giá lần lượt các hệ số sau:
+
+Bảng 4: Tình hình sử dụng MMTB của DN   
+                                                                                              Đơn vị tính: Triệu đồng
+Chỉ tiêuNămChênh lệch 2015/2014201320142015Tuyệt đối%1.Giá trị MMTB mới tăng trong năm- 3381.1648262442. Giá trị MMTB cuối kỳ2.9143.2524.4161.164363. Hệ số đổi mới MMTB (1/2, %)-1026161544. Hiệu suất sử dụng MMTB (%)52566047Nguồn: Tính toán từ số liệu điều tra năm 2016
+   
+   Hệ số đổi mới MMTB có xu hướng tăng từ năm 2014 sang năm 2015. Năm 2014, hệ số này là 10%, do năm 2014 tình hình kinh tế vĩ mô biến động khá ổn định, chi phí đầu vào tương đối phù hợp, lãi suất được chính phủ điều tiết tốt, nên MMTB được DN tiếp tục mở rộng đầu tư. Cũng với tình hình ổn định đó sang năm 2015, hệ số này tăng lên 26% tương đương với 100 đồng đầu tư vào MMTB có ở cuối năm thì có 26 đồng là đầu tư mới.
+   Ngoài ra, kết quả phân tích ở Bảng 4 cũng cho thấy các DN sử dụng MMTB đã đầu tư một cách tương đối hiệu quả thể hiện qua số liệu về hiệu suất sử dụng MMTB của các DN qua các năm.
+   3.2 Phân tích hiệu quả ứng dụng KHCN của DN
+   Kết quả kiểm định mô hình Hàm phân biệt cho thấy:
+   Wilks' Lamda = 0,548 chuyển thành đại lượng chi - square là 20,590 với bậc tự do là 8. Giá trị Sig. = 0,008 << mức ý nghĩa 5%
+   => Giả thuyết Ho bị bác bỏ, nghĩa là sự khác biệt có ý nghĩa thống kê giữa 2 nhóm. Đồng nghĩa có sự khác biệt giữa 2 đối tượng nghiên cứu.
+   Kết quả mô hình Hàm phân biệt trên cho thấy khi các biến dự đoán một cách riêng biệt thì chỉ có tổng doanh thu (X2), vốn đầu tư ứng dụng KHCN (X3), loại hình DN (X7) và tình hình mở rộng thị trường (X8) có khả năng phân biệt một cách có ý nghĩa giữa nhóm DN có lợi nhuận cao và nhóm DN có lợi nhuận thấp. Giá trị Eigenvalues = 0,832 (bảng Eigenvalues), và nó chiếm tới 100% phương sai giải thích được nguyên nhân.
+   Dựa vào hệ số tương quan Canonical Correlation ( R = 0,774) ta có:
+   R = 0,774 => R2 = 0,5991 = 59,91%
+   Hệ số xác định (R2) bằng 59,91% có nghĩa là có 59,91% các biến độc lập ảnh hưởng đến sự khác biệt của 2 nhóm lợi nhuận trong mô hình, còn 40,01% được giải thích bởi các nhân tố khác không nghiên cứu trong mô hình
+Bảng 5: Kết quả mô hình Hàm phân biệt
+Biến giải thíchKý hiệuHệ số chuẩn hóaWilks' LambdaFSig.Tổng chi phí X10,9720,9890,327Tổng doanh thuX2-0,320,8418,8600,004Vốn đầu tư KHCN X30,9740,99613,7400,002Tổng số lao động X4-0,9850,4320,526Số năm hoạt động X5-0,9740,4150,524Trình độ học vấn X6-0,9120,3240,498Loại hình DN X70,7390,9173,6890,047Đầu tư mở rộng thị trường X80,7750,7179,7690,006Nguồn: Tính toán từ số liệu điều tra 2016
+
+   Xét ở mức ý nghĩa 5%, các biến sau đây có thể đưa vào mô hình:
+     Y = - 0,32X2 + 0,974X3 + 0,739X7 + 0,775X8
+     Với Sig.  (0,004) (0,002) (0,047) (0,006)
+   Dựa vào hệ số chuẩn hóa (Standardized Canonical Discriminant Function Coefficients) của các biến (càng lớn càng đóng góp nhiều hơn vào khả năng phân biệt của hàm) biến vốn đầu tư KHCN (X3) có hệ số chuẩn hóa lớn nhất (0,974) và kế đến là biến mở rộng thị trường (X8) (0,775) là hai biến có ảnh hưởng lớn nhất tạo nên sự khác biệt về lợi nhuận của DN. Tiếp theo là biến loại hình DN (X7) và cuối cùng là biến doanh thu (X2). Đây là những yếu tố rất quan trọng trong việc tạo nên sự khác biệt lợi nhuận của các DN. Từ kết quả ước lượng trên cùng với số liệu thống kê trình bày trong Bảng 6 cho thấy hiệu quả của việc đầu tư KHCN vào sản xuất kinh doanh của DN thông qua tác động của nó đối với kết quả hoạt động kinh doanh và sự khác biệt về lợi nhuận khi gia tăng vốn đầu tư cho KHCN
+Bảng 6: Sự khác biệt giữa nhóm DN có lợi nhuận cao và nhóm DN có lợi nhuận thấp
+Yếu tốĐơn vị tínhNhóm DN có 
+lợi nhuận thấpNhóm DN có lợi nhuận caoTổng chi phí (X1)Triệu đồng5.507,1032.187,53Tổng doanh thu (X2)Triệu đồng5.701,3633.645,00Vốn đầu tư KHCN (X3)Triệu đồng3.448,8510.258,93Tổng số lao động (X4)Người19,3823,67Số năm hoạt động (X5)Năm4,975,53Trình độ học vấn (X6)Bậc2,442,53Loại hình DN (X7)1,952,47Đầu tư mở rộng thị trường (X8)0,390,55Nguồn: Tính toán từ số liệu điều tra năm 2016
+   1 
+   4 KẾT LUẬN
+   Từ kết quả nghiên cho thấy DN thuộc lĩnh vực nông nghiệp trên địa bàn tỉnh Bến Tre có những đặc điểm sau:
+   * Tổng nguồn vốn kinh doanh của DN tương đối khả quan thể hiện khoản nợ phải trả chiếm tỷ trọng nhỏ hơn nhiều so với vốn chủ sở hữu qua 3 năm, nhỏ hơn gần gấp đôi so với tỷ trọng của vốn chủ sở hữu trong tổng nguồn vốn, cho thấy phần lớn tài sản của công ty được tài trợ bởi vốn của chủ sở hữu.
+   * Tỷ trọng MMTB trong tổng nguồn vốn chiếm tỷ trọng tương đối thấp và có sự biến động qua 3 năm.
+   * Hệ số đổi mới MMTB biến động đáng kể qua các năm và nhìn chung các DN sử dụng MMTB đã đầu tư không mấy hiệu quả thể hiện qua kết quả phân tích về hiệu suất sử dụng MMTB của các DN qua 3 năm.
+   * Đối với hiệu quả ứng dụng KHCN vào sản xuất kinh doanh đến kết quả hoạt động kinh doanh của DN, kết quả phân tích hàm phân biệt chỉ ra rằng có 4 yếu tố (đặc biệt là mức đầu tư KHCN) có ý nghĩa thống kê tác động đến sự khác biệt của lợi nhuận là: tổng doanh thu (X2), vốn đầu tư ứng dụng KHCN (X3), loại hình DN (X7) và tình hình mở rộng thị trường (X8).
+   TÀI LIỆU THAM KHẢO
+Hà Vũ Sơn và Dương Ngọc Thành, 2014. Các yếu tố ảnh hưởng đến ứng dụng tiến bộ kỹ thuật trong sản xuất lúa của hộ nông dân tại tỉnh Hậu Giang. Tạp chí Khoa học Trường Đại học Cần Thơ. 32d: 85-93.
+Nguyễn Minh Tân, Võ Thành Danh và Tăng Thị Ngân, 2015. Các nhân tố ảnh hưởng đến hiệu quả hoạt động kinh doanh của doanh nghiệp nhỏ và vừa tại tỉnh Bạc Liêu. Tạp chí Khoa học Trường Đại học Cần Thơ. 38d: 34-40.
+Quan Minh Nhựt, 2014. Thực trạng và nhân tố ảnh hưởng đến mức độ đầu tư khoa học công nghệ vào sản xuất kinh doanh của các doanh nghiệp thương mại- dịch vụ tại Cần Thơ. Tạp chí Khoa học Trường Đại học Cần Thơ. 31d: 56-62.
+Quan Minh Nhựt, Huỳnh Văn Tùng, 2017. Đầu tư khoa học, công nghệ của các doanh nghiệp công nghiệp - xây dựng tỉnh Bến Tre. Tạp chí Kinh tế và Dự báo. Số 12: 100-102.
+
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 		Tập 54, Số 1D (2018): 187-192
+
+
+

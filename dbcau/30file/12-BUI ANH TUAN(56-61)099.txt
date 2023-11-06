@@ -1,0 +1,72 @@
+﻿ABSTRACT
+TÓM TẮT
+Tư duy lập trình tính toán là một trong những tư duy nền tảng. Trong khi, giáo dục STEM cũng đang chứng tỏ là một mô hình hiệu quả trong đào tạo các ngành liên quan đến các lĩnh vực khoa học, công nghệ, kỹ thuật và toán học (STEM) trong các trường đại học. Nghiên cứu này xem xét tư duy lập trình tính toán của sinh viên dưới cách tiếp cận của mô hình giáo dục STEM thông qua phần mềm Scratch tại Trường Đại học Cần Thơ. Phân tích thống kê được sử dụng để đánh giá kết quả khảo sát.
+Trích dẫn: Bùi Anh Tuấn, Lâm Minh Huy, Nguyễn Thị Minh Anh, Trương Quốc Tuấn và Phạm Vương Đăng Linh, 2019. Khảo sát tư duy lập trình tính toán của sinh viên trong mô hình giáo dục STEM: Nghiên cứu tại Trường Đại học Cần Thơ. 
+   1 GIỚI THIỆU 
+   Thế giới đã và đang bước vào cuộc cách mạng công nghiệp lần thứ tư hay còn gọi là Công nghiệp 4.0. Không nằm ngoài sự phát triển chung của thế giới, Việt Nam cũng đang từng bước chuyển mình để tiếp cận với nền Công nghiệp 4.0. Theo Schwab (2016), Công nghiệp 4.0 phát triển dựa trên ba trụ cột chính là kĩ thuật số, sinh học và vật lí. 
+   Theo Romeo and Vallerand (2016) thì năm tư duy của thế kỷ XXI cũng như ở thời đại Công nghiệp 4.0 là tư duy phản biện, tư duy hợp tác, tư duy sáng tạo, tư duy lập trình tính toán và tư duy giải quyết vấn đề.
+
+   Theo đó, tư duy lập trình tính toán là một trong năm tư duy nền tảng của thời đại ngày nay. Tư duy này là một chìa khóa quan trọng để giúp con người có thể đáp ứng được những yêu cầu đặt ra trong lĩnh vực kỹ thuật số, một trong ba trọng điểm của cuộc Cách mạng công nghiệp lần thứ tư.
+   Một câu hỏi được đặt ra có là  "Tư duy lập trình tính toán của sinh viên trong mô hình giáo dục STEM hiện nay như thế nào?". Trả lời một phần câu hỏi này, bài viết tiến hành khảo sát tư duy lập trình tính toán của sinh viên trong mô hình giáo dục STEM tại trường Đại học Cần Thơ.
+   2 CƠ SỞ LÝ LUẬN
+   2.1 Giáo dục STEM
+   STEM là thuật ngữ viết tắt từ tiếng Anh của các thuật ngữ Science (khoa học), Technology (công nghệ), Engineering (kĩ thuật) và Mathematics (toán học). 
+   Giáo dục trong thời đại Công nghiệp 4.0 thì mô hình giáo dục STEM đang ngày càng nhận được sự quan tâm và chú ý từ các nhà giáo dục trên thế giới. Hiệp hội các giáo viên dạy khoa học quốc gia Mỹ (National Science Teachers Association - NSTA) được thành lập năm 1944 đã đề xuất ra khái niệm giáo dục STEM (STEM education) với cách định nghĩa ban đầu như sau:
+    "Giáo dục STEM là một cách tiếp cận liên ngành trong quá trình học, trong đó các khái niệm học thuật mang tính nguyên tắc được lồng ghép với các bài học trong thế giới thực, ở đó các học sinh áp dụng các kiến thức trong khoa học, công nghệ, kỹ thuật và toán vào trong các bối cảnh cụ thể, giúp kết nối giữa trường học, cộng đồng, nơi làm việc và các tổ chức toàn cầu, để từ đó phát triển các năng lực trong lĩnh vực STEM và cùng với đó có thể cạnh tranh trong nền kinh kế mới" (Tsupros et al., 2009)
+   Từ định nghĩa trên, có ba đặc điểm quan trọng khi nói về giáo dục STEM:
+   * Cách tiếp cận liên ngành.
+   * Lồng ghép với các bài học, tạo ra sản phẩm ứng dụng vào thực tế.
+   * Kết nối từ trường học, cộng đồng đến các tổ chức toàn cầu.
+   Theo Đỗ Văn Tuấn (2014) thì một trong những phương pháp dạy và học mang lại hiệu quả cao nhất cho giáo dục STEM là phương pháp "học qua hành" ("Learning by doing"). Phương pháp này giúp học sinh có được kiến thức từ kinh nghiệm thực hành chứ không phải chỉ từ lý thuyết. Bằng cách xây dựng các bài giảng theo chủ đề và dựa trên thực hành, học sinh sẽ được hiểu sâu về lý thuyết, nguyên lý thông qua các hoạt động thực tế.
+   Một mô hình dạy học theo giáo dục STEM đã được Tuan et al. (2019) đề xuất, mô hình này liên kết bốn lĩnh vực khoa học, công nghệ, kỹ thuật và toán học để tạo ra các sản phẩm sáng tạo, trong đó yếu tố công nghệ được đặc biệt nhấn mạnh và là yếu tố trung tâm của mô hình. Mô hình STEMTech được minh họa trong Hình 2.
+
+   Mô hình STEMTech có hai đặc điểm cơ bản là (1) người học thực hành và trải nghiệm các công nghệ mới; và (2) các sản phẩm STEM do người học tạo ra phải sáng tạo và dựa trên các công nghệ mới này. Các công nghệ mới được hiểu là những công nghệ mà người học chưa biết, mà không nhất thiết phải mới đối với cộng đồng khoa học. 
+   Thông qua giáo dục STEM, học sinh được phát triển các kĩ năng như giải quyết vấn đề, sáng tạo, phân tích, phản biện, tư duy độc lập, làm việc nhóm, giao tiếp và các kĩ năng về công nghệ thông tin. Đây có thể là một mô hình giáo dục đáp ứng được yêu cầu của cuộc cách mạng Công nghiệp 4.0.
+   2.2 Tư duy lập trình tính toán
+   Thuật ngữ tư duy lập trình tính toán (computational thinking) lần đầu tiên được đề cập vào năm 1980 bởi Seymour Papert (Xem Papert, Seymour, 1980), sau đó, thuật ngữ này được phát triển chính thức bởi Giáo sư Jeannette Marie Wing trong bài báo khoa học "Computational Thinking" vào năm 2006 (Xem Wing, Jeannette M, 2006). Theo Wing, Jeannette M, (2006) thì "Tư duy lập trình tính toán xây dựng dựa trên sức mạnh và sự hạn chế của quá trình tính toán. Phương pháp và mô hình tính toán cho chúng ta can đảm để giải quyết vấn đề và thiết kế những hệ thống mà không ai trong chúng ta có khả năng giải quyết một mình", "Tư duy lập trình tính toán liên quan đến giải quyết vấn đề, thiết kế hệ thống, và hiểu hành vi con người, bằng cách sử dụng các khái niệm cơ bản về khoa học máy tính". 
+   Theo Romeo and Vallerand (2016) thì"Tư duy lập trình tính toán là một tập hợp các chiến lược nhận thức và siêu nhận thức được liên kết với các quy trình và phương pháp liên quan đến máy tính như trừu tượng hóa, thuật toán, nhận dạng mẫu, phân tách và tổ chức kiến thức phức tạp thành các chuỗi logic".
+   2.3 Ngôn ngữ lập trình Scratch
+   Mô hình giáo dục STEM được chọn làm nền tảng cho khảo sát. Tiếp theo là lựa chọn yếu tố công nghệ. Phần mềm Scratch, với ưu thế là phần mềm đa năng, dễ học, dễ sử dụng và miễn phí được ưu tiên lựa chọn.
+   Scratch được thiết kế và duy trì bởi Media Lab của Viện Công nghệ Massachusetts (Massachusetts Institute of Technology - MIT, Hoa Kỳ). Scratch được sử dụng cho mọi trẻ em từ 8 tuổi trở lên, đã có mặt tại hơn 150 quốc gia với hơn 40 ngôn ngữ trong đó có tiếng Việt. Ngoài ra, Scratch còn là một cộng đồng trực tuyến, nơi kết nối mọi người thích lập trình bằng Scratch, qua đó có thể chia sẻ, tương tác thông qua những câu chuyện, trò chơi, hình ảnh,... 
+   Scratch còn giúp người lập trình cách suy nghĩ sáng tạo, suy luận có hệ thống và hợp tác làm việc, đây là những kĩ năng cần thiết cho cuộc sống trong thế kỉ XXI. Lập trình trên Scratch được thực hiện một cách rất trực quan bằng việc "lắp ráp" các nhóm khối lệnh, các thẻ lệnh như một trò chơi xếp hình; có thể thao tác kéo, thả để thực hiện các chức năng điều khiển các đối tượng nhân vật, thực hiện các nhiệm vụ và mô tả các sự kiện,... để giúp người dùng thiết kế và xây dựng các chương trình. Scratch rất thích hợp để giáo viên tạo ra sản phẩm phục vụ việc dạy học như là mô phỏng kiến thức, mô hình hóa bài học, bài giảng, sách điện tử, ứng dụng học tập,...
+   3 PHƯƠNG PHÁP NGHIÊN CỨU
+   3.1 Đối tượng và tiến trình nghiên cứu
+   Khảo sát được tiến hành ở 50 sinh viên ngành Sư phạm Toán học K41 (năm thứ ba) từ tháng 01/2018 đến tháng 03/2018. Tiến trình thực nghiệm gồm các bước sau: 
+   Bước 1: Tập huấn cho sinh viên về giáo dục STEM và cách lập trình với Scratch trong 1 tháng.
+   Bước 2: Chia lớp thành 10 nhóm, mỗi nhóm trải nghiệm việc tạo ra một chương trình tính toán trên máy tính bằng cách sử dụng ngôn ngữ Scratch và kết hợp thêm những công cụ kỹ thuật số khác như GeoGebra (nếu cần). Thời gian thực hiện trong 1 tháng. 
+   Các nhóm được yêu cầu thiết kế chương trình tính toán trên máy tính theo mô hình do Bùi Anh Tuấn và Trương Quốc Tuấn (2017) đề xuất:
+   * Xây dựng và giải bài toán tổng quát.
+   * Thiết kế giải thuật và viết chương trình tính toán trên máy tính.
+   * Chương trình đưa ra sử dụng và hiệu chỉnh (nếu cần).
+   Bước 3: Phát phiếu khảo sát ý kiến sinh viên về tư duy lập trình tính toán và phân tích kết quả.
+
+   3.2 Phân tích tiên nghiệm phiếu khảo sát ý kiến sinh viên
+   Phiếu khảo sát ý kiến sinh viên được xây dựng nhằm đánh giá các trải nghiệm mà sinh viên đạt được khi thiết kế chương trình tính toán trên máy tính. Phiếu khảo sát được trích từ nghiên cứu của Bean et al. (2015).
+
+   Ở các câu hỏi 1 và câu hỏi 2 nhằm đánh giá mức độ tự tin trong việc dụng công nghệ thông tin, viết chương trình máy tính.
+   Ở các câu hỏi 3, câu hỏi 4 và câu hỏi 5 nhằm đánh giá về khả năng truyền đạt hiệu quả về lập trình cho học sinh.
+   Ở các câu hỏi 6, câu hỏi 7 và câu hỏi 8 nhằm đánh giá về việc thiết kế giáo án, sử dụng lập trình trong quá trình giảng dạy.
+   Cả 8 câu hỏi này được thiết kế theo thang Likert 5 bậc nhằm đánh giá kết quả định lượng của câu trả lời. Các câu hỏi được mã hóa điểm như sau:
+
+   4 KẾT QUẢ VÀ THẢO LUẬN
+   4.1 Phân tích hậu nghiệm phiếu khảo sát ý kiến sinh viên
+   Kết quả khảo sát có 50 phiếu phát ra và thu lại 50 phiếu (tỉ lệ 100%). Bảng 2 trình bày ý kiến phản hồi của sinh viên.
+
+   Bảng 2 cho thấy tỉ lệ việc lựa chọn "đồng ý" và "hoàn toàn đồng ý" của hầu hết các câu hỏi đều lớn hơn 50%, cho thấy tư duy lập trình tính toán của nhóm khảo sát vượt mức trung bình. Ngoài ra, với câu hỏi 7 liên quan đến việc "tạo ra giáo án có kết hợp lập trình như là một công cụ giảng dạy" thì tỉ lệ đạt mức cao nhất với 74%. Kết quả này cao có thể do nhóm thực nghiệm 100% là sinh viên sư phạm nên việc thiết kế giáo án là một lợi thế. Tỉ lệ thấp nhất (46%) là của câu hỏi 3 đề cập về khả năng "hướng dẫn các khái niệm của lập trình một cách hiệu quả". Kết quả thấp có thể do thời gian tiếp xúc với các khái niệm lập trình ngắn và các khái niệm này không được dạy bài bản trong chương trình. 
+   Kết quả lấy ý kiến của sinh viên, độ tin cậy, giá trị trung bình và độ lệch chuẩn của từng câu hỏi được phân tích bằng SPSS version 23 và trình bày trong Bảng 3.  
+   Bảng 3 cho thấy độ tin cậy chung và độ tin cậy của 8 câu hỏi đạt khá cao, độ tin cậy chung đạt 0.898 chứng tỏ các câu hỏi phù hợp với phiếu khảo sát ý kiến. Giá trị trung bình của các câu hỏi xấp xỉ nhau thể hiện sự tương đồng giữa các yếu tố của tư duy lập trình tính toán. Các giá trị trung bình đều nằm trong khoảng 3 đến 4, tức từ mức "phân vân" đến "đồng ý". 
+   Giá trị trung bình quy ước của 8 câu hỏi và giá trị trung bình của từng câu hỏi được tính toán và trình bày Hình 3.
+
+   Câu hỏi 7 có giá trị trung bình cao nhất (3,86), câu hỏi này về khả năng thiết kế giáo án có kết hợp lập trình để giảng dạy. Các câu hỏi trên được khảo sát với sinh viên ngành Sư phạm Toán nên có thể đây là lợi thể trong việc sử dụng lập trình phục vụ việc giảng dạy.
+   Câu hỏi đặt ra là các giá trị trung bình có vượt trung bình lý thuyết là 3 và có nhỏ hơn 4 hay không?. Phân tích kiểm định giả thuyết về giá trị trung bình với mức ý nghĩa , tức độ tin cậy là 95% (tổng số phiếu là n=50) được thực hiện.
+
+   Từ các giá trị u_qs đối với giả thuyết trên, ta bác bỏ giả thuyết H_0, thừa nhận giả thuyết H_1, kết luận được các giá trị trung bình của 8 câu hỏi thật sự lớn hơn giá trị trung bình lý thuyết là 3.
+
+   Từ các giá trị u_qs đối với giả thuyết này, ta bác bỏ giả thuyết H_0, thừa nhận giả thuyết H_1, kết luận được các giá trị trung bình của 8 câu hỏi thật sự bé hơn 4.
+   Các số liệu kiểm định cho thấy, giá trị trung bình của các câu hỏi đều nằm trong khoảng từ 3 đến 4 với độ tin cậy 95%, tức là các câu trả lời xoay quanh từ "phân vân" đến "đồng ý". Kết quả này cho thấy tư duy lập trình tính toán của nhóm thực nghiệm thực sự đạt mức hơn trung bình, nhưng vẫn còn sự lưỡng lự trong việc đánh giá khả năng cá nhân để hoàn thành việc lập trình tính toán cũng như sử dụng các kiến thức lập trình tính toán vào dạy học.
+
+   5 KẾT LUẬN
+   Tư duy lập trình tính toán là một trong năm tư duy nền tảng của thời đại ngày nay và là một chìa khóa quan trọng để giúp con người có thể đáp ứng được những yêu cầu đặt ra trong lĩnh vực kỹ thuật số, một trong ba trọng điểm của cuộc cách mạng công nghiệp lần thứ tư. Kết quả khảo sát cho thấy, mặc dù thời gian tiếp cận với lập trình tính toán không nhiều (khoảng 3 tháng) nhưng sinh viên tại Trường Đại học Cần Thơ vẫn vượt mức trung bình về mức độ sử dụng tư duy lập trình toán. 
+   Ngoài ra, nghiên cứu còn là một bằng chứng cho thấy sinh viên Trường Đại học Cần Thơ có khả năng thích nghi tốt với bối cảnh của cuộc cách mạng công nghiệp lần thứ tư. Trong tương lai, khi cải tiến chương trình đào tạo, nên tính đến việc phát triển tư duy lập trình tính toán cho sinh viên bài bản hơn thông qua thiết kế các học phần liên quan và các hoạt động ngoại khóa nhằm khai thác tốt hơn nữa tiềm năng của sinh viên phục vụ cho mục tiêu phát triển kinh  tế - xã hội trong kỷ nguyên số. 
+   TÀI LIỆU THAM KHẢO
+Bùi Anh Tuấn và Trương Quốc Tuấn, 2017. Tiếp cận mô hình giáo dục STEM trong dạy Toán ở bậc đại học: trường hợp bài toán Chậu cá. Kỷ yếu Hội nghị quốc tế "Giáo dục STEM cho phát triển đồng bằng sông Cửu Long". 02/11/2017. Trường Đại học Cần Thơ. Thành phố cần thơ, 91-92.

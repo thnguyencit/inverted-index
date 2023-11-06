@@ -1,0 +1,140 @@
+﻿
+PHÂN TÍCH CÁC YẾU TỐ ẢNH HƯỞNG ĐẾN CƠ HỘI VIỆC LÀM 
+CỦA LAO ĐỘNG NỮ NÔNG THÔN HUYỆN TAM BÌNH, TỈNH VĨNH LONG
+Nguyễn Công Toàn1 và Châu Mỹ Duyên2
+1Viện Nghiên cứu Phát triển Đồng bằng sông Cửu Long, Trường Đại học Cần Thơ
+2 Sinh viên Phát triển Nông thôn Khóa 36, Trường Đại học Cần Thơ
+Thông tin chung:
+Ngày nhận: 24/10/2014
+Ngày chấp nhận: 27/02/2015
+Title:
+Analysis of the factors affecting employment opportunity of women laborers of rural area in Tam Binh District, Vinh Long Province
+Từ khóa: 
+Cơ hội việc làm, Đào tạo nghề, Lao động nữ, Thu nhập
+Keywords:
+Employment Opportunity, Vocational Training, Women Laborers, Income   ABSTRACT
+The objective of this paper aimed to determine the factors affecting employment opportunity of women laborers of rural area in Tam Binh district, Vinh Long province. The study was approached by the method of participatory rural appraisal (PRA), the direct interviews of 120 women laborers were done through the structured questionnaires and Binary Logistic regression analysis were conducted in the study. The study results showed that employment of women laborers was affected by many factors. Therefore, their employment was unstable. Factors such as educational level, marital status of women laborers, rural vocation, employment information, linking between places of training and using of laborers affected the employment opportunity of women laborers. Thus, the women laborers of rural area should change their perception of employment with the timely assistance of vocational training and capital from the local government to stabilize their employment and to improve their income.
+   TÓM TẮT
+Mục tiêu của nghiên cứu nhằm xác định các yếu tố ảnh hưởng đến cơ hội việc làm của lao động nữ nông thôn huyện Tam Bình, tỉnh Vĩnh Long. Trong thu thập và phân tích dữ liệu, tác giả đã tiếp cận phương pháp đánh giá nông thôn có sự tham gia (PRA), phương pháp điều tra trực tiếp 120 lao động nữ thông qua bản câu hỏi cấu trúc và phương pháp phân tích hồi quy Binary Logistic. Kết quả phân tích hồi quy cho thấy, việc làm của lao động nữ bị ảnh hưởng bởi nhiều yếu tố nên công việc không ổn định. Các yếu tố như: trình độ học vấn, tình trạng hôn nhân của lao động nữ, nghề nông thôn đã học, thông tin về việc làm, liên kết giữa nơi đào tạo và sử dụng lao động có ảnh hưởng đến cơ hội việc làm của lao động nữ. Do vậy, lao động nữ nông thôn muốn ổn định việc làm và cải thiện thu nhập rất cần có sự thay đổi nhận thức từ bản thân người lao động về việc làm và sự hỗ trợ kịp thời về đào tạo nghề và vốn từ chính quyền địa phương.
+   1  GIỚI THIỆU
+   Dân số nước ta có hơn 70% đang sống trong khu vực nông thôn, chủ yếu sản xuất nông nghiệp. Đồng bằng sông Cửu Long (ĐBSCL) có dân số khoảng 17,3 triệu người, trong đó, hơn 10,1 triệu người trong độ tuổi lao động (Niên giám thống kê, 2012). Với đặc điểm dân số đông và trẻ nên nguồn lao động dồi dào. Đây là thế mạnh trong phát triển Kinh tế - Xã hội của nước ta nói chung và ĐBSCL nói riêng. Trong cơ cấu dân số, gần 80% phụ nữ Việt Nam sống ở nông thôn. Họ hoạt động ở mọi ngành nghề, kể cả những ngành nghề nặng nhọc và độc hại. Theo thống kê, lao động nữ nông thôn chiếm 58,02% lực lượng lao động trong lĩnh vực nông, lâm, ngư nghiệp (riêng nông nghiệp, lao động nữ chiếm 56,29%) và họ hiện đang sản xuất hơn 60% sản phẩm nông nghiệp. Phụ nữ nông thôn Việt Nam, một trong hai chủ thể kinh tế quan trọng mang lại thu nhập cho các hộ gia đình. Sản xuất nông nghiệp mang tính thời vụ nên đã dẫn đến vấn đề dư thừa rất lớn thời gian lao động trong khu vực nông thôn, trong đó lao động nữ chiếm phần khá lớn. Bên cạnh đó, lao động nữ đang gặp nhiều khó khăn, hạn chế trong hoạt động sản xuất từ chính bản thân họ như trình độ chuyên môn kỹ thuật, sức khỏe... và các khó khăn khách quan khác như khả năng tiếp cận thông tin, các dịch vụ xã hội... Vấn đề đặt ra là cần đánh giá đúng thực trạng lao động nữ ở nông thôn và xác định các yếu tố quyết định trong việc tạo cơ hội việc làm cho họ để phát huy vai trò của lao động nữ trong phát triển Kinh tế - Xã hội nông thôn.
+   Tam Bình là huyện có lực lượng lao động nữ dồi dào và có tiềm năng phát triển nghề tiểu thủ công nghiệp mạnh nhất tỉnh Vĩnh Long với các làng nghề như: đan thảm lục bình, kết hạt cườm, sản xuất bánh tráng, xe bông dây kẽm... Các làng nghề này đã tạo việc làm cho phần đông lao động nữ tại huyện. Đây là điểm nổi bật cần phát huy và nhân rộng cho các địa phương trong tỉnh. 
+   Lao động nữ có vai trò hết sức quan trọng và đầy tiềm năng, do đó, việc tạo điều kiện thuận lợi để họ ổn định việc làm và thu nhập là yêu cầu cấp thiết. Xuất phát từ vấn đề này, đề tài: "Phân tích các yếu tố ảnh hưởng đến cơ hội việc làm của lao động nữ nông thôn huyện Tam Bình, tỉnh Vĩnh Long" được thực hiện.
+   2  PHƯƠNG PHÁP NGHIÊN CỨU
+   2.1 Cơ sở lý luận và mô hình nghiên cứu
+   Trong một số nghiên cứu có liên quan đến học nghề, việc làm, thu nhập về người lao động (trong đó có lao động nữ) đã đề cập các biến sau: trình độ học vấn, trình độ chuyên môn kỹ thuật, yếu tố sức khỏe, khả năng tiếp cận thông tin trước, trong và sau khi học nghề (Đông, 2008). Thu nhập của nông hộ bị ảnh hưởng bởi biến mối liên kết trong học nghề và giải quyết việc làm cho người lao động (Phúc, 2012; Lộc, 2012; Duyên, 2013). Học nghề là cơ hội tốt để giúp người người lao động nâng cao kỹ năng tay nghề và có một nghề nghiệp ổn định, tăng thu nhập (Thành, 2014). Bên cạnh đó, nhóm tác giả Nghi và ctv (2011) đã xác định sự đa dạng nguồn thu nhập (trong đó có nguồn thu nhập từ các ngành nghề nông thôn) có ảnh hưởng lớn đến tổng thu nhập của hộ. Từ đó, cho thấy, để có nguồn thu nhập ổn định, người lao động dù nam hay nữ cần phải có kỹ năng tay nghề cho một nghề nhất định. 
+   Trên cơ sở kế thừa các nghiên cứu trước và xuất phát từ mục tiêu nghiên cứu của đề tài, mô hình nghiên cứu tổng quát được đề xuất nhằm xác định các yếu tố ảnh hưởng đến cơ hội việc làm của lao động nữ.
+   Mô hình tổng quát có dạng: 
+   Yi = β0   + βiXij   + ui (1) , trong đó:
+   Y = 1 khi lao động nữ có việc làm trong lĩnh vực phi nông nghiệp.
+   Y = 0 khi lao động nữ không có việc làm trong lĩnh vực phi nông nghiệp.
+   Yi được giải thích bởi các biến  Xi
+   β0: hằng số chung
+   Phương trình (1) được viết lại dưới dạng log trong mô hình phân tích hồi qui Binary Logistic:
+   = β0 + βiXi, trong đó: : Tỷ số log-odds, tỉ số này là một hàm tuyến tính của các biến giải thích Xi;  β0 , βi: là hệ số hồi quy của mô hình; Xi là các biến độc lập hay các yếu tố có ảnh hưởng đến cơ hội việc làm của người lao động nữ như: tuổi, trình độ, số con, tình trạng hôn nhân, hỗ trợ của Nhà nước về vốn, thông tin việc làm, nhóm nghề tham gia học, liên kết của nhà sử dụng lao động và nơi đào tạo (Bảng 1).
+   Ý nghĩa của mô hình: Nếu các yếu tố khác không đổi, khi yếu tố Xi tăng lên 1 đơn vị thì xác suất có việc làm của lao động nữ sẽ tăng hay giảm βi lần (phần trăm).
+
+
+
+
+Bảng 1: Diễn giải các biến độc lập trong mô hình hồi qui Binary Logistic
+Tên biếnKý hiệuGiải thích biếnDấu kỳ vọng (-/+)Tuổi lao động nữX1Số tuổi của lao động nữ-Trình độ học vấnX2Nếu lớn hơn cấp 1 = 1;cấp 1 = 0+Tình trạng hôn nhânX3Nếu lập gia đình = 1;độc thân = 0-Số con trong gia đìnhX4Số người con-Nhóm nghề đã họcX5Nếu nghề tiểu thủ công nghiệp, thương mại và dịch vụ = 1;nghề khác = 0+Hỗ trợ của Nhà nước về vốn X6Nếu có hỗ trợ = 1;không = 0+Thông tin học nghề và việc làmX7Nếu có thông tin = 1;không = 0+Mối liên kết giữa cơ sở đào tạo và nhà sử dụng lao động X8Nếu có liên kết = 1;không = 0+
+   2.2 Phương pháp nghiên cứu
+   2.2.1 Phương pháp thu thập số liệu
+   Số liệu được thu thập từ 2 nguồn chính:
+   (1) Thu thập số liệu thứ cấp: từ Sở Lao đông - Thương bình và Xã hội (LĐ-TB&XH) tỉnh Vĩnh Long, Phòng LĐ-TB&XH huyện Tam Bình, Trung tâm dạy nghề, các cơ quan ban ngành khác có liên quan, tại 2 xã nghiên Ngãi Tứ và Mỹ Thạnh Trung và niên giám thống kê. 
+   (2) Thu thập số liệu sơ cấp: nhóm nghiên cứu tổ chức thảo luận nhóm cán bộ ở cấp huyện tại phòng LĐ-TB&XH ( 1 cuộc) và cán bộ LĐ-TB&XH cấp xã (2 cuộc) để thu thập các thông tin sâu hơn về tình hình việc làm cho lao động nữ trong những năm gần đây bằng các câu hỏi bán cấu trúc. Thành phần cán bộ xã được mời thảo luận nhóm gồm 4 đại diện của  Đoàn Thanh niên, Hội Nông dân,  Hội Phụ nữ và lãnh đạo xã. 
+   Trên cơ sở kết quả thảo luận nhóm cán bộ cấp xã và huyện, nhóm nghiên cứu đã xây dựng bảng câu hỏi và tiến hành phỏng vấn tổng cộng 120 lao động nữ tại 02 xã nghiên cứu (60 lao động nữ/xã). 
+   2.2.2 Phương pháp phân tích số liệu
+   Phân tích thống kê mô tả để làm rõ thực trạng về việc làm, thuận lợi, khó khăn, cơ hội và thách thức của lao động nữ trong tìm kiếm việc làm. Phân tích mô hình hồi quy Binary Logistic nhằm xác định các nhân tố ảnh hưởng đến cơ hội việc làm của lao động nữ nông thôn. Trên cơ sở tổng hợp một số kết quả quan trọng từ hai phân tích trên, tác giả xây dựng và phân tích ma trận SWOT nhằm tìm ra những giải pháp khả thi giúp giải quyết việc làm và nâng cao thu nhập cho lao động nữ tại địa bàn nghiên cứu.
+   3 
+KẾT QUẢ VÀ THẢO LUẬN
+   3.1 Tình hình việc làm của lao động tại địa bàn nghiên cứu
+   3.1.1 Tình hình lao động thất nghiệp trong lĩnh vực phi nông nghiệp
+   Thất nghiệp phi nông nghiệp không tính các lao động trong nông nghiệp hay còn đi học, chỉ tính những người trong độ tuổi lao động không tham gia sản xuất nông nghiệp, đang tìm việc làm khác nhưng không có hoặc chưa có việc làm. Kết quả điều tra cho thấy, có  56,25% lao động nữ cho rằng họ đang thất nghiệp, còn lại lao động nam thất nghiệp chiếm 43,75%. Do lao động nữ phải chăm sóc gia đình, công việc nội trợ nên tỷ lệ thất nghiệp trong lĩnh vực phi nông nghiệp cao hơn. Đây cũng là một thách thức, vì lao động nữ nông thôn chiếm khá nhiều tại địa phương (chiếm 49,03%) nên công tác giải quyết việc làm cho họ gặp không ít khó khăn. Đào tạo nghề nông thôn nhằm khắc phục tình trạng này. 
+   Qua khảo sát cho thấy, đa số lao động thất nghiệp do phụ giúp gia đình (23 ý kiến, chiếm 42,6%), sức khỏe yếu (12 ý kiến, chiếm 22,2%), chăm sóc con nhỏ (10 ý kiến, chiếm 18,5% ), không có nguyên liệu gia công (9 ý kiến, chiếm 16,7%) và một số ý kiến khác như công ty phá sản, không có đầu ra sản phẩm, trình độ người lao động thấp không đáp ứng được yêu cầu công việc.
+   3.1.2 Tình hình lao động có việc làm và lĩnh vực ngành nghề đang làm
+   Nông nghiệp
+   Trong hoạt động sản xuất nông nghiệp lao động nam thực hiện chủ yếu. Tuy nhiên, đóng góp của lao động nữ vào các hoạt động nông nghiệp cũng rất quan trọng. Tỷ lệ lao động nam và nữ tham gia hoạt động sản xuất nông nghiệp được trình bày tại Bảng 2.
+
+Bảng 2: Số lao động nam và nữ tham gia trong các hoạt động nông nghiệp
+Hoạt độngNamNữTổng cộng    (%)Số lượng(%)Số lượng(%)Trồng lúa10053,26353,016353,1Trồng cây ăn trái6635,14033,610634,6Nuôi gia súc10,575,982,6Làm thuê nông nghiệp158,065,0216,8Khác63,232,592,9Tổng188100,0119100,0307100,0Nguồn: Kết quả điều tra, 2013
+   Lao động nữ đã đóng góp 38,8% (119 người trong tổng số 307 người) sức lao động vào lĩnh vực nông nghiệp bên cạnh việc nội trợ và chăm sóc cho gia đình. Trong đó, hoạt động trồng lúa, lao động nữ đóng góp sức lao động nhiều nhất chiếm 53% trong tổng các hoạt động sản xuất nông nghiệp, hoạt động trồng cây ăn trái chiếm 33,6%. Tỷ trọng lao động nữ sử dụng trong hai hoạt động này tương đương với lao động nam. Các hoạt động còn lại, người lao động nữ có tham gia nhưng không 
+đáng kể.
+   Công nghiệp - dịch vụ
+   Tổng lao động tham gia hoạt động phi nông 
+nghiệp là 180 người, trong đó có 63 lao động nam (35%) và 117 lao động nữ (65%). Hình 1 cho thấy, lực lượng lao động nữ có sự chênh lệch tham gia vào các ngành nghề, trong đó nhóm ngành nghề tiểu thủ công nghiệp có sự tham gia của lao động nữ nhiều nhất. Đa phần phụ nữ nhận gia công tại nhà hoặc tại nơi cung cấp nguyên liệu để có thêm nguồn thu nhập cho gia đình ngoài thời gian làm nội trợ. Vì vậy, số lượng lao động nữ tham gia lĩnh vực này nhiều gấp 3,5 lần so với lao động nam. Lao động nữ tham gia ngành nghề tiểu thủ công nghiệp do đã được học nghề từ chương trình 1956 tại địa phương và tự đi học từ các cơ sở dạy nghề tư nhân.
+
+
+Hình 1: Số lao động trong các lĩnh vực phi nông nghiệp 
+Kết quả điều tra, 2013
+   Kết quả nghiên cứu cho thấy, trong các hoạt động phi nông nghiệp có 51% hoạt động được thực hiện tại nhà và 26,1% tại xã. Bên cạnh đó, có 10% các hoạt động được thực hiện ở TPHCM và 2,2% tại Bình Dương. Kết quả nghiên cứu cũng cho thấy, người lao động luôn có xu hướng đi làm gần nhà. Đây là mặt thuận lợi cho việc sử dụng tối đa nguồn lực hiện có để phát triển kinh tế nông thôn tại địa phương.
+   Trong tìm kiếm việc làm của lao động nữ nói riêng và lao động nói chung cũng gặp những khó khăn và thuận lợi khác nhau. Theo Phúc (2011) cho rằng người lao động có nhiều thuận lợi trong tìm việc làm phi nông nghiệp cụ thể như địa phương có nhiều cơ sở kinh doanh, chủ yếu các cơ sở tiểu thủ công nghiệp, hàng thủ công mỹ nghệ; nhờ có mối quan hệ thân quen, được bạn bè giới thiệu; người lao động có tay nghề tốt, hiểu rõ nghề; người lao động có kinh nghiệm, siêng năng, chịu khó làm; có nguồn nguyên liệu sẵn, dễ kiếm, nghề không đòi hỏi trình độ cao; và sự giúp đỡ của chính quyền trong tư vấn tìm việc, hỗ trợ vay vốn. Bên cạnh đó, người lao động cũng gặp không ít khó khăn trong tìm việc làm, cụ thể như kinh tế gia đình khó khăn, điều kiện làm việc cực nhọc, lương thấp, nguồn hàng và thị trường đầu ra trong sản xuất và tiêu thụ không ổn định (Lộc, 2012).
+   3.1.3 Tình hình thu nhập trung bình/năm của người lao động
+   Qua phân tích Bảng 3 cho thấy, sự chênh lệch về thu nhập trong nông nghiệp và phi nông nghiệp khá lớn. Với mức thu nhập này khả năng tái đầu tư vào lĩnh vực nông nghiệp là không cao. Vì vậy, cần đa dạng các mô hình nông nghiệp và phi nông nghiệp trong hoạt động kinh tế nông hộ nhằm tạo cơ hội việc làm cho các thành viên trong nông hộ. Đây là chiến lược sinh kế hộ rất cần thiết hiện nay. Kết quả nghiên cứu cho thấy, đóng góp sức lao động  của lao động nam và nữ trong các lĩnh vực cũng có sự chênh lệch nhau rất lớn. Trong lĩnh vực nông nghiệp, lao động nam đóng góp nhiều hơn so với nữ, chiếm 61,2% sức lao động vào lĩnh vực nông nghiệp để góp phần gia tăng thu nhập. Lao động nữ đóng góp đến 65,0% sức lao động vào việc gia tăng thu nhập từ phi nông nghiệp. Qua kết quả phân tích này cho thấy, lao động nữ ngày càng khẳng định vị trí của mình trong việc góp phần ổn định thu nhập và phát triển kinh tế hộ.
+
+Bảng 3: Thu nhập trung bình/năm theo lĩnh vực và tỷ lệ đóng góp thu nhập của lao động nam và nữ trong tổng thu nhập gia đình
+                                                                                                       Đơn vị: 1000 đồng
+Nguồn thu nhậpNhỏ nhấtLớn nhấtTrung bìnhĐộ lệch chuẩnĐóng góp của lao động nam (%)Đóng góp của lao động nữ (%)Nông nghiệp2.400252.72035.903,7644.624,92661,238,8Phi nông nghiệp100153.00026.767,2226.885,27735,065,0Tổng2.500405.72062.670,9871.510,203Nguồn: Kết quả điều tra, 2013
+   3.2 Phân tích các yếu tố ảnh hưởng đến cơ hội việc làm của lao động nữ
+   Kết quả phân tích Bảng 4 cho thấy trong mô hình hồi quy có 3 biến không có ý nghĩa thống kê như biến tuổi, số con, mối liên kết giữa cơ sở đào 
+tạo và đơn vị sử dụng lao động. Các biến còn lại về trình độ học vấn, tình trạng hôn nhân, nhóm nghề đã học, hỗ trợ của Nhà nước về vốn và thông tin việc làm có ảnh hưởng ý nghĩa đến cơ hội việc làm của lao động nữ vì các giá trị P của các biến số này đều nhỏ hơn mức ý nghĩa alpha bằng 5%.
+
+Bảng 4: Kết quả phân tích của mô hình hồi quy Binary Logistic
+Biến sốBS.E.WaldPExp(B)Tuổi0,0840,0671,5930,2071,088Trình độ học vấn2,7171,2464,7550,02915,133Tình trạng hôn nhân6,5213,1334,3330,026103,055Số con-1,0460,8471,5270,2170,351Nhóm nghề đã học3,0891,1517,2000,00721,965Hỗ trợ của Nhà nước về vốn4,6311,6178,1990,004102,649Thông tin về học nghề và việc làm 3,0821,5174,1260,04221,808Mối liên kết giữa cơ sở đào tạo và đơn vị sử dụng lao động2,7081,6592,6650,10315,000Hằng số-16,1145,5158,5360,0030,000Nguồn: Kết quả điều tra, 2013
+   Hệ số B của từng biến độc lập cho phép viết được phương trình diễn tả sự ảnh hưởng đến cơ hội việc làm của lao động nữ và khả năng này được diễn tả bởi xác suất P. Phương trình cụ thể như sau:
+   Log[p*(1-p)-1]= - 16,114 + 2,717 X2 + 6,521 X3 + 3,089 X5 + 4,631 X6+ 3,082 X7
+   Mức độ ảnh hưởng của các biến được mô tả cụ thể như sau:
+   * X2 (Trình độ học vấn của lao động nữ): trong trường hợp các biến độc lập khác cố định, khi trình độ học vấn của lao động nữ tăng lên một cấp học ta kỳ vọng tăng một giá trị 2,717 trong log-odds của khả năng có việc làm của lao động nữ. Có nghĩa là xác suất lao động nữ có việc làm sẽ tăng 15,133 lần. Điều này có thể giải thích rằng, khi trình độ học vấn của lao động nữ tăng lên họ có nhận thức cao hơn về vấn đề việc làm, họ tham gia tích cực vào các hoạt động có ích, chịu học hỏi và tiếp thu nhanh chóng kiến thức cần thiết. Có trình độ học vấn cao hơn họ dễ dàng tìm kiếm việc làm, tạo ra thu nhập góp phần ổn định đời sống.
+   * X3 (Tình trạng hôn nhân của lao động nữ): trong trường hợp các biến độc lập khác cố định, khi tình trạng hôn nhân thay đổi từ độc thân sang lập gia đình ta kỳ vọng tăng một giá trị 6,521 trong log-odds của khả năng có việc làm cho lao động nữ. Như thế, xác suất có việc làm của lao động nữ tăng 103,055 lần. Điều này không đúng với kỳ vọng ban đầu đưa ra là lao động nữ sẽ có cơ hội việc làm thấp hơn khi có gia đình vì phải đảm đương công việc nhà và chăm sóc con cái gia đình. Tuy nhiên, kết quả này lại phù hợp với mô hình vì phụ thuộc vào địa bàn nghiên cứu. Vì địa phương đang phát triển làng nghề và lao động nữ có thể làm tại nhà nên những lao động có gia đình rất chuộng hình thức này. Lao động nữ có thể vừa làm việc, vừa chăm sóc gia đình. Bên cạnh đó, khi lao động nữ đã lập gia đình, gánh nặng gia đình của họ nhiều hơn và họ cần nâng cao thu nhập để trang trải cuộc sống gia đình nên họ rất muốn có thêm việc làm. Đối với lao động nữ còn độc thân họ có xu hướng đi làm xa. Trong thời buổi kinh tế thị trường cạnh tranh, hoạt động sản xuất và kinh doanh của các công ty, xí nghiệp có thể gặp rủi ro cao nên người lao động đi làm xa có nguy cơ thất nghiệp cao. Vì vậy, lao động nữ có gia đình có thể ổn định việc làm đối với ngành nghề tiểu thủ công nghiệp tại địa phương.
+   * X5 (Nhóm nghề nông thôn đã học): trong trường hợp các biến độc lập khác cố định, khi nhóm nghề học là tiểu thủ công nghiệp và thương mại dịch vụ, ta kỳ vọng tăng 3,089 trong log-odds của khả năng có việc làm cho lao động nữ. Có nghĩa là xác suất có việc làm của lao động nữ tăng 21,965 lần. Điều này đúng với kỳ vọng ban đầu, bởi người lao động chọn học nhóm nghề theo nhu cầu của thị trường, phù hợp với địa phương đang phát triển các làng nghề tiểu thủ công nghiệp, thương mại dịch vụ nhiều hơn so với các nhóm ngành nghề khác.
+   * X6 (Hỗ trợ của Nhà nước về vốn): trong trường hợp các biến độc lập khác cố định, khi có sự hỗ trợ từ địa phương về vốn cho các hoạt động tạo ra thu nhập của hộ, ta kỳ vọng tăng một giá trị 4,631 trong loog-odds của khả năng có việc làm cho lao động nữ. Như vậy, xác suất có việc làm của lao động nữ tăng lên 102,649 lần. Điều này đúng với kỳ vọng ban đầu vì khi hỗ trợ về vốn cho lao động nữ, họ có nguồn lực để đầu tư, phát triển ngành nghề đã học và tạo cơ hội việc làm để cải thiện thu nhập cho gia đình.
+   * X7 (Thông tin về học nghề và việc làm): trong trường hợp các biến độc lập khác cố định, khi lao động nữ tiếp cận được nhiều thông tin về học nghề và việc làm, ta kỳ vọng tăng một giá trị 3,082 trong log-odds của khả năng có việc làm cho lao động nữ. Có nghĩa là xác suất có việc làm của lao động nữ tăng lên 21,808 lần. Điều này đúng với kỳ vọng ban đầu, vì khi lao động nữ tiếp cận và nắm bắt được nhiều thông tin hơn về học nghề và việc làm, họ có nhiều cơ hội lựa chọn nghề và có một việc làm ổn định sau khi học nghề.
+   So với các kết quả nghiên cứu có liên quan, kết quả nghiên cứu này có những yếu tố tương đồng như: nghề đã học, đặc biệt nghề phi nông nghiệp có cơ hội việc làm cao hơn, cũng như thu nhập sẽ cao hơn so với nhóm nghề nông nghiệp (Phúc, 2012). Cũng theo kết quả nghiên cứu khác cho thấy, khi người học nghề có trình độ tăng lên 1 lớp, làm tăng tổng thu nhập thêm 4.497.911 đồng (Lộc, 2012). Kết luận này có thể tương đồng với yếu tố trình độ học vấn đã phân tích ở trên tác động đến cơ hội có việc làm của lao động nữ. Bên cạnh đó, vốn là một giải pháp tốt để tạo việc làm cho người lao động phát triển ngành nghề tiểu thủ công nghiệp nhằm tạo điều kiện cho những lao động có sự khéo léo, đặc biệt, lao động nữ có thể cải thiện cuộc sống gia đình. Đây cũng là giải pháp tạo việc làm cho người lao động (Đông, 2008). Thông tin về học nghề và việc làm được phát hiện trong mô hình có ý nghĩa thực tiễn giúp người lao động có cơ hội việc làm do họ biết được nhiều thông tin hơn trước, trong và sau khi học nghề. 
+   3.3 Phân tích ma trận SWOT về việc làm của lao động nữ
+   Qua kết quả phân tích ma trận SWOT, tác giả đề xuất các giải pháp khả thi góp phần nâng cao khả năng có việc làm cho lao động nữ tại địa bàn nghiên cứu: (Bảng 5).
+   Việc tổ chức dạy nghề cho lao động nữ nên tập trung vào các nghề phù hợp với nhu cầu của địa bàn, địa phương, trong đó cần đặc biệt quan tâm đến ngành nghề tiểu thủ công nghiệp;
+   Địa phương cần quan tâm nhiều hơn nữa trong công tác hỗ trợ cho lao động nữ phát triển kinh tế, thiết thực nhất là hỗ trợ vốn cho họ để phát triển các ngành nghề đã học; 
+   Việc phổ biến thông tin về học nghề và việc làm cần đa dạng và phù hợp với cách tiếp cận của lao động nữ nhằm giúp họ nắm bắt nhiều thông tin hơn một cách kịp thời và hiệu quả thông qua các hoạt động của tổ chức Đoàn thể ở địa phương.
+
+Bảng 5: Phân tích ma trận SWOT về việc làm của lao động nữ
+SWOTYếu tố bên trongCác điểm mạnh (S)
+S1: Nhân thức của lao động nữ về việc làm ngày càng cao.
+S2: Lao động nữ có sức khỏe, có thời gian nhàn rỗi tại gia đình.Các điểm yếu (W)
+W1: Khả năng tiếp cận thông tin về học nghề và việc làm thấp.
+W2: Trình độ học vấn của lao động nữ thấp.
+
+W3: Tay nghề yếuYếu tố bên ngoàiCác cơ hội (O)
+O1: Địa phương đang và sẽ phát triển các nghề tiểu thủ công nghiệp, nhiều mô hình thành công.
+O2: Hội phụ nữ và Đoàn thanh niên đang và sẽ quan tâm công tác giải quyết việc làm cho lao động nữ.S+O: Phát triển, đầu tư
+S1 + O1 -->Phát triển các mô hình thành công và đầu tư mở rộng làng nghề.
+S2 + O2 --> Khuyến khích phụ nữ tham gia sinh hoạt các hoạt động Đoàn thể nhằm tạo cơ hội việc làm, gia tăng thu nhập cho gia đình.W+O: Tận dụng, khắc phục
+W1, W2, W3 + O2,  O1--> Các Đoàn thể cần đa dạng hơn nữa các hình thức thông tin việc làm đến lao động nữ, thường xuyên vận động học nghề và tổ chức dạy nghề theo địa chỉ. Chọn nghề phù hợp với thời gian và phù hợp với tay nghề của lao động nữ để nhân rộng và phát triển. Các thách thức (T)
+T1: Giá cả thị trường thay đổi ảnh hưởng đến giá cả gia công sản phẩm và giá nguyên liệu nên lao động nữ chưa gắn bó với nghề.
+T2: Huyện vẫn chưa hoàn thiện các tuyến đường giao thông nên chưa thu hút được nhà đầu tư phát triển kinh tế, chưa tạo được việc làm cho người lao động tại địa phương. S+T: Duy trì, khống chế
+S1+ T1 --> Địa phương tìm đầu ra ổn định về giá cả cho sản phẩm và nguồn nguyên liệu ổn định.
+S2+ T2 --> Tiếp tục đầu tư nâng cấp các tuyến giao thông trong huyện để thu hút đầu tư các ngành nghề phù hợp cho lao động nữ.W+T: Khắc phục, né tránh
+W1, W2, W4 + T2--> Đầu tư giao thông nông thôn, thu hút đầu tư phát triển nguồn nhân lực nữ như các chương trình dự án cho phụ nữ, giúp người lao động nữ dễ dàng tiếp cận với thông tin thị trường, cũng như thông tin về cơ hội học nghề và việc làm.
+Nguồn: Tổng hợp từ kết quả phỏng vấn nhóm, 2013
+
+   4 KẾT LUẬN 
+   Lao động nữ chiếm 49,03% trong tổng số lao động trong độ tuổi tại điểm nghiên cứu. Tỷ lệ lao động nữ có việc làm chiếm 79,70% và 20,30% vẫn còn thất nghiệp trong lĩnh vực phi nông nghiệp. Trình độ học vấn của lao động nữ ở mức trung bình. Tại địa bàn nghiên cứu đã có mô hình phát triển làng nghề thủ công mỹ nghệ gắn với hoạt động của Hội phụ nữ thông qua liên kết việc dạy nghề và tìm đầu ra cho sản phẩm với các hợp tác xã thu mua. Đây là điểm tích cực cần phát huy trong thời gian tới nhằm tạo cơ hội việc làm cho phụ nữ nông thôn. Tuy nhiên, trong vấn đề giải quyết việc làm cho lao động nữ vẫn còn tồn tại nhiều khó khăn như tay nghề cho người lao động nữ không cao, thu nhập từ nghề phi nông nghiệp còn thấp, lao động chưa tiếp cận tốt nguồn thông tin về việc làm, nghề tiểu thủ công nghiệp có nhiều bấp bênh về nguyên liệu, thị trường tiêu thụ, mẫu mã, giá thị trường không ổn định. Việc làm của người lao động nữ bị ảnh hưởng bởi nhiều yếu tố khác nhau, thông qua mô hình Binary Logistic đã xác đinh được các yếu tố như trình độ học vấn, tình trạng hôn nhân, nhóm nghề chọn học, hỗ trợ của Nhà nước về vốn, thông tin về học nghề và việc làm có ảnh hưởng ý nghĩa đến cơ hội việc làm lao động nữ.
+   5 ĐỀ XUẤT
+   Thông qua kết quả phân tích từ đề tài và các giải pháp đã đưa ra, tác giả có các đề nghị cụ thể như sau:
+   Xây dựng tổ chức Hội phụ nữ huyện vững mạnh, phát huy hơn nữa vai trò của Hội là nơi tập hợp, tổ chức, đoàn kết phụ nữ trong khối thống nhất. Xây dựng những nội dung hoạt động thiết thực thu hút phụ nữ trong độ tuổi vào sinh hoạt. Kết hợp các chương trình hỗ trợ của tổ chức trong và ngoài nước về vốn, kiến thức cho phụ nữ phát triển kinh tế, xây dựng gia đình no ấm, bình đẳng, tiến bộ và hạnh phúc.
+   Cần có sự kết hợp giữa Hội Phụ Nữ và Trung tâm học tập cộng đồng với các doanh nghiệp tổ chức mô hình "đưa nghề mới về làng", kết hợp dạy nghề tại cơ sở với tổ chức sản xuất gia công sản phẩm cho các doanh nghiệp, tạo việc làm tăng thu nhập cho phụ nữ nông thôn đối với nhóm nghề tiểu thủ công nghiệp.
+   Lao động nữ cần thường xuyên tham gia hoạt động của Hội phụ nữ để nắm bắt thông tin về học nghề, việc làm và các hoạt động có liên quan; tích cực tham gia học nghề; sắp xếp thời gian và công việc hợp lý, đảm bảo chăm sóc gia đình và công việc; không ỷ lại và trông chờ vào sự hỗ trợ của Nhà nước; và không ngừng học hỏi từ các mô hình đã đạt hiệu quả tại địa phương. 
+   TÀI LIỆU THAM KHẢO
+1. Cục thống kê Vĩnh Long, 2012. Số liệu Thống kê huyện Tam Bình năm 2012
+2. Châu Mỹ Duyên, 2013. Phân tích các yếu tố ảnh hưởng đến việc làm của lao động nữ nông thôn huyện Tam Bình, tỉnh Vĩnh Long. Luận văn tốt nghiệp Đại học. Đại học Cần Thơ. Cần Thơ.
+3. Dương Ngọc Thành, 2014. Thực trạng lao động nông thôn và ảnh hưởng đến đào tạo nghề nông thôn đến việc làm và thu nhập của người dân vùng ĐBSCL. Đề tài nghiên cứu khoa học cấp Bộ. Bộ Giáo dục và Đào tạo.
+4. Lê Hoàng Phúc, 2012. Thực trạng lao động nông thôn và ảnh hưởng của đào tạo nghề đến việc làm và thu nhập của người dân Vĩnh Long. Luận văn tốt nghiệp ngành phát triển nông thôn, ĐH. Cần Thơ.
+5. Lương Mạnh Đông, 2008. Giải pháp chủ yếu nhằm đáp ứng nhu cầu việc làm của lao động nông thôn huyện Phú Lương tỉnh Thái Nguyên. Luận văn thạc sĩ kinh tế, ĐH. Thái Nguyên.
+6. Nguyễn Hữu Lộc, 2012. Thực trạng lao động nông thôn và ảnh hưởng của đào tạo nghề đến việc làm và thu nhập của người dân Bến Tre. Luận văn tốt nghiệp ngành phát triển nông thôn, ĐH. Cần Thơ.
+7. Nguyễn Quốc Nghi, Trần Quế Anh và Bùi Văn Trịnh, 2011. Các yếu tố ảnh hưởng đến thu nhập của hộ gia đình ở khu vực nông thôn huyện Trà Ôn, tỉnh Vĩnh Long. Tạp chí khoa học. Số 5: 23.
+1. 
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 		Phần C: Khoa học Xã hội, Nhân văn và Giáo dục: 36 (2015): 56-63
+
+
+

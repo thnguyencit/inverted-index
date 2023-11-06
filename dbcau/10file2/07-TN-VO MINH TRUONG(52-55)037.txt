@@ -1,0 +1,78 @@
+﻿
+DOI:10.22144/ctu.jvn.2019.037
+BẤT ĐỐI XỨNG TRONG TÁN XẠ ELECTRON-HẠT NHÂN Ở NĂNG LƯỢNG CAO
+Võ Minh Trường*
+Khoa Khoa học Cơ bản, Trường Đại học Xây dựng Miền Tây, Vĩnh Long
+*Người chịu trách nhiệm về bài viết: Võ Minh Trường (email: vominhtruong@mtu.edu.vn)
+Thông tin chung:
+Ngày nhận bài: 02/08/2018
+Ngày nhận bài sửa: 18/09/2018
+Ngày duyệt đăng: 25/04/2019
+
+Title: 
+Asymmetry in electron-nucleus scattering at high energies
+Từ khóa: 
+Độ bất đối xứng, khai triển đa cực, thừa số dạng, tiết diện tán xạ
+Keywords:
+Asymmetry, multipole expansion, form factors, scattering cross section
+   ABSTRACT
+The asymmetry in electron-nucleus scattering at high energies of hundreds GeV and more was described in the framework of unified electroweak theory. The asymmetry ARL and the scattering cross section ratio R were analyzed at the same time, showing that they gave the same results on the relation between electromagnetic and weak forces in the unified force. The specific calculations were performed for the isotopic pair.
+   TÓM TẮT
+Độ bất đối xứng trong tán xạ êlectron-hạt nhân ở năng lượng cao cỡ hàng trăm GeV trở lên được mô tả trong khuôn khổ lý thuyết hợp nhất điện từ-yếu. Cả độ bất đối xứng ARL và tỉ số tiết diện tán xạ R được phân tích đồng thời cho thấy kết quả giống nhau về quan hệ giữa lực điện từ và lực yếu trong lực hợp nhất. Các tính toán cụ thể được thực hiện cho cặp đồng vị hai hạt nhân.Trích dẫn: Võ Minh Trường, 2019. Bất đối xứng trong tán xạ electron-hạt nhân ở năng lượng cao. Tạp chí Khoa học Trường Đại học Cần Thơ. 55(2A): 52-55.
+   1 MỞ ĐẦU
+    Nghiên cứu của Phu and Ha (2014) đã thiết lập các công thức mô tả khai triển đa cực cho tiết diện tán xạ electron lên hạt nhân xét trong khuôn khổ lý thuyết hợp nhất điện từ-yếu. Các công thức này là trường hợp riêng của công thức tổng quát hơn đã thiết lập trước đây cho tán xạ lepton-hạt nhân khi có định hướng (Phu, 2003a), với sự định hướng của hạt nhân được mô tả bởi tham số Fano. Khi không định hướng thì các công thức trong nghiên cứu của Phu (2003a) sẽ tự động trở về các công thức của Phu and Ha (2014). Nghiên cứu độc lập này thực hiện cho trường hợp không định hướng để có thể theo dõi trực tiếp và không phụ thuộc vào các tính toán cho hạt nhân có định hướng; đồng thời áp dụng các công thức từ nghiên cứu của Phu and Ha (2014) trong tính toán minh họa với cặp hạt nhân đồng vị đơn giản để thấy rõ vai trò của tương tác yếu trong tương tác hợp nhất điện từ-yếu khi năng lượng cao. 
+   2 TÁN XẠ CỦA ELECTRON LÊN CÁC HẠT NHÂNVÀ
+   Trong công thức thiết lập bởi Phu and Ha (2014), tiết diện tán xạ được biểu thị qua các thừa số dạng đa cực, là các yếu tố ma trận rút gọn của chuyển dời giữa các trạng thái hạt nhân, các chuyển dời này gây bởi các dòng trong hạt nhân. Việc tính các thừa số dạng là một trong những nhiệm vụ chính của lý thuyết về cấu trúc hạt nhân. Tác giả sẽ tính cho một trường hợp đơn giản nhưng đủ thể hiện các nét cơ bản của cấu trúc hạt nhân phản ứng với hiệu ứng tương tác hợp nhất điện từ-yếu, đó là các hạt nhân có A  3: cặp hạt nhân . Chúng đều có spin J  1/2, và là một cặp có spin đồng vị chung T  1/2.
+   Các thừa số dạng đa cực của các hạt nhân 3 nucleon là: và ý nghĩa của các kí hiệu này thể hiện rõ trong nghiên cứu của Phu and Ha (2014). Các phân tích của Donnelly and Percei (1979) chứng minh rằng thừa số dạng dọcứng với thành phần dọc trong tương tác yếu là rất nhỏ, có thể bỏ qua, nên danh sách các thừa số dạng chỉ còn 5. Tính toán của Sitenko et al. (1972), Gilman and Tsao (1979) cho các thừa số dạng điện GE, từ GM và yếu GA của nucleon khi có mặt trong các hệ 3 nucleon là:
+           		(1a)
+     	                          	(1b)
+      X  10,47q2, P  0,038, 			(1c)
+   trong đó các chỉ số trên S và V lần lượt biểu thị các thành phần đồng vị vô hướng và vector, các chỉ số dưới p và n liên quan đến proton và neutron, N là chỉ số dành cho nucleon nói chung. Dựa vào các công thức trên, có thể tính được các thừa số dạng của các hạt nhânnhư sau (Tartakovsky et al., 1990; Phu, 2001; Phu, 2003b):
+
+   
+     Q2  - 42x2,  q2  42x2,  x  sin(/2).							(2)
+   Trong (2) đơn vị của năng lượng là GeV, T  mT/T, T là spin đồng vị: với cặp đang xét thì T  1/2, như vậy mT  1/2 (nên T  1) chovà mT  -1/2 (nên T  -1) cho Q  (, q) là xung lượng truyền (4 chiều) của electron cho hạt nhân, q2  q2 (q là xung lượng truyền 3 chiều), mN là khối lượng của nucleon, các kí hiệu còn lại là quen thuộc trong lý thuyết tương tác hợp nhất điện từ-yếu. Chú ý rằng trong tán xạ đàn hồi thì năng lượng truyền    - '  0, nên năng lượng electron trước và sau va chạm bằng nhau:   ',  là góc tán xạ.   
+   3 BẤT ĐỐI XỨNG TRONG TÁN XẠ ELECTRON-HẠT NHÂN Ở NĂNG LƯỢNG CAO
+   Khi cho electron tán xạ lên hạt nhân ở năng lượng thấp cỡ hàng MeV, giữa electron và hạt nhân chỉ có tương tác điện từ, dẫn đến tán xạ của các electron quay phải và quay trái có tính đối xứng. Phân tích cho thấy ở năng lượng cao giữa electron và hạt nhân còn có tương tác yếu, với tương tác hợp nhất là điện từ-yếu. Sự có mặt của tương tác yếu trong tương tác hợp nhất làm cho tính đối xứng giữa quay phải và quay trái không còn, tức là xuất hiện bất đối xứng. 
+   Hãy xét electron là phân cực trước và sau tán xạ với độ phân cực lần lượt là   và ', độ phân cực được hiểu là hình chiếu của vector phân cực lên phương chuyển động. Tiết diện tán xạ phụ thuộc vào độ phân cực của electron được ghi là   (, '). Nếu không đo phân cực sau tán xạ thì tiết diện tán xạ là   
+   . 	                  (3)
+   Độ bất đối xứng được định nghĩa là
+   .                        	(4)
+   Nếu ta giả thiết các hạt nhân là không định hướng thì có thể chứng minh được rằng độ bất đối xứng biểu thị qua các thừa số dạng đa cực nêu trên sẽ có dạng sau (Phu, 2001; Phu, 2003):
+   ,	                  (5)
+   , 	(6a)
+   ,	(6b)
+   ,	                (6c)
+   trong đó  là hằng số tương tác điện từ, GF là hằng số tương tác yếu Fermi, mZ là khối lượng boson trung gian Z0. Khi tán xạ là đàn hồi thì K  4. Công thức (5) cho thấy độ bất đối xứng tự động bằng 0 khi không có tương tác yếu, tức là khi tương tác là thuần túy điện từ. 
+   4 DÁNG ĐIỆU VỀ ẢNH HƯỞNG CỦA TƯƠNG TÁC YẾU TRONG TƯƠNG TÁC HỢP NHẤT ĐIỆN TỪ-YẾU
+   Sau đây, đồ thị dáng điệu của các đại lượng theo biến số x  sin(/2) được biểu diễn về ảnh hưởng của tương tác yếu trong tương tác hợp nhất điện từ-yếu. Trước hết là tỉ số R  FZ/F giữa phần thêm vào FZ do giao thoa giữa tương tác điện từ với tương tác yếu và phần tương tác điện từ thuần túy F, xét với các giá trị năng lượng tới  khác nhau của electron. Các giá trị của năng lượng electron xét trên các đồ thị là: a/.   1 GeV, b/.   50 GeV, c/.   100 GeV, d/.   500 GeV, e/.   1.000 GeV.
+   Đặc trưng chung về dáng điệu các đồ thị xét ở đây là khi năng lượng   1 GeV (đường cong a), ảnh hưởng của tương tác yếu so với tương tác điện từ chỉ cỡ R ~ 10-5, đạt giá trị lớn nhất là R ~ 10-4 khi 0,9 ≤ x ≤ 1 (tán xạ về phía sau). Khi năng lượng   ≥ 50 GeV (các đường cong b, c, d, e) thì dáng điệu các đường cong đã trở nên khác hẳn: tương tác yếu đã trở thành đáng kể, không còn có thể bỏ qua so với tương tác điện từ. Khi năng lượng   ≤ 100 GeV (các đường cong a, b, c) thì tỉ số R phụ thuộc đáng kể nhất vào góc tán xạ khi tán xạ về phía sau, trong khi   ≥ 500 GeV (các đường cong d, e) thì tỉ số R phụ thuộc đáng kể nhất vào góc tán xạ khi tán xạ về phía trước.
+     
+Hình 1: Tỉ số R của hạt nhân 
+         
+Hình 2: Tỉ số R của hạt nhân 
+   
+   Tiếp theo là xét độ bất đối xứng ARL với 5 giá trị năng lượng electron như trường hợp xét tỉ số R ở trên. Đại lượng ARL cũng biểu thị phần tham gia của tương tác yếu, vì nếu không có mặt nó thì ARL  0. Ở năng lượng   1 GeV thì ARL rất nhỏ, cỡ ~ 10-5 - 10-4, giống như ở tỉ số R. Nhưng khi    50 GeV và lớn hơn thì dáng điệu các đường cong đã trở nên khác hẳn so với các đường ở năng lượng thấp, cách thức thay đổi lại có cùng dáng điệu và cùng lí do như ở Hình 1 và Hình 2. Ngoài ra, sự phụ thuộc của độ bất đối xứng ARL vào góc tán xạ tương ứng với các giá trị năng lượng electron cũng diễn ra tương tự như của tỉ số R.
+
+     
+Hình 3: Độ bất đối xứng ARL của hạt nhân 
+     
+Hình 4: Độ bất đối xứng ARL của hạt nhân  
+   1 
+   5 KẾT LUẬN
+   Nghiên cứu cấu trúc hạt nhân ở các quá trình năng lượng cao giúp hiểu sâu sắc thêm các mô hình cấu trúc hạt nhân đã có, cũng như đánh giá mức độ đúng đắn của các mô hình ấy khi xét đến đầy đủ các tương tác, và cũng có thể dẫn đến hiệu chỉnh các mô hình. Hiệu chỉnh các mô hình là điều chỉnh các tham số của mô hình (cả cho cấu trúc hạt nhân lẫn tương tác hợp nhất), khả năng về thay đổi cấu trúc của mô hình là không thể có. Mô hình tương tác hợp nhất trong nghiên cứu này là mô hình Weinberg-Salam, với hằng số . Các số liệu thực nghiệm gần đây cho thấy cần phải chỉnh sửa các hằng số làm khớp, nhất là hằng số. 
+   LỜI CẢM TẠ
+   Tác giả xin trân trọng cảm ơn TSKH. Lương Duyên Phu (cộng tác viên của Trường Đại học Văn Lang TP. HCM) về những hướng dẫn, góp ý quí báu trong quá trình tính toán.
+   TÀI LIỆU THAM KHẢO
+Sitenko, A.G., Kozlovsky, S.N. and Tartakovsky, V.K., 1972. Scattering of high energy electrons on the nucleiand. Nuclear Physics. 15(4): 725-732. 
+Gilman, F.J. and Tsao, T., 1979. Polarized-electron elastic scattering asymmetries in SU(2)U(1). Physical Review D. 19(3): 790-795.
+Phu, L.Z., 2001. Asymmetry in lepton-nucleus scattering at high energies. International Conference on Exotic Nuclei, 7.2001. Hameenlina Finland, page 9.
+Phu, L.Z., 2003a. Multipole expansion for the scattering cross section of leptons by nuclei at high energies. Bulletin of the Russian Academy of Sciences. Physics Series. 67(10): 1495-1500.
+Phu, L.Z., 2003b. Orientation effects in the scattering of leptons by nuclei. Nuclear Physics A. 722: C419-C423.
+Phu, L.Z. and Ha, N.H., 2014. Multipole expansion for the electron-nucleus scattering at high energies in the unified electroweak theory. Nuclear Science and Technology. 4(4):  38-44. 
+Donnelly, T.W. and Percei, R.D., 1979. Neutral current effects in nuclei. Physics Reports. 50(1): 1-85.
+Tartakovsky, V.K., Phu, L.Z. and Fursaev, A.V., 1990. Scattering of polarized electrons on oriented light nuclei. VUZ Physica. 33(5): 84-88.
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Tập 55, Số 2A (2019): 52-55
+
+
+

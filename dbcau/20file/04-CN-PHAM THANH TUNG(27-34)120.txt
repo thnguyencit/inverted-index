@@ -1,0 +1,153 @@
+﻿
+DOI:10.22144/ctu.jvn.2018.120
+ĐÁNH GIÁ HIỆU QUẢ CỦA GIẢI THUẬT QUASI-NEWTON 
+TRONG ĐIỀU KHIỂN TRƯỢT THÍCH NGHI SỬ DỤNG MẠNG NƠ-RON RBF 
+Phạm Thanh Tùng1*, Nguyễn Đình Tứ2, Lê Thị Kiều Mai1, Nguyễn Hứa Duy Khang2, 
+Đồng Văn Hướng3 và Nguyễn Chí Ngôn2
+1Trường Đại học Sư phạm Kỹ thuật Vĩnh Long
+2Khoa Công nghệ, Trường Đại học Cần Thơ
+3Trường Đại học Giao thông vận tải thành phố Hồ Chí Minh
+*Người chịu trách nhiệm về bài viết: Phạm Thanh Tùng (email: tungpt@vlute.edu.vn)
+Thông tin chung:
+Ngày nhận bài: 18/05/2018
+Ngày nhận bài sửa: 31/07/2018
+Ngày duyệt đăng: 29/10/2018
+
+Title: 
+Performance evaluation of the Quasi-Newton algorithm in adaptive sliding mode control using radial basis function neural networks
+Từ khóa: 
+Điều khiển trượt thích nghi, giải thuật Quasi-Newton, huấn luyện trực tuyến, mạng nơ-ron RBF, robot di động đa hướng
+Keywords:
+Adaptive sliding mode control, Omni-directional mobile robot, online training, Quasi-Newton algorithm, radial basis function neural networks   ABSTRACT
+This paper is aimed to evaluate the performance of the Quasi-Newton in online training of an adaptive sliding mode control using radial basis function neural networks. The controller is applied in trajectory tracking of an Omni-directional mobile robot. The sliding mode control plays a role of tracking the trajectories of the robot reaching the references. The radial basis function neural networks are used to estimate nonlinear functions in the sliding mode control law which is calculated based on the Lyapunov stability theory adapting to control conditions. The simulation results in MATLAB/SIMULINK show that the Quasi-Newton algorithm applying in the proposed controller is positive effect; the responses of the robot converge to references without steady-state error; the overshoot is only 0.442 (%), and the mean square error approximates 3.48 x 10-4.
+   TÓM TẮT
+Bài báo này nhằm đánh giá hiệu quả của giải thuật Quasi-Newton trong huấn luyện trực tuyến bộ điều khiển trượt thích nghi sử dụng mạng nơ-ron RBF (radial basis function). Giải thuật này được ứng dụng trong điều khiển bám quỹ đạo robot di động đa hướng. Bộ điều khiển trượt đóng vai trò điều khiển robot bám quỹ đạo tham khảo. Mạng nơ-ron RBF được sử dụng để ước lượng các hàm phi tuyến trong luật điều khiển trượt, được tính toán dựa trên lý thuyết ổn định Lyapunov thích nghi với các điều kiện thực tế. Kết quả mô phỏng với MATLAB/SIMULINK cho thấy giải thuật Quasi-Newton áp dụng trong bộ điều khiển đề xuất đạt hiệu quả tốt; sai số xác lập của các đáp ứng bị triệt tiêu; độ vọt lố đạt 0.442 (%) và sai số trung bình bình phương xấp xỉ 3.48 x 10-4.Trích dẫn: Phạm Thanh Tùng, Nguyễn Đình Tứ, Lê Thị Kiều Mai, Nguyễn Hứa Duy Khang, Đồng Văn Hướng và Nguyễn Chí Ngôn, 2018. Đánh giá hiệu quả của giải thuật Quasi-Newton trong điều khiển trượt thích nghi sử dụng mạng nơ-ron RBF. Tạp chí Khoa học Trường Đại học Cần Thơ. 54(7A): 27-34.
+
+
+   1 GIỚI THIỆU
+   Mạng nơ-ron RBF (radial basis function) được giới thiệu năm 1988 và gần đây nhận được nhiều sự chú ý do khả năng tổng quát hóa tốt và cấu trúc đơn giản, tính toán nhanh và hiệu quả (Liu, 2013). Nó có thể cải thiện hiệu quả điều khiển ngay cả khi có sự bất định lớn của hệ thống. Các nhà nghiên cứu đã đề xuất nhiều phương pháp để huấn luyện mạng RBF như: Gradient Descent, Newton's method, Conjugate Gradient, Quasi-Newton, Levenberg Marquardt (Burney at al., 2007). Trong đó, giải thuật Quasi-Newton đã được nhiều tác giả nghiên cứu. Likas and Stafylopatis (2000) đã sử dụng kỹ thuật tối ưu Quasi-Newton để cực tiểu hóa sai số trong huấn luyện mạng nơ-ron ngẫu nhiên. Kết quả mô phỏng cho thấy rằng giải thuật Quasi-Newton vượt trội hơn so với giải thuật Gradient Descent (Relhan and Jain, 2012). Giải thuật Quasi-Newton tỏ ra hiệu quả trong huấn luyện mạng nơ-ron 3 lớp ẩn sử dụng trong kỹ thuật nén ảnh (Omer Mahmoud et al., 2007), phân loại Hematoma ảnh CT não (Sharma and Venugopalan, 2014). Ngoài ra, nghiên cứu của Mukherjee and Routroy (2012) cũng cho thấy giải thuật Quasi-Newton đáp ứng tốt yêu cầu huấn luyện bộ điều khiển mạng nơ-ron cho quá trình mài. Tuy nhiên, các nghiên cứu về việc ứng dụng giải thuật Quasi-Newton trong huấn luyện trực tuyến mạng nơ-ron RBF cho bộ điều khiển trượt thích nghi vẫn còn nhiều hạn chế.
+   Bài báo này đề xuất sử dụng giải thuật Quasi-Newton để huấn luyện trực tuyến mạng nơ-ron RBF trong bộ điều khiển trượt thích nghi áp dụng để điều khiển robot di động đa hướng. Đây là một loại robot holonomic có thể di chuyển dễ dàng trong những không gian nhỏ, hẹp do khả năng di chuyển một cách linh hoạt, vừa quay vừa tịnh tiến đồng thời và độc lập (Djebrani et al., 2012). Khả năng vốn có của robot đã làm cho nó được nghiên cứu rộng rãi và được ứng dụng trong nhiều môi trường năng động.
+   2 GIẢI THUẬT QUASI-NEWTON VỚI BFGS
+   BFGS (Broyden-Fletcher-Goldfarb-Shanno) là một trong các phương pháp Quasi-Newton sử dụng các phép xấp xỉ thay cho các phương pháp ma trận nghịch đảo Hessian. Nếu ta có bài toán cực tiểu (Sadeghi et al., 2016) theo (1):	
+                                          (1)
+   Cho là cực tiểu, quá trình lặp lại để tìm kiếm như (2):
+   		                 (2)
+   Trong đó,  là ma trận đối xứng n × n và là tốc độ học sẽ được tìm để cực tiểu .  là ma trận Hessian mà phương pháp Newton cần tìm (khi thì ta có phương pháp Gradient Descent).
+   Giả sử chứa các đạo hàm từng phần bậc hai liên tục, ta định nghĩa như (3):
+   	 	             (3)
+   Gọi Hk là ma trận xấp xỉ ma trận Hessian trong phép lặp thứ k. Bắt đầu từ mỗi ma trận trận đối xứng hằng số dương H0, mỗi điểm x0 và k = 0 được thực hiện theo 3 bước:
+   Bước 1: xét 
+   Bước 2: cực tiểu  với 
+   	Ta có  
+   Bước 3 : xét 
+   Và            (4)
+   Sau đó cập nhật k và quay về Bước 1.
+   Nếu Hk là giá trị thực thì Hk+1 cũng là một giá trị thực và trình tự của thuật toán này hội tụ (Sadeghi et al., 2016). Một phương pháp mới để cập nhật cho H được BFGS đề xuất như (5):
+   	            (5)
+   3 ĐIỀU KHIỂN TRƯỢT THÍCH NGHI SỬ DỤNG MẠNG NƠ-RON RBF ROBOT DI ĐỘNG ĐA HƯỚNG
+   3.1 Mô hình toán học của robot
+   Phương trình động lực học robot được trình bày như (6) (Watanabe, 1998) :
+	 (6)
+   Với  là nhiễu hệ thống chưa biết.
+
+   Trong đó,  L: khoảng cách giữa bất kỳ bộ phận và tâm trọng lực của robot (m); c:  hệ số ma sát nhớt cho bánh xe (kgm2/s); r:  bán kính của mỗi bánh xe (m); : mô-men quán tính của mỗi bánh xe quanh trục lái (kgm2); : mô-men quán tính của robot (kgm2); k: hệ số truyền động; M: mô-men quán tính của hòn bi (kgm2).
+   3.2 Điều khiển trượt thích nghi sử dụng mạng nơ-ron RBF
+   Cấu trúc của bộ điều khiển trượt thích nghi sử dụng mạng nơ-ron RBF (ASMC-RBF: adaptive sliding mode control - RBF) được mô tả như 
+Hình 1.
+    
+    
+Hình 1: Cấu trúc bộ điều khiển ASMC-RBF
+   
+   Sai số được định nghĩa như (7):
+                                          (7)
+   Trong đó  và  
+   Mặt trượt được mô tả như (8) :
+                       (8)
+   Trong đó,  là hằng số dương. Mặt trượt và hàm thông số nhiễu được biểu diễn trong không gian vector lần lượt ,. 
+   Bộ điều khiển trượt thích nghi được trình bày nhằm giải quyết các nguyên nhân gây ra bởi các thông số bất định của hệ thống. 
+   Luật điều khiển trượt được định nghĩa như (9) (Yang and Cheng, 2013):
+    (9)
+   Trong đó,  là ma trận xác định dương.
+   Trong phần này, nghiên cứu sử dụng giải thuật Quasi-Newton để xấp xỉ . Đây là ma trận chứa các thông số đặc trưng của robot như: bán kính của mỗi bánh xe (r), mô-men quán tính của robot (Iv) và mô-men quán tính của hòn bi (M). 
+   Thuật toán của mạng nơ-ron RBF như (10) (Liu, 2013):
+                  (10)
+   Cấu trúc mạng RBF được sử dụng để xấp xỉ thành phần fi trong ma trận AW như Hình 2:
+
+Hình 2: Cấu trúc mạng nơ-ron RBF xấp xỉ thành phần fi
+   Trong đó, 
+ (11)
+                 (12)
+            (13)
+   Ngõ ra fi như (14):   	                  (14)
+   Kết quả xấp xỉ ma trận AW  sử dụng mạng nơ-ron RBF dựa trên giải thuật Quasi-Newton như (15):
+   	 	  (15)
+   Luật điều khiển trượt thích nghi dùng mạng nơ-ron RBF (ASMC-RBF) như (16):
+  (16)
+   Khi quỹ đạo thực tế của robot lệch khỏi quỹ đạo tham khảo do tác động của các điều kiện thực tế như ma sát mặt đường, mô-men quán tính thay đổi,.... thì sai số (7) thay đổi. Khi đó, mạng RBF sẽ được tự động cập nhật bằng giải thuật Quasi-Newton, dẫn đến cũng thay đổi theo sao cho sai số (7) đạt giá trị tối thiểu. Ta nói luật điều khiển (16) thích nghi theo điều kiện hoạt động của robot.
+   Để chứng minh tính ổn định của luật điều khiển, ta cần chứng minh mặt trượt hội tụ về 0 theo Lyapunov. Hàm Lyapunov được định nghĩa như (17): 
+                                             (17)
+   Lấy đạo hàm của  ta có (18):
+                         (18)
+   Yang and Cheng (2013) đã chứng minh . Trong đó, ma trận  là ma trận đối xứng xác định dương. Thêm vào đó, sai số  sẽ hội tụ về 0 dẫn theo khi . Vì thế,  khi .
+   3.3 Thông số và kết quả mô phỏng
+   Thông số mô phỏng
+   Thông số của robot được trình bày như Bảng 1:
+    
+
+
+Bảng 1:  Các thông số của robot di động đa hướng (Watanabe, 1998)
+Ký hiệuÝ nghĩaGiá trịĐơn vịMô-men quán tính của robot11.25Moment quán tính của hòn bi9.4Khoảng cách từ mỗi bánh xe đến tâm robot0.178Hệ số truyền động0.448Hệ số ma sát nhớt0.1889Mô-men quán tính của bánh xe0.02108Bán kính mỗi bánh xe0.0245
+   Thông số của bộ điều khiển trượt thích nghi sử dụng mạng nơ-ron RBF được khởi tạo nằm trong giới hạn giá trị của , được trình bày trong Bảng 2 và 3.
+
+Bảng 2:  Các tham số của bộ điều khiển trượt thích nghi
+Ý nghĩaKý hiệuGiá trịThông số trượtBảng 3:  Các tham số trong mạng nơ-ron RBF
+Ký hiệuÝ nghĩaGiá trịVéc-tơ trung tâm của mạng RBFNgưỡng kích hoạtVéc-tơ trọng số khởi tạo ban đầuSố mạng RBF3Số nơ-ron lớp ẩn của mỗi mạng5
+   Kết quả mô phỏng
+   Kết quả huấn luyện trực tuyến mạng nơ-ron RBF với giải thuật Quasi-Newton được trình bày như Hình 3 với MSE (Mean Square Error) được so sánh với giải thuật Gradient Descent. Qua Hình 3 ta thấy rằng, giá trị MSE của giải thuật Quasi-Newton (5.89 x 10-4) nhỏ hơn MSE của giải thuật Gradient Descent (4.1 x 10-3). Ngoài ra, Hình 3 còn cho thấy thời gian huấn luyện mạng RBF bằng giải thuật BFGS nhanh hơn giải thuật Gradient Descent truyền thống. Điều này có ý nghĩa lớn trong việc cải thiện đáp ứng của bộ điều khiển, đặc biệt trong kỹ thuật huấn luyện trực tuyến bộ điều khiển.  
+
+
+Hình 3: So sánh MSE của Quasi-Newton và Gradient Descent
+   
+   Giải thuật huấn luyện trực tuyến mạng nơ-ron RBF với Quasi-Newton được ứng dụng điều khiển bám quỹ đạo robot di động đa hướng với quỹ đạo mong muốn được trình bày như (19) và (20):
+  (19)
+                                   (20)
+   Đáp ứng bộ điều khiển BFGS-ASMC-RBF 
+với quỹ đạo tham chiếu (19) được trình bày trong Hình 4. 
+
+
+Hình 4: Đáp ứng quỹ đạo bộ điều khiển theo (19)
+   
+   Đáp ứng bộ điều khiển BFGS-ASMC-RBF với quỹ đạo tham chiếu (20) được trình bày trong 
+Hình 5. 
+   Kết quả mô phỏng cho thấy đáp ứng bộ điều 
+khiển BFGS-ASMC-RBF tốt hơn bộ điều khiển trượt thích nghi với mạng nơ-ron RBF được huấn luyện trực tuyến sử dụng giải thuật Gradient Descent (GD-ASMC-RBF) được trình bày chi tiết trong Bảng 4.  
+
+
+Hình 5: Đáp ứng quỹ đạo bộ điều khiển theo (20)
+   
+Bảng 4: Các chỉ tiêu chất lượng giữa Quasi-Newton và Gradient Descent
+Đáp ứngGradient DescentQuasi-Newton Thời gian tăng (ms)Độ vọt lố (%)Sai số xác lậpThời gian tăng (ms)Độ vọt lố (%)Sai số xác lậpx291.161 0.5051.137292.796 0.442 0.0552y292.845 1.368 0.0722292.654 0.469 0.0434        
+   Hiệu suất của giải thuật Quasi-Newton với tiêu chí RMS (Root Mean Square) của từng đáp ứng x, y và ϕ so với giải thuật Gradient Descent được trình bày chi tiết trong Bảng 5.
+
+Bảng 5: So sánh RMS và MSE của Quasi-Newton và Gradient Descent
+Đáp ứngGradient DescentQuasi-Newton RMSMSERMSMSEx3.5393.96 x 10-43.4715.46 x 10-5y3.5372.6 x10-33.5389.4 x 10-4ϕ1.8155.53 x 10-51.8154.98 x 10-5Trung bình2.96371 x 10-32.94133.48 x 10-4        
+   Qua Bảng 5, tiêu chí RMS của từng đáp ứng x, y và ϕ của giải thuật Quasi-Newton tương ứng là 3.471, 3.538 và 1.815; tiêu chí MSE là 5.46 x 10-5, 9.4 x 10-4 và 4.98 x 10-5 vượt trội hơn so với giải thuật Gradient Descent. Điều này có ý nghĩa quan trọng trong huấn luyện trực tuyến bộ điều khiển. Bởi lẽ, kỹ thuật này đòi hỏi vừa lấy mẫu dữ liệu vừa huấn luyện và điều khiển, cho nên việc cải thiện thời gian trong từng công đoạn, nhất là thời gian huấn luyện có ý nghĩa quyết định đến chất lượng của bộ điều khiển. 
+   4 KẾT LUẬN
+   Trong bài báo này, giải thuật Quasi-Newton đã được sử dụng để huấn luyện trực tuyến mạng nơ-ron RBF trong bộ điều khiển trượt thích nghi robot di động đa hướng. Kết quả mô phỏng với MATLAB/SIMULINK cho thấy hiệu quả của giải thuật này với các chỉ tiêu chất lượng cũng như các tiêu chí RMS và MSE vượt trội hơn so với giải thuật Gradient Descent. Điều đó chứng tỏ giải thuật đề xuất phù hợp để điều khiển robot di động đa hướng cũng như trong điều khiển hệ phi tuyến.
+   TÀI LIỆU THAM KHẢO
+Likas, A. and Stafylopatis, A., 2000. Training the Random Neural Network using Quasi-Newton methods. European Journal of Operational Research. 126(2): 331-339.
+Sharma, B. and K. Venugopalan, 2014. Comparison of Neural Network Training Functions for Hematoma Classification in Brain CT Images. IOSR Journal of Computer Engineering (IOSR-JCE). 16(1): 31-35.
+Mukherjee, I. and Routroy, S., 2012. Comparing the Performance of Neural Networks Developed by using Levenberg - Marquardt and Quasi-Newton with the Gradient Descent Algorithm for Modelling a Multiple Response Grinding Process. Expert Systems with Applications 39(3): 2397-2407.
+Liu, J., 2013. Radial Basis Function (RBF) Neural Network Control for Mechanical Systems. Springer, 374 pages.
+Watanabe, K., 1998. Control of an omnidirectional Mobile Robot. Second International Conference on Knowledge-Based Intelligent Electronic Systems: 51 - 60.
+Sadeghi, M., Pashaie, M., and Jafarian, A., 2016. RBF Neural Networks Based on BFGS Optimization Method for Solving Integral Equations. Advances in Applied Mathematical Biosciences. 7(1): 1-22.
+Relhan, N., Jain, M., 2012. Analysis of Optimization Techniques for Feed Forward Neural Networks Based Image Compression. International Journal of Computer Science and Information Technologies. 3(2): 3291-3294.
+
+Mahmoud, O., Anwar, F., Jimoh, M. and Salami, E., 2007. Learning Algorithm Effect on Multilayer Feed Forward Artificial Neural Network Performance in Image Coding. Journal of Engineering Science and Technology. 2(2): 188 - 199. 
+Djebrani, S.A., Benali, A. and Abdessemed, F., 2012. Modelling and control of an omnidirectional mobile manipulator. Int. J. Appl. Math. Comput. Sci.. 22(3): 601-616.
+Burney, S.M.A., Jilani, T.A. and Ardil, C., 2007. A Comparison of First and Second Order Training Algorithms for Artificial Neural Networks. International Journal of Computer, Electrical, Automation, Control and Information Engineering. 1(1): 145 - 151. 
+Yang, Y.C. and Cheng, C.C., 2013. Robust adaptive trajectory control for an Omnidirectional vehicle with parametric uncertainty. Transactions of the Canadian Society for Mechanical Engineering. 37(3): 405 - 413.
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Tập 54, Số 7A (2018): 27-34
+
+
+

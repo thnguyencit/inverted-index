@@ -1,0 +1,99 @@
+﻿
+PHÂN TÍCH HIỆU QUẢ KỸ THUẬT, HIỆU QUẢ PHÂN PHỐI NGUỒN LỰC CỦA HỘ TRỒNG DƯA HẤU TẠI HUYỆN PHONG ĐIỀN, 
+THÀNH PHỐ CẦN THƠ NĂM 2014
+Đoàn Hoài Nhân1 và Đỗ Văn Xê2
+1Viện Kinh tế - Xã hội thành phố Cần Thơ
+2Trường Đại học Cần Thơ
+Thông tin chung:
+Ngày nhận: 17/08/2015
+Ngày chấp nhận: 29/02/2016
+Title: 
+Technical, allocative and cost efficiencies of watermelon farming households in Phong Dien district, Can Tho City in 2014
+Từ khóa: 
+Hiệu quả kỹ thuật, hiệu quả phân phối nguồn lực, hiệu quả chi phí,  dưa hấu, phân tích màng bao dữ liệu
+Keywords:
+Allocative efficiency, cost efficiency, data envelopment analysis, technical efficiency, watermelon   ABSTRACT
+This paper is focused to measure the technical efficiency (TE), allocative efficiency (AE) and cost efficiency (CE) in the watermelon farming of households in Phong Dien district, Can Tho city. Along with this, the R software was applied to estimate the production efficiency. From the cross-sectional data obtained from 110 watermelon farming houlseholds in 2014 randomly selected in Phong Dien district, the Data Envelopment Analysis (DEA) approach was used to estimate the technical, allocation and cost efficiencies. The empirical results indicated that watermelon farm households' technical efficiency is high (TE=96.9%). However, due to limits in approriate use of input factors, the economic and allocative efficiencies were as low as of 65.1% and 63.2%, respectively.
+   TÓM TẮT
+Bài viết tập trung ước lượng hiệu quả kỹ thuật, hiệu quả phân phối nguồn lực và hiệu quả sử dụng chi phí của các nông hộ trồng dưa hấu tại huyện Phong Điền, thành phố Cần Thơ. Hơn thế, tác giả đã cố gắng khẳng định giá trị của bài viết thông qua việc ứng dụng phần mềm R để ước lượng hiệu quả sản xuất. Với dữ liệu thu thập được từ những hộ sản xuất dưa hấu năm 2014, phương pháp phân tích bao dữ liệu (Data Envelopment Analysis) được sử dụng để ước lượng hiệu quả kỹ thuật, hiệu quả phân phối nguồn lực và hiệu quả sử dụng chi phí của nông hộ. Kết quả phân tích cho thấy rằng các hộ sản xuất dưa hấu đạt hiệu quả kỹ thuật cao (TE= 96,9%). Tuy nhiên, do hạn chế của việc sử dụng các yếu tố đầu vào nên hiệu quả kinh tế và hiệu quả phân phối đạt ở mức 65,1% và 63,3%.Trích dẫn: Đoàn Hoài Nhân và Đỗ Văn Xê, 2016. Phân tích hiệu quả kỹ thuật, hiệu quả phân phối nguồn lực của hộ trồng dưa hấu tại huyện Phong Điền, thành phố Cần Thơ năm 2014. Tạp chí Khoa học Trường Đại học Cần Thơ. 42d: 9-14.
+   1 MỞ ĐẦU
+   Thành phố Cần Thơ (TPCT) đang thừa hưởng những thành quả nghiên cứu của các nhà khoa học để xây dựng và ứng dụng nền nông nghiệp công nghệ cao, đồng thời chuyển dịch theo hướng nông nghiệp đô thị.
+   Hiện tại, TPCT cũng đã qui hoạch vùng vành đại thực phẩm bao gồm các quận Ninh Kiều, Ô Môn, Bình Thủy, Cái Răng và Thốt Nốt; huyện Phong Điền, xã Vĩnh Trinh và diện tích huyện Thốt Nốt cũ điều chỉnh về huyện Vĩnh Thạnh, xã Định Môn và xã Trường Thành của huyện Thới Lai và diện tích của huyện Thốt Nốt cũ điều chỉnh về huyện Cờ Đỏ, với tổng diện tích tự nhiên 67.352 ha, trong đó diện tích canh tác rau màu đạt 7.500 ha (2015), sản lượng đạt 95.000 tấn và đến năm 2020 là 9.500 ha với sản lượng 133.000 tấn. Trong đó, phấn đấu đến năm 2015 có 50% diện tích sản xuất rau đạt tiêu chuẩn an toàn và đến năm 2020 là 100%.
+   Vành đai thực phẩm sẽ đáp ứng được nhu cầu về thực phẩm với chất lượng ngày càng cao, phát triển các nông sản hàng hóa cần ít đất, có giá trị kinh tế cao (rau màu, hoa, cây cảnh,...), tạo nhiều việc làm cho lực lượng lao động thừa do mất đất bởi quá trình đô thị hóa; tạo cảnh quan phục vụ cho các hoạt động du lịch và bảo vệ tốt môi trường nông thôn.
+   Trong những năm qua, dưa hấu là mặt hàng được người tiêu dùng ưa chuộng, nên hoạt động sản xuất và tiêu thụ của sản phẩm này được diễn ra quanh năm. Tuy nhiên, trong quá trình sản xuất và tiêu thụ vẫn còn nhiều bất cập. Vấn đề chất lượng sản phẩm, nguồn cung sản phẩm này cũng còn nhiều hạn chế, có thể do nhiều nguyên nhân chủ quan và khách quan khác nhau tác động. Trong đó, nguyên nhân do hiệu quả sản xuất thấp của nông hộ có thể được xem là một trong những giả thuyết được đặt ra trong nghiên cứu này. Đứng trước nhu cầu tiêu dùng dưa hấu ngày một gia tăng thì hoạt động đầu tư và sản xuất kinh doanh dưa hấu của nông hộ tại địa phương cần phải được xem xét và đánh giá lại.	
+Vì những lý do trên, một nghiên cứu khảo sát nghiêm túc để đánh giá về năng suất và hiệu quả sản xuất của các hộ dân trồng dưa hấu tại huyện Phong Điền thành phố Cần Thơ nhằm đưa ra những giải pháp hỗ trợ góp phần nâng cao năng suất, tăng hiệu quả, khả năng cạnh tranh cho sản phẩm tại địa phương là thực sự cần thiết và cấp bách. 	
+   2  PHƯƠNG PHÁP NGHIÊN CỨU
+   2.1 Phương pháp thu thập số liệu
+   Số liệu sơ cấp được sử dụng trong phân tích 
+được thu thập bằng phương pháp phỏng vấn trực tiếp các hộ trồng dưa hấu tại huyện Phong Điền, sử dụng bảng câu hỏi đã được chuẩn bị trước. 
+   Do điều kiện thời gian và kinh phí hạn chế nên nghiên cứu không thể tiến hành điều tra tổng thể. Do vậy, một nhóm gồm 110 hộ được chọn ngẫu nhiên đại diện cho hoạt động sản xuất dưa hấu tại huyện Phong Điền, thành phố Cần Thơ.
+   2.2 Dữ liệu phục vụ cho ước lượng hiệu quả kỹ thuật (TE), hiệu quả phân phối nguồn lực (AE), hiệu quả sử dụng chi phí (CE) và hiệu quả theo quy mô sản xuất (SE) bằng phương pháp phân tích màng bao dữ liệu (DEA)
+   Để đo lường hiệu quả kỹ thuật (TE), hiệu quả phân phối nguồn lực (AE) và hiệu quả sử dụng chi phí (CE) của hoạt động sản xuất dưa hấu chúng tôi sử dụng dữ liệu từ 110 hộ dân trồng dưa hấu tại huyện Phong Điền, thành phố Cần Thơ.
+Các biến số nhập lượng và xuất lượng được thu thập thông qua điều tra trực tiếp người trồng dưa hấu và được sử dụng để định lượng hiệu quả sản xuất của hoạt động trồng dưa hấu. Biến xuất lượng (y) là sản lượng của dưa hấu được tính bằng tấn/ha. 
+   Nhập lượng là các biến liên quan đến các yếu tố đầu vào của quá trình sản xuất như biến: diện tích đất trồng dưa hấu (x1); chi phí giống (x2); chi phí phân bón (x3); thuốc nông dược (x4) như thuốc trị sâu bệnh, thuốc dưỡng cây...; số ngày công thuê lao động (x5); chi phí lãi vay (x6), chi phí thuê đất (x7), chi phí làm đất (x8), chi phí nhiên liệu để bơm tưới trong quá trình sản xuất (x9); chi phí khấu hao màng phủ nông nghiệp, làm giàn, máy móc thiết bị (x10), số ngày công lao động của gia đình (x11) và chi phí khác (x12) như vôi, tro, rơm, chi phí vận chuyển, các khoản phát sinh trong quá trình sản xuất cũng như thu hoạch.
+   Hiệu quả kỹ thuật, hiệu quả phân phối nguồn lực, hiệu quả sử dụng chi phí và hiệu quả theo quy mô (SE) trong sản xuất của nông hộ được tính toán thông qua chương trình R phiên bản 3.1.1 được trình bày trong bảng sau:
+
+
+Bảng 1: Các biến nhập lượng và xuất lượng của hộ trồng dưa hấu
+Biến sốTên biếnThấp nhấtCao nhấtTrung bìnhĐộ lệch chuẩnXuất lượng (tấn/ha)Dưa hấuy3,42996,15422,96211,813Nhập lượngDiện tích (ha)x10,1001,3000,4830,235Giống (1.000đ/ha)x21.828,2055.2307,6928.313,5537.066,470Phân bón (1.000đ/ha)x31.076,92324.538,4625.810,8363.383,052Thuốc nông dược (1.000đ/ha)x42.106,15434.153,84616.574,0044.472,585Số lao động thuê (ngày công/ha)x53.846,15419.230,7699.182,7652.772,283Lãi vay (1.000đ/ha)x60,000117,33357,82429,314Thuê đất (1.000đ/ha)x70,0007.200,00065,455686,493Làm đất (1.000đ/ha)x80,00010.683,7611.095,8602.469,910Chi phí bơm tưới (1.000đ/ha)x90,0007.615,385895,346781,348Khấu hao (1.000đ/ha)x101.621,79519.570,5138.080,7272.512,149Lao động gia đình (ngày công/ha)x117,385116,63642,30826,360Chi phí khác (1.000đ/ha) X120,0002692,308900,509387,313Nguồn: Kết quả điều tra thực tế năm 2014
+   1.1 
+   2.3 Phương pháp phân tích
+   DEA là phương pháp đánh giá tổng quát kết quả thực hiện của một hoạt động kinh tế nào đó dựa vào tập hợp nhiều chỉ tiêu phức hợp. Nó giúp chúng ta có được những ước lượng biên thông qua việc sử dụng mô hình tuyến tính phi tham số, kết quả ước lượng sẽ là những điểm số hiệu quả cho tất cả các quan sát và chúng có giá trị trong khoảng từ 0 đến 1. Mục tiêu của phân tích này không phải là việc đi ước lượng hàm sản xuất. Thay vào đó, nó sử dụng để xác định những đơn vị quan sát đạt hiệu quả tốt nhất. Thông qua phân tích này, biên độ sản xuất tốt nhất sẽ được xác định cho tất cả các quan sát được sử dụng trong phân tích. DEA được hiểu một cách đơn giản là nông hộ này được xem là hoạt động sản xuất có hiệu quả hơn một nông hộ kia khi sử dụng ít số lượng hơn tạo ra một lượng sản phẩm. Các hệ số hiệu quả được tính toán dựa trên tỷ số cao nhất giữa sản lượng trên số lượng của tất cả các quan sát được sử dụng để phân tích.
+   Gần đây, DEA đã nhanh chóng trở thành một công cụ được chấp nhận trong các phân tích kinh tế và có nhiều nghiên cứu đã sử dụng phương pháp này trong việc phân tích hiệu quả hoạt động của nông trại, hoạt động của ngân hàng, y tế, giáo dục, chế tạo sản phẩm, đánh giá hiệu quả trong việc quản lý, bán hàng... (Fank và Thanda, 1999). Trong nhiều nghiên cứu, DEA đã cung cấp nhiều thông tin sâu sắc và phong phú của vấn đề phân tích mà trong phân tích kinh tế lượng thuần túy không đáp ứng được. Sử dụng DEA thì tương đối đơn giản hơn so với việc sử dụng phương pháp kinh tế lượng về mặt toán học, như phải xác định dạng hàm sản xuất phù hợp (Forsund, 2002). Hơn nữa, sử dụng phương pháp kinh tế lượng không đưa ra được đánh giá tóm tắt về mặt hiệu quả sản xuất. Trong khi đó, DEA có thể đáp ứng được vấn để này dựa trên cơ sở quy hoạch tuyến tính.
+   Mô hình DEA định hướng đầu vào và đầu ra để đo lường hiệu quả chi phí (CE) và hiệu quả kỹ thuật (TE). Lúc đó, hiệu quả phân phối (AE) sẽ được tính toán dựa trên tỷ số giữa hiệu quả kinh tế trên hệ số hiệu quả kỹ thuật. Mô hình được sử dụng dựa trên cơ sở số liệu m biến số lượng và sản lượng trên mỗi hộ sản xuất. Đối với hộ sản xuất thứ i, những số liệu về sản lượng và số lượng được sử dụng theo nhưng véctơ cột yi và xi tương ứng. Ma trận số lượng Xm x n, và ma trận sản lượng Ys x n, sẽ thể hiện tất cả số liệu cho tất cả các hộ sản xuất trong mẫu điều tra.
+   Theo Coelli et al. (2005), mô hình DEA được sử dụng để tính toán hiệu quả kỹ thuật (TE) là:
+   			Min θ		
+   			λ,θ			
+   Điều kiện ràng buộc 	-yi + Yλ ≥ 0
+   						θxi - Xλ ≥ 0
+   						λ ≥ 0
+   Trong đó, θ là đại lượng vô hướng và λ là vectơ, n, x 1à hằng số. Giá trị của θ đạt được từ mô hình 1 chính là hệ số hiệu quả kỹ thuật của hộ sản xuất thứ i. θ luôn có giá trị nhỏ hơn hoặc bằng 1, với giá trị bằng 1 chỉ ra điểm nằm trên đường biên sản xuất, do vậy hộ được xem xét đạt hiệu quả hoàn toàn về mặt kỹ thuật (theo định nghĩa của Farrell, 1957, trong Coelli 2005).
+   Giả sử giá cả của các yếu tố số lượng được đưa ra, lúc đó hiệu quả kinh tế đơn giản được tính toán thông qua mô hình DEA dưới đây: 
+			Min θEE		
+			λθEE				
+   Điều kiện ràng buộc 	-yi + Yλ ≥ 0
+							θEE ci  - Cλ ≥ 0
+							λ ≥ 0
+   Trong đó, ci là đại lượng vô hướng thể hiện chi phí và C là ma trận 1 x n của những chi phí được quan sát của hộ thứ i. Và lúc này hiệu quả phân phối (AE) sẽ được tính toán theo công thức:
+   AE = CE/TE
+   3 KẾT QUẢ PHÂN TÍCH
+   Các hệ số hiệu quả kinh tế, kỹ thuật và hiệu 
+quả kinh tế được ước lượng thông qua những mô hình DEA bởi việc sử dụng gói (Packages) Benchmarking với chương trình R. Các hệ số hiệu quả nói trên được trình bày trong Bảng 2 dưới đây:
+
+Bảng 2: Hiệu quả kinh tế, phân phối và kỹ thuật thay đổi theo qui mô (VRS)
+Hiệu quả (%)Tần sốTần suất (%)TEAECETEAECETừ 0 đến 20000     0,00      0,0      0,0Trên 20 đến 400240,001,83,6Trên 40 đến 60028330,0025,530,0Trên 60 đến 80571644,564,558,2Trên 801059995,58,28,2Tổng110110110100100100Trung bình0,9690,6510,632Độ lệch chuẩn0,0570,1180,125Nhỏ nhất0,7340,2700,270Lớn nhất1,0001,0001,000Nguồn: Kết quả điều tra thực tế năm 2014
+   
+   Kết quả phân tích từ Bảng 2 chỉ ra rằng, mức hiệu quả kỹ thuật trung bình của hộ trồng dưa hấu đạt 96,9%. Số hộ đạt được mức hiệu quả kỹ thuật cao, trong khoảng 80%-100% là 105 hộ, chiếm 95,5% trong tổng số 110 hộ khảo sát tại vùng nghiên cứu. Không có hộ đạt mức hiệu quả kỹ thuật dưới 50%. Sự chênh lệch về mức hiệu quả giữa hộ thấp nhất và cao nhất không lớn. Khoảng cách này từ 73,4% đến 100%. Rõ ràng sự chênh lệnh về kỹ thuật trồng dưa hấu của nông dân là không lớn. Chứng tỏ rằng việc tiếp cận khoa học kỹ thuật cũng như tham gia các lớp tập huấn của nông dân trồng dưa hấu thì mang lại hiệu quả cao. 
+   Đối với mức trung bình về hiệu quả chi phí thì thấp hơn nhiều so với hiệu quả kỹ thuật, 65,1% so với 96,9%. Điều này cho thấy, hiệu quả phân phối của hộ trồng dưa hấu đạt không cao và hầu như không dễ để cải thiện được. Để đạt hiệu quả phân phối những hộ tham gia sản xuất cần chọn lựa lượng đầu vào mà ở đó năng suất biên của đầu vào bằng với tỷ số giữa giá đầu vào và giá đầu ra. Điều này cũng có thể giải thích, phần lớn người tham gia sản xuất lựa chọn lượng đầu vào dựa trên kinh nghiệm sản xuất có được và ít có sự điều chỉnh tương ứng với những sự thay đổi của giá, nên rất khó đạt tối đa hóa lợi nhuận với việc sử dụng hợp lý các yếu tố đầu vào. Mặt khác, giá cả thường thay đổi và đó là yếu tố mà người tham gia sản xuất không thể kiểm soát được. Không chọn được lượng đầu vào tối ưu, người trồng dưa hấu không thể đạt lợi nhuận tối ưu, do vậy không đạt mức hiệu quả kinh tế cao. Cũng giống như hiệu quả kỹ thuật, chênh lệch hiệu quả kinh tế giữa các nông hộ cũng rất lớn, với mức dao động trong khoảng 27% đến 100%. Sự chênh lệch quá lớn giữa các mức hiệu quả đạt được cũng cho thấy tiềm năng lớn trong việc cải thiện mức hiệu quả của những hộ trồng dưa hấu. Điều này chỉ ra tính không hiệu quả về mặt kinh tế và phân phối nguồn lực trong quá trình sản xuất của hộ tham gia sản xuất dưa hấu vẫn còn cao. Tuy nhiên, những hệ số hiệu kinh tế và phân phối thấp chỉ ra rằng có một khả năng cho việc nâng cao sản lượng mà không cần phải đầu tư thêm các yếu tố nhập lượng với kỹ thuật sản xuất hiện tại. Hệ số hiệu quả kinh tế 63,2% cho thấy, nếu như những hộ sản xuất này hoạt động tại mức hiệu quả hoàn toàn thì họ đã có thể giảm hoặc tiết kiệm đến 36,8% chi phí sản xuất mà vẫn giữ được mức sản lượng không đổi.
+
+Bảng 3: Hiệu quả kinh tế, phân phối và kỹ thuật không đổi theo qui mô (CRS) 
+Hiệu quả (%)Tần sốTần suất (%)TEAECETEAECETừ 0 đến 20	511564,510,050,9Trên 20 đến 4051285146,425,546,4Trên 40 đến 602435121,831,80,9Trên 60 đến 8073516,431,80,9Trên 80231120,90,90,9Tổng110110110Trung bình0,5050,4820,211Độ lệch chuẩn0,2760,1880,106Nhỏ nhất0,1530,0420,022Lớn nhất1,0001,0001,000Nguồn: Ước tính từ kết quả điều tra thực tế năm 2014
+   
+   Những kết quả đạt được từ việc ước lượng các hệ số kỹ thuật trong trường hợp thay đổi theo qui mô (TEVRS) và không đổi theo qui mô (TECRS) từ các mô hình DEA cho thấy hầu hết các hộ sản xuất đều đạt hệ số hiệu quả về mặt qui mô (SE) tương đối thấp (trung bình hệ số SE là 51,7%). Điều này cho thấy là vẫn còn tồn tại tính không hiệu quả về mặt qui mô sản xuất của các hộ trong mẫu điều tra tại vùng nghiên cứu. Đây là đặc điểm đặc trưng cho các hộ sản xuất nhỏ, lẻ hay nói cách khác là các hộ sản xuất với qui mô lớn sẽ thu được hiệu quả kinh tế cao hơn.
+
+Bảng 4: Hiệu quả kỹ thuật và hiệu quả qui mô của các hộ sản xuất dưa hấu
+ Nông hộ trồng dưa hấu      Tần sốTần suất (%)Không đổi theo qui mô (CRS)2522,7Tăng dần theo qui mô (IRS)8577,3Giảm dần theo qui mô (DRS)00,0Tổng số hộ110100,0Trung bình hiệu quả kỷ thuật theo qui mô (SE)0,517Độ lệch chuẩn0,271Khoảng biến động0,153-1,00Nguồn: Ước tính từ kết quả điều tra thực tế năm 2014
+   
+   Theo định nghĩa thì hệ số hiệu quả phân phối chỉ ra khả năng của nông hộ trong việc sử dụng các yếu tố nhập lượng với các tỷ lệ tối ưu trong điều kiện giá cả và kỹ thuật hiện hành. Do vậy, hệ số hiệu quả phân phối thấp có liên quan đến những độ lệch từ các tỷ số nhập lượng với chi phí tối thiểu. Hiệu quả phân phối chưa cao, trung bình 56,3%, điều này có nghĩa là khả năng sử dụng đúng sự phối trộn nhập lượng với giá cả được đưa ra của nông dân chưa cao. Nói cách khác, những nông dân có khả năng tính toán được sự cân bằng sản phẩm biên của một nhân tố với giá cả của nhân tố đó trong thị trường còn hạn chế. Những kết quả ước lượng về hiệu quả kinh tế cho thấy những hộ sản xuất dưa hấu trong vùng nghiên cứu tương đối thấp là do hiệu quả phân phối nguồn lực thấp. Kết quả được thể hiện cụ thể qua Hình 1.
+   Theo Banker, Charnes và Cooper (1984) thì sử dụng giả thiết VRS hợp lý hơn khi trường hợp có những nông hộ hoạt động sản xuất hiệu quả đạt tại qui mô tối ưu. Tuy nhiên, những yếu tố như cạnh tranh không hoàn hảo, những ràng buộc về mặt tài chính... có thể cho hộ sản xuất không thể hoạt động tại mức quy mô tối ưu. 
+   Bên cạnh đó, việc sử dụng CRS khi không có hộ nào hoạt động tại mức quy mô tối ưu sẽ dẫn đến trường hợp các hệ số kỹ thuật được tính toán bị sai lệch do ảnh hưởng của hiệu quả qui mô. Vì vậy, dựa trên biểu đồ thể hiện hiệu quả kinh tế của nông hộ trồng dưa hấu thì chúng ta thấy rõ là sử dụng tính toán các hệ số hiệu quả dựa trên giả thiết VRS sẽ thích hợp hơn.
+   
+
+
+
+Hình 1: Hiệu quả kinh tế của nông hộ trồng dưa hấu
+
+   4 KẾT LUẬN VÀ ĐỀ XUẤT
+   Kết quả sau khi phân tích DEA chỉ ra rằng hiệu quả kỹ thuật đạt được gần như hoàn toàn, nhưng hiệu quả chi phí và hiệu quả trong việc sử dụng các nguồn lực còn chưa cao. Hiệu quả kỹ thuật chỉ đạt trung bình 96,9%, hiệu quả phân phối là 65,1% và hiệu quả kinh tế là 63,2%. Hiệu quả chi phí và hiệu quả phân phối chưa cao là do phần lớn nông dân lựa chọn lượng đầu vào là dựa vào kinh nghiệm và ít có sự điều chỉnh tương ứng với những sự thay đổi của giá nên rất khó đạt tối ưu hóa lợi nhuận với việc sử dụng đầu vào. Mặt khác, giá cả thường biến đổi và đó là yếu tố mà nông dân không thể kiểm soát được. Kết quả này là cơ sở quan trọng cho chúng ta đánh giá lại thực trạng hiệu quả sản xuất một trong những loại rau màu tại địa phương, cũng như giúp cho các cơ quan chủ quản tham khảo trong thực thi các chính sách liên quan đến chuyển đổi nông sản hàng hóa cần thiết cho quá trình đô thị hóa.
+   Để hoạt động sản xuất được phát triển hơn nữa thì cần phải: 1) Củng cố và tổ chức lại các tổ hợp tác trong sản xuất và tiêu thụ, đồng thời phòng NN&PTNT huyện cần kết hợp với trung tâm xúc tiến thương mại thành phố Cần Thơ hỗ trợ cho các hộ sản xuất dưa hấu trong việc nối kết với các tổ chức phân phối; (2) Khuyến nông huyện, phòng NN&PTNT cần phải kết hợp với sự hỗ trợ của Trường Đại học Cần Thơ tiếp tục tăng cường tập huấn việc sử dụng một cách hiệu quả các yếu tố đầu vào. Thêm vào đó, tăng cường tổ chức các mô hình trình diễn dựa trên những hộ sản xuất có hiệu quả kinh tế cao. Phương thức sản xuất, cách thức nối kết với các tổ chức phân phối đến với bà con nông dân một cách hiệu quả hơn.
+   TÀI LIỆU THAM KHẢO
+Banker, R. D., Charnes, A., & Cooper, W.W.  (1984). Some models for estimating technical and scale inefficienies in data envelopment analysis. Management Science, 30(9), 1078-1092.
+Coelli, T. J., & Batte. (1996). Identiﬁcation of factors which inﬂuence the technical inefficiency of Indian farmers. American Journal of Agricultural Economics, 40(2),103-128.
+Coelli, T. J., Prasada Rao, D.S., O'Dolnell, C. J., & Battese, G. E., (2005).  An introduction to efficiency and productivity analysis, second Edition.
+Fank H., Thanda K. (1999). Measuring Eficiency Agricultural Research: strength and limitations of Data Envelopment Analysis.
+Farrell, M. J. (1957). The measurement of productive efficiency. Journal of the Royal Statistical Society, Series A, CXX, Part 3, 253-290.
+Forsund, F. R., & Hjalmarsson, L. (2002). Calculating the scale elasticity in DEA model. Working paper No. 28/02.
+Tạp chí Khoa học Trường Đại học Cần Thơ 		Phần D: Khoa học Chính trị, Kinh tế và Pháp luật: 42 (2016): 9-14
+
+
+

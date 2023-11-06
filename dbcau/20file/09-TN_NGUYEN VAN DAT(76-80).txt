@@ -1,0 +1,88 @@
+﻿
+TỔNG HỢP BIODIESEL TỪ DẦU NHÂN HẠT ĐIỀU
+Nguyễn Văn Đạt1
+1 Khoa Khoa học Tự nhiên, Trường Đại học Cần Thơ
+Thông tin chung:
+Ngày nhận: 21/08/2013
+Ngày chấp nhận: 28/04/2014
+
+Title: 
+Synthesis of biodiesel  from Cashew nut oil
+Từ khóa: 
+Biodiesel tổng hợp từ dầu nhân hạt Điều, dầu nhân hạt Điều
+Keywords:
+Cashew nut oil biodiesel, Cashew nut oil   ABSTRACT
+A two-step procedure including acid-catalyzed pretreatment of highly acidic Cashew nut oil (AV=9.78 mg KOH/g) followed by a standard transesterification procedure with methanol and potassium hydroxide as a catalyst was used to produce Cashew nut oil methyl esters in this study. The transesterification reaction parameters such as methanol to oil molar ratio, catalyst concentration, temperature and time have been investigated. The optimized yield was found to be 89.5%. The quality of the biodiesel produced was evaluated by the determinations of important properties such as kinematic viscosity at 40ºC, gross heating value and acid value. The obtained results showed that these parameters were in acceptable range for biodiesel to be used in diesel engines.
+TÓM TẮT
+Quá trình hai giai đoạn gồm ester hóa xúc tác acid và sau đó là transester xúc tác base đã được thực hiện để tổng hợp diesel sinh học từ dầu nhân hạt Điều có chỉ số acid cao (AV=9.78 mg KOH/g). Những thông số cho phản ứng transester hóa như tỉ lệ mol methanol/dầu, hàm lượng xúc tác và nhiệt độ phản ứng đã được tối ưu hóa. Hiệu suất phản ứng điều chế biodiesel dưới những điều kiện tối ưu này là 89.5%. Chất lượng của diesel sinh học tổng hợp được đánh giá thông qua việc xác định những thông số quan trọng như độ nhớt động học ở 40ºC, chỉ số acid, nhiệt lượng tổng và thành phần acid béo. Kết quả cho thấy, diesel sinh học tổng hợp được thỏa mãn các tiêu chuẩn chất lượng của các tiêu chuẩn hiện hành và có thể dùng cho động cơ diesel.
+   1 ĐẶT VẤN ĐỀ
+   Do độ nhớt cao và khả năng hóa hơi kém của dầu thực vật so với dầu diesel dẫn đến tình trạng tắc nghẽn vòi phun và hình thành cặn carbon trong xylanh của động cơ khi dùng trực tiếp chúng vào động cơ diesel. Biodiesel tổng hợp từ dầu thực vật bằng phản ứng transester hóa có thể làm giảm độ nhớt và cải thiện được độ hóa hơi. 
+   Nguyên liệu dùng để sản xuất biodiesel tùy thuộc vào điều kiện khí hậu cũng như những nguồn nguyên liệu sẵn có của địa phương. Điều đó cho thấy tại sao biodiesel từ rapeseed chiếm phần lớn tại Châu Âu, biodiesel từ dầu cọ được sử dụng nhiều tại các nước nằm trong vùng khí hậu nhiệt đới hay ở Mỹ biodiesel được sản xuất từ nguồn nguyên liệu chính là dầu đậu nành và mỡ động vật. (Mittelbach et al., 2004; Knothe et al., 2005; Moser, B.R., 2009). 
+   Cây Điều hay còn gọi là đào lộn hột có tên khoa học là Anacardium Occidentale L.). Cây Điều được trồng nhiều ở các tỉnh miền Đông Nam Bộ (Tây Ninh, Bình Phước, Bình Dương, Đồng Nai) và các địa phương lân cận. Theo Hiệp hội Điều Việt Nam (VINACAS), Việt Nam hiện là quốc gia xuất khẩu hạt Điều hàng đầu thế giới. Trong quá trình chế biến nhân hạt Điều xuất khẩu có một lượng lớn hạt không đạt tiêu chuẩn chất lượng. Chúng được ép thành dầu, tuy nhiên, dầu này không ăn được do chỉ số acid khá cao. Nhằm tận dụng nguồn biomass phong phú này cũng như làm tăng giá trị sử dụng của nó, dầu nhân hạt Điều 
+đã được chọn để sản xuất biodiesel trong nghiên cứu này.
+   Bài báo này trình bày các kết quả về (1) Tổng hợp biodiesel từ dầu nhân hạt Điều (CBDF) theo phương pháp khuấy từ gia nhiệt, (2) Đánh giá một số tính chất hóa - lý của CBDF. 
+   2 PHƯƠNG PHÁP NGHIÊN CỨU
+   2.1 Vật liệu
+   Dầu hạt Điều được mua tại khu Công nghiệp Biên Hòa, Đồng Nai. 
+   Hóa chất dùng trong tổng hợp và phân tích có xuất xứ từ Merck, Đức. 
+   2.2 Phương pháp nghiên cứu 
+   2.2.1 Phương pháp tổng hợp CBDF
+   Dầu nhân hạt Điều có chỉ số acid cao (AV = 9.78 mgKOH/g) đã được tiến hành tổng hợp thành biodiesel qua hai giai đoạn. Giai đoạn 1: các điều kiện phản ứng được cố định như sau: nhiệt độ 60oC, thời gian phản ứng là 2 giờ, phần trăm thể tích methanol so với dầu là 35%, phần trăm khối lượng acid sulfuric so với dầu là 1%, tốc độ khuấy là 500 vòng/phút. Kết quả thu được dầu có chỉ số acid (AV) là 2.3 mg KOH/g thích hợp để tiến hành giai đoạn 2.
+   Khối lượng dầu nhân hạt Điều sau giai đoạn 1 (AV = 2.3 mg KOH/g) ở mỗi thí nghiệm được dùng không đổi là 100 g, khối lượng methanol lấy theo tỷ lệ mol (methanol/dầu) từ 4:1 đến 8:1, hàm lượng xúc tác thay đổi từ 0.5 đến 1.5% (tính theo khối lượng dầu). Các bước tiến hành thí nghiệm giai đoạn này như trong trường hợp tổng hợp biodiesel từ mỡ cá Tra, cá Basa (Nguyen Van Dat, 2009). Quy trình tổng hợp CBDF từ dầu nhân hạt Điều được trình bày trong Sơ đồ 1.
+   
+
+
+Sơ đồ 1: Quy trình hai bước tổng hợp CBDF
+   2.2.2 Xác định độ nhớt động học tại 40ºC  
+   Độ nhớt động học (mm2/s) được xác định ở 40ºC, bằng cách đo thời gian để một thể tích chất lỏng xác định chảy qua một mao quản thủy tinh dưới tác dụng của trọng lực. Trong nghiên cứu này, thiết bị đo độ nhớt Viscosity Measuring unit ViscoClock (Schott Instrument) có chế độ tự động hiển thị thời gian được sử dụng để xác định độ nhớt động học của dầu nhân hạt Điều và CBDF. Độ nhớt động học là kết quả tính được từ thời gian chảy và hằng số tương ứng của nhớt kế Ostwald. 
+   2.2.3 Phân tích thành phần hóa học của CBF
+   Sản phẩm CBDF được phân tích thành phần hóa học bằng sắc kí khí ghép khối phổ GC-MS tại phòng thí nghiệm Hóa Sinh thuộc Bộ môn Hóa học, Khoa Khoa học Tự nhiên - Trường Đại học Cần Thơ.
+   Một số chỉ tiêu hóa lý (nhiệt lượng tổng, 
+điểm chớp cháy) của CBDF được phân tích tại Trung tâm Phân tích thí nghiệm CASE chi nhánh tại Cần Thơ.
+   Dựa vào kết quả phân tích thành phần tính được CBDF =trong đó, Mi: khối lượng phân tử methyl ester; mi: phần trăm khối lượng methyl ester. Từ đó, tính được hiệu suất tổng hợp biodiesel. Hiệu suất phản ứng (kí hiệu HCBDF) được tính theo công thức sau: , với LT =CBDF dầu.
+   3  KẾT QUẢ VÀ THẢO LUẬN
+   3.1 Những tính chất hóa lý của dầu nhân hạt Điều
+   Chỉ số acid và độ nhớt động học ở 40ºC của dầu nhân hạt Điều và CBDF được trình bày trong Bảng 1.
+Bảng 1: Tính chất hóa lý của dầu nhân hạt Điều
+Tính chất hóa lýDầu nhân hạt ĐiềuĐộ nhớt động học ở 40ºC (mm2/s)29.35Chỉ số acid (mg KOH/g)9.78   Chỉ số acid của nguyên liệu đầu quyết định đến 
+phương pháp chuyển hóa chúng thành biodiesel. Chỉ số acid của dầu nhân hạt Điều khá cao (9.78 mg KOH/g) nên không chuyển hóa trực tiếp thành biodiesel mà cần phải qua giai đoạn xử lý nguyên liệu đầu.
+   3.2 Khảo sát các yếu tố ảnh hưởng đến phản ứng transester hóa xúc tác base (Giai đoạn 2)
+   Để khảo sát ảnh hưởng của lượng xúc tác, các thí nghiệm được tiến hành với nồng độ xúc tác KOH thay đổi từ 0.5 đến 1.5% (so với khối lượng dầu) và cố định các yếu tố còn lại như sau: nhiệt độ là 60ºC, tốc độ khuấy là 500 vòng/phút. Yếu tố thời gian được cố định là 90 phút, tỷ lệ mol methanol/dầu là 7:1. Kết quả được biểu diễn bằng đồ thị Hình 1. Hiệu suất phản ứng cao nhất khi hàm lượng xúc tác KOH là 1.25%. Ở nồng độ KOH nhỏ hơn 1.25%, lượng xúc tác không đủ để phản ứng hoàn tất. Ngược lại, khi nồng độ KOH lớn hơn 1.25%, hiệu suất phản ứng có khuynh hướng giảm bởi vì khi tăng lượng xúc tác thì làm tăng lượng xà phòng tạo thành, từ đó hiệu suất thu sản phẩm giảm.
+   Tỷ lệ mol methanol/dầu là một trong những 
+yếu tố quan trọng nhất ảnh hưởng đến hiệu 
+suất phản ứng. Trong nghiên cứu này, một chuỗi các thí nghiệm đã được thực hiện với tỉ lệ mol methanol/dầu thay đổi từ 4:1 đến 8:1 và cố định các yếu tố còn lại như sau: nhiệt độ là 60ºC, tốc độ khuấy là 500 vòng/phút. Yếu tố thời gian được cố định là 90 phút. Hình 2 cho thấy ảnh hưởng của tỷ lệ methanol/dầu đến hiệu suất tạo CBDF. Theo chiều hướng tăng tỷ lệ mol methanol/dầu thì hiệu suất cũng tăng. Tỷ lệ mol càng cao hơn giá trị 3:1 thì tốc độ hình thành ester càng nhanh (Hideki Fukuda, Akihiko Kondo and Hideo Noda, 2001). Khi tỷ lệ mol là 7:1 thì hiệu suất đạt cao nhất. Tuy nhiên, nếu tỷ lệ mol cao hơn 7:1 thì hiệu suất có khuynh hướng giảm, Điều này do methanol có nhóm OH phân cực đóng vai trò như một chất nhũ hóa (Umer Rashid, Farooq Anwar, 2008), làm tăng khả năng hòa tan của glycerine trong dung dịch phản ứng. Khi glycerine còn lại trong dung dịch phản ứng sẽ làm cho cân bằng chuyển dịch theo chiều ngược lại với hướng tạo methyl ester, hiệu suất sẽ giảm. Một nguyên nhân khác nữa là do methanol hòa tan được cả glycerine và methyl ester, nên một lượng methyl ester sẽ theo methanol vào trong pha glycerine và do đó làm giảm 
+hiệu suất.
+
+Hình 1: Ảnh hưởng của % KOH đến hiệu suất tổng hợp CBDFHình 2: Ảnh hưởng của tỉ lệ mol (methanol/dầu) đến hiệu suất tổng hợp CBDFHình 3: Ảnh hưởng của nhiệt độ đến hiệu suất                tổng hợp CBDFHình 4: Ảnh hưởng của thời gian đến hiệu suất tổng hợp CBDF
+   Phản ứng transester hóa xúc tác thường được nghiên cứu trong khoảng nhiệt độ gần với nhiệt độ sôi của methanol (Srivastava A, Prasad R, 2000). Vì vậy, các thí nghiệm được tiến hành ở bốn nhiệt độ khác nhau 50, 55, 60 và 65ºC với việc cố định các yếu tố như: nồng độ xúc tác KOH là 1.25% (theo khối lượng dầu), tỷ lệ mol methanol/dầu là 7:1, tốc độ khuấy là 500 vòng/phút, thời gian phản ứng là 90 phút. Hiệu suất phản ứng Điều chế CBDF tại các nhiệt độ khác nhau được trình bày ở đồ thị Hình 3. Hiệu suất cao nhất đạt tại 60ºC. Khi tăng nhiệt độ hiệu suất phản ứng tạo CBDF tăng. Tuy nhiên, khi nhiệt độ tăng cao hơn 60ºC, thì hiệu suất phản ứng có khuynh hướng giảm, điều này có thể do phản ứng xà phòng hóa dầu đã xảy ra trước khi hoàn tất phản ứng transester hóa. Mặt khác, nhiệt độ cao dẫn đến thất thoát methanol một phần làm giảm hiệu suất. 
+   Hiệu suất phản ứng transester hóa phụ thuộc vào thời gian phản ứng. Thời gian phản ứng cần thiết phụ thuộc vào bản chất nguyên liệu và xúc tác sử dụng. Các nghiên cứu đều cho thấy, sau khi phản ứng đạt hiệu suất chuyển hóa cao nhất thì việc tiếp tục tăng thời gian sẽ không làm tăng hiệu suất. Các thí nghiệm được tiến hành với việc cố định các yếu tố như: nồng độ xúc tác KOH 1.25% (theo khối lượng dầu), tỷ lệ mol methanol/dầu là 7:1, tốc độ khuấy 500 vòng/phút, nhiệt độ ở 60ºC và thay đổi yếu tố thời gian từ 60 phút đến 
+150 phút. Kết quả được biểu thị Hình 4. Theo đồ thị Hình 4, hiệu suất đạt cao nhất ở thời gian 90 phút. Nếu thời gian dưới 90 phút phản ứng xảy ra 
+không hoàn toàn. Tuy nhiên, nếu thời gian dài hơn 90 phút, lượng biodiesel thu được có khuynh hướng giảm.
+Bảng 2: Điều kiện tối ưu cho phản ứng transester hóa tổng hợp CBDF từ dầu nhân hạt Điều
+Dầu nhân hạt Điều sau khi ester hóaAV = 2.3 mg KOH/gHàm lượng xúc tác KOH1.25% (so với khối lượng dầu)Tỷ lệ mol (methanol/dầu)7:1Nhiệt độ phản ứng60ºCThời gian90 phútHiệu suất89.5%   3.3 Tính chất hóa lý của CBDF
+   Từ kết quả ở Bảng 3 cho thấy, giá trị chỉ số acid, điểm chớp cháy và độ nhớt động học ở 40oC của CBDF đều nằm trong giới hạn của các tiêu chuẩn hiện hành về kiểm soát chất lượng của biodiesel.
+   Điểm chớp cháy của CBDF cao hơn điểm chớp cháy của diesel No2 tương ứng, điều này sẽ an toàn cho việc tồn trữ và vận chuyển biodiesel.
+   Nhiệt lượng tổng của CBDF thấp hơn 
+nhiệt lượng tổng của diesel No2 khoảng 10%, điều này do sự có mặt của nguyên tử O trong phân tử methyl ester.
+   
+Bảng 3: Tính chất hóa lý của CBDF
+Các tính chất hóa lýCác tiêu chuẩn cho biodieselCBDFDiesel No2JISENASTMChỉ số acid (mg KOH/g)0.5 max.0.5 max.0.50 max.0.20-Điểm chớp cháy (ºC)130 min.130 min.130 min.19555Nhiệt lượng tổng (MJ/kg)---40.0345.68Độ nhớt động học (mm2/s)3.5-5.03.5-5.01.9-5.04.813.15ASTM	: American Society for Testing and Materials
+EN : European Committee for Standardization
+JIS : Japanese Industrial Standard
+
+   3.4 Thành phần acid béo của CBDF
+   Kết quả phân tích GC-MS cho thấy thành phần acid béo của CBDF chủ yếu là C16 đến C20. Thành phần C18:1 chiếm nhiều nhất (66.84%) tiếp đến là C18:2 (17.37%).
+Bảng 4: Thành phần acid béo chính của CBDF, %
+(I)Số C: Số C=C (Cx:n)CBDF, %(a) C16:08.54(b) C16:10.19(c) C20:00.28(d) C18:06.77(e) C18:166.84(f) C18:217.37(II)(acid bão hòa)15.59(III)(acid chứa một liên kết C=C)67.03(IV)(acid chứa nhiều liên kết C=C) 17.37   4 KẾT LUẬN
+   Đã tổng hợp được CBDF với hiệu suất 86.5% ở quy mô phòng thí nghiệm theo quy trình hai giai đoạn. Các đặc tính hóa lý của sản phẩm CBDF như chỉ số acid, điểm chớp cháy, nhiệt lượng tổng và độ nhớt động học tại 40oC đạt được yêu cầu về chất lượng theo tiêu chuẩn của ASTM, EN và JIS. 
+   TÀI LIỆU THAM KHẢO
+1. Hideki Fukuda, Akihiko Kondo and Hideo Noda, (2001). Biodiesel fuel production by transesterification of oils: review. Bioscience and Bioengineering 92(5): 405-16.
+2. Knothe, G., Steidley, K.R., 2005. Kinematic viscosity of biodiesel fuel components and related compounds. Influence of compound structure and comparison to petrodiesel fuel components. Fuel 84, 1059-1065.
+3. Mittelbach, M., Remschmidt, C., 2004. Biodiesel-A Comprehensive Handbook. Martin Mittelbach, Graz.
+4. Nguyen Van Dat, 2009. A Study towards the Effect of Antioxidants on Vietnamese Catfish Fat Biodiesel. Collected Papers of Invited Research, Asia Biomass Energy Researchers Program 2009, New Energy Foundation, Japan.
+5. Srivastava A, Prasad R., 2000. Triglycerides-based diesel fuels. Renew Sust Energ Rev; 4:111.
+6. Umer Rashid, Farooq Anwar, (2008). Production of biodiesel through optimized alkaline - catalyzed transesteification of rapeseed oil. Fuel 87: 265-27.
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Phần A: Khoa học Tự nhiên, Công nghệ và Môi trường: 31 (2014): 76-80
+
+
+

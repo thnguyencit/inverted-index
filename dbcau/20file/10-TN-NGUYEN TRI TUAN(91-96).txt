@@ -1,0 +1,77 @@
+﻿
+NGHIÊN CỨU TÍNH CHẤT CẤU TRÚC CỦA QUE NANO ZnO
+Nguyễn Trí Tuấn, Vũ Thị Hằng và Nguyễn Trọng Tuân
+Khoa Khoa học Tự nhiên, Trường Đại học Cần Thơ
+Thông tin chung:
+Ngày nhận: 29/10/2015
+Ngày chấp nhận: 25/02/2016
+Title: 
+Studies on structure properties of ZnO nanorods
+Từ khóa: 
+Que nano ZnO, tổng hợp thủy nhiệt
+Keywords:
+ZnO nanorods, Hydrothermal synthesis   ABSTRACT
+ZnO nanorods with the average size of 60 nm×450 nm were successfully fabricated by hydrothermal synthesis method in the presence of ZnCl2 and NH3 solution as the starting materials at 190-230oC for 20 hours. The powder samples was characterized by means of X-ray powder diffraction (XRD), Field Emission Scan Electron Microscopy (FESEM) and Energy-Dispersive X-ray spectroscopy (EDX). The photoluminescence (PL) properties of the sample were investigated. Some factors affecting the morphologies and optical properties were also studied.
+   TÓM TẮT
+Que nano có kích thước trung bình 60 nm x 450 nm, được chế tạo thành công bằng phương pháp thủy nhiệt, với chất ban đầu là ZnCl2 và NH3 và que nano ZnO được hình thành ở nhiệt độ 190-230 oC trong 20 h. Mẫu bột chế tạo được đem đi đo nhiễu xạ tia X (XRD), ảnh hiển vi điện tử quét phát xạ trường và phổ năng lượng tán xạ tia X (EDX). Tính chất huỳnh quang của mẫu đã được khảo sát. Một vài thông số ảnh hưởng đến hình thái học và tính chất quang cũng được nghiên cứu.Trích dẫn: Nguyễn Trí Tuấn, Vũ Thị Hằng và Nguyễn Trọng Tuân, 2016. Nghiên cứu tính chất cấu trúc của que nano ZnO. Tạp chí Khoa học Trường Đại học Cần Thơ. 42a: 91-96.
+   1 GIỚI THIỆU
+   Vật liệu ZnO có độ rộng vùng cấm rộng (Eg = 3,37 eV ở nhiệt độ phòng) và có năng lượng liên kết exciton lớn tới 60 meV (Xiuping Jiang et al., 2010). Với mức năng lượng này thì tương tác Cu-lông giữa các điện tử và lỗ trống là rất mạnh, làm tăng tốc độ và khả năng phát xạ huỳnh quang. Do đó, vật liệu ZnO có khả năng ứng dụng nhiều vào trong các lĩnh vực quang điện tử như chế tạo điốt phát quang (LED) như điốt phát ánh sáng trắng (WLED), xanh dương - tử ngoại và xanh lá cây, linh kiện điện huỳnh quang dạng màng mỏng, transitor màng mỏng trong suốt. LED chế tạo dựa trên vật liệu kích thước nano có hiệu suất phát quang tốt hơn so với vật liệu khối và màng mỏng. Bên cạnh đó, LED dựa trên vật liệu có kích thước nano cũng giúp làm giảm kích thước của thiết bị khi được tích hợp trong các vi mạch điện tử. Ngày nay, LED dựa trên cấu trúc que nano đang được nghiên cứu và chế tạo dựa trên các vật liệu khác nhau tùy thuộc vào nhu cầu và ứng dụng. Trong đó, chế tạo các LED nhằm thay thế các bóng đốt truyền thống, các vật liệu như GaN, GaAs, ZnO... thu hút được sự quan tâm nhiều nhất bởi sự phát quang của chúng nằm trong vùng tử ngoại và khả kiến. Tuy nhiên, ZnO cấu trúc que nano là vật liệu được chú ý nhiều nhất bởi hiệu quả kinh tế, không có độc hại trong quá trình chế tạo và sử dụng, dễ dàng chế tạo được vật liệu có kích thước nano, công nghệ chế tạo đơn giản. Các kết quả công bố về vật liệu ZnO cấu trúc nano cho thấy có thể chế tạo vật liệu này bằng nhiều phương pháp hóa học và vật lí khác nhau. Tùy theo các phương pháp chế tạo khác nhau mà ta có thể chế tạo vật liệu ZnO với các cấu trúc nano khác nhau như dạng dây, que, vi hình cầu (Hanmei Hu et al.,2007; Huiying Wei, 2005; Jinmin Wang & Lian Gao, 2004; Mingsong Wang et al., 2012; Xiangyang Ma, 2005). Với điều kiện nghiên cứu của phòng thí nghiệm hiện có, chúng tôi chọn phương pháp thủy nhiệt để tổng hợp vật liệu ZnO cấu trúc nano ở dạng que.
+   2 THỰC NGHIỆM
+   2.1 Tổng hợp que nano ZnO
+   Vật liệu ZnO có cấu trúc que nano được chế tạo thành công bằng phương pháp thủy nhiệt. Trước tiên cho 0,01 mol ZnCl2 vào 100 mL nước khử ion, sau đó thêm từ từ dung dịch NH3 25% đến khi hỗn hợp phản ứng đạt pH = 10, khuấy đều hỗn hợp trong khoảng thời gian 30 phút, sau đó cho dung dịch vào bình Teflon ủ ở nhiệt độ 190C - 230C trong thời gian 20 h. Sau khi ủ nhiệt, bình Teflon được để nguội tới nhiệt độ phòng. Sau đó, chúng tôi lấy dung dịch màu trắng đục thu được, đem quay li tâm, rửa vài lần với nước khử ion và etanol thu được chất kết tủa trắng và chất này được đem sấy khô ở 100C trong thời gian 20 h, kết quả thu được bột ZnO màu trắng.
+   2.2 Các phương pháp khảo sát thực nghiệm
+   Chúng tôi tiến hành xác định hình thái bề mặt, thành phần pha và cấu trúc của mẫu bột bằng ảnh hiển vi điện tử quét phát xạ trường (FESEM-JEOL JSM-7600F), phổ tán sắc năng lượng tia X (EDX) và máy nhiễu xạ tia X, D8 Advance - Bruker (Cu Kα  λ = 0,154046 nm), hoạt động ở 40 kV/30 mA. Tốc độ quét 0,005º s-1, tại Phòng thí nghiệm Vật lý ứng dụng, Khoa Khoa học Tự nhiên, Trường Đại học Cần Thơ. Phổ huỳnh quang (PL) của mẫu được đo bởi hệ đo huỳnh quang Yobin Yvon Fluolog-3 và Nanolog sử dụng đèn kích xenon có công suất 450 W tại Viện Tiên tiến Khoa học và Công nghệ, Trường Đại học Bách Khoa Hà Nội. Kết quả ảnh hiển vi điện tử quét của những mẫu này ủ nhiệt ở 190 -230 oC, cho thấy mẫu que nano ZnO có kích thước và chiều dài tốt nhất, nên chúng tôi chọn mẫu này đem đi đo các tính chất trên.
+   3 KẾT QUẢ VÀ THẢO LUẬN
+   3.1 Tính chất cấu trúc
+   Dựa vào giản đồ XRD ở Hình 1, kết quả cho thấy các mẫu tinh thể ZnO kết tinh khá tốt, xuất hiện các đỉnh nhiễu xạ với lần lượt các góc nhiễu xạ 2θ là 31,7o; 34,4o; 36,3o; 47,5o; 56,6o; 62,9o; 66,4o; 67,9o; 69,1 o tương ứng với các mặt phẳng (100), (002), (101), (102), (110), (103) đặc trưng của mạng tinh thể ZnO có cấu trúc lục giác Wurtzite, không xuất hiện các đỉnh nhiễu xạ của các pha khác ZnO. Khi hỗn hợp phản ứng có pH =10 và thay đổi nhiệt độ nung từ 190 - 230 oC thì cường độ của các đỉnh nhiễu xạ tăng dần theo nhiệt độ, bề rộng bán phổ không thay đổi đáng kể.
+
+
+Hình 1: Giản đồ nhiễu xạ tia X của bột ZnO thủy nhiệt ở 190oC (a), 210 oC (b) và 230oC (c), với pH = 10
+
+   Dựa vào ảnh FESEM của các mẫu bột ZnO ở Hình 2, chúng tôi thấy những que nano ZnO có cấu trúc Wurtzite, đường kính và chiều dài của que ZnO tăng khi nhiệt độ tăng, là do lượng oxy hình thành càng nhiều bao quanh lớp Zn càng tăng khi nhiệt độ tăng, cho nên đường kính và chiều dài của que nano ZnO tăng, kết quả này phù hợp với kết quả XRD đã đo được. Khi nhiệt độ ủ là 190°C, đường kính que nano ZnO đo được ~60 - 75 nm, chiều dài trung bình ~450 nm (Hình 2a), các que nano ZnO này có kích thước tương đối khá đồng đều. Khi tăng nhiệt độ ủ lên 210°C, đường kính que nano ZnO tăng đến khoảng 100 - 170 nm (Hình 2b), chiều dài trung bình ~650 nm. Khi nhiệt độ ủ là 230°C, đường kính của các que nano ZnO thu được không có sự sai khác nhiều so với mẫu ở nhiệt độ 210°C, nhưng các que ZnO có chiều dài lớn hơn (Hình 2c) xuất hiện nhiều hơn. Kết quả của chúng tôi tốt hơn kết quả của nhóm tác giả L.Z. Pei chế tạo được que ZnO có đường kính khoảng 100 - 800 nm, và chiều dài của que lên đến vài m (L.Z. Pei, 2009). Ngoài ra, kết quả này của chúng tôi gần giống kết quả của nhóm tác giả Xiuping sử dụng chất hoạt động bề mặt là CATB (Xiuping Jiang, 2010), chế tạo được que ZnO có chiều dài khoảng 1 m và đường kính thì khoảng 40 - 80 nm. Một số tác giả khác cũng tổng hợp thành công que ZnO nhưng đa số đều phải sử dụng chất hoạt động bề mặt như Jing Chen và ctv. (Jing Chen, 2008) dùng HMT, Y. Xi và ctv. (Y.Xi, 2007) thì dùng EDA.
+
+
+
+Hình 2: Ảnh FESEM của que nano ZnO thủy nhiệt ở 190oC (a), 210oC (b) và 230oC (c),với PH = 10
+
+   Hình 3 là phổ EDX của những mẫu bột nano ZnO được ủ nhiệt lần lượt ở 190oC, 210oC và 230oC. Kết quả cho thấy thành phần nguyên tố có trong mẫu bột là những que nano ZnO hoàn toàn tinh khiết, không có lẫn tạp chất, hàm lượng của Zn nhiều hơn O ở tất cả các mẫu. Ở Hình 3a, hàm lượng nguyên tố Zn (52%); O (48%), Hình 3b cho thấy Zn (55,5%); O (44,5%) và Hình 3c thì nguyên tố Zn (56,6%); O (43,4%), chứng tỏ trong các mẫu dư kẽm và thiếu oxi. Điều này sẽ thảo luận cụ thể với kết quả đo phổ huỳnh quang của các mẫu.
+
+
+
+Hình 3: Phổ EDX của que nano ZnO thủy nhiệt ở 190 oC (a), 210 oC (b) và 230 oC (c) với pH = 10
+
+   3.2  Tính chất quang của que nano ZnO
+   Hình 4 mô tả phổ huỳnh quang của bột ZnO được thủy nhiệt ở 100oC. Dựa vào kết quả phổ huỳnh quang trên, chúng tôi thấy có hai đỉnh phát xạ chính ở vùng tử ngoại gần và vùng xanh lá cây có đỉnh phát xạ cực đại lần lượt là ~390 nm và ~530 nm. Phát xạ vùng tử ngoại gần được giải thích là do sự tái hợp giữa lỗ trống trong vùng hóa trị với các điện tử trong vùng dẫn (tái hợp vùng - vùng). Vùng phát xạ xanh lá cây là do các trạng thái sai hỏng gây ra như do nút khuyết oxi hoặc sự xen kẽ oxi trong mạng nền ZnO gây ra (Yong-hong Ni et al., 2005; Jinmin Wang & Lian Gao, 2004; Mingsong Wang et al., 2012; Zafar Hussain Ibupoto et al., 2013).
+
+
+Hình 4: Phổ quang huỳnh quang của bột ZnO thủy nhiệt ở 100oC
+
+   Hình 5 là kết quả phổ quang huỳnh quang của các mẫu ZnO khi ta thay đổi yếu tố nhiệt độ. ZnO thu được có hai vùng phát xạ chính: vùng tử ngoại gần có bước sóng ~370 - 390 nm, có đỉnh phát xạ cực đại tại 375 nm và vùng ánh sáng khả kiến với bước sóng ~520 - 600 nm, có đỉnh phát xạ cực đại ~525 nm. Kết quả nghiên cứu cho thấy nhiệt độ đã ảnh hưởng rõ rệt đến phổ quang huỳnh quang của mẫu ZnO ủ nhiệt độ 190oC, 210oC và 230oC thì dạng phổ thay đổi hầu như không đáng kể, cường độ huỳnh quang thay đổi rõ rệt. Vùng tử ngoại gần phát xạ có cường độ huỳnh quang yếu ở nhiệt độ 190 - 230C. Phát xạ vùng tử ngoại gần được giải thích là do sự tái hợp giữa lỗ trống trong vùng hóa trị với các điện tử trong vùng dẫn (vùng - vùng). Phát xạ ở vùng nhìn thấy thay đổi rõ rệt, khi nhiệt độ ủ là 190oC, cường độ huỳnh quang của vùng phát xạ này yếu, khi nhiệt độ ủ tăng lên 210oC, cường độ huỳnh quang tăng lên rất nhiều, khi nhiệt độ ủ tăng lên 230oC, cường độ huỳnh quang giảm đi chút ít, có thể là khi nhiệt độ tăng lên thì kích thước của các que nano tăng lên nên làm sụt giảm cường độ huỳnh quang.
+
+
+Hình 5: Phổ huỳnh quang của que nano ZnO thủy nhiệt ở 190oC (a), 210oC (b) và 230oC (c), với pH = 10
+   4 KẾT LUẬN
+   Chúng tôi đã chế tạo thành công que nano ZnO bằng phương pháp thủy nhiệt đơn giản, không sử dụng chất hoạt động bề mặt mẫu được ủ nhiệt với nhiệt độ thay đổi 190, 210 và 230oC, với sự tối ưu của dung dịch phản ứng có độ pH = 10. Que nano ZnO thu được có đường kính trung bình 60 -75 nm và chiều dài của que ~ 450 nm, cấu trúc tinh thể lục giác, có độ kết tinh cao. Dưới tác dụng của ánh sáng tử ngoại từ nguồn kích thích của đèn xenon, que nano ZnO phát quang ở vùng tử ngoại gần ~ 375 nm (vùng-vùng) và phát xạ mạnh ở vùng xanh lá cây 525 - 535 là do nút khuyết oxi trong mạng nền ZnO. Các kết quả thu được cho thấy những que nano ZnO chế tạo được, có khả năng ứng dụng tốt trong chế tạo cảm biến và bột huỳnh quang trong lĩnh vực chiếu sáng.
+   
+LỜI CẢM TẠ
+   Công trình này được thực hiện với sự hỗ trợ 
+về tài chính của đề tài nghiên cứu khoa học 
+cấp trường ở Trường Đại học Cần Thơ, mã số T2015-40.
+   TÀI LIỆU THAM KHẢO
+Hanmei Hu, Xianhuai Huang, Chonghai Deng, Xiangying Chen, Yitai Qian, 2007. Hydrothermal synthesis of ZnO nanowires and nanobelts on a large scale, Materials Chemistry and Physics, 106: 58 - 62.
+Huiying Wei, Youshi Wu, Ning Lun, Chunxia Hu, 2005. Hydrothermal synthesis and characterization of ZnO nanorods, Materials Science and Engineering A, 393: 80 - 82.
+Jing Chen, Wei Lei, Weiqiang Chai, Zichen Zhang, Chi Li, Xiaobing Zhang, 2008. High field emission enhancement of ZnO-nanorods via hydrothermal synthesis, Solid-State Electronics, 52: 294 - 298.
+Jinmin Wang, Lian Gao, 2004. Hydrothermal synthesis and photoluminescence properties of ZnO nanowires, Solid State Communications, 132: 269 - 271.
+L.Z. Pei, H.S. Zhao, W. Tan, H.Y. Yu, Y.W. Chen, Qian-Feng Zhang, 2009. Hydrothermal oxidization preparation of ZnO nanorods on zinc substrate, Materials characterization, 60: 1063 - 1067.
+Mingsong Wang, Yajun Zhou, Yiping Zhang, Eui Jung Kim, Sung Hong Hahn and Seung Gie Seong, 2012. Near-infrared photoluminescence from ZnO,Applied Physics letters, 100: 101906.
+Xiangyang Ma, Hui Zhang, Yujie Ji, Jin Xu, Deren Yang, 2005. Sequential occurrence of ZnO nanopaticles, nanorods, and nanotips during hydrothermal process in a dilute aqueous solution, Materials Letters, 59: 3393 -3397.
+Xiuping Jiang, Youzhi Liu, Yanyang Gao, Xuejun Zhang, Lihong Shi, 2010. Preparation of one-dimensional nanostructured ZnO, Particuology, 8: 383-385.
+Y.Xi, C.G. Hu, X.Y. Han, Y.F. Xiong, P.X. Gao, G.B. Liu, 2007. Hydrothermal synthesis of ZnO nanobelts and gas sensitivity property, Solid State Communications, 141: 506 - 509.
+Yong-hong Ni, Xian-wen Wei, Jian-ming Hong, Yin Ye, 2005. Hydrothermal preparation and optical properties of ZnO nanorods, Materials Science and Engineering B, 121: 42 - 47.
+Zafar Hussain Ibupoto, Kimleang Khun, Martin Eriksson, Mohammad AlSalhi, Muhammad Atif, Anees Ansari and Magnus Willander, 2013. Hydrothermal Growth of Vertically Aligned ZnO Nanorods Using a Biocomposite Seed Layer of ZnO Nanoparticles, Materials, 6: 3584-3597.
+
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Phần A: Khoa học Tự nhiên, Công nghệ và Môi trường: 42 (2016): 91-96
+
+
+

@@ -1,0 +1,174 @@
+﻿
+DOI:10.22144/ctu.jvn.2019.128
+ĐIỀU KIỆN BỊ CHẶN CỦA HỆ PHƯƠNG TRÌNH SAI PHÂN VOLTERRA PHI TUYẾN VỚI CHẬM HỮU HẠN 
+Lê Trung Hiếu1* và Hà Mộng Như Chi2
+1Giảng viên Khoa Sư phạm Toán học, Trường Đại học Đồng Tháp
+2Sinh viên Khoa Sư phạm Toán học, Trường Đại học Đồng Tháp
+*Người chịu trách nhiệm về bài viết: Lê Trung Hiếu (email: lthieu@dthu.edu.vn)
+Thông tin chung:
+Ngày nhận bài: 10/04/2019
+Ngày nhận bài sửa: 14/06/2019
+Ngày duyệt đăng: 30/10/2019
+
+Title: 
+Conditions for boundedness of nonlinear Volterra difference systems with finite delay
+Từ khóa: 
+Bị chặn mũ tới hạn, hệ phương trình sai phân Volterra, ổn định mũ toàn cục
+Keywords:
+Exponentially stable, exponentially ultimately bounded, Volterra difference systems   ABSTRACT
+In this paper, we give some new explicit sufficient conditions for exponential ultimate boundedness of a class of nonlinear Volterra difference systems with finite delays. The obtained results are generalizations of some existing results in the literature as our particular cases. An example is given to illustrate the obtained results.
+   TÓM TẮT
+Trong bài báo này, một số điều kiện đủ mới cho tính bị chặn mũ tới hạn của một lớp hệ phương trình sai phân Volterra phi tuyến phụ thuộc thời gian với chậm hữu hạn được đưa ra. Kết quả đạt được là mở rộng tổng quát của một số kết quả đã có trước đây như là trường hợp đặc biệt của nghiên cứu. Một ví dụ được đưa ra nhằm minh họa cho kết quả đạt được.Trích dẫn: Lê Trung Hiếu và Hà Mộng Như Chi, 2019. Điều kiện bị chặn của hệ phương trình sai phân Volterra phi tuyến với chậm hữu hạn. Tạp chí Khoa học Trường Đại học Cần Thơ. 55(5A): 50-57.
+   1 MỞ ĐẦU 
+   1.1 Giới thiệu
+   Brunner and Houwen (1986) đã trình bày một phương pháp số để giải gần đúng nghiệm của phương trình vi tích phân Volterra, từ đó dẫn đến việc nghiên cứu tính chất nghiệm của phương trình sai phân Volterra, là dạng rời rạc hóa của phương trình vi tích phân Volterra. Phương trình sai phân Volterra có nhiều ứng dụng trong các mô hình toán học và mô hình thực tế (Kolmanovskii et al., 2003; Elaydi, 2005). Bài toán về tính bị chặn và ổn định của nghiệm đối với các hệ động lực nói chung và phương trình sai phân Volterra nói riêng được sự quan tâm nghiên cứu trong suốt những thập niên gần đây (Crisci et al., 1998; Aeyels and Sepulchre, 2000; Kolmanovskii, 2003; Elaydi, 2005; Ngoc et al., 2009, Shen and Ian, 2018). Tuy nhiên, bởi hạn chế của các phương pháp tiếp cận thông thường (phương pháp dùng hàm Liapunov và các biến dạng của nó), nên bài toán về tính bị chặn và ổn định của nghiệm đối với các hệ phương trình sai phân Volterra phi tuyến, phụ thuộc thời gian tổng quát vẫn còn nhiều hạn chế và còn nhiều vấn đề mở cần tiếp tục khai thác (Kolmanovskii et al., 2003; Elaydi, 2005; Ngoc and Hieu, 2017).
+   Năm 2015, Xu và Ge đã phát triển các kết quả trong Ngoc and Hieu (2013) về tính ổn định mũ của hệ phương trình sai phân phi tuyến có chậm, từ đó nghiên cứu đưa ra một số điều kiện cho tính bị chặn mũ tới hạn, một dạng suy rộng của tính ổn định mũ, của hệ phương trình sai phân ngẫu nhiên có chậm (Xu and Ge, 2015). Năm 2017, Ngoc và Hieu đã dùng một phương pháp tiếp cận mới để nghiên cứu đưa ra nhiều điều kiện tường minh cho tính ổn định mũ của hệ phương trình sai phân Volterra phi tuyến phụ thuộc thời gian (Ngoc and Hieu, 2017). Tuy nhiên, lớp hệ nghiên cứu trong Ngoc and Hieu (2017) cần phải có nghiệm không, điểm cân bằng, mà nhiều mô hình thực tế được biểu diễn dưới dạng hệ phương trình sai phân Volterra không có điểm cân bằng, chẳng hạn thường gặp trong nhiều lớp hệ nơron rời rạc. Ngoài ra, như đã nêu trên, tính bị chặn mũ tới hạn của hệ phương trình sai phân Volterra chưa được nghiên cứu đầy đủ trong các tài liệu trước đây. Nhằm góp phần vào vấn đề mở nêu trên, trong bài báo này, vấn đề phát triển kĩ thuật và kết quả trong Ngoc and Hieu (2017) cho lớp hệ rộng hơn là lớp hệ phương trình sai phân Volterra phi tuyến tổng quát, không cần có điểm cân bằng được đặt ra. Từ đó, nhiều điều kiện cho tính bị chặn mũ tới hạn của lớp hệ này được đưa ra. Ý tưởng chính của bài báo là dùng nguyên lý so sánh nghiệm và tính chất của ma trận không âm. Kỹ thuật trong nghiên cứu này là vận dụng kết hợp đồng thời các kỹ thuật trong Ngoc and Hieu (2017) và trong Xu and Ge (2015), từ đó xây dựng và đánh giá hàm chặn trên thích hợp. Các kết quả đạt được là mới và có ý nghĩa khoa học, là mở rộng tổng quát của một số kết quả đã có trước đây.
+   1.2 Kí hiệu và quy ước
+   Gọi  lần lượt là vành các số nguyên, trường các số thực và trường các số phức. Gọi  là không gian véctơ thực n chiều và là tập hợp tất cả các số nguyên không âm. Với , kí hiệu là tập hợp các số nguyên thuộc đoạn . Với hai số nguyên dương ,  kí hiệu lần lượt là tập hợp các ma trận thực và tập hợp các ma trận thực không âm cỡ . Với hai ma trận thực , ta qui ước bất đẳng thức giữa  và  được hiểu như sau  tương đương với , với mọi . Cách hiểu tương tự khi so sánh hai véctơ. Với  và , kí hiệu giá trị môđun của ma trận và véctơ bởi  và . Chuẩn của ma trận   được hiểu là chuẩn toán tử (operator norm). Cho , nếu  thì   (Ngoc and Hieu, 2013). Kí hiệu  lần lượt là véctơ không trong  và ma trận không trong  , tương ứng. Kí hiệu  là ma trận đơn vị trong . Với  bán kính phổ (spectral radius) của A được xác định bởi . Một chuẩn  trên được gọi là đơn điệu nếu  kéo theo . Mọi chuẩn  trên  và   là đơn điệu (Ngoc and Hieu, 2013). Cho , ta đặt  là họ các dãy ma trận thỏa mãn điều kiện như sau:
+
+
+   2 TÍNH BỊ CHẶN CỦA HỆ PHƯƠNG TRÌNH SAI PHÂN VOLTERRA PHI TUYẾN
+     Xét hệ phương trình sai phân Volterra phi tuyến có dạng
+      (2.1)
+   trong đó  và  là những hàm véctơ cho trước.
+   Cho trước số nguyên dương  cố định, kí hiệu là tập hợp những hàm điều kiện đầu . Với mỗi , đặt . Với mỗi hệ phương trình sai phân (2.1) có duy nhất nghiệm thỏa mãn điều kiện đầu sau đây
+   .                (2.2)
+   
+
+   Ta kí hiệu nghiệm này là .
+   Định nghĩa 2.1. Hệ phương trình sai phân (2.1) được gọi là bị chặn mũ tới hạn (exponentially ultimately bounded) nếu tồn tại  và sao cho 
+ (2.3)
+   Khi bất đẳng thức (2.3) đúng với  thì ta nói hệ (2.1) là ổn định mũ toàn cục (Ngoc and Hieu, 2017).
+   Định lí sau đây là kết quả chính của bài báo, cho ta một số điều kiện đủ về tính bị chặn mũ tới hạn của hệ (2.1).
+   Định lí 2.1. Giả sử tồn tại các hàm ma trận    và các hàm véc tơ bị chặn  , sao cho
+   , với ;                       (2.4)
+   với mọi , với mọi  Khi đó hệ (2.1) là bị chặn mũ tới hạn nếu một trong các điều kiện sau được thỏa mãn:
+   i)Tồn tại  sao cho
+   	                             với mọi .                             (2.5)
+   ii) Tồn tại  khi đó 
+   , với mọi .              (2.6)
+   iii) Tồn tại  khi đó 
+  .   (2.7)
+   Ngoài ra, khi  với mọi  thì hệ (2.1) là ổn định mũ toàn cục.
+   Sau đây là một số tính chất quan trọng của các ma trận không âm được sử dụng trong chứng minh Định lí 2.1.
+   Bổ đề 2.1 (Ngoc and Hieu, 2013). Cho ma trận . Các mệnh đề sau là tương đương
+   (i) ;             
+      (ii)    
+    (iii) .
+   Chứng minh Định lí 2.1. (i). Với cố định, từ đây về sau, ta kí hiệu  nếu không có sự nhầm lẫn. Trước tiên ta chứng minh hệ (2.1) là bị chặn mũ tới hạn nếu điều kiện (i) được thỏa mãn. 
+   Thật vậy, từ điều kiện đầu (2.2) và do , với mọi , nên ta có 
+    với mọi  .                             (2.8)
+   Với  được xác định trong (i), ta đặt và hàm  
+   trong đó 
+
+   với  lần lượt là thành phần thứ i của f và h, và 
+
+   Từ (2.8), ta có
+   , với mọi .
+   Ta cần chứng minh 
+    , với mọi .                                                        (2.9)
+   Sau đây, (2.9) được chứng minh hoàn toàn bằng phương pháp quy nạp toán học. Giả sử có số nguyên dương  sao cho 
+   , với mọi  .                                                (2.10)
+   Từ (2.1), (2.4) và (2.10), ta có
+
+      
+
+
+
+
+
+
+
+
+
+
+ 
+   (vì  nên )
+     
+
+
+
+
+   Theo nguyên lý quy nạp toán học, ta có bất đẳng thức véctơ sau đây
+, với mọi .
+   Do tính chất đơn điệu của chuẩn véctơ trên nên suy ra  hay 
+,
+   trong đó  và  Như vậy, hệ phương trình sai phân Volterra (2.1) là bị chặn mũ tới hạn.
+   Ngoài ra, khi với mọi  thì ta có . Khi đó, hệ (2.1) là ổn định mũ toàn cục.
+   (ii) Tiếp theo ta chứng minh (2.1) là bị chặn mũ tới hạn nếu (ii) được thỏa mãn. Vì , nên theo Bổ đề 2.1 (ii), tồn tại vectơ  sao cho . Khi đó, tồn tại  sao cho
+   .
+   Với  được xác định trong (ii) (của Định lí 2.1), đặt , ta có  và
+
+   Do đó
+
+   Vậy (ii) được thỏa mãn. Khi đó (2.1) là bị chặn mũ tới hạn.
+   (iii) Từ điều kiện đầu ta có
+   , với mọi .                                       (2.11)
+   Từ (2.7), tồn tại (đủ gần 1) sao cho 
+
+   Chọn  ta có
+
+   , với mọi .
+   Đặt  và  trong đó
+   
+   
+    Khi đó từ (2.11gtbhb) ta có
+   , với mọi 
+   Ta cần chứng minh , với mọi . Chứng minh điều này bằng phương pháp quy nạp toán học. Giả sử tồn tại  sao cho
+   , với mọi .
+   Khi đó, ta có
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Theo nguyên lý quy nạp toán học, ta có , với mọi . Vậy (2.1) là bị chặn mũ tới hạn. Khi , với mọi  thì . Khi đó, hệ phương trình sai phân Volterra (2.1) là ổn định mũ toàn cục. Định lí 2.1. được chứng minh hoàn toàn.
+   Định lí 2.2. Giả sử tồn tại các ma trận  và hàm ma trận ,  sao cho                                   và                 (2.12)
+   với mọi  trong đó f, g là các hàm bị chặn và . Khi đó, nếu  thì hệ phương trình (2.1) là bị chặn mũ tới hạn. Ngoài ra, khi  với mọi  thì  (2.1) là ổn định mũ toàn cục.
+   Chứng minh. Ta có  và . Từ đó, do bán kính phổ của ma trận là liên tục (theo ma trận) nên , với  (đủ gần 1) nào đó.  Khi đó, . Vậy Định lí 2.1 (ii) được thỏa mãn. Do đó, hệ (2.1) là bị chặn mũ tới hạn.
+   Nhận xét 2.1. i) Phương pháp tiếp cận trong Ngoc and Hieu (2017) chỉ giải quyết được trong trường hợp hệ (2.1) có nghiệm không, có điểm cân bằng. Trên cơ sở cải tiến kĩ thuật trong Ngoc and Hieu (2017), bài báo khắc phục được hạn chế này, giải quyết được đối với lớp hệ tổng quát hơn là hệ phi tuyến, phụ thuộc thời gian tổng quát, không có điểm cân bằng.
+   ii) Khi  và  với mọi  thì Định lí 2.1 (về tính bị chặn mũ tới hạn của hệ (2.1)) đặc biệt hóa trở về Định lí 3.2 trong Ngoc and Hieu (2017) (về tính ổn định mũ toàn cục của hệ (2.1)).
+   iii) Tương tự, khi  và với mọi   thì Định lí 2.2 (về tính bị chặn mũ tới hạn của hệ (2.1)) đặc biệt hóa trở về Định lí 3.4 trong Ngoc and Hieu (2017) (về tính ổn định mũ toàn cục của hệ (2.1)).
+   Sau đây, một ví dụ đơn giản được đưa ra nhằm minh họa cho kết quả đạt được.
+   Ví dụ 2.1. Xét phương trình sai phân Volterra phi tuyến trong  như sau:
+       (2.13)
+   trong đó . Hệ (2.13) có dạng (2.1) với cách đặt như sau:        (2.14)
+   trong đó  và . Lưu ý rằng, các kết quả trong Ngoc and Hieu (2017) là không áp dụng được cho hệ phương trình sai phân Volterra (2.13).
+   Vì ta có
+         ,       
+   với mọi  . Do đó
+      và , với mọi . Trong đó, , ngoài ra   và  là các hàm bị chặn trên miền xác định của chúng và 
+   
+   Ta có . Lấy , ta có  (tức là ).  Vì vậy, tất cả giả thiết của Định lí 2.2 được thỏa mãn, do đó phương trình sai phân Volterra (2.13) là bị chặn mũ tới hạn. Khi  thì (2.13) là ổn định mũ toàn cục.
+   3 KẾT LUẬN
+   Nghiên cứu đã cải tiến kĩ thuật tiếp cận đã có và đưa ra một vài điều kiện đủ cho tính bị chặn của nghiệm đối với hệ phương trình sai phân Volterra phi tuyến phụ thuộc thời gian với chậm hữu hạn. Các kết quả thu được là mới, góp phần làm phong phú thêm tiêu chuẩn bị chặn của nghiệm đối với lớp hệ này. Hướng phát triển của bài báo là khai thác, phát triển kĩ thuật đã có để nghiên cứu tính chất bị chặn của nghiệm đối với hệ phương trình sai phân Volterra phi tuyến có yếu tố ngẫu nhiên, hệ phương trình vi tích phân Volterra trên không gian  hay trên các không gian Banach vô hạn chiều.
+   LỜI CẢM TẠ
+   Bài báo được hỗ trợ bởi đề tài nghiên cứu khoa học sinh viên Trường Đại học Đồng Tháp, mã số SPD2018.02.56.
+   TÀI LIỆU THAM KHẢO
+Aeyels, J. D. and R. Sepulchre, 2000. Boundedness properties for time-varying nonlinear systems. SIAM Journal on Control and Optimization, 39(5): 1408-1422.
+Brunner, H. and P. J. Houwen, 1986. The numerical solution of Volterra equations, CWI. Monographs, North-Holland, Amsterdam, 588 pages.
+Crisci, M. R., V. B. Kolmanovskii, E. Russo, and A. Vecchio, 1998. Stability of difference Volterra equations: direct Liapunov method and numerical procedure. Computers & Mathematics with Applications. 36: 77-97.
+Elaydi, S., 2005. An introduction to difference equations, Springer Verlag, 539 pages. 
+Kolmanovskii, V. B., E. Castellanos-Velasco, and J. A. TorresMunoz, 2003. A survey: stability and boundedness of Volterra difference equations. Nonlinear Analysis: Theory, Methods & Applications. 53, 861-928.
+Ngoc, P. H. A. and L. T. Hieu, 2013. New criteria for exponential stability of nonlinear difference systems with time-varying delay. International Journal of Control. 86(9): 1646-1651.
+Ngoc, P. H. A., T. Naito, J. S. Shin, and S. Murakami, 2009. Stability and robust stability of positive linear Volterra difference equations. International Journal of Robust and Nonlinear Control. 19(5): 552-568. 
+Ngoc, P. H. A. and L. T. Hieu, 2017. Stability of nonlinear Volterra equations. Bulletin of The Polish Academy of Sciences: Technical Sciences. 65(3): 333-340.
+Shen, T. and R. P. Ian, 2018. An ultimate state bound for a class of linear systems with delay. Automatica. 87: 447-449.
+Xu, L. and S. S. Ge, 2015. Exponential ultimate boundedness of nonlinear stochastic difference systems with time-varying delays. International Journal of Control. 88(5): 983-989.
+   
+   
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Tập 55, Số 5A (2019): 50-57
+
+
+

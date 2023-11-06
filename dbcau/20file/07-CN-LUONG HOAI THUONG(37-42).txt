@@ -1,0 +1,126 @@
+﻿
+NHẬN DẠNG MÔ HÌNH ĐỐI TƯỢNG DÙNG MẠNG NƠ-RON RBF 
+TRONG ĐIỀU KHIỂN DỰ BÁO MÔ HÌNH  
+Lương Hoài Thương1, Nguyễn Chánh Nghiệm2 và Nguyễn Chí Ngôn2
+1 Đại học Sư phạm Kỹ thuật Vĩnh Long
+2 Khoa Công nghệ, Trường Đại học Cần Thơ
+Thông tin chung:
+Ngày nhận: 14/07/2015
+Ngày chấp nhận: 27/10/2015
+Title: 
+RBF neural networks-based system identification in model predictive control
+Từ khóa: 
+Điều khiển dự báo mô hình, mạng nơ-ron RBF, hệ nâng vật bằng từ trường
+Keywords:
+Model predictive control, RBF neural networks, magnetic levitation system   ABSTRACT
+Control systems are generally nonlinear in reality, so controller design for nonlinear systems is difficult and traditional control methods are also ineffective. Therefore, modern and intelligent control solution such as model predictive control is preferred. However, when applying model predictive control, it will be difficult to identify the behaviors of the system in the future, especially the one with unknown parameters. This study approaches the application of radial basis function (RBF) neural networks to overcome such limitation. In addition, applying the online training method for the RBF neural network does not require collecting the training data, which cannot always be achieved in practice. The control algorithm was tested on a magnetic levitation system. The simulation results show that the system response follows the reference signal, the setting time is about 2 seconds without overshoot, and steady-state error is negligible. Furthermore, the simulation results also indicate that the control system is stable under the presence of noise and the changing of the object's mass.
+   TÓM TẮT
+Các hệ thống điều khiển trong thực tế thường phi tuyến, nên việc thiết kế bộ điều khiển trở nên khó khăn và các kỹ thuật điều khiển truyền thống cũng tỏ ra kém hiệu quả. Do đó, người ta thường tìm kiếm các giải pháp điều khiển hiện đại, thông minh, trong đó có kỹ thuật điều khiển dự báo mô hình. Tuy nhiên, khi áp dụng bộ điều khiển dự báo mô hình, vấn đề khó khăn là việc nhận dạng hành vi của đối tượng trong tương lai, đặc biệt khi chưa biết tham số của đối tượng. Nghiên cứu này tiếp cận việc ứng dụng mạng nơ-ron hàm cơ sở xuyên tâm RBF để khắc phục hạn chế đó. Ngoài ra, việc ứng dụng kỹ thuật huấn luyện online mạng nơ-ron RBF có ưu điểm là không cần phải thu thập dữ liệu trước - điều mà không phải lúc nào cũng đạt được trong thực tế. Giải thuật điều khiển được kiểm chứng trên hệ nâng vật trong từ trường. Kết quả mô phỏng cho thấy: đáp ứng của hệ nâng vật trong từ trường bám theo tín hiệu mong muốn, với thời gian xác lập khoảng 2 giây, không xuất hiện vọt lố và sai số xác lập không đáng kể. Mặt khác, khảo sát cũng cho thấy, hệ thống hoạt động ổn định dưới tác động của nhiễu và sự thay đổi khối lượng vật nặng.
+   1 GIỚI THIỆU
+   Bộ điều khiển dự báo dùng một mô hình toán để đoán trước đáp ứng tương lai của đối tượng điều khiển tại những thời điểm khác nhau trong phạm vi dự báo nhất định. Dựa vào đáp ứng dự báo này, một thuật toán tối ưu hóa được sử dụng để tính toán chuỗi tín hiệu điều khiển tương lai sao cho sai lệch giữa đáp ứng dự báo bởi mô hình và tín hiệu tham khảo cho trước là tối thiểu. Phương pháp điều khiển dự báo là phương pháp tổng quát để thiết kế bộ điều khiển trong một khoảng thời gian, có thể áp dụng cho hệ tuyến tính cũng như hệ phi tuyến (Nguyễn Thúc Loan và ctv., 2003; Nguyễn Thị Phương Hà, 2007). Trong thực tế, việc áp dụng chiến lược điều khiển dự báo cho hệ phi tuyến cần giải quyết hai vấn đề cơ bản, thứ nhất là xây dựng mô hình toán để dự báo hành vi của đối tượng và thứ hai là xây dựng giải thuật giải bài toán tối ưu để tính toán chuỗi tín hiệu điều khiển tốt nhất (Camacho and Alba, 2007). Tuy nhiên, đối với hệ phi tuyến, việc xây dựng mô hình toán là khó khăn, vì đặc tính phi tuyến rất đa dạng.
+   Những năm gần đây, việc nhận dạng mô hình không tham số của đối tượng dùng các kỹ thuật máy học như mạng nơ-ron nhân tạo đã chứng minh được tính hữu dụng của nó, nhờ khả năng huấn luyện mạng  (Gupta và ctv., 2003). Tuy nhiên, khó khăn của kỹ thuật này là việc thu thập dữ liệu vào/ra của đối tượng để làm tập dữ liệu mẫu. Vì vậy, củng cố và phát triển kỹ thuật huấn luyện online để khỏi phải thu thập dữ liệu mẫu là một giải pháp được nhiều nhà nghiên cứu đã và đang phát triển.
+   Nhằm bổ sung và khắc phục những hạn chế nêu trên, bài báo đề xuất giải pháp dùng mạng nơ-ron hàm cơ sở xuyên tâm RBF với kỹ thuật huấn luyện online để nhận dạng hành vi của đối tượng, áp dụng để điều khiển dự báo mô hình cho hệ nâng vật bằng từ trường.
+   2 PHƯƠNG PHÁP NGHIÊN CỨU 
+   2.1 Đối tượng điều khiển 
+   Mặc dù phương pháp thiết kế bộ điều khiển được đề xuất không đòi hỏi mô hình toán của đối tượng, song để thuận lợi trong việc kiểm chứng giải thuật điều khiển mà không cần bố trí thiết bị trong phòng thí nghiệm, nghiên cứu này mô phỏng hệ nâng vật bằng từ trường như Hình 1 (Al-Muthairi and Zribi, 2004). Ở Hình 1, điện áp U chính là ngõ vào của đối tượng, được thay đổi nhằm kiểm soát lực điện từ FE dùng để nâng hoặc hạ hòn bi ở vị trí cách nam châm điện một khoảng h. Vị trí này chính là ngõ ra của đối tượng điều khiển.
+
+Hình 1: Mô hình hệ nâng vật bằng từ trường
+   Phương trình mô tả đối tượng được cho bởi (Al-Muthairi et al., 2004; Barie, W. and Chiasson, J., 1996; Shafiq, M. and S. Akhtar, 2004):
+       				(1)
+   trong đó, h là vị trí hòn bi (m); v là vận tốc hòn bi (m/s); i là cường độ của dòng điện chạy qua cuộn dây (A); U là điện áp cung cấp cho cuộn dây (V); R, L là điện trở và điện cảm cuộn dây (Ω, H); C là hằng số lực từ (Nm2A-2); m là khối lượng hòn bi (kg) và g là gia tốc trọng trường (m/s2).
+   Điện cảm của cuộn dây là một hàm phi tuyến: 
+   L(h)=L1 +2C/h .     	(2)
+   Chọn biến trạng thái như sau: 
+   x1 = h, x2 = v, x3 = I .   	(3)
+   Véc-tơ trạng thái của hệ thống: 
+      x = (x1, x2, x3)T.
+   Từ (1), (2) và (3) ta được phương trình trạng thái mô tả đối tượng như sau:
+        	(4)
+   2.2 Thiết kế bộ điều khiển dự báo mô hình
+   2.2.1 Nguyên tắc điều khiển
+   Theo Charara và ctv. (1996), ta thiết kế bộ điều khiển như sơ đồ Hình 2.
+
+
+Hình 2: Sơ đồ điều khiển hệ nâng vật bằng từ trường
+
+   Trong đó:
+   * Đối tượng điều khiển "Maglev" là hệ nâng vật bằng từ trường được mô tả ở Hình 1.
+   * Khối "Tapped Delay Line" là bộ tạo các tín hiệu trễ cho ngõ vào u(k) và ngõ ra h(k), tức là tạo ra các tín hiệu: u(k-i), h(k-i). Tuỳ theo mức độ phi tuyến tuyến của đối tượng, mà i có thể phải có giá trí lớn hơn. Ở nghiên cứu này, i=2, để tạo các tín hiệu {u(k), u(k-1), u(k-2), h(k-1), h(k-2)}.
+   * Khối "Neuro-RBF" dùng để ước lượng ngõ ra của đối tượng, đó là . 
+   * Hàm mục tiêu (Cost function) của giải thuật tối ưu được chọn như sau:
+               (5)	(5)
+   * Khối "Dynamic Optimizer" thực hiện tối ưu hóa hàm mục tiêu nhằm tạo ra tín hiệu điều khiển u(k) tốt nhất để đảm bảo ngõ ra h(k) đúng với tín hiệu tham khảo href(k) chọn trước. 
+   * Các ràng buộc ngõ vào của đối tượng: 
+	dumin   du  dumax ;   umin  u  umax.
+   2.2.2  Nhận dạng đối tượng dùng mạng nơ-ron  RBF
+   Mạng nơ-ron RBF áp dụng trong nghiên cứu này là một mạng truyền thẳng hai lớp (Liu, 2013), với 5 ngõ vào, 10 nút ẩn và một nút ra, như Hình 3.
+
+
+Hình 3: Cấu trúc mạng nơ-ron RBF
+
+   * Lớp ẩn: Sử dụng hàm kích hoạt Gauss. 
+Ngõ ra của nơ-ron thứ q thuộc lớp ẩn, được tính toán theo: 
+               					(6)
+   trong đó, X  là vectơ ngõ vào, X=[u(k), u(k-1), u(k-2), h(k-1), h(k-2)]T; mq là tâm hàm Gauss và  là bề rộng hàm Gauss của nơron ẩn thứ q.
+   * Lớp ra: Ngõ ra của mạng nơron RBF, được tính toán bởi:
+              					(7)
+   Để huấn luyện mạng nơ-ron RBF, ta giả sử tại thời điểm k, dữ liệu vào ra của đối tượng là {x(k), yd(k)}. Hàm mục tiêu được định nghĩa như (8).
+       	(8)
+   Trong đó:
+   .	(9)
+   Nguyên tắc cập nhật online trọng số của mạng nơ-ron RBF thể hiện bởi (Gupta và ctv, 2003):
+                			(10)           	
+        (11)
+      	(12)
+   với 1, 2 và 3 lần lượt là hệ số học tương ứng của các bộ trọng số, tâm và độ rộng của hàm cơ sở.
+   Với kỹ thuật huấn luyện này, trong mỗi chu kỳ lấy mẫu, mạng nơ-ron được cập nhật lại trọng số mới theo nguyên tắc (10), (11) và (12) với dữ liệu được lấy trực tuyến mà không cần phải thu thập trước.
+   2.2.3 Mô hình mô phỏng
+   Sơ đồ mô phỏng bộ điều khiển dự báo mô hình dùng mạng nơ-ron RBF được xây dựng như Hình 4. Ở đó, giải thuật giải bài toán tối ưu được sử dụng là công cụ tối ưu hóa sẵn có của MATLAB. Trong quá trình mô phỏng, mô hình này cho phép thay đổi tín hiệu tham khảo, giả lập nhiễu cảm biến và thay đổi khối lượng hòn bi, nhằm hỗ trợ việc khảo sát tính ổn định, bền vững của bộ điều khiển.
+   với 1, 2 và 3 lần lượt là hệ số học tương ứng của các bộ trọng số, tâm và độ rộng của hàm cơ sở.
+   Với kỹ thuật huấn luyện này, trong mỗi chu 
+kỳ lấy mẫu, mạng nơ-ron được cập nhật lại trọng số mới theo nguyên tắc (10), (11) và (12) với dữ liệu được lấy trực tuyến mà không cần phải thu thập trước.
+   2.2.4 Mô hình mô phỏng
+   Sơ đồ mô phỏng bộ điều khiển dự báo mô hình dùng mạng nơ-ron RBF được xây dựng như Hình 4. Ở đó, giải thuật giải bài toán tối ưu được sử dụng là công cụ tối ưu hóa sẵn có của MATLAB. Trong quá trình mô phỏng, mô hình này cho phép thay đổi tín hiệu tham khảo, giả lập nhiễu cảm biến và thay đổi khối lượng hòn bi, nhằm hỗ trợ việc khảo sát tính ổn định, bền vững của bộ điều khiển.
+
+
+Hình 4: Sơ đồ điều khiển dự báo mô hình
+
+   3 KẾT QUẢ VÀ THẢO LUẬN
+   Các tham số của hệ nâng vật bằng từ trường được xác lập theo Al-Muthairi và ctv. (2004), gồm: hòn bi thép khối lượng m=11.87g; nam châm điện 
+được hình thành từ các vòng dây quấn quanh lõi thép với điện trở của cuộn dây R=28.7Ω; điện cảm L1=0.65 H; hằng số lực từ C=1.4 x 10m2A-2 ; gia tốc trọng trường g=9.81m/s.
+
+	
+a) Trường hợp href=3cm				                 b) Trường hợp href=2,6cm
+Hình 5: Đáp ứng của hệ khi thay tín hiệu tham khảo thay đổi
+	
+a) Trường hợp m tăng 20%		    	                   b) Trường hợp m giảm 20%
+Hình 6: Đáp ứng của hệ khi thay đổi khối lượng vật cần nâng
+ 
+a) Trường hợp m cố định, có nhiễu		                 b) Trường hợp m giảm 20%, có nhiễu
+Hình 7: Đáp ứng của hệ khi có tác động của nhiễu
+
+   Hình 5 trình bày đáp ứng của hệ thống khi tín hiệu tham khảo thay đổi ở href=3cm (Hình 5a) và khi href=2,6cm (Hình 5b). Kết quả cho thấy đáp ứng không xuất hiện vọt lố và không có sai số xác lập, với thời gian xác lập hợp lý. Hình 6 trình bày kết quả mô phỏng khi trọng lượng của hòn bi được thay đổi trong trường hợp tăng 20% (Hình 6a) và giảm 20% (Hình 6b). Kết quả cho thấy ở thời điểm quá độ, mạng nơ-ron RBF cần vài chu kỳ để cập nhật trọng số và hội tụ về giá trị mong muốn để sau đó đáp ứng của hệ thống bám tốt tín hiệu tham khảo. Trong trường hợp Hình 7, nhiễu trắng công suất 0.1W được thêm vào để giả lập nhiễu cảm biến khoảng cách. Tương ứng với hai trường hợp khi khối lượng hòn bi được giữ cố định (Hình 7a) và khi giảm 20% (Hình 7b), chúng ta thấy đáp ứng vẫn bám tốt tín hiệu tham khảo. Tuy nhiên, đáp ứng có xuất hiện sai số xác lập khoảng 5%. Kết quả mô phỏng trong nhiều điều kiện khác nhau 
+đã chứng tỏ được tính ổn định của giải thuật 
+điều khiển. 
+   4 KẾT LUẬN
+   Bài báo đã mô tả phương pháp điều khiển dự báo mô hình dùng mạng nơ-ron RBF, áp dụng để điều khiển vị trí vật nặng trong từ trường bám theo vị trí tham khảo. Mạng nơ-ron RBF được sử dụng để dự báo đáp ứng ở 10 mẫu tương lai của hệ thống, nhằm cung cấp một tham số đầu vào cho việc giải bài toán tìm tín hiệu điều khiển tối ưu tại thời điểm đang xét. Luật cập nhật trọng số của mạng nơ-ron RBF được tiến hành trực tuyến (online) trong quá trình điều khiển, nên cho phép bộ nhận dạng tự điều chỉnh thích ứng với sự biến thiên của các yếu tố tác động khác lên đối tượng. Kết quả mô phỏng trong các trường hợp khi tín hiệu tham khảo thay đổi, khi có nhiễu tác động và khi khối lượng hòn bi thay đổi đã chứng tỏ được tính ổn định của giải thuật điều khiển.
+   
+TÀI LIỆU THAM KHẢO
+Al-Muthairi, N. F. and Zribi, M., 2004. Sliding mode control of a Magnetic Levitation System. Mathematical Problems in Engineering, Volume 2004, Issue 2, Pages 93-107.
+Barie, W. and Chiasson, J., 1996. Linear and nonlinear state-space controllers for magnetic levitation. International Journal of Systems Science, 27, no. 11, Pages 1153-1163. 
+Camacho, E. F. and Alba, C. B., 2007. Model Predictive Control. 2nd ed., Springer, 405 pages. ISBN-13: 978-1852336943.
+Charara, A., Miras, J.D. and Caron, B., 1996. Nonlinear control of a magnetic levitation system without premagnetization, IEEE Transactions on Control Systems Technology 4 (1996), no. 5, Pages 513-523.
+Gupta, M. M., Jin, L. and Homma, N., 2003. Static and Dynamic Neural Networks, A. John Wiley & Sons, Inc, Publication, 752 pp.
+Liu, J., 2013. Radial Basis Function (RBF) Noron Network Control for Mechanical Systems, Tsinghua University Press, Beijing and Springer - Verlag Berlin Heidelberg 2013, 752 pp.
+Nguyễn Thị Phương Hà, 2007. Lý Thuyết Điều Khiển Hiện Đại, Nhà xuất bản ĐHQG-HCM. HCM, 523 trang.
+Nguyễn Thúc Loan, Nguyễn Thị Phương Hà và  Huỳnh Thái Hoàng, 2003. Điều khiển dự báo hệ phi tuyến dựa vào mô hình mờ, Tạp chí Bưu chính Viễn thông - Chuyên san Nghiên cứu khoa học, số 10-2003, trang 67-72.
+Shafiq, M. and Akhtar, S., 2004. Inverse Model Based Adaptive Control of Magnetic Levitation System. 5th Asian Control Conference, pages 307-322.
+
+
+
+
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Phần A: Khoa học Tự nhiên, Công nghệ và Môi trường: 40 (2015): 37-42
+
+
+

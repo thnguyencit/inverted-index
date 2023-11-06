@@ -1,0 +1,92 @@
+﻿
+DOI:10.22144/ctu.jvn.2018.069
+KHẢO SÁT KHẢ NĂNG ĐÁP ỨNG MIỄN DỊCH TRÊN VỊT VÀ VỊT XIÊM 
+ĐỐI VỚI VACCINE H5N1 RE-6 TẠI KIÊN GIANG
+Phạm Hoàng Dũng1, Phạm Nguyên Vũ2 và Trần Ngọc Bích1*
+1 Khoa Nông nghiệp và Sinh học Ứng dụng, Trường Đại học Cần Thơ
+2Trường Cao đẳng Cộng đồng Kiên Giang
+*Người chịu trách nhiệm về bài viết: Trần Ngọc Bích (email: tnbich@ctu.edu.vn)
+Thông tin chung:
+Ngày nhận bài: 17/09/2017
+Ngày nhận bài sửa: 08/12/2017
+Ngày duyệt đăng: 19/06/2018
+
+Title: 
+An investigation of protective immune response on ducks and Muscovy ducks vaccinated by H5N1 Re-6 vaccine in Kien Giang province
+Từ khóa: 
+Đáp ứng miễn dịch, H5N1, Kiên Giang, virus cúm gia cầm, vaccine
+Keywords:
+Avian Influenza virus, H5N1, immune response, Kiên Giang Province, vaccine   ABSTRACT
+Investigating immune response of common ducks and Muscovy ducks for H5N1 vaccine strain Re-6 by reaction hemagglutination inhibition (HI) showed that at 14 days of age before vaccination, common ducks and Muscovy ducks completely lacked protective antibodies. At 21 days after the first vaccination the common ducks and Muscovy ducks had protection rate of 68.18% (30/44) corresponding to the GMT value of 3.32 log2, and 60% (12/20) corresponding to the GMT value of 2.4 log2, respectively. At 30 days after the second vaccination the protection rate was 100% (44/44) corresponding to GMT value of 5 log2 for common ducks and was 75% (15/20) corresponding to the GMTvalue of 3.45 log2 for Muscovy ducks. At 60 days after the second vaccination, the protection rate was 93.18% (41/44) corresponding to the GMT value of 4.59 log2 for common ducks and was 70% (14/20) corresponding to the GMT value of 3.2 log2 for Muscovy ducks. The first vaccination was not enough antibodies to protect common ducks and Muscovy ducks. The immune response of the Muscovy ducks for H5N1 vaccine strain Re-6 was slower than that of the common ducks.
+   TÓM TẮT
+Khảo sát đáp ứng miễn dịch của vịt và vịt Xiêm đối với vaccine H5N1 chủng Re-6 bằng phản ứng ức chế ngưng kết hồng cầu (HI) cho thấy lúc 14 ngày tuổi trước khi tiêm phòng đàn vịt và vịt Xiêm hoàn toàn không có kháng thể đủ bảo hộ; 21 ngày sau khi tiêm phòng lần 1 lúc vịt và vịt Xiêm được 35 ngày tuổi tỷ lệ bảo hộ của vịt là 68,18% (30/44) tương ứng với giá trị GMT là 3,32log2, trên vịt Xiêm là 60% (12/20) tương ứng với giá trị GMT là 2,4log2; lúc 30 ngày sau khi tiêm phòng lần 2 tỷ lệ bảo hộ của vịt là 100% (44/44) tương ứng với giá trị GMT là 5log2, trên vịt Xiêm là 75,0% (15/20) tương ứng với giá trị GMT là 3,45log2; lúc 60 ngày sau khi tiêm phòng lần thứ 2 tỷ lệ bảo hộ của vịt là 93,18% (41/44) tương ứng với giá trị GMT là 4,59log2, trên vịt Xiêm là 70,0% (14/20) tương ứng với giá trị GMT là 3,02log2. Hai mươi mốt ngày sau khi tiêm phòng lần 1, vịt và vịt Xiêm chưa có đủ kháng thể để bảo hộ đàn. Đáp ứng miễn dịch của vịt Xiêm đối với vaccine H5N1 chủng Re-6 chậm hơn so với vịt.Trích dẫn: Phạm Hoàng Dũng, Phạm Nguyên Vũ và Trần Ngọc Bích, 2018. Khảo sát khả năng đáp ứng miễn dịch trên vịt và vịt Xiêm đối với vaccine H5N1 Re-6 tại Kiên Giang. Tạp chí Khoa học Trường Đại học Cần Thơ. 54(4B): 50-53.
+   1 ĐẶT VẤN ĐỀ
+   Tổng đàn gia cầm của tỉnh Kiên Giang hàng năm là khoảng từ 4,4 đến 5,5 triệu con, trong đó các giống vịt hướng thịt và hướng trứng là những đối tượng nuôi chính chiếm khoảng 2/3 tổng đàn gia cầm (http://channuoivietnam.com/). Việc sử dụng vaccine cúm A H5N1 để tiêm phòng cho đàn gia cầm góp phần quan trọng vào công tác phòng, chống dịch cúm. Vaccine cúm vô hoạt tái tổ hợp  (H5N1 Re-6) đã được Cục Thú y khuyến cáo sử dụng tại các tỉnh Đồng bằng sông Cửu Long. Để so sánh đáp ứng miễn dịch và khả năng bảo hộ của vaccine H5N1 Re-6 trên vịt và vịt Xiêm trong điều kiện chăn nuôi tại tỉnh Kiên Giang, nghiên cứu "Khảo sát khả năng đáp ứng miễn dịch trên vịt và vịt Xiêm đối với vaccine cúm gia cầm H5N1 Re-6 tại tỉnh Kiên Giang" được thực hiện.
+   2 VẬT LIỆU VÀ PHƯƠNG PHÁP NGHIÊN CỨU
+   Cách chọn mẫu: Chọn 4 hộ chăn nuôi vịt qui mô từ 200 vịt /hộ và 4 hộ nuôi vịt Xiêm qui mô 100 vịt Xiêm/hộ ở lứa tuổi 14 ngày tại Kiên Giang, sau đó tiến hành tiêm phòng vaccine cúm gia cầm H5N1 chủng Re-6 của Trung Quốc. Sử dụng vaccine cúm gia cầm H5N1 Re-6 với qui trình tiêm phòng lần 1 lúc 14 ngày tuổi và lần 2 lúc vịt được 35 ngày tuổi. 
+   Lấy mẫu huyết thanh: Trước khi tiêm phòng lúc 14 ngày tuổi để kiểm tra hiệu giá kháng thể, sau đó tiến hành tiêm phòng lần 1, sau 21 ngày sau đó lấy mẫu huyết thanh để kiểm tra hiệu giá kháng thể (lúc này vịt, vịt Xiêm đã được 35 ngày tuổi), và tiếp tục tiêm phòng lần 2. Sau tiêm phòng lần thứ hai 1 tháng (lúc này vịt, vịt Xiêm đã được 65 ngày tuổi) lấy mẫu huyết thanh đem xét nghiệm hiệu giá kháng thể. Sau tiêm phòng lần thứ hai 2 tháng (lúc này vịt, vịt Xiêm đã được 95 ngày tuổi) lấy mẫu huyết thanh đem xét nghiệm hiệu giá kháng thể bằng phản ứng HI. Tổng số mẫu huyết thanh gồm có 176 mẫu huyết thanh của vịt (44 mẫu chưa tiêm phòng ở 14 ngày tuổi, 44 mẫu tiêm phòng lần một ở 35 ngày tuổi, 44 mẫu tiêm phòng lần hai ở 65 ngày tuổi và 44 mẫu sau tiêm phòng lần 2 ở 95 ngày tuổi) và 80 mẫu huyết thanh vịt xiêm (20 mẫu chưa tiêm phòng ở 14 ngày tuổi, 20 mẫu tiêm phòng lần một ở 35 ngày tuổi, 20 mẫu tiêm phòng lần hai ở 65 ngày tuổi và 20 mẫu sau tiêm phòng lần 2 ở 95 ngày tuổi). Mẫu huyết thanh lấy ngẫu nhiên trong đàn, mỗi đàn vịt lấy 11 mẫu/hộ/lần và vịt xiêm lấy 5 mẫu/hộ/lần (tỷ lệ lấy mẫu huyết thanh từ 5-5,5% tổng đàn).
+
+Bảng 1: Bố trí lấy mẫu huyết thanh trên vịt và vịt Xiêm trước và sau khi tiêm phòng
+Giống vịtThời điểm lấy mẫu (ngày tuổi)Trước tiêm phòngSau tiêm phòng14356595Vịt44444444Vịt xiêm20202020Tổng64646464   Dụng cụ lấy mẫu huyết thanh: Ống tiêm vô trùng loại 3 ml và 5 ml, bông gòn, cồn 700, găng tay, khẩu trang, kính bảo hộ. 
+   Cách lấy huyết thanh: Máu được lấy từ tĩnh mạch chân lúc vịt được 14 ngày tuổi và tỉnh mạch cánh lúc vịt được 35, 65 và 95 ngày tuổi sau đó tách huyết thanh để xét nghiệm kháng thể.
+   Nguyên liệu dùng trong xét nghiệm: Kháng nguyên cúm gia cầm vô hoạt H5N1 (Veterinary laboratories Agency, Weybridge, United Kingdom). Hồng cầu gà 0,5%, dung dịch chống đông (Alsever`s solution), PBS, nước muối sinh lý....
+   Qui trình phát hiện kháng thể cúm gia cầm bằng phản ứng ức chế ngưng kết hồng cầu - Hemagglutination Inhibition -HI (Cục Thú y, 2009).
+   Xử lý số liệu
+   Số liệu thô được tổng hợp xử lý bằng phần mềm Excel, sau đó được xử lý thống kê bằng phần mềm Minitab13.21 (2000). Dùng kiểm định  χ2 (chi- Square) để so sánh tỷ lệ bảo hộ và tỷ lệ dương tính.
+   Sử dụng công cụ Equation trong Microsoft Office Word để thực hiện phép toán: Hiệu giá kháng thể trung bình hình học là đối log2 của trung bình mã hóa. GMT được tính kể từ mẫu có hiệu giá ≥ 4 log2 (Cục Thú y, 2005).
+   GMT =  (X1* 4 + X2* 5 +X3* 6 + X4*7 + X5* 8 + X6*9)/X                       
+   Trong đó:  X1 là số mẫu có hiệu giá 4log2
+            X2 là số mẫu có hiệu giá 5log2
+            X3 là số mẫu có hiệu giá 6log2
+            X4 là số mẫu có hiệu giá 7log2
+            X5 là số mẫu có hiệu giá 8log2
+            X6 là số mẫu có hiệu giá 9log2
+            X là tổng số mẫu khảo sát.
+   3 
+KẾT QUẢ THẢO LUẬN
+   3.1 Kháng thể của vịt và vịt Xiêm chưa tiêm phòng lúc 14 ngày tuổi
+   Để biết được hàm lượng kháng thể từ vịt mẹ truyền sang vịt con trước khi tiêm phòng, kháng thể thụ động từ vịt mẹ truyền được phân tích, kết quả được thể hiện qua Bảng 2.
+   Kết quả của Bảng 2 cho thấy đến lúc 14 ngày tuổi cả vịt và vịt Xiêm đều không có miễn dịch với bệnh cúm gia cầm. Do đó, lượng kháng thể thể thụ động từ vịt mẹ truyền sang trên cả hai giống vịt và vịt xiêm đến 14 ngày tuổi không đủ khả năng bảo hộ cho đàn gia cầm khi có virus cúm độc lực cao xâm nhập. Theo qui định của Cục Thú y, tỷ lệ bảo hộ phải đạt ít nhất 70% số mẫu kiểm tra hàm lượng kháng thể HI ≥ 4log2 được xem là có miễn dịch đối với đàn được tiêm phòng (Cục Thú y, 2009).
+   Theo Simon and Shane (1997), kháng thể thụ động có thể bảo hộ đàn gia cầm con khi tiếp xúc với một số mầm bệnh sau khi mới nở tới 2 tuần. Các kháng thể từ gia cầm mẹ truyền sang lưu hành trong máu sẽ tăng từ ngày thứ 1 đến ngày thứ 3 khi lòng đỏ trứng tiếp tục hấp thu hoàn toàn nhưng sau đó kháng thể sẽ giảm dần từ 1 đến 3 tuần, tùy theo tính chất phân hủy của kháng thể.
+
+Bảng 2: Kết quả xét nghiệm đánh giá kháng thể của vịt và vịt Xiêm chưa tiêm phòng lúc 14 ngày tuổi
+Giống vịtNgày tuổi vịtSố mẫu xét nghiệmSố mẫu đạt HGKT HI (xlog2)GMT  (log2)Tỷ lệ   BH (%)<445678Vịt144444000000000Vịt Xiêm142020000000000Ghi chú: HGKT: Hiệu giá kháng thể, GMT: Hiệu giá kháng thể trung bình
+   
+   3.2 Đáp ứng miễn dịch sau khi tiêm phòng vaccine cúm gia cầm lúc 21 ngày tuổi (lần 1) trên đàn vịt và vịt Xiêm  
+   Đàn vịt và vịt Xiêm được tiến hành tiêm phòng 
+lần một lúc 14 ngày tuổi và lấy mẫu huyết thanh sau đó 21 ngày (lúc này vịt và vịt Xiêm được 35 ngày tuổi) và kết quả được thể hiện Bảng 3.
+
+Bảng 3: Đáp ứng miễn dịch của vịt và vịt Xiêm 21 ngày sau khi tiêm phòng lần 1
+Giống vịtNgày tuổi    vịtSố mẫu xét nghiệmSố mẫu đạt HGKT HI (xlog2)GMT  (log2)Tỷ lệ   BH (%)<445678Vịt3544141486203,3268,18Vịt Xiêm352081200002,460,00Ghi chú: HGKT: Hiệu giá kháng thể; BH: Bảo hộ; GMT: Hiệu giá kháng thể trung bình
+   
+   Kết quả ở Bảng 3 cho thấy tỷ lệ bảo hộ lúc 21 ngày sau tiêm phòng lần 1 (liều 0,5 ml/con tại da cổ) ở vịt và vịt xiêm với vaccine H5N1 Re-6 lần lượt là 68,18% và 60%, tương ứng với các giá trị GMT là 3,32 log2 và 2,4 log2 khác biệt không có ý nghĩa thống kê (p=0,523) về đáp ứng miễn dịch của vịt và vịt Xiêm với vaccine này. Đối với vịt Xiêm, hiệu giá kháng thể tập trung ở 4log2 và không phân bố lên mức cao nữa cho thấy vịt xiêm có đáp ứng miễn dịch chậm hơn so với vịt. Điều này cho thấy vaccine H5N1 Re-6 không đủ khả năng bảo hộ trên hai giống vịt tại thời điểm 21 ngày sau khi tiêm phòng lần 1. Kết quả trên cho thấy rằng việc tiêm phòng vaccine 1 lần chưa đủ mức kháng thể bảo hộ, dịch cúm gia cầm vẫn có khả năng xảy ra. Kết quả này phù hợp với tình hình dịch bệnh thực tế: trong thời gian qua một số hộ chăn nuôi báo cáo vịt chết hàng loạt, qua kiểm tra phát hiện đàn vịt dương tính với virus cúm A, H5N1. Mặc dù các hộ chăn nuôi này báo cáo rằng trước đó đàn vịt của họ đã được tiêm phòng vaccine cúm, nhưng thực tế đàn vịt này chỉ mới được tiêm phòng vaccine cúm 1 lần. Theo Tô Long Thành (2006), 96% số ổ dịch xảy ra trên 18 tỉnh trong năm 2006 là trên đàn vịt 1-2 tháng tuổi chưa được tiêm phòng, số còn lại 4% đã được tiêm phòng nhưng chưa đủ thời gian, hoặc chưa đủ số lần tiêm. Nguyên tắc tiêm phòng dịch là quần thể được gây nhiễm dịch phải đạt tỷ lệ bảo hộ trên 70% số cá thể được tiêm, nếu dưới mức đó miễn dịch chỉ là miễn dịch cho từng cá thể. Sức đề kháng của quần thể thấp thì virus sẽ tấn công vào gây bệnh bất cứ lúc nào. Do đó, cần thiết phải tiêm nhắc lại lần 2 cho đàn vịt.
+   3.3 Đáp ứng miễn dịch của vịt và vịt Xiêm 30 ngày và 60 ngày sau khi tiêm phòng lần 2
+   Tiêm phòng lần 2 được tiến hành sau tiêm lần 1 là 21 ngày và tiến hành lấy mẫu huyết thanh sau tiêm phòng 30 ngày, lúc này vịt và vịt Xiêm được 65 ngày tuổi và cho kết quả như sau:
+
+
+
+Bảng 4: Đáp ứng miễn dịch của vịt và vịt Xiêm lú 30 ngày sau khi tiêm phòng lần 2
+Giống vịtNgày tuổi    vịtSố mẫu xét nghiệmSố mẫu đạt HGKT HI (xlog2)GMT  (log2)Tỷ lệ   BH (%)<445678Vịt654406326005,0100Vịt Xiêm65205690003,4575Ghi chú: HGKT: Hiệu giá kháng thể; BH: Bảo hộ; GMT: Hiệu giá kháng thể trung bình
+   
+   Kết quả Bảng 4 cho thấy rằng sau khi tiêm phòng lần thứ 2 với liều 1ml/con hiệu giá kháng thể trên đàn vịt và vịt Xiêm tập trung ở 5 log2 và tỷ lệ bảo hộ lần lượt là 100% và 75%, tương ứng với giá trị GMT là 5log2 và 3,45 log2 khác biệt có ý nghĩa thống kê (p=0,001). Điều này cho thấy rằng đáp ứng miễn dịch của vịt Xiêm đối với vaccine H5N1 chủng Re-6 chậm hơn vịt. 
+   Đồng thời từ kết quả Bảng 4 cũng cho thấy tỷ lệ bảo hộ của vịt 30 ngày sau tiêm phòng lần 2 là 100% cao hơn nghiên cứu của Phan Chí Tạo và Trần Ngọc Bích (2016) 30 ngày sau tiêm phòng lần 2 có tỷ lệ bảo hộ là 93,33%. 
+
+Bảng 5: Đáp ứng miễn dịch của vịt và vịt Xiêm 60 ngày sau khi tiêm phòng lần 2 với vaccine H5N1 Re-6
+Giống vịtNgày tuổi vịtSố mẫu xét nghiệmSố mẫu đạt HGKT HI (xlog2)GMT  (log2)Tỷ lệ   BH (%)<445678Vịt954438285004,5993,18Vịt Xiêm95206680003,270   
+   Kết quả Bảng 5 cho thấy rằng 60 ngày sau khi tiêm phòng lần thứ 2 với liều 1ml/con hiệu giá kháng thể trên đàn vịt và vịt Xiêm tập trung ở 5 log2 và tỷ lệ bảo hộ lần lượt là 93,18% và 70%, tương ứng với giá trị GMT là 4,59 log2 và 3,2 log2 có sự khác biệt có ý nghĩa (p=0,013). Điều này cho thấy rằng tỷ lệ bảo hộ và GMT của vịt và vịt xiêm đạt cao nhất ở 65 ngày tuổi và sau đó giảm dần ở 95 ngày. Kết quả Bảng 5 cho thấy ở vịt tỷ lệ bảo hộ là 93,18% so với nghiên cứu của Phan Chí Tạo (2016) 60 ngày sau khi vịt được tiêm vaccine lần 2 có tỷ lệ bảo hộ là 86,67%. Sự chênh lệch đó có thể là do các tác động như điều kiện chăm sóc nuôi dưỡng sau tiêm phòng, kỹ thuật bảo quản và sử dụng vaccine, ngoài ra còn do ảnh hưởng của từng cá thể vịt. 
+   4 KẾT LUẬN
+   Lúc 14 ngày tuổi, cả vịt và vịt Xiêm đều không có miễn dịch với bệnh cúm gia cầm. Ở thời điểm 21 ngày sau khi tiêm phòng lần 1 cho vịt lúc 14 ngày tuổi, tỷ lệ bảo hộ là 68,18% và ở vịt xiêm là 60%. Theo quy định của Cục Thú Y tỷ lệ này không đủ bảo hộ cả đàn vịt và vịt xiêm.
+   Lúc 30 ngày sau khi tiêm phòng lần 2 tỷ lệ bảo hộ của vịt và vịt Xiêm lần lượt là 100% và 75%, qua sự phân tích cho thấy đáp ứng miễn dịch của vịt xiêm chậm hơn vịt đối với vaccine H5N1. 
+   
+Lúc 60 ngày sau khi tiêm phòng lần thứ 2 tỷ lệ bảo hộ của vịt, vịt xiêm lần lượt là 93,18% và 70%, tỷ lệ này đủ bảo hộ nhưng qua phân tích cho ta thấy rằng tỷ lệ bảo hộ của vịt và vịt xiêm đạt cao nhất ở 65 ngày và sau đó giảm dần ở 95 ngày.
+   TÀI LIỆU THAM KHẢO
+Chăn nuôi Việt Nam, 2017. Thống kê nuôi heo, gia cầm 1.4.2017, ngày truy cập 28.005.2018 từ http://channuoivietnam.com/thong-ke-chan-nuoi/tk-chan-nuoi/
+Cục Thú y, 2009. Hướng dẫn giám sát sau tiêm phòng và giám sát lưu hành virus cúm gia cầm năm 2009, Số 487/TY-DT, ngày 01/04/2009.
+Phan Chí Tạo và Trần Ngọc Bích, 2016. Khảo sát khả năng đáp ứng miễn dịch đối với 2 loại vaccine cúm gia cầm H5N1 trên vị tại Hậu Giang, Tạp chí Khoa học Trường Đại học Cần Thơ, 44b (2016). 127-131.
+Simon and Shane M., 1997. Handbook on Poultry Diseases. Copyright 1997 by American Soybean Association: 58.
+Tô Long Thành, 2006. Thông tin cập nhật về cúm gia cầm và vacxin phòng chống bệnh cúm gia cầm, Tạp chí khoa học kỹ thuật thú y, số XIII (1): 66-76.
+Minitab, 2000. Minitab reference manual release 13.21. Minitab Inc.
+Tạp chí Khoa học Trường Đại học Cần Thơ 		Tập 54, Số 4B (2018): 50-53
+
+
+

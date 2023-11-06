@@ -1,0 +1,100 @@
+﻿
+CHẾ TẠO GẠCH KHÔNG NUNG TỪ ĐẤT BỒI LẮNG
+Võ Duy Đăng Khôi1, Đoàn Văn Hồng Thiện2, Huỳnh Kỳ Phương Hạ1, Nguyễn Quang Long1 và Nguyễn Đình Hùng3
+1 Khoa Kỹ thuật hóa học, Trường Đại học Bách Khoa TP.HCM
+2 Khoa Công nghệ, Trường Đại học Cần Thơ 
+3 Khoa Kỹ thuật xây dựng, Trường Đại học Quốc tế - ĐHQG TP.HCM
+Thông tin chung:
+Ngày nhận: 05/05/2015
+Ngày chấp nhận: 27/10/2015
+Title: 
+Production of unfired bricks using river sediment
+Từ khóa: 
+Đất bồi lắng, tro trấu, hydrat hóa, geopolymer
+Keywords:
+Sediment, rice husk ash, hydration, geopolymer   ABSTRACT
+In recent years, the phenomenon of fast sedimentation in rivers causes obstructive water-way traffic. They have also impacted indirectly negatively on the environment and the aquaculture. In addition, rice husk and rice husk ash is uncontrollably discharged into the environment with a large amount, which seriously affects the ecological environment. Unfired brick made from sediment and rice husk ash is the result of the curing process that takes place at atmospheric condition by hydration in the reaction of cement and the geopolymerization in an alkaline environment. This study showed that unfired bricks from sediment and rice husk ash can be the new material that satisfies the needs of construction materials in the future. Unfired bricks have the promising characteristics to help the development of unfired construction materials in the environmentally friendly direction.
+   TÓM TẮT
+Trong những năm gần đây, hiện tượng bồi lắng nhanh trên các con sông là nguyên nhân gây cản trở giao thông đường thủy. Ngoài ra, chúng còn gián tiếp tác động tiêu cực đến môi trường và nuôi trồng thủy sản. Bên cạnh đó, trấu và tro trấu được thải ra môi trường với lượng lớn không kiểm soát gây ảnh hưởng trầm trọng đến môi trường sinh thái. Gạch không nung chế tạo từ đất bồi lắng và tro trấu là kết quả của sự đóng rắn nhờ quá trình hydrat hóa trong phản ứng của xi măng và quá trình geopolymer hóa trong môi trường kiềm, quá trình đóng rắn diễn ra trong điều kiện khí quyển. Nghiên cứu này cho thấy gạch khung nung từ đất bồi lắng và tro trấu là vật liệu mới phù hợp với nhu cầu vật liệu xây dựng trong tương lai. Gạch không nung này có các đặc tính triển vọng giúp phát triển vật liệu xây không nung theo hướng thân thiện với môi trường.
+   1 GIỚI THIỆU
+   Do điều kiện tự nhiên và quá trình phát triển kinh tế - xã hội, hiện tượng bồi lắng trên các dòng sông xảy ra nhanh hơn trong thời gian gần đây, đó là nguyên nhân gây cản trở giao thông. Khả năng cấp và thoát nước kém của nhiều con sông đã ảnh hưởng xấu đến nuôi trồng thủy sản do chất lượng nước không tốt. Ngoài ra, hiện tượng dòng sông bị bồi lắng nhanh gây ô nhiễm môi trường và lây lan dịch bệnh. Hiện nay, gạch không nung đang được nghiên cứu với nhiều quy trình công nghệ và nguyên liệu khác nhau (Chindaprasirt, et al., 2008, Görhan, et al., 2013, Heath, et al., 2009, Miqueleiz, et al., 2013, Oti, et al., 2012, Rahman, 1988, Zhang, 2013). Đất bồi lắng có thành phần chủ yếu là SiO2 và Al2O3 và một ít thành phần khác, nguyên liệu có thể chế tạo gạch không nung. Tro trấu là sản phẩm của quá trình đốt vỏ trấu, tro trấu là chất thải với lượng lớn luôn tiềm ẩn mối đe dọa nghiêm trọng đến môi trường sinh thái ở Việt Nam. Tro trấu có thành phần chủ yếu là khoáng silic và là nguyên liệu tốt để sản xuất gạch không nung dựa trên quá trình polymer vô cơ (Oti, et al., 2009, Rahman, 1988).
+   Geopolymer hay còn gọi là polymer vô cơ được nhà khoa học người Pháp Joseph Davidovits giới thiệu vào những năm 1970, là loại vật liệu tổng hợp từ nguyên liệu aluminosilicate với một dung dịch kiềm ở nhiệt độ thường để tạo ra sản phẩm bền và có cường độ (Davidovits, 2005, Provis, et al., 2009). Thành phần chủ yếu của geopolymer là các nguyên tố Si và Al nằm ở dạng aluminosilicate có nguồn gốc địa chất hoặc vật liệu phế thải như tro bay, tro trấu... Chất hoạt hóa kiềm được sử dụng phổ biến nhất là NaOH, KOH và thủy tinh lỏng natri silicat nhằm tạo môi trường kiềm và tham gia vào các phản ứng geopolymer hóa. Vật liệu geopolymer tổng hợp từ aluminosilicate được tạo thành từ mạng lưới Poly Sialate trên cơ sở các tứ diện SiO4 và AlO4 với công thức như sau (Davidovits, 1999):
+   Mn[-(SiO2)z - AlO2]n.wH2O
+   Trong đó: 	M - là các nguyên tử kiềm Na, K hay Ca
+   		n - mức độ polymer hóa
+   		z - 1, 2, 3 hay >3
+   Thành phần hóa học của vật liệu geopolymer có cấu trúc vô định hình đến nữa tinh thể, bao gồm những loại: -Si-O-Al-O- , polysialate (PS), tương ứng với tỉ lệ Si/Al = 1; -Si-O-Al-O-Si-O- , polysialate - siloxo (PSS), tương ứng với tỉ lệ Si/Al = 2, -Si-O-Al-O-Si-O-Si-O-, polysialate - disiloxo (PSSS), tương ứng với tỉ lệ Si/Al = 3 (Davidovits, 2005). Thông số quyết định đến tính chất và dạng sử dụng của geopolymer là tỉ lệ Si/Al. Với vật liệu xây dựng tỉ lệ Si/Al khoảng xấp xỉ 2 (Davidovits, 1999). Như vậy, trong hệ thống có sự hiện diện của hai cơ chế (i) Cơ chế polymer hóa vô cơ từ các khoáng hoạt tính trong môi trường kiềm và (ii) Cơ chế hydrat hóa các khoáng canxi - silicate có trong xi măng portland.
+   Nghiên cứu này trình bày các kết quả về cường độ nén, độ hút nước, phân tích nhiễu xạ tia X (XRD), phân tích kính hiển vi điện tử quét (SEM), phân tích nhiệt vi sai (DTA) của gạch không nung được chế tạo từ nguyên liệu chính là đất bồi lắng.
+   2 THỰC NGHIỆM
+   2.1 Hóa chất và vật liệu
+   Trong nghiên cứu này, đất bồi lắng trên địa bàn tỉnh Cà Mau được sử dụng làm nguyên liệu chủ yếu để sản xuất gạch không nung. Tro trấu được cung cấp bởi khu công nghiệp Hòa Trung - Cà Mau. Xi măng sử dụng xi măng Hà Tiên PCB40 với thành phần chủ yếu CaO 63 - 66%, SiO2 21 - 24%, Al2O3 6 - 8%.
+   2.2 Quy trình chế tạo
+    Đất sau khi thu gom được để khô tự nhiên đến ẩm nhỏ hơn 5%, sau đó đất được nghiền đến kích thước hạt nhỏ hơn 1 mm. Phối liệu gồm đất bồi lắng, xi măng PC40, tro trấu, thủy tinh lỏng và nước được trộn chung trong thời gian 5 - 10 phút để đạt độ đồng nhất, sau đó hỗn hợp được tạo hình trong khuôn với kích thước viên gạch 4 lỗ 80x80x180 mm với độ rỗng khoảng 35%, áp lực tạo hình khoảng 20 MPa. Thủy tinh lỏng được sử dụng 20 mL/ 1000 g rắn, nước thêm vào để độ ẩm sau khi trộn đạt khoảng 15%. Sau quá trình ép định hình, gạch được dưỡng ẩm 1 ngày, sau đó dưỡng hộ ngoài không khí. Bảng 1 mô tả các yếu tố thí nghiệm.
+Bảng 1: Thiết kế thí nghiệm. Trong đó: các thông số cố định như sau: Lực ép: 20 MPa; Thủy tinh lỏng: 20ml/1000g rắn; Độ ẩm sau khi trộn: 15%
+STTĐất bồi lắng (%)Xi măng (%)Tro trấu (%)1553510260301036525104702010575151066535076530586025159602020   Hình 2 mô tả ảnh hưởng của tỉ lệ tro trấu lên cường độ nén của gạch không nung. Khi tỉ lệ tro trấu tăng thì cường độ nén cũng giảm. Hình 2 cho thấy tỉ lệ tro trấu trên 10% thì cường độ nén dưới mức 3.5 MPa, không phù hợp với tiêu chuẩn đề ra. Do tro trấu tạo độ xốp cho vật liệu nên khi tăng hàm lượng tro sẽ tăng độ xốp đồng thời giảm khả năng chịu nén của vật liệu. Ngoài ra, sự gia tăng cường độ nén từ 7 ngày lên 28 ngày khá đáng kể do phản ứng đóng rắn của xi măng vẫn xảy ra trong khoảng thời gian 28 ngày.
+   2.3 Phân tích xác định tính chất gạch không nung
+   Mẫu gạch hoàn chỉnh được xác định độ hút nước, cường độ nén, tại thời điểm 7 ngày và 28 ngày dưỡng hộ trên máy đo cường độ nén EXCEED SERIES 60, điều kiện tiến hành dựa vào TCVN 6477 - 2011.
+   Vật liệu được tiếp tục nghiên cứu thành phần, các đặc trưng liên kết và hình thái bề mặt nhờ các phương pháp phân tích hiện đại như: nhiễu xạ tia X (XRD) trên máy SIEMENS D500, kính hiển vi điện tử quét (SEM) trên máy HITACHI S4800, phân tích nhiệt vi sai (DTA) trên máy TPASCII2 trong môi trường không khí.
+   3 KẾT QUẢ VÀ BÀN LUẬN
+   3.1  Thành phần hóa học của nguyên liệu
+   Bảng 2 mô tả thành phần hóa học của đất bồi lắng được xác định bằng phương pháp XRF. Kết quả cho thấy thành phần SiO2 chiếm tỉ lệ lớn 52.79%, Al2O3 và Fe2O3 chiếm tỉ lệ cũng khá cao lần lượt 18.03% và 14.62%. SiO2 và Al2O3 là nguồn cung cấp Si và Al cho quá trình polymer hóa. Đất bồi lắng có pH gần bằng 6, lượng muối hòa tan 1,0461%, tỉ trọng 2.26 g/cm3. Đây là loại đất chua và mặn. Bảng 3 biểu diễn thành phần hóa học của tro trấu với SiO2 chiếm tỉ lệ lớn (87.75%) là nguyên liệu cung cấp Si cho quá trình polymer hóa của vật liệu.
+   
+Bảng 2: Thành phần hóa học của đất bồi lắng
+SiO2 (%)Al2O3 (%)Fe2O3 (%)K2O (%)MgO (%)SO3 (%)TiO2 (%)Ca (%)CaO (%)P2O5 (%)52.7918.0314.625.502.402.071.941.060.690.20Bảng 3: Thành phần hóa học của tro trấu
+SiO2 (%)Al2O3 (%)Fe2O3 (%)CaO (%)MgO (%)K2O (%)Na2O (%)SO3 (%)TiO2 (%)MKN (%)88.750.520.481.040.561.240.670.530.116.10       
+   3.2 Tính chất cơ lý của gạch không nung
+   Hình 1 mô tả ảnh hưởng của tỉ lệ đất bồi lên cường độ nén của gạch không nung. Khi tỉ lệ đất bồi lắng tăng lên thì cường độ nén giảm xuống. Cường độ nén giảm đáng kể khi tỉ lệ đất bồi lắng trên 65% (dưới 3.5 MPa). Nguyên nhân vì tỉ lệ đất bồi lắng tăng lên tương ứng tỉ lệ xi măng giảm xuống gây giảm khả năng đóng rắn của vật liệu. Như vậy, vật liệu đạt được cường độ tiêu chuẩn khi hàm lượng đất bồi lắng dưới 65%.
+
+Hình 1: Sự phụ thuộc cường độ nén vào hàm lượng đất bồi lắng
+   Hình 2 mô tả ảnh hưởng của tỉ lệ tro trấu lên cường độ nén của gạch không nung. Khi tỉ lệ tro trấu tăng thì cường độ nén cũng giảm. Hình 2 cho thấy tỉ lệ tro trấu trên 10% thì cường độ nén dưới mức 3.5 MPa, không phù hợp với tiêu chuẩn đề ra. Do tro trấu tạo độ xốp cho vật liệu nên khi tăng hàm lượng tro sẽ tăng độ xốp đồng thời giảm khả năng chịu nén của vật liệu. Ngoài ra, sự gia tăng cường độ nén từ 7 ngày lên 28 ngày khá đáng kể do phản ứng đóng rắn của xi măng vẫn xảy ra trong khoảng thời gian 28 ngày.
+
+Hình 2: Sự phụ thuộc cường độ nén vào lượng tro trấu với tỉ lệ đất bồi lắng 65%
+   Hình 3 biểu diễn sự phụ thuộc độ hút nước vào hàm lượng đất bồi lắng. Độ hút nước của gạch không nung tăng tương ứng khi hàm lượng tro trấu được tăng lên. Điều này cũng xảy ra khi tỉ lệ bùn bồi lắng tăng lên đồng thời tỉ lệ xi măng giảm xuống làm giảm quá trình hydrat hóa, polymer hóa trong vật liệu và làm cho các lỗ trống giữa các hạt còn tồn tại. Từ đó làm cho độ hút nước tăng lên.
+
+Hình 3: Sự phụ thuộc độ hút nước vào hàm lượng đất bồi lắng
+   Hình 4 biểu diễn sự phụ thuộc độ hút nước vào lượng tro trấu với tỉ lệ đất bồi lắng. Từ đồ thị cho thấy độ hút nước của gạch không nung phụ thuộc lớn vào lượng tro trấu thêm vào, khi tỉ lệ tro trấu tăng lên thì độ hút nước tăng lên. Điều này chứng tỏ, khi hàm lượng tro trấu tăng lên các lỗ trống tăng 
+lên do tro trấu có cấu trúc xốp nên tăng khả năng hút nước của vật liệu. Mặt khác, sự chênh lệch độ hút nước của vật liệu từ 7 ngày đến 28 ngày bảo dưỡng cũng không đáng kể do các liên kết đã hình thành chủ yếu trong thời gian ban đầu. Vật liệu có độ hút nước đạt tiêu chuẩn (độ hút nước < 14% theo TCVN 6477 - 2011) khi tỉ lệ tro trấu thấp 
+hơn 10%.
+
+Hình 4: Sự phụ thuộc độ hút nước vào lượng tro trấu với tỉ lệ đất bồi lắng 65%
+   3.3 Cấu trúc của gạch không nung
+   Hình 5 là ảnh của đất bồi lắng và gạch không nung được làm từ đất bồi lắng. Kết quả sơ bộ cho thấy gạch không nung được chế tạo thành công. Để hiểu rõ hơn về thành phần và tính chất của gạch không nung, các phân tích SEM, XRD, phân tích nhiệt vi sai cũng được khảo sát. 
+
+
+Hình 5: Ảnh của (A) đất bồi lắng, (B) Gạch không nung từ đất bồi lắng
+   
+   Hình 6 cho thấy kết quả XRD của đất và gạch không nung, mẫu đất bồi lắng được cấu thành từ các khoáng sét chủ yếu là quartz, kyanite... Đối với mẫu gạch không nung, kết quả XRD cho thấy vật liệu có sự hình thành cấu trúc khoáng Pyrophylite Al2Si4O10(OH)2 với mức độ polymer hóa Si/Al = 2, có sự hình thành cấu trúc geopolymer trong vật liệu. Mặt khác cường độ peak của quartz đã giảm.
+
+
+Hình 6: Kết quả XRD (1) đất bồi lắng - (2) gạch không nung
+   
+   Hình 7 là ảnh SEM của đất bối lắng và gạch không nung. Quan sát bề mặt mẫu đất bồi lắng, thấy trong cấu trúc vật liệu gồm các pha vô định hình, có độ xốp tương đối cao. 
+   
+   
+Hình 7: Ảnh SEM của (A) đất bối lắng; (B) gạch không nung  với 65% đất bồi lắng
+   
+   Hình 8 thể hiện hình thái bề mặt của gạch không nung có 65% đất bồi lắng. Có thể thấy vật liệu có độ xốp thấp hơn, cấu trúc vật liệu khít chặt hơn. Độ xốp thấp giúp vật liệu tăng cơ tính.
+
+
+Hình 8: Kết quả phân tích DTA của mẫu gạch không nung với 65% đất bồi lắng
+   Theo kết quả phân tích DTA (Hình 8), mẫu giảm khối lượng tại peak 100 oC đến peak 700 oC, đường DTA cho thấy peak tỏa nhiệt ở 339.4 oC điều này được giải thích là do sự phân hủy của các hợp chất hữu cơ có trong gạch không nung, khối lượng mẫu mất khoảng 16%.
+   4 KẾT LUẬN
+   Gạch không nung đã chế tạo được gạch từ hỗn hợp đất bồi lắng, tro trấu và xi măng Portland. Vật liệu đạt cường độ nén từ 2.4 - 4.3 MPa, độ hút nước 12.91 - 14.88 %. Gạch không nung với hàm lượng đất bồi lắng thấp hơn 65% và hàm lượng tro trấu không quá 10% cho kết quả đạt tiêu chuẩn kỹ thuật gạch xây M3.5. Ngoài ra, các kết quả XRD và SEM cũng cho thấy sự hình thành cấu trúc polymer vô cơ.
+   TÀI LIỆU THAM KHẢO
+Chindaprasirt, P. and K. Pimraksa, 2008. A study of fly ash-lime granule unfired brick. Powder technology: 33-41.
+Davidovits, J., 1999. Chemistry of geopolymeric systems, terminology. 
+Davidovits, J., 2005. Geopolymer chemistry and sustainable development. The poly (sialate) terminology: a very useful and simple model for the promotion and understanding of green-chemistry. 
+Görhan, G. and O. Şimşek, 2013. Porous clay bricks manufactured with rice husks. Construction and building materials: 390-396.
+Heath, A., P. Walker, C. Fourie and M. Lawrence, 2009. Compressive strength of extruded unfired clay masonry units. Proceedings of the ICE-Construction Materials: 105-112.
+Miqueleiz, L., F. Ramirez, J. Oti, A. Seco, et al., 2013. Alumina filler waste as clay replacement material for unfired brick production. Engineering Geology: 68-74.
+Oti, J. and J. Kinuthia, 2012. Stabilised unfired clay bricks for environmental and sustainable use. Applied Clay Science: 52-59.
+Oti, J., J. Kinuthia and J. Bai, 2009. Engineering properties of unfired clay masonry bricks. Engineering Geology: 130-139.
+Provis, J. and J. Van Deventer, 2009. Geopolymers: structure, processing, properties and industrial applications. Woodhead: Cambridge, UK: 
+Rahman, M., 1988. Effect of rice husk ash on the properties of bricks made from fired lateritic soil-clay mix. Materials and Structures: 222-227.
+Zhang, L., 2013. Production of bricks from waste materials-a review. Construction and building materials: 643-655.
+
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Phần A: Khoa học Tự nhiên, Công nghệ và Môi trường: 40 (2015): 22-27
+
+
+

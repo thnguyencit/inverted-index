@@ -1,0 +1,149 @@
+﻿
+TÍNH ỔN ĐỊNH CỦA BÀI TOÁN CÂN BẰNG NGẪU NHIÊN VÀ ÁP DỤNG
+Nguyễn Xuân Hải1 và Nguyễn Hồng Quân2
+1Khoa Khoa học tự nhiên, Đại học Thủ Dầu Một
+2Khoa Cơ bản 2, Học viện Công nghệ Bưu chính Viễn thông cơ sở tại thành phố Hồ Chí Minh
+Thông tin chung:
+Ngày nhận: 31/08/2015
+Ngày chấp nhận: 25/02/2016
+Title: 
+Stability of stochastic equilibrium problems and application
+Từ khóa: 
+Cân bằng ngẫu nhiên, Tính ổn định, Mêtric xác suất, Tối ưu ngẫu nhiên, Ánh xạ nghiệm
+Keywords:
+Stochastic equilibria, Stability, Probability metric, Stochastic optimization, Solution mapping   ABSTRACT
+In this paper, we propose a stochastic equilibrium problem involving parameter of probability measure (SEP). By introducing some probability metrics, we establish sufficient conditions for the solution map of (SEP) to be upper semicontinuous. Applications to stochastic programming problems are given.
+   TÓM TẮT
+Trong bài báo này, chúng tôi giới thiệu một bài toán cân bằng ngẫu nhiên phụ thuộc tham số độ đo xác suất (SEP). Bằng việc đề nghị vài mêtric xác suất trên không gian các tham số, chúng tôi xét tính ổn định cho (SEP). Kết quả sau đó được áp dụng cho một số trường hợp riêng của (SEP).Trích dẫn: Nguyễn Xuân Hải và Nguyễn Hồng Quân, 2016. Tính ổn định của bài toán cân bằng ngẫu nhiên và áp dụng. Tạp chí Khoa học Trường Đại học Cần Thơ. 42a: 97-103.
+   1  GIỚI THIỆU VÀ TỔNG QUAN
+   Gọi  và  là tập tất cả các độ đo xác suất Borel trên . Gọi là một ánh xạ đa trị và sao cho, với mỗi là hàm đo được. Trong bài báo này chúng tôi xét bài toán cân bằng ngẫu nhiên phụ thuộc tham số độ đo xác suất dưới đây:
+    (SEP) Tìm sao cho và  với mọi , ở đây là giá trị kì vọng của  theo độ đo . Khi và , ở đây hàm   sao cho  là đo được với mọi , thì bài toán (SEP) qui về bài toán tối ưu ngẫu nhiên phụ thuộc tham số độ đo xác suất sau: 
+                         (SOP)  .
+   Thêm vào đó, gọi , với là đo được cho mỗi , và K xác định bởi , khi đó (SEP) trở thành bài toán được xét trong (Rachev, S. T. and W. Romisch, 2002). Với bài toán (SEP), định nghĩa như sau:
+ (1)
+   Khi đó S  xác định một ánh xạ đa trị từ   vào  X  và được gọi là ánh xạ nghiệm của bài toán (SEP). Tính ổn định của ánh xạ nghiệm của bài toán tối ưu ngẫu nhiên đã được xét trong nhiều bài báo  
+   (Cho, G.M., 1995; Henrion, R. and W. Romisch, 1999; Nemirovski, A. et al., 2009; Rachev, S. T. and W. Romisch, 2002; Romisch, W. and R. J-B. Wets, 2007; Shapiro, A., 2008).
+   Gọi X, Y  là các  không gian mêtric và  là một hàm đa trị. H được gọi là đóng nếu đồ thị Graph Hcủa H là một tập đóng trong . H được gọi là nửa liên tục dưới (lsc) tại ,  nếu  và chỉ nếu ,  với tập mở  nào đó, thì tồn tại một lân cận mở N của  sao cho : . H gọi là nửa lên tục trên (usc) tại  nếu và chỉ nếu với mỗi tập mở  tồn tại một lân cận N của  sao cho .  H gọi là liên tục tại  nếu và chỉ nếu nó vừa usc vừa lsc  tại . Ta nói rằng H là lsc (usc, liên tục) nếu nó là lsc (usc, liên tục) tại mọi điểm của X. Ta dùng d(. , .) để kí hiệu mêtric trên không gian mêtric X. Với  và  ta kí hiệu:
+Khi đó nếu H có các ảnh compact thì H 
+là usc tại  nếu và chỉ nếu với mỗi số 
+dương  tồn tại số dương  > 0 sao cho  Khi Y là không 
+gian mêtric tuyến tính, H là nửa liên tục 
+trên Hausdorff (nửa liên tục dưới Hausdorff) 
+nếu và chỉ nếu với mỗi lân cận B của gốc trong 
+Y, tồn tại lân cận N của  sao cho với mọi . Ta cũng có tính chất là nếu H là ánh xạ đóng và có các ảnh là compact thì H là ánh xạ usc. 
+   Tính nửa liên tục trên (dưới) Hausdorff là yếu (mạnh) hơn tính nửa liên tục trên, nhưng chúng là tương đương khi các ảnh của ánh xạ H là compact. H được gọi là liên tục Hausdorff tại nếu nó vừa nửa liên tục trên Hausdorff tại  vừa nửa liên tục dưới Hausdorff tại . Tính liên tục Hausdorff thường được diễn tả theo thuật ngữ của mêtric Hausdorff như sau:  Với A và B là các tập con đóng của không gian metric X, khoảng cách Hausdorff  là một metric, và H là liên tục Hausdorff tại  nếu và chỉ nếu .
+   Một ánh xạ đơn trị  gọi là nửa liên tục trên (nửa liên tục dưới) nếu với mọi  tập mức trên   () là đóng trong X.
+   Gọi  là tập con đóng của  và  là độ đo xác suất Borel trên. Một hàm  gọi là khả tích chuẩn nếu ánh xạ  
+   là có các ảnh đóng và đo được. Nếu  là khả tích chuẩn thì   là nửa liên tục dưới cho mỗi và  là đo được cho mỗi .
+   2  CÁC MÊTRIC XÁC SUẤT CHO (SEP)
+   Nhiều mêtric xác suất đã được đưa ra bởi nhiều tác giả nhằm nghiên cứu các bài toán ngẫu nhiên khác nhau (xem Rachev, S. T., 1991). Trong mục này, chúng tôi giới thiệu vài mêtric và xây dựng các không gian tham số độ đo xác suất để nghiên cứu bài toán (SEP).
+   Với , đặt . Nhắc lại rằng, trên , mêtric Fortet-Mourier (xem Rachev, S. T., 1991) được xác định bởi: với mọi ,
+    , 
+   ở đây 
+   
+   Với các dữ kiện của bài toán (SEP), ta đặt , và định nghĩa khoảng cách  và  tương ứng trên  và  như sau:
+   , ;
+   , ,
+   ở đây h là khoảng cách Hausdorff xác định trên lớp tất cả các tập con của X.
+   Bổ đề 2.1 Với mỗi  và , nếu  là  lsc thì   là tập đóng trong X với mọi .
+   Chứng minh. Lấy bất kỳ dãy sao cho , theo bổ đề Fatou,
+ 
+   Do đó . Vậy  là tập đóng. 
+   Từ bây giờ trở đi, với bài toán (SEP) ta luôn giả thiết thêm X  là tập con compact của , ánh xạ đa trị K có các ảnh đóng, và  là lsc với mọi . Với các giả thiết này, các khoảng cách  và  tương ứng trở thành các mêtric trên  và , và như vậy các không gian tham số độ đo xác suất  và là các không gian mêtric. Sau này, khi xét cho (tương ứng, ) thì ta luôn giả thiết ánh xạ K từ  (tương ứng, ) vào X. Trong trường hợp  được xác định bởi
+ (2)
+   ở đây thỏa mãn với mỗi , và với mỗi  là lsc. Thế thì K không phụ thuộc vào x, và ta xem K như là ánh xạ từ  vào X. Trong trường hợp này, dùng bổ đề Fatou ta dễ dàng thấy rằng K luôn có các ảnh đóng.
+   Bổ đề 2.2 Với không gian , nếu ánh xạ  là liên tục theo biến thứ nhất thì nó là ánh xạ đóng và nửa liên tục dưới.
+   Chứng minh. Gọi là một dãy bất kỳ sao cho . Ta có:
+   
+
+.
+   Khi  trong  và  trong X ta có:  và . Do đó . Bây giờ 
+. 
+   Suy ra . Vì  là tập đóng trong X,. Vậy K là ánh xạ đóng. Ta chứng minh K nửa liên tục dưới. Lấy bất kì dãy  hội tụ đến , và lấy bất kì . Với mỗi n, do  là tập đóng nên tồn tại  sao cho . Khi đó ta có :
+, nghĩa là . Vậy K là nửa liên tục dưới.
+   Chứng minh tương tự như của Bổ đề 2.2 ta có bổ đề sau.
+   Bổ đề 2.3 Với không gian , nếu ánh xạ  là liên tục theo biến thứ nhất thì nó là ánh xạ đóng và nửa liên tục dưới.
+   Bổ đề 2.4 Với không gian , ánh xạ  được xác định bởi (2) là 
+đóng, và do K có các ảnh đóng nên K là nửa liên tục trên.  
+   Chứng minh. Lấy bất kì dãy  hội tụ đến  trong , và gọi  là dãy bất kì trong X  sao cho với mọi , và . Do bổ đề Fatou, với mọi , ta có     
+
+                             
+                             
+
+   Vậy , tức là K là đóng. 
+   3 TÍNH ỔN ĐỊNH CỦA (SEP)
+   Đầu tiên ta có kết quả sau về tính chất tôpô của tập nghiệm.
+   Mệnh đề 3.1   Cho , giả sử tập là  đóng và  là lsc và với mỗi ,  là lsc. Khi đó tập nghiệm  được xác định bởi  (1) là đóng.
+   Chứng minh. Giả sử  là một dãy bất kì sao cho. Ta chứng tỏ . Bởi công thức (1), với mọi . Vì  đóng, ta có , nghĩa là . Bây giờ lấy bất kì . Vì  là lsc, tồn tại dãy  với  sao cho . Từ tính nửa liên tục dưới của  và bổ đề Fatou ta có:
+  
+   Vậy . 
+   Từ đây trở đi, với bài toán (SEP) ta luôn giả sử tất cả các điều kiện trong định nghĩa của bài toán, các điều kiện nói đến trong Mục 2 và các Bổ đề 2.2-2.3 luôn được thỏa mãn. Ta giả thiết thêm rằng, với mỗi ,là liên tục.
+   Định lí 3.1 Với ánh xạ ,  ánh xạ nghiệm S được xác định bởi công thức (1), từ  vào X  là nửa liên tục trên.
+   Chứng minh. Giả sử tồn tại sao cho S không usc tại . Khi đó tồn tại lân cận mở U của  trong X và tồn tại các dãy  thỏa:  và với mọi   nhưng  Ta có:
+
+   Suy ra, với mọi n, tồn tại sao cho . Vì X là compact, do đó ta có thể giả sử . Khi đó . Do Bổ đề 2.2,  ánh xạ K là đóng. Hơn nữa, với mọi  . Suy ra . Bây giờ giả sử tồn tại sao cho . Đặt . Vì K là lsc (Bổ đề 2.2), tồn tại dãy  với cho mọi n, và . Hơn nữa,  là liên tục (do  liên tục). Vì vậy ta có:
+ 
+
+   Nhưng khi  ta có với n đủ lớn. Điều này mâu thuẫn với  . Vậy  với mọi . Do đó . Điều này mâu thuẫn với  và giả thuyết   với mọi n. Vậy S là usc. 
+   Định lí 3.2 Với ánh xạ , giả sử với mọi và với mọilà nửa liên tục dưới, và
+ (3)
+   Khi đó ánh xạ nghiệm S được xác định bởi công thức (1), từ vào X, là nửa liên tục trên.
+   Chứng minh. Giả sử S không usc tại . Thế thì tồn tại một lân cận mở U của  và các dãy  thỏa mãn:  và với mọi  nhưng  Lý luận tương tự như phần đầu trong chứng minh định lí 3.1 ta có thể giả sử . Bây giờ ta chứng minh 
+   . (4)
+   Thật vậy, vì K là lsc (Bổ đề 2.3) với bất kỳ , tồn tại dãy với với mọi n, và . Do (3), với mọi . Điều này cùng với tính nửa liên tục dưới của  và bổ đề Fatou ta có  
+   
+
+                             
+                             
+                            
+                            
+                            
+
+   Vậy (4) đúng. Do đó, và như vậy , mâu thuẫn với  với mọi n. 
+   Trong trường hợp  được xác định bởi (2) ta có kết quả sau.
+   Định lí 3.3 Nếu ánh xạ đa trị  được xác định bởi
+         
+   là đóng, thì ánh xạ nghiệm S được xác định bởi công thức (1), từ vào X,  là nửa liên tục trên.
+   Chứng minh. Từ các điều kiện của Định lí 3.3 ta thấy các điều kiện trong Mệnh đề 3.1 thỏa mãn. Do đó, theo Mệnh đề 3.1, ánh xạ nghiệm S có các ảnh đóng trong tập compact X. Ta có, với mọi ,
+  (5)
+    Vì K là ánh xạ đóng (do Bổ đề 2.4) và T là đóng nên từ (5) suy ra S cũng là ánh xạ đóng. Hơn nữa S có các ảnh compact nên suy ra nó là usc.
+   Nhận xét 3.1 Dùng bổ đề Fatou ta dễ dàng chứng minh được ánh xạ T trong Định lí 3.3 là đóng nếu K là liên tục và với mỗi  là nửa liên tục dưới.
+   4  ÁP DỤNG
+   4.1 Bài toán (SOP) 
+   Với bài toán (SOP) (xem Mục 1) ta luôn giả thiết các điều kiện trong định nghĩa của bài toán được thỏa mãn và ánh xạ K có các ảnh đóng. Trên  ta định nghĩa mêtric  như sau: với mọi ,   
+   Rõ ràng, với mọi , . Giá trị tối ưu của bài toán (SOP) tại tham số  là
+           .
+   Hệ quả 4.1 (a) Với ánh xạ, giả sử với mọi và với mọilà liên tục dưới, và
+  (6)
+   thế thì ánh xạ nghiệm  của (SOP), mà được xác định bởi (7), là nửa liên tục trên.
+. (7)
+   Với , giả sử các điều kiện trong (a) thỏa, thế thì ánh xạ nghiệm S xác định bởi (7), từ vào X,  là nửa liên tục trên. Hơn nữa,  ta có .
+   Chứng minh. (a) Áp dụng Định lí 3.2 với  và .
+   (b) Tính nửa liên tục trên của ánh xạ S được chứng minh tương tự như chứng minh của Định lí 3.2. Bây giờ, với mọi , lấy và   ta có:
+  
+
+                         
+   4.2 Bài toán tối ưu với ràng buộc ngẫu nhiên
+   Gọi X là tập con lồi, đóng, bị chặn của ,  như trong Mục 1. Gọi  là hàm liên tục, và  là vectơ 
+ngẫu nhiên m chiều. Xét bài toán tối ưu 
+với ràng buộc ngẫu nhiên (OP)  
+   (OP) là trường hợp riêng của (SEP) với  và . Đặt . Vì k liên tục,  là đóng. Do đó, khoảng cách  xác định trên , xác định bởi: với mọi ,  là một mêtric.
+   Hệ quả 4.2 Ánh xạ nghiệm  là nửa liên tục trên trong .                  
+   TÀI LIỆU THAM KHẢO
+Cho, G.M., 1995. Stability of the Multiple Objective Linear Stochastic Programming Problems. Bulletin of the Korean Mathematical Society. 32: 287-296.  
+Henrion, R. and W. Romisch, 1999. Metric Regular and Quantitative Stability in Stochastic Programs with Probabilistic Constraints. Mathematical Programming. 84: 55-88.
+Nemirovski, A. et al., 2009. Robust Stochastic Approximation Approach to Stochastic Programming. SIAM Journal on Optimization. 19: 1574-1609.
+Rachev, S. T., 1991. Probability Metrics and the Stability of Stochastic Models. Wiley, Chichester, U.K. 493pp.
+Rachev, S. T. and W. Romisch, 2002. Quatitative Stability in Stochastic Programming the Mathod of Probability Metrics. Mathematics of Operation Reseach. 27: 792-818.
+Romisch, W. and R. J-B. Wets, 2007. Stability of ε-Approximate Solutions to Convex Stochastic Programs. SIAM Journal on Optimization. 18(3): 961-979.
+Shapiro, A., 2008. Stochastic Programming Approach to Optimization under Uncertainty. Mathematical Programming. 112(B): 183-220.
+
+
+
+
+
+
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Phần A: Khoa học Tự nhiên, Công nghệ và Môi trường: 42 (2016): 97-103
+
+
+
