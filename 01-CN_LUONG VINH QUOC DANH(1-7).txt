@@ -1,0 +1,106 @@
+﻿
+HỆ THỐNG QUẢN LÝ TỰ ĐỘNG GHI NHẬN TÌNH TRẠNG SỬ DỤNG 
+THIẾT BỊ ĐIỆN QUA MẠNG CỤC BỘ
+Lương Vinh Quốc Danh1, Nguyễn Văn Khanh2, Võ Duy Tín1 và Võ Minh Trí2
+1 Bộ môn Điện tử Viễn thông, Khoa Công nghệ, Trường Đại học Cần Thơ
+2 Bộ môn Tự động hóa, Khoa Công nghệ, Trường Đại học Cần Thơ
+Thông tin chung:
+Ngày nhận: 08/11/2013
+Ngày chấp nhận: 28/04/2014
+
+Title: 
+An automatic management system for monitoring the status of electric equipment through local area networks
+Từ khóa: 
+Arduino, LAN, giám sát thiết bị, cảm biến dòng điện
+Keywords:
+Arduino, LAN, monitoring equipment, current sensors   ABSTRACT
+This paper presents the design of an automatic management system for monitoring the status of electric equipment. The system is capable of  recording the running time of electric  equipment, evaluating the efficiency of equipment use, and calculating energy consumption for enhancing the efficiency and reducing the cost of electricity consumption. The designed system is based on the Arduino Mega 2560 kit and current sensors to measure the current consumed by the electric equipment. The status information of equipment will be sent periodically to a server over a local area network (LAN). In this server, one can easily perform management tasks such as collecting, processing, and analyzing data on the frequency of equipment use. It can be expected that the proposed system will be useful for evaluating the efficiency of equipment use at companies.
+   TÓM TẮT
+Trong bài báo này, nhóm tác giả trình bày việc thiết kế một hệ thống quản lý tự động ghi nhận tình trạng sử dụng trang thiết bị điện nhằm mục đích giám sát thời gian sử dụng, đánh giá hiệu quả sử dụng thiết bị, và tính toán điện năng tiêu thụ hướng đến việc nâng cao hiệu quả sử dụng trang thiết bị và giảm chi phí điện năng. Hệ thống được thiết kế dựa trên nền tảng board Arduino Mega 2560 và cảm biến dòng điện để đo giá trị dòng điện tiêu thụ của thiết bị. Thông tin về trạng thái của thiết bị được định kỳ gửi về một máy tính làm chức năng server quản lý thông qua mạng cục bộ LAN. Tại đây, người quản lý có thể thu thập, xử lý và phân tích các số liệu liên quan đến tình trạng sử dụng trang thiết bị một cách thuận tiện. Hệ thống đề xuất có thể hữu ích trong việc quản lý hiệu năng sử dụng máy móc, thiết bị tại các cơ quan và doanh nghiệp.
+   1 GIỚI THIỆU 
+   Việc quản lý và nâng cao hiệu quả sử dụng máy móc, trang thiết bị là một công việc được các cơ quan, doanh nghiệp quan tâm thực hiện nhằm giảm chi phí sản xuất và tối đa hóa lợi nhuận. Việc quản lý và sử dụng máy móc thiết bị có thể được xem là có hiệu quả khi các máy móc, thiết bị được sử dụng triệt để về số lượng, về công suất và thời gian hoạt động. Mặc dù vậy, công việc quản lý hiệu quả sử dụng máy móc, thiết bị này thường được thực hiện một cách thủ công và không liên tục nên đã làm hạn chế mức độ tin cậy của kết quả đánh giá. Ngoài ra, phương pháp thực hiện thủ công còn có một hạn chế là tốn thời gian và nhân công. Một giải pháp cho vấn đề này là ứng dụng kỹ thuật điện tử truyền thông để thực hiện việc giám sát, quản lý tình trạng sử dụng trang thiết bị một cách tự động.
+   Trong thực tế, các giải pháp giám sát, ghi nhận điện năng tiêu thụ của thiết bị từ xa đã được các công ty thuộc lĩnh vực Kỹ thuật điện và Năng lượng giới thiệu trên thị trường [Schneider]. Mặc dù được thiết kế với nhiều tính năng mạnh, linh hoạt, các giải pháp này thường đòi hỏi chi phí đầu tư lớn và các thiết bị phục vụ việc giám sát cần phải được lắp đặt một cách đồng bộ. Bên cạnh đó, một số giải pháp giám sát và ghi nhận điện năng tiêu thụ của thiết bị từ xa sử dụng các công nghệ truyền thông tiên tiến như truyền tin qua đường dây truyền tải điện và mạng điện thoại di động cũng đã được thực hiện. Giải pháp truyền thông tin từ thiết bị giám sát về trung tâm thông qua đường dây tải điện (Power Line Communication) có ưu điểm là có thể tận dụng được mạng điện sẵn có làm phương tiện truyền dẫn (Islam, 2012), (Rashdi, 2012). Tuy nhiên, kỹ thuật này đòi hỏi đầu tư các modem truyền dẫn đắt tiền và tốc độ truyền dữ liệu cũng hạn chế. Giải pháp sử dụng tin nhắn SMS (Short Message Service) để gửi thông tin trạng thái của thiết bị điện thông qua mạng điện thoại di động cho phép việc giám sát thiết bị có thể được thực hiện linh hoạt trên phạm vi rộng lớn. Tuy nhiên, chi phí đầu tư cho hệ thống là khá cao do việc trang bị các modem gửi/nhận tin nhắn SMS tại các thiết bị giám sát và chi phí dành cho việc gửi các tin nhắn trong quá trình hoạt động của hệ thống.
+   Trong bài báo này, nhóm tác giả trình bày việc thiết kế một hệ thống quản lý tự động ghi nhận tình trạng sử dụng trang thiết bị điện nhằm mục đích giám sát thời gian sử dụng thiết bị, đánh giá hiệu quả sử dụng thiết bị hướng đến việc nâng cao hiệu quả sử dụng. Giải pháp truyền thông tin giữa thiết bị giám sát và trung tâm thông qua mạng cục bộ (LAN) được chọn nhằm tận dụng hệ thống mạng sẵn có. Nghiên cứu được thực hiện xuất phát từ nhu cầu thực tế của việc quản lý trang thiết bị tại các Khoa thuộc Trường Đại học Cần Thơ. Hệ thống đề xuất cũng có thể được ứng dụng trong việc quản lý hiệu năng sử dụng máy móc, thiết bị ở các cơ quan và doanh nghiệp.
+   2 CẤU TẠO VÀ NGUYÊN TẮC HOẠT ĐỘNG
+   2.1  Tổng quan hệ thống
+   Sơ đồ khối tổng quát của hệ thống, được mô tả như Hình 1, gồm có một module giám sát được kết nối trực tiếp với thiết bị cần giám sát nhằm ghi nhận mục đích và thời gian thực sử dụng thiết bị. Module giám sát kết nối với một máy chủ (server) ở xa thông qua mạng truyền thông hữu tuyến hoặc vô tuyến.
+
+
+Hình 1: Tổng quan hệ thống giám sát thời gian sử dụng thiết bị
+   Cấu tạo của một module giám sát nói chung bao gồm các bộ phận thực hiện các chức năng cơ bản sau: đo cường độ dòng điện tiêu thụ của thiết bị, đo hệ số cos (), và điều khiển tắt/mở thiết bị. Để thực hiện truyền/nhận dữ liệu từ máy chủ ở xa, module giám sát được tích hợp các bộ phận giao tiếp truyền thông với mạng cục bộ (LAN) và mạng thông tin di động. Trung tâm của bộ giám sát là một bộ vi xử lý có chức năng điều khiển hoạt động của các bộ phận nói trên.
+   Trong nghiên cứu này, để giảm chi phí đầu tư của hệ thống, nhóm tác giả đã chọn board mạch Arduino Mega 2560 kết hợp với board Arduino Ethernet Shield để xây dựng phần lõi của module giám sát thiết bị [Arduino]. Ngoài ra, dựa vào yêu 
+cầu thực tế của nhu cầu quản lý trang thiết bị, tính năng của module giám sát cũng được giới hạn với chức năng đo cường độ dòng điện tiêu thụ của thiết bị điện. Giải pháp truyền thông tin qua mạng LAN được sử dụng cho hệ thống để tận dụng cơ sở hạ tầng sẵn có tại đơn vị.
+   Việc chọn board mạch Arduino, một nền 
+tảng điện tử mã nguồn mở, để xây dựng module giám sát cho phép người thiết kế tận dụng được sức mạnh của phần cứng và thư viện phần mềm phát triển ứng dụng phong phú của board mạch Arduino, từ đó giảm được chi phí đầu tư cho 
+hệ thống.
+   Các thông tin về tần suất sử dụng thiết bị sẽ được lưu trữ tại module dưới dạng các tập tin dữ liệu, đồng thời các tập tin này được định kỳ truyền về máy chủ qua mạng LAN. Thông qua một phần mềm được thiết kế chuyên biệt cài đặt trên máy chủ, người quản trị hệ thống có thể thực hiện các công việc phân tích dữ liệu và vẽ biểu đồ thời gian sử dụng của các thiết bị cần giám sát.
+   2.2 Thiết kế phần cứng
+   2.2.1 Giới thiệu board Arduino
+   Hình 2 mô tả board mạch Arduino Mega 2560 được sử dụng làm chức năng giám sát thiết bị điện trong đề tài. Arduino Mega 2560 sử dụng vi điều khiển ATMega2560 với các tính năng: 54 cổng vào/ra số (trong đó 15 cổng có thể sử dụng như ngõ ra PWM), 16 ngõ vào tương tự, 4 bộ giao tiếp nối tiếp UART, 01 kết nối USB, 01 cổng nạp 
+chuẩn ICSP và 01 nút nhấn reset vi điều khiển. Bảng 1 trình bày các thông số kỹ thuật chính của board mạch.
+
+Hình 2: Board mạch Arduino Mega 2560
+
+Hình 3: Sơ đồ khối kết nối ngoại vi của hệ thống
+Bảng 1: Thông số kỹ thuật của board Arduino ATMega 2560
+Thông sốGiá trịĐơn vịĐiện áp hoạt động5VĐiện áp ngõ vào7~12VDòng DC tại I/O40mABộ nhớ flash256KBSRAM8KBEEPROM4KBTốc độ xung nhịp16MHz   2.2.2 Thiết kế các mạch ngoại vi
+   Hình 3 mô tả sơ đồ các khối ngoại vi của hệ thống. Board mạch Arduino Ethernet Shield được sử dụng để giúp hệ thống giao tiếp với máy chủ thông qua kết nối LAN. Board này sử dụng chip chuyên dụng W5100 để tạo giao thức giao tiếp LAN. Ngoài ra, board mạch này cũng tích hợp mạch giao tiếp thẻ nhớ SD để lưu trữ dữ liệu hệ thống. Khối Current sensor được dùng để đo dòng điện tiêu thụ của thiết bị. Hệ thống giao tiếp với người dùng thông qua khối Keypad và màn hiển 
+thị LCD. Việc đếm thời gian thực do khối RTC đảm trách.
+   Khối Current sensor sử dụng cảm biến dòng chuyên dụng ACS712 của hãng Allegro Micro Systems. Cảm biến này có khả năng chịu dòng tối đa 30A, ngõ ra điện áp phù hợp cho việc kết nối với vi điều khiển, độ nhạy của cảm biến là 66mV/A [ACS712]. Ngõ ra của khối Current sensor được đưa vào ngõ tương tự của board Arduino Mega 2560. Vi điều khiển ATMega2560 được tích hợp bộ chuyển đổi ADC 10-bit, nên điện áp tối thiểu có thể đo được là 4.9 mV tương đương với việc hệ thống có thể đo được dòng điện tối thiểu là 74.24 mA. Sự chuyển đổi điện áp thành dòng điện được dựa trên các công thức (1)-(4):
+	                            (1)	(1)	
+	                            (2)	(2)
+	                       (3)
+Suy ra,	                           (4)
+Bảng 2: Sơ đồ ghép nối ngoại vi
+Ngoại viChânArduino Mega 2560Current sensorVoutA3LCDDB3...DB016, 3, 2, 1EN5RS6KeypadR3... R017, 9, 8, 7C3...C014, 13, 12, 11RelayRELAY15RTCSCL21SDA20SD CardSS4LANSCK52MISO50MOSI51SS10   Người sử dụng có thể nhập các thông tin về mục đích sử dụng thiết bị (ví dụ: mã học phần, mã người sử dụng) thông qua Keypad và quan sát trên màn hình LCD để biết trạng thái của thiết bị. Khối RTC sử dụng vi mạch đếm thời gian chuyên dụng DS1302 để xác định thời gian hiện tại của hệ thống. Arduino Mega 2560 giao tiếp với vi mạch DS1302 qua giao thức I2C. Sơ đồ ghép nối ngoại vi với Arduino Mega 2560 được trình bày ở Bảng 2.
+
+Hình 4: Lưu đồ giải thuật của hệ thống
+   2.3 Thiết kế phần mềm
+   2.3.1 Giải thuật giao tiếp Arduino - Ngoại vi
+   Ngôn ngữ C được sử dụng để viết chương trình giao tiếp với phần cứng hệ thống với sự hỗ trợ của các thư viện sẵn có trong môi trường phát triển Arduino (Jack, 2012), (Brian, 2011). Lưu đồ giải thuật của chương trình được mô tả ở Hình 4. 
+   Trước tiên, hệ thống sẽ khởi tạo các ngoại vi như LCD, phím, RTC, SD card và LAN bằng cách cấu hình giá trị ban đầu cho các ngoại vi này. Tiếp theo, module giám sát sẽ lấy mẫu với 1 chu kỳ nhất định giá trị dòng điện của tải bằng bộ ADC 10 bits trên board Arduino Mega 2560. Sau đó, hệ thống sẽ phân tích các thông số: mã người dùng, mã học phần, tình trạng thiết bị, thời gian sử dụng,... để hiển thị lên màn hình LCD và lưu các giá trị này vào SD card dưới dạng file ".csv". Cuối cùng, khi đến một thời điểm được lập trình trước, hệ thống sẽ cập nhật các dữ liệu trong SD card lên máy chủ thông qua giao thức FTP.
+   2.3.2 Chương trình trên server
+   Nhằm mục đích thiết kế một giao diện thân 
+thiện với người dùng để quản lý thời gian sử dụng thiết bị một cách hiệu quả, đồng thời có thể đóng gói giao diện này thành một phần mềm có thể cài đặt trên bất kỳ máy tính nào, nhóm tác giả đã chọn Matlab làm công cụ để thực hiện các yêu cầu này.
+
+
+Hình 5: Giao diện quản lý thời gian sử dụng thiết bị
+
+   Với các tính năng trên, nhóm tác giả đã dùng phần mềm Matlab để hoàn thiện hệ thống giám sát việc sử dụng thiết bị bằng cách thiết kế một giao diện và đóng gói chương trình này thành một phần mềm theo trình tự như sau:
+   Bước 1: Từ các file dữ liệu dạng ".csv" chứa các dữ liệu theo định dạng cho trước mà hệ thống phần cứng đã thu thập được và gửi về máy chủ, nhóm tác giả đã dùng Matlab để viết chương trình quản lý, phân tích và xử lý các dữ liệu này để vẽ biểu đồ tần suất và thời gian sử dụng thiết bị một cách trực quan.
+   Bước 2: Thiết kế giao diện bằng công cụ GUI (Graphical User Interface) của Matlab nhằm giúp người dùng tương tác với các dữ liệu và có thể lựa chọn mốc thời gian để khảo sát số giờ sử dụng của một thiết bị bất kỳ. Sau đó, nhúng chương trình ở bước 1 vào giao diện này để thực thi các tính năng của hệ thống [Malab GUI].
+   Bước 3: Dùng công cụ Matlab Compiler để biên dịch giao diện trên thành tập tin thực thi ".exe" và đóng gói tập tin thực thi này thành một chương trình cài đặt trên máy tính với tên tập tin có dạng "filename_pkg.exe".
+   Bước 4: Chương trình đã được đóng gói hoàn chỉnh. Để thực hiện chương trình, người dùng chỉ cần nhấp đúp vào tập tin thực thi để mở giao diện khảo sát thời gian sử dụng thiết bị như ở bước 2 (Hình 5).
+   3 KẾT QUẢ THỰC NGHIỆM
+   Để kiểm nghiệm sự vận hành của hệ thống, một tủ lạnh, tiêu biểu cho loại thiết bị điện có dòng tải thay đổi trong quá trình hoạt động, được chọn để thực hiện thí nghiệm giám sát tình trạng sử dụng thiết bị trong thời gian 48 giờ liên tục. 
+   Hình 6 mô tả cách thức kết nối giữa module giám sát, thiết bị điện và mạng cục bộ. Theo đó, người sử dụng có thể lắp đặt module giám sát thiết bị điện thông qua các thao tác đơn giản và không cần thực hiện bất kỳ một sự thay đổi nào về cấu trúc mạch cung cấp điện của thiết bị.
+
+
+Hình 6: Sơ đồ kết nối module giám sát và thiết bị
+   Hình 7 trình bày đồ thị biểu diễn dòng điện tiêu thụ của thiết bị theo thời gian, cụ thể là trong khoảng thời gian từ 18:00 đến 21:00. Theo Hình 7, sự thay đổi giá trị dòng điện trung bình của tủ 
+lạnh trong quá trình hoạt động đã được hệ thống 
+ghi nhận.
+   Hiện tại, hệ thống đang được tiếp tục thử nghiệm với số lượng thiết bị điện lớn hơn và thời gian hoạt động dài hơn. 
+
+
+Hình 7: Đồ thị biểu diễn cường độ dòng điện trung bình của thiết bị theo thời gian
+
+   4 KẾT LUẬN
+   Bài viết đã trình bày việc thiết kế một hệ thống quản lý có khả năng tự động thu thập dữ liệu tần suất hoạt động, và dòng điện tiêu thụ của thiết bị điện thông qua mạng cục bộ. Việc chọn giải pháp xây dựng hệ thống dựa trên nền tảng điện tử nguồn mở Arduino mang đến sự thuận lợi và linh hoạt trong quá trình thiết kế cũng như cho phép giảm chi phí đầu tư của hệ thống. Hệ thống cơ bản đáp ứng được các yêu cầu đã đặt ra: theo dõi tình trạng sử dụng thiết bị theo thời gian thực, hỗ trợ quản lý việc sử dụng trang thiết bị và công tác tối ưu hóa việc sử dụng điện năng. Giải pháp này không chỉ có thể áp dụng để quản lý hiệu quả sử dụng trang thiết bị tại trường Đại học Cần Thơ mà còn có thể được sử dụng tại các công ty, doanh nghiệp để hỗ trợ công tác quản lý hiệu năng sử dụng máy móc, thiết bị một cách hợp lý và hiệu quả.
+   LỜI CẢM TẠ
+   Nghiên cứu được thực hiện trong khuôn khổ 
+đề tài cấp cơ sở, mã số T2013-18. Tác giả chân thành cảm ơn cán bộ phụ trách phòng thí nghiệm tại các đơn vị: Khoa Công nghệ, Khoa Nông nghiệp và Phòng thí nghiệm Chuyên sâu đã hỗ trợ việc đo đạc dòng tải của các trang thiết bị tại các đơn vị trên.
+   TÀI LIỆU THAM KHẢO
+1. Remote energy monitoring services, Schneider Electric. URL: http://goo.gl/lYio79.
+2. Islam M. M., et al., 2012, "Electronic energy meter with remote monitoring and billing system", the 7th International Conference on Electrical & Computer Engineering (ICECE), Dahka.
+3. 
+Rashdi A., et al., 2012, "Remote energy monitoring, profiling and control through GSM network", International Conference on Innovations in Information Technology (IIT), Abu Dhabi.
+4. Arduino. URL: http://arduino.cc/en/Main/ArduinoBoardMega2560.
+5. ACS712 data sheet. URL: http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx
+6. Jack Purdum, 2012, Beginning C For Arduino, 1st edition. Apress Publisher, 262pp.
+7. Brian Evans, 2011, Beginning Arduino Programming, 1st edition. Apress Publisher, 308pp.
+8. Matlab GUI. URL: http://www.mathworks.com/discovery/matlab-gui.html.
+Tạp chí Khoa học Trường Đại học Cần Thơ 	Phần A: Khoa học Tự nhiên, Công nghệ và Môi trường: 31 (2014): 1-7
+
+
+
